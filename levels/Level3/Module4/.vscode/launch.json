@@ -1,0 +1,35 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "MazeDisplay",
+            "request": "launch",
+            "mainClass": "_04_Maze_Maker.MazeDisplay"
+        },
+        {
+            "type": "java",
+            "name": "_00_QueueDemo",
+            "request": "launch",
+            "mainClass": "_02_IntroToQueues._00_QueueDemo"
+        },
+        {
+            "type": "java",
+            "name": "_00_StackDemo",
+            "request": "launch",
+            "mainClass": "_00_IntroToStacks._00_StackDemo"
+        },
+        {
+            "type": "java",
+            "name": "_01_IntroToQueue",
+            "request": "launch",
+            "mainClass": "_02_IntroToQueues._01_IntroToQueue"
+        },
+        {
+            "type": "java",
+            "name": "_01_IntroToStack",
+            "request": "launch",
+            "mainClass": "_00_IntroToStacks._01_IntroToStack"
+        }
+    ]
+}

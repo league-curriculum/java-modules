@@ -1,0 +1,23 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "ButtonClicker",
+            "request": "launch",
+            "mainClass": "_00_Click_Chat.gui.ButtonClicker"
+        },
+        {
+            "type": "java",
+            "name": "ClientGreeter",
+            "request": "launch",
+            "mainClass": "_01_Intro_To_Sockets.client.ClientGreeter"
+        },
+        {
+            "type": "java",
+            "name": "ServerGreeter",
+            "request": "launch",
+            "mainClass": "_01_Intro_To_Sockets.server.ServerGreeter"
+        }
+    ]
+}

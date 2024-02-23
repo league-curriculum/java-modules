@@ -1,0 +1,83 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "AnimalFarm",
+            "request": "launch",
+            "mainClass": "_02_methods._1_animal_farm.AnimalFarm"
+        },
+        {
+            "type": "java",
+            "name": "DiceRoll",
+            "request": "launch",
+            "mainClass": "_01_random._3_dice_roll.DiceRoll"
+        },
+        {
+            "type": "java",
+            "name": "FixTheRandom",
+            "request": "launch",
+            "mainClass": "_04_spot_the_error.FixTheRandom"
+        },
+        {
+            "type": "java",
+            "name": "HowMany",
+            "request": "launch",
+            "mainClass": "_04_spot_the_error.HowMany"
+        },
+        {
+            "type": "java",
+            "name": "IntroToRandom",
+            "request": "launch",
+            "mainClass": "_01_random._1_intro_to_random.IntroToRandom"
+        },
+        {
+            "type": "java",
+            "name": "MethodCall",
+            "request": "launch",
+            "mainClass": "_04_spot_the_error.MethodCall"
+        },
+        {
+            "type": "java",
+            "name": "NasaCountdown",
+            "request": "launch",
+            "mainClass": "_99_extra.NasaCountdown"
+        },
+        {
+            "type": "java",
+            "name": "RockPaperScissors",
+            "request": "launch",
+            "mainClass": "_01_random._2_rock_paper_scissors.RockPaperScissors"
+        },
+        {
+            "type": "java",
+            "name": "SafeCracker",
+            "request": "launch",
+            "mainClass": "_02_methods._2_safe_cracker.SafeCracker"
+        },
+        {
+            "type": "java",
+            "name": "SoundtrackToLife",
+            "request": "launch",
+            "mainClass": "_99_extra.SoundtrackToLife"
+        },
+        {
+            "type": "java",
+            "name": "StarShow",
+            "request": "launch",
+            "mainClass": "_99_extra.StarShow"
+        },
+        {
+            "type": "java",
+            "name": "ThatWasEasy",
+            "request": "launch",
+            "mainClass": "_99_extra.ThatWasEasy"
+        },
+        {
+            "type": "java",
+            "name": "Validation",
+            "request": "launch",
+            "mainClass": "_01_random._4_validation.Validation"
+        }
+    ]
+}

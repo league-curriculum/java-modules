@@ -1,0 +1,11 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "ExceptionsDemo",
+            "request": "launch",
+            "mainClass": "_01_introduction.ExceptionsDemo"
+        }
+    ]
+}

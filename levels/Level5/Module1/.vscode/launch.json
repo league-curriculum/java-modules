@@ -1,0 +1,17 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "DirectoryIterator",
+            "request": "launch",
+            "mainClass": "_04_Directory_Iteration.DirectoryIterator"
+        },
+        {
+            "type": "java",
+            "name": "IntroToFileIO",
+            "request": "launch",
+            "mainClass": "_00_Intro_To_File_Input_and_Output.IntroToFileIO"
+        }
+    ]
+}

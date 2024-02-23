@@ -1,0 +1,23 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "EncapsulateTheData",
+            "request": "launch",
+            "mainClass": "_01_introduction_to_encapsulation.EncapsulateTheData"
+        },
+        {
+            "type": "java",
+            "name": "PolymorphWindow",
+            "request": "launch",
+            "mainClass": "_03_polymorphs.PolymorphWindow"
+        },
+        {
+            "type": "java",
+            "name": "Runner",
+            "request": "launch",
+            "mainClass": "_02_introduction_to_polymorphism.Runner"
+        }
+    ]
+}

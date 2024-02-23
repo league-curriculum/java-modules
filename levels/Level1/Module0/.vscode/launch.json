@@ -1,0 +1,59 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "BodyPartQuizRunner",
+            "request": "launch",
+            "mainClass": "_03_gui_with_help._4_body_part_quiz.BodyPartQuizRunner"
+        },
+        {
+            "type": "java",
+            "name": "DrumKitRunner",
+            "request": "launch",
+            "mainClass": "_03_gui_with_help._3_drum_kit.DrumKitRunner"
+        },
+        {
+            "type": "java",
+            "name": "DuellingButtonsRunner",
+            "request": "launch",
+            "mainClass": "_03_gui_with_help._5_duelling_buttons.DuellingButtonsRunner"
+        },
+        {
+            "type": "java",
+            "name": "FinishLine",
+            "request": "launch",
+            "mainClass": "_02_return_types._1_finish_line.FinishLine"
+        },
+        {
+            "type": "java",
+            "name": "HousesRunner",
+            "request": "launch",
+            "mainClass": "_01_methods._1_houses.HousesRunner"
+        },
+        {
+            "type": "java",
+            "name": "ListOfGoals",
+            "request": "launch",
+            "mainClass": "_02_return_types._2_list_of_goals.ListOfGoals"
+        },
+        {
+            "type": "java",
+            "name": "MyFirstSwingGUIRunner",
+            "request": "launch",
+            "mainClass": "_03_gui_with_help._1_my_first_swing_gui.MyFirstSwingGUIRunner"
+        },
+        {
+            "type": "java",
+            "name": "PhotoQuizRunner",
+            "request": "launch",
+            "mainClass": "_03_gui_with_help._2_photo_quiz.PhotoQuizRunner"
+        },
+        {
+            "type": "java",
+            "name": "TooManyShapes",
+            "request": "launch",
+            "mainClass": "_02_return_types._3_too_many_shapes.TooManyShapes"
+        }
+    ]
+}

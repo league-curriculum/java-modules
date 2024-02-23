@@ -1,4 +1,5 @@
 package _02_code_flow._1_robot_square;
+
 /*
  *    Copyright (c) The League of Amazing Programmers 2013-2020
  *    Level 0

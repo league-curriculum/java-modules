@@ -3,10 +3,10 @@
     <classpathentry kind="src" path="src"/>
     <classpathentry kind="src" path="images"/>
     <classpathentry kind="output" path="bin"/>
-    <classpathentry kind="lib" path="libs/gson-2.8.6.jar"/>
-    <classpathentry kind="lib" path="libs/core.jar"/>
-    <classpathentry kind="lib" path="libs/javax.json-1.1.4.jar"/>
-    <classpathentry kind="lib" path="libs/TokenHacker.jar"/>
-    <classpathentry kind="lib" path="libs/MemoryMatch.jar"/>
+    <classpathentry kind="lib" path="lib/gson-2.8.6.jar"/>
+    <classpathentry kind="lib" path="lib/core.jar"/>
+    <classpathentry kind="lib" path="lib/javax.json-1.1.4.jar"/>
+    <classpathentry kind="lib" path="lib/TokenHacker.jar"/>
+    <classpathentry kind="lib" path="lib/MemoryMatch.jar"/>
 
 </classpath>

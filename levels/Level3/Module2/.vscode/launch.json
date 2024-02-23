@@ -1,0 +1,35 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "_00_JavaClassSortDemo",
+            "request": "launch",
+            "mainClass": "_04_JavaClassSearchAndSort._00_JavaClassSortDemo"
+        },
+        {
+            "type": "java",
+            "name": "_00_SearchingAlgorithmsDemo",
+            "request": "launch",
+            "mainClass": "_02_Intro_To_Searching_Algorithms._00_SearchingAlgorithmsDemo"
+        },
+        {
+            "type": "java",
+            "name": "_00_SortingAlgorithms",
+            "request": "launch",
+            "mainClass": "_01_Sorting_Algorithms._00_SortingAlgorithms"
+        },
+        {
+            "type": "java",
+            "name": "_00_SortingDemo",
+            "request": "launch",
+            "mainClass": "_00_Intro_to_Sorting_Algorithms._00_SortingDemo"
+        },
+        {
+            "type": "java",
+            "name": "_01_JavaClassSearchDemo",
+            "request": "launch",
+            "mainClass": "_04_JavaClassSearchAndSort._01_JavaClassSearchDemo"
+        }
+    ]
+}

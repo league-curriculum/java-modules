@@ -3,7 +3,7 @@
     <classpathentry kind="src" path="src"/>
     <classpathentry kind="src" path="images"/>
     <classpathentry kind="output" path="bin"/>
-    <classpathentry kind="lib" path="libs/Hangman.jar"/>
-    <classpathentry kind="lib" path="libs/TokenHacker.jar"/>
+    <classpathentry kind="lib" path="lib/Hangman.jar"/>
+    <classpathentry kind="lib" path="lib/TokenHacker.jar"/>
 
 </classpath>

@@ -1,0 +1,59 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "BananaQuiz",
+            "request": "launch",
+            "mainClass": "_99_extra.BananaQuiz"
+        },
+        {
+            "type": "java",
+            "name": "BirthdayReminder",
+            "request": "launch",
+            "mainClass": "_99_extra.BirthdayReminder"
+        },
+        {
+            "type": "java",
+            "name": "CrazyCatLady",
+            "request": "launch",
+            "mainClass": "_01_else_if._2_crazy_cat_lady.CrazyCatLady"
+        },
+        {
+            "type": "java",
+            "name": "DizzyRobot",
+            "request": "launch",
+            "mainClass": "_99_extra.DizzyRobot"
+        },
+        {
+            "type": "java",
+            "name": "FizzBuzz",
+            "request": "launch",
+            "mainClass": "_03_remainder._4_fizz_buzz.FizzBuzz"
+        },
+        {
+            "type": "java",
+            "name": "HighLowGame",
+            "request": "launch",
+            "mainClass": "_01_else_if._3_high_low.HighLowGame"
+        },
+        {
+            "type": "java",
+            "name": "RobotColorChooser",
+            "request": "launch",
+            "mainClass": "_01_else_if._1_robot_color_chooser.RobotColorChooser"
+        },
+        {
+            "type": "java",
+            "name": "ShinyObjects",
+            "request": "launch",
+            "mainClass": "_02_loop_variables._2_shiny_objects.ShinyObjects"
+        },
+        {
+            "type": "java",
+            "name": "WalkOfFame",
+            "request": "launch",
+            "mainClass": "_02_loop_variables._3_robot_walk_of_fame.WalkOfFame"
+        }
+    ]
+}

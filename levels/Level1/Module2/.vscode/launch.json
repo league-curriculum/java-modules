@@ -1,0 +1,11 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "BackpackRunner",
+            "request": "launch",
+            "mainClass": "_04_backpack.BackpackRunner"
+        }
+    ]
+}

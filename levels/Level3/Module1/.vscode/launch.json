@@ -1,0 +1,59 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CaliforniaWeatherRunner",
+            "request": "launch",
+            "mainClass": "_08_California_Weather.CaliforniaWeatherRunner"
+        },
+        {
+            "type": "java",
+            "name": "LongChipCompetition",
+            "request": "launch",
+            "mainClass": "_02_LongChipCompetition.LongChipCompetition"
+        },
+        {
+            "type": "java",
+            "name": "MurderOfCrows",
+            "request": "launch",
+            "mainClass": "_01_MurderOfCrows.MurderOfCrows"
+        },
+        {
+            "type": "java",
+            "name": "WorldClocksRunner",
+            "request": "launch",
+            "mainClass": "_09_World_Clocks.WorldClocksRunner"
+        },
+        {
+            "type": "java",
+            "name": "_00_ArrayListDemo",
+            "request": "launch",
+            "mainClass": "_00_Intro_To_ArrayLists._00_ArrayListDemo"
+        },
+        {
+            "type": "java",
+            "name": "_00_HashMapDemo",
+            "request": "launch",
+            "mainClass": "_06_Intro_To_Hash_Maps._00_HashMapDemo"
+        },
+        {
+            "type": "java",
+            "name": "_01_IntroToArrayLists",
+            "request": "launch",
+            "mainClass": "_00_Intro_To_ArrayLists._01_IntroToArrayLists"
+        },
+        {
+            "type": "java",
+            "name": "_01_IntroToHashMaps",
+            "request": "launch",
+            "mainClass": "_06_Intro_To_Hash_Maps._01_IntroToHashMaps"
+        },
+        {
+            "type": "java",
+            "name": "_06_MemoryGame",
+            "request": "launch",
+            "mainClass": "_04_Memory_Match._06_MemoryGame"
+        }
+    ]
+}

@@ -3,11 +3,11 @@
     <classpathentry kind="src" path="src"/>
     <classpathentry kind="src" path="images"/>
     <classpathentry kind="output" path="bin"/>
-    <classpathentry kind="lib" path="libs/FireworkDisplay.jar"/>
-    <classpathentry kind="lib" path="libs/robot.jar"/>
-    <classpathentry kind="lib" path="libs/PixelArtMaker.jar"/>
-    <classpathentry kind="lib" path="libs/TokenHacker.jar"/>
-    <classpathentry kind="lib" path="libs/FindHiddenButton.jar"/>
-    <classpathentry kind="lib" path="libs/ConwaysGameOfLife.jar"/>
+    <classpathentry kind="lib" path="lib/FireworkDisplay.jar"/>
+    <classpathentry kind="lib" path="lib/robot.jar"/>
+    <classpathentry kind="lib" path="lib/PixelArtMaker.jar"/>
+    <classpathentry kind="lib" path="lib/TokenHacker.jar"/>
+    <classpathentry kind="lib" path="lib/FindHiddenButton.jar"/>
+    <classpathentry kind="lib" path="lib/ConwaysGameOfLife.jar"/>
 
 </classpath>
