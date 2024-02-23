@@ -187,6 +187,19 @@ def make_dirs(dir_):
             (p/".keep").touch()
 
 
+def copy_devcontainer(dir_):
+
+    source = Path('./.devcontainer')
+    dest = dir_/".devcontainer"
+
+    if not source.exists():
+        raise FileNotFoundError(source)
+
+    dest.mkdir(exist_ok=True)
+
+    shutil.copytree(source, dest, dirs_exist_ok=True)
+
+
 @task 
 def walk(ctx, root):
     for dir_ in walk_modules(root):
@@ -195,6 +208,7 @@ def walk(ctx, root):
         write_settings(dir_)
         write_gitignore(dir_)
         write_launch(dir_)
+        copy_devcontainer(dir_)
 
 
 @task
