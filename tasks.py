@@ -36,6 +36,15 @@ def walk_modules(root):
             yield dir_
 
 
+def walk_lessons(root):
+    for m in walk_modules(root):
+        src = m/'src'
+        if src.exists():
+            for a in src.iterdir():
+                if a.is_dir():
+                    yield a
+
+
 def find_java_main_files(start_path):
     """
     Walks through the directory tree starting from start_path and yields the Path
@@ -233,8 +242,7 @@ def disable_eclipse(dir_):
 
 def make_repo_template(dir_=None, owner="League-Java"):
     """
-    Turn a GitHub repository into a template.
-
+;/"{{""}}"
     Parameters:
     - owner: str. The username of the repository owner.
     - repo: str. The name of the repository.
@@ -300,7 +308,6 @@ def create_repo(ctx, dir_):
         ctx.run("git push -f --set-upstream origin master")
 
 
-
 @task 
 def update_modules(ctx, root):
     """Update all of the module directories with settings files, scripts, etc. """
@@ -326,13 +333,15 @@ def push(ctx, root):
 
 
 @task
-def de(ctx):
-    """Upload the module in the current dir to Github"""
-    dir_ = Path('.')
-
-
-@task
 def hello(ctx):
     c = ctx.run('git remote show origin', warn=True)
     print("!!!!", c.failed)
 
+
+@task 
+def move_pde_assign(ctx, root):
+    pde = list(Path(root).glob('**/*.pde'))
+    for f in pde:
+        new_path = Path(str(f).replace("Level0", "Level0PDE"))
+        new_path.parent.mkdir(parents=True, exist_ok=True)
+        f.rename(new_path)
