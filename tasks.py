@@ -6,6 +6,21 @@ from invoke import task
 from textwrap import dedent
 import re
 import json 
+from invoke import task
+from pathlib import Path 
+from contextlib import contextmanager
+import requests
+
+
+@contextmanager
+def change_dir(destination):
+    prev_dir = Path.cwd()
+    os.chdir(destination)
+    try:
+        yield
+    finally:
+        os.chdir(prev_dir)
+
 
 def copy_dir(from_, base):
     parts = from_.name.split('-')
@@ -20,25 +35,6 @@ def walk_modules(root):
         if dir_.name.startswith("Module"):
             yield dir_
 
-def copy_dirs(ctx, root, to):
-    """
-    Task to restructure directories.
-    """
-    
-    # Iterate through all items in the current directory
-    for item in Path(root).glob('Level*-Module*'):
-        if item.is_dir():
-            print(item)
-            copy_dir(item, Path(to ))
-
-
-def jarlist(ctx, root):
-    for dir_ in Path(root).glob("**/*"):
-        if dir_.is_dir():
-            jar_files = list(dir_.glob("*.jar"))
-            if jar_files:
-                print( dir_, jar_files)
-                (Path(dir_) / 'lib').mkdir(exist_ok=True)
 
 def find_java_main_files(start_path):
     """
@@ -69,7 +65,7 @@ def find_java_main_files(start_path):
                     print("ERROR: Can't process class package", path)
 
 def _move_jars_to_root(root):
-
+    """Actually move the jar files into the lib dir"""
     root = Path(root)
 
     jars = list(Path(root).glob("**/*.jar"))
@@ -154,7 +150,7 @@ def write_gitignore(dir_):
 
 
 def write_launch(dir_):
-
+    """Write the VSCode launch.json file"""
     configs = []
 
     for path, package, clazz, fqn  in find_java_main_files(dir_):
@@ -188,7 +184,7 @@ def make_dirs(dir_):
 
 
 def copy_devcontainer(dir_):
-
+    """Copy the devcontainer file from the root into the module"""
     source = Path('./.devcontainer')
     dest = dir_/".devcontainer"
 
@@ -199,9 +195,106 @@ def copy_devcontainer(dir_):
 
     shutil.copytree(source, dest, dirs_exist_ok=True)
 
+def copy_scripts(dir_):
+
+    source = Path('./scripts')
+    dest = dir_/"scripts"
+
+    if not source.exists():
+        raise FileNotFoundError(source)
+
+    dest.mkdir(exist_ok=True)
+
+    shutil.copytree(source, dest, dirs_exist_ok=True)
+
+
+def get_lm(dir_=None):
+    
+    if dir_ is None:
+        p = Path('.')
+    else:
+        p = Path(dir_)
+
+    _, l, m  = str(p.absolute()).rsplit('/',2)
+
+    assert l.startswith("Level")
+    assert m.startswith("Module")
+
+    return l, m
+
+
+def disable_eclipse(dir_):
+
+    if not (p := Path(dir_)/'.eclipse').exists():
+        p.mkdir(parents=True)
+
+    for f in ('.settings', '.classpath', '.project'):
+        if ( p:=Path(dir_)/f).exists():
+            p.rename(Path(dir_)/'.eclipse'/f)
+
+def make_repo_template(dir_=None, owner="League-Java"):
+    """
+    Turn a GitHub repository into a template.
+
+    Parameters:
+    - owner: str. The username of the repository owner.
+    - repo: str. The name of the repository.
+   
+    """
+
+    l, m = get_lm(dir_)
+
+    repo = f"{l}-{m}"
+
+    github_token = os.environ['GITHUB_TOKEN']
+
+
+    assert github_token is not None
+
+    url = f"https://api.github.com/repos/{owner}/{repo}"
+    headers = {
+        "Authorization": f"token {github_token}",
+        "Accept": "application/vnd.github.v3+json"
+    }
+    data = {"is_template": True}
+
+    response = requests.patch(url, headers=headers, json=data)
+
+    if response.status_code == 200:
+        print(f"The repository '{repo}' has been successfully turned into a template.")
+    else:
+        print(f"Failed to turn the repository into a template. Status code: {response.status_code}, Response: {response.text}")
+
+
+
+@task
+def create_repo(ctx, dir):
+
+    org = "League-Java"
+    repo = "Level0-Module0"
+
+    with change_dir(dir):
+
+        if not Path('.git').exists():
+            print(f"Create local repo {repo}")
+            ctx.run("git init")
+            ctx.run("git add -A")
+            ctx.run("git commit -a -m'Initial commit'")
+
+        print("Create remote repo")
+        try:
+            ctx.run(f'gh repo create {org}/{repo} --public -s .  || echo "Repo {org}/{repo} maybe already exists" ')
+        except Exception as e:
+            print("ERROR", type(e), e)
+
+        print("Push")
+        ctx.run("git push -f --set-upstream origin master")
+
 
 @task 
-def walk(ctx, root):
+def update_modules(ctx, root):
+    """Update all of the module directories with settings files, scripts, etc. """
+
     for dir_ in walk_modules(root):
         make_dirs(dir_)
         write_classpath(dir_)
@@ -209,10 +302,21 @@ def walk(ctx, root):
         write_gitignore(dir_)
         write_launch(dir_)
         copy_devcontainer(dir_)
+        copy_scripts(dir_)
+        disable_eclipse(dir_)
 
 
 @task
-def walk_mains(ctz, root):
-    for m in walk_modules(root):
-        print("\n----", m)
-        
+def mrt(ctx):
+    """Upload the module in the current dir to Github"""
+    dir_ = Path('.')
+    create_repo(ctx, dir_)
+    make_repo_template(dir_)
+
+
+@task
+def de(ctx):
+    """Upload the module in the current dir to Github"""
+    dir_ = Path('.')
+
+
