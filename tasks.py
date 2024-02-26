@@ -207,7 +207,6 @@ def copy_scripts(dir_):
 
     shutil.copytree(source, dest, dirs_exist_ok=True)
 
-
 def get_lm(dir_=None):
     
     if dir_ is None:
@@ -267,28 +266,39 @@ def make_repo_template(dir_=None, owner="League-Java"):
 
 
 
-@task
-def create_repo(ctx, dir):
+def create_repo(ctx, dir_):
 
     org = "League-Java"
-    repo = "Level0-Module0"
+    l, m = get_lm(dir_)
+    repo = f"{l}-{m}"
+    url = f'https://github.com/{org}/{repo}.git'
 
-    with change_dir(dir):
-
-        if not Path('.git').exists():
+    with ctx.cd(dir_):
+        if not (dir_/Path('.git')).exists():
             print(f"Create local repo {repo}")
             ctx.run("git init")
             ctx.run("git add -A")
             ctx.run("git commit -a -m'Initial commit'")
+        else:
+            print(f"Local repo {repo} exists, updating")
+            ctx.run("git add -A", warn=True)
+            ctx.run("git commit -a -m'Updating'", warn=True)
 
         print("Create remote repo")
-        try:
-            ctx.run(f'gh repo create {org}/{repo} --public -s .  || echo "Repo {org}/{repo} maybe already exists" ')
-        except Exception as e:
-            print("ERROR", type(e), e)
+
+        if ctx.run(f'gh repo view {url} --json url ',warn=True).failed:
+            ctx.run(f'gh repo create {org}/{repo} --public -s . ')
+        else:
+            print(f"Repo {url} already exists")
+
+        if  ctx.run('git remote -v | grep origin > /dev/null', warn=True).failed:
+            print(f"Add remote origin {url}")
+            ctx.run(f'git remote add origin {url}')
+
 
         print("Push")
         ctx.run("git push -f --set-upstream origin master")
+
 
 
 @task 
@@ -307,11 +317,12 @@ def update_modules(ctx, root):
 
 
 @task
-def mrt(ctx):
+def push(ctx, root):
     """Upload the module in the current dir to Github"""
-    dir_ = Path('.')
-    create_repo(ctx, dir_)
-    make_repo_template(dir_)
+
+    for dir_ in walk_modules(root): 
+        create_repo(ctx, dir_)  
+        make_repo_template(dir_)
 
 
 @task
@@ -319,4 +330,9 @@ def de(ctx):
     """Upload the module in the current dir to Github"""
     dir_ = Path('.')
 
+
+@task
+def hello(ctx):
+    c = ctx.run('git remote show origin', warn=True)
+    print("!!!!", c.failed)
 

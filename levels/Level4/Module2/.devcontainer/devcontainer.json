@@ -35,7 +35,12 @@
 	// Configure tool-specific properties.
 	"customizations": {
 		 "vscode": {
-      		"extensions": ["streetsidesoftware.code-spell-checker"]
+      		"extensions": [
+      			"streetsidesoftware.code-spell-checker",
+      			"vscjava.vscode-java-pack",
+      			"Tobiah.language-pde"
+
+      		]
     	}
 	}
 

@@ -7,3 +7,5 @@ Students will learn how to:
 2. Control the flow of code using if statements and loops 
 3. Print Strings and use dialogs to interact with a user 
 4. Build simple games using skills learned
+
+.
