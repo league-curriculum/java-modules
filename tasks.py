@@ -329,7 +329,7 @@ def push(ctx, root):
 
     for dir_ in walk_modules(root): 
         create_repo(ctx, dir_)  
-        make_repo_template(dir_)
+        #make_repo_template(dir_)
 
 
 @task
