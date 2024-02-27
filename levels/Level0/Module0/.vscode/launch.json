@@ -3,6 +3,12 @@
     "configurations": [
         {
             "type": "java",
+            "name": "RobotDemo",
+            "request": "launch",
+            "mainClass": "_01_demo.RobotDemo"
+        },
+        {
+            "type": "java",
             "name": "DragonFight",
             "request": "launch",
             "mainClass": "_04_amazing_games._2_dragon_fight.DragonFight"

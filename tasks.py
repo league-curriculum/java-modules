@@ -31,7 +31,13 @@ def copy_dir(from_, base):
     shutil.copytree(from_, to )
 
 def walk_modules(root):
-    for dir_ in Path(root).glob("**/*"):
+
+    root = Path(root)
+
+    if root.name.startswith("Module"):
+            yield root
+
+    for dir_ in root.glob("**/*"):
         if dir_.name.startswith("Module"):
             yield dir_
 
@@ -59,7 +65,6 @@ def find_java_main_files(start_path):
     start_path = Path(start_path)  # Ensure start_path is a Path object
     pattern = re.compile(r'public\s+static\s+void\s+main\s*\(\s*String\s*\[\s*\]\s+\w+\s*\)')  # Regex to match the main method
 
-    # Walk through the directory tree
     for path in start_path.rglob('*.java'):  # rglob method for recursive globbing
         with open(path, 'r', encoding='utf-8') as file:
             if pattern.search(file.read()):  # Check if the file contains a main() method
@@ -274,15 +279,26 @@ def make_repo_template(dir_=None, owner="League-Java"):
 
 
 
-def create_repo(ctx, dir_):
+def create_repo(ctx, dir_, build_dir):
 
     org = "League-Java"
     l, m = get_lm(dir_)
     repo = f"{l}-{m}"
     url = f'https://github.com/{org}/{repo}.git'
 
-    with ctx.cd(dir_):
-        if not (dir_/Path('.git')).exists():
+    target_dir = build_dir / repo
+
+    if target_dir.exists():
+        shutil.rmtree(target_dir)
+
+    shutil.copytree(dir_, target_dir)
+
+
+    with ctx.cd(target_dir):
+
+        if not (target_dir/Path('.git')).exists(): 
+            # We deleted the dir, so this is always the case, 
+            # but saving the alternative for later. 
             print(f"Create local repo {repo}")
             ctx.run("git init")
             ctx.run("git add -A")
@@ -324,11 +340,13 @@ def update_modules(ctx, root):
 
 
 @task
-def push(ctx, root):
+def push(ctx, root, build_dir):
     """Upload the module in the current dir to Github"""
 
+    build_dir = Path(build_dir)
+
     for dir_ in walk_modules(root): 
-        create_repo(ctx, dir_)  
+        create_repo(ctx, dir_, build_dir)  
         #make_repo_template(dir_)
 
 
