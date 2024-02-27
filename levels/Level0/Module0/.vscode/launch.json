@@ -3,12 +3,6 @@
     "configurations": [
         {
             "type": "java",
-            "name": "RobotDemo",
-            "request": "launch",
-            "mainClass": "_01_demo.RobotDemo"
-        },
-        {
-            "type": "java",
             "name": "DragonFight",
             "request": "launch",
             "mainClass": "_04_amazing_games._2_dragon_fight.DragonFight"
@@ -42,6 +36,12 @@
             "name": "QuizGame",
             "request": "launch",
             "mainClass": "_03_print_and_popups._4_quiz_game.QuizGame"
+        },
+        {
+            "type": "java",
+            "name": "RobotDemo",
+            "request": "launch",
+            "mainClass": "_01_demo.RobotDemo"
         },
         {
             "type": "java",

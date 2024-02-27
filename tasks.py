@@ -12,6 +12,8 @@ from contextlib import contextmanager
 import requests
 
 
+repo_root = Path(__file__).parent
+
 @contextmanager
 def change_dir(destination):
     prev_dir = Path.cwd()
@@ -199,7 +201,7 @@ def make_dirs(dir_):
 
 def copy_devcontainer(dir_):
     """Copy the devcontainer file from the root into the module"""
-    source = Path('./.devcontainer')
+    source = repo_root/'.devcontainer'
     dest = dir_/".devcontainer"
 
     if not source.exists():
@@ -207,7 +209,7 @@ def copy_devcontainer(dir_):
 
     dest.mkdir(exist_ok=True)
 
-    shutil.copytree(source, dest, dirs_exist_ok=True)
+    shutil.copy(source/'devcontainer-module.json', dest/'devcontainer.json')
 
 def copy_scripts(dir_):
 
@@ -244,6 +246,27 @@ def disable_eclipse(dir_):
     for f in ('.settings', '.classpath', '.project'):
         if ( p:=Path(dir_)/f).exists():
             p.rename(Path(dir_)/'.eclipse'/f)
+
+@task 
+def update_modules(ctx, root):
+    """Update all of the module directories with settings files, scripts, etc. """
+
+    for dir_ in walk_modules(root):
+        make_dirs(dir_)
+        write_classpath(dir_)
+        write_settings(dir_)
+        write_gitignore(dir_)
+        write_launch(dir_)
+        copy_devcontainer(dir_)
+        #copy_scripts(dir_)
+        disable_eclipse(dir_)
+
+
+
+#
+# Push to the final module repos. 
+# 
+
 
 def make_repo_template(dir_=None, owner="League-Java"):
     """
@@ -324,20 +347,6 @@ def create_repo(ctx, dir_, build_dir):
         ctx.run("git push -f --set-upstream origin master")
 
 
-@task 
-def update_modules(ctx, root):
-    """Update all of the module directories with settings files, scripts, etc. """
-
-    for dir_ in walk_modules(root):
-        make_dirs(dir_)
-        write_classpath(dir_)
-        write_settings(dir_)
-        write_gitignore(dir_)
-        write_launch(dir_)
-        copy_devcontainer(dir_)
-        copy_scripts(dir_)
-        disable_eclipse(dir_)
-
 
 @task
 def push(ctx, root, build_dir):
@@ -350,10 +359,13 @@ def push(ctx, root, build_dir):
         #make_repo_template(dir_)
 
 
+#
+# Misc
+#
+
 @task
 def hello(ctx):
-    c = ctx.run('git remote show origin', warn=True)
-    print("!!!!", c.failed)
+    print(Path(__file__).parent)
 
 
 @task 
