@@ -281,15 +281,14 @@ def create_repo(ctx, dir_, build_dir):
         ctx.run("git push -f --set-upstream origin master")
 
 
-def extract_urls(html_text):
-    # Define the regular expression pattern for URLs starting with the specified base URL
-    pattern = r'http://central\.jointheleague\.org[^"\'\s>]+'
+def extract_urls(script_text):
+    # Regular expression to match document.location.href redirection URLs
+    pattern = r'document\.location\.href\s*=\s*"([^"]+)"'
 
-    # Find all non-overlapping matches in the HTML text
-    urls = re.findall(pattern, html_text)
+    # Find all non-overlapping matches in the script text
+    urls = re.findall(pattern, script_text)
 
     return urls
-
 
 import os
 import requests

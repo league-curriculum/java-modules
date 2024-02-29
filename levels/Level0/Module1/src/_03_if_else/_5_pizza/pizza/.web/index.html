@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> Pizza - League Level 0</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="https://league-central.github.io/curriculum/style/style.css">
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+        <link rel="icon" type="image/png" href="https://league-central.github.io/curriculum/img/favicon.png">
+        <script src="https://league-central.github.io/curriculum/script/headerAndFooter.js"></script>
+    </head>
+    <body>
+        <div id ="wrap">
+            <div id ="main">
+
+                    <div id="recipeLeftColumn">
+                        <h1>Pizza</h1>
+                        <hr>
+                        <img src="images/pizza.jpeg">
+                        <div id="recipeGoal">
+                            <h2>Goal:</h2>
+                            <p id="goal">
+                                Make a pizza with whatever toppings you can imagine! 
+                            </p>
+
+                            
+                        </div>                        
+                    </div>
+                    <div id ="recipeRightColumn">
+
+                        <div id="recipeSteps">
+                            <h2>Steps:</h2>
+                            <ol id="stepList">
+                                <li>Find the Pizza recipe program ( pizza.pde ) and open it using Processing.
+                                </li>
+<li>Set your canvas size in the setup method.
+                                    <pre>
+size(width, height);
+</pre>
+                                </li>
+                                <li>Draw a biscuit colored ellipse for the pizza base, a red ellipse for sauce and a yellow ellipse inside (for the cheese).
+                                    Do this in the setup method. You can use R,G,B values or the Processing Color Selector Tool to help you find the right colors.
+                                    <pre>
+fill(color);
+ellipse(x, y, width, height);
+</pre>
+                                </li>
+                                <li>Get some topping images for your pizza. Some examples are provided for you, but if you want to choose your own toppings you can.
+                                <br><br>
+                                    <ul>
+                                        <li>Make a PImage variable for each type of topping at the top of the sketch:<br><pre>PImage pepperoni;</pre></li>
+                                        <li>Drag and drop the topping image file onto your sketch.</li>
+                                        <li>Load the topping image (in the setup method):<pre>pepperoni = loadImage("pepperoni.png");</pre></li>
+                                        <li>In the draw method, use the image command to draw the topping somewhere on your pizza:
+                                            <pre>image(pepperoni,200,200);</pre></li>
+                                    <li>If your topping is too big for the pizza, resize the topping image. Do this in the setup method.
+                                    <pre>pepperoni.resize(30, 30);</pre>
+                                    </li>
+                                    <li>Repeat the above steps for more toppings.</li>
+                                    </ul>
+                                    
+                                <li>Add more code so that the toppings are only drawn when the user clicks the mouse (in draw method).</li>
+  
+                                <li>Make sure you SAVE YOUR CODE when you are done. 
+                                </li>
+                                 
+
+                                <li>OPTIONAL Add a different topping with the right mouse click.
+                                    <pre>
+if (mousePressed &amp;&amp; (mouseButton == RIGHT)) {}
+</pre>
+                                </li>
+                                <li>OPTIONAL Use a background image to put the pizza in a box.
+                                    <pre>
+PImage pizzaBox = loadImage("box.jpg");     //in setup method
+pizzaBox.resize(width, height);      //to match your canvas size
+background(pizzaBox);       //in setup method
+</pre>
+                                </li>
+                                
+                                <li>OPTIONAL: To play a sound when you add a topping....
+                                    First download a sound from freesound.org and drop it onto your sketch
+
+                                    Import the minim library Pocessing > tools > add tools > libraries (search minim)
+                                    <pre>
+import ddf.minim.*;     //at the top of the sketch
+Minim minim;     //at the top of the sketch
+AudioPlayer sound;    //at the top of the sketch
+
+minim = new Minim(this);      //in the setup method
+sound = minim.loadFile("ding.wav");      //in the setup method
+
+// Put next 2 lines where you want the sound to play
+sound.play();
+sound.rewind();
+</pre>
+                                </li>
+                            </ol>
+                            
+                            <div id="p3link"><script>addRecipeP3ReferenceLink()</script></div>
+                            <div style="clear:both;"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+       
+        <div id="footer">
+            <script>addRecipeFooter();</script>
+        </div>
+    </body></html>
