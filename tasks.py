@@ -17,7 +17,7 @@ def update_modules(ctx, root):
         write_settings(dir_)
         write_gitignore(dir_)
         write_launch(dir_)
-        copy_devcontainer(dir_)
+        copy_devcontainer(repo_root, dir_)
         #copy_scripts(dir_)
         disable_eclipse(dir_)
 
@@ -35,7 +35,6 @@ def push(ctx, root, build_dir=None):
 
     if build_dir is None:
         build_dir = repo_root / "_build"
-
 
     build_dir = Path(build_dir)
 
@@ -63,6 +62,36 @@ def move_pde_assign(ctx, root):
 
 
 @task 
-def foo(ctx):
-    from sresearchrobot.openai_tools.completions import openai_one_completion
+def fetch_web(ctx, root):
+    from researchrobot.openai_tools.completions import openai_one_completion
+    root = Path(root)
+
+    for f in root.glob("**/*.html"):
+        if '/bin/' in str(f):
+            continue
+
+        if '/.web/' in str(f):
+            continue
+
+        l, m, ls, a = get_lmla(f)
+
+        print("Downloading ", f)
+        web_dir = f.parent / '.web'
+        web_dir.mkdir(exist_ok=True)
+
+        urls = extract_urls(f.read_text())
+
+        if not urls or len(urls) <1:
+            # Thre is no link in the recipe text, so it
+            # is the text itself.
+            download_webpage_assets(f.read_text(), web_dir)
+        else:
+            try:
+                download_webpage_assets(urls[0], web_dir)
+            except Exception as e:
+                print("ERROR: Failed to download ", urls[0])
+                print(e)
+
+        f.rename(web_dir / f.name)
+
 

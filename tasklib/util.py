@@ -5,7 +5,8 @@ import shutil
 from pathlib import Path
 from textwrap import dedent
 
-from tasks import repo_root
+from tasklib.walk import get_lm
+
 
 def copy_dir(from_, base):
     parts = from_.name.split('-')
@@ -166,7 +167,7 @@ def make_dirs(dir_):
             (p/".keep").touch()
 
 
-def copy_devcontainer(dir_):
+def copy_devcontainer(repo_root, dir_):
     """Copy the devcontainer file from the root into the module"""
     source = repo_root/'.devcontainer'
     dest = dir_/".devcontainer"
@@ -190,21 +191,6 @@ def copy_scripts(dir_):
     dest.mkdir(exist_ok=True)
 
     shutil.copytree(source, dest, dirs_exist_ok=True)
-
-
-def get_lm(dir_=None):
-
-    if dir_ is None:
-        p = Path('.')
-    else:
-        p = Path(dir_)
-
-    _, l, m  = str(p.absolute()).rsplit('/',2)
-
-    assert l.startswith("Level")
-    assert m.startswith("Module")
-
-    return l, m
 
 
 def disable_eclipse(dir_):
@@ -293,3 +279,67 @@ def create_repo(ctx, dir_, build_dir):
 
         print("Push")
         ctx.run("git push -f --set-upstream origin master")
+
+
+def extract_urls(html_text):
+    # Define the regular expression pattern for URLs starting with the specified base URL
+    pattern = r'http://central\.jointheleague\.org[^"\'\s>]+'
+
+    # Find all non-overlapping matches in the HTML text
+    urls = re.findall(pattern, html_text)
+
+    return urls
+
+
+import os
+import requests
+from bs4 import BeautifulSoup
+from urllib.parse import urljoin
+
+
+def get_url(url):
+    response = requests.get(url)
+    return response.text
+
+def download_webpage_assets(url_or_text, save_dir):
+    if not os.path.exists(save_dir):
+        os.makedirs(save_dir)
+
+    if url_or_text.startswith("http"):
+        url = url_or_text
+        html_content = get_url(url_or_text)
+    else:
+        url = None
+        html_content = url_or_text
+
+    # Parse HTML using BeautifulSoup
+    soup = BeautifulSoup(html_content, 'html.parser')
+
+    # Find and download all images
+    for img in soup.find_all('img'):
+        img_url = img.get('src')
+        if img_url:
+            # Convert relative URLs to absolute URLs
+            if url and not img_url.startswith('http'):
+                full_img_url = urljoin(url, img_url)
+            else:
+                full_img_url = img_url
+
+            img_data = requests.get(full_img_url).content
+            img_name = os.path.basename(img_url)
+            img_save_path = os.path.join(save_dir, img_name)
+
+            # Remove any query parameters from the image name
+            img_save_path = img_save_path.split('?')[0]
+
+            with open(img_save_path, 'wb') as img_file:
+                img_file.write(img_data)
+                print(f'Downloaded {img_name}')
+
+    # Save the modified HTML file
+    html_save_path = os.path.join(save_dir, 'index.html')
+    with open(html_save_path, 'w', encoding='utf-8') as html_file:
+        html_file.write(html_content)
+        print(f'HTML saved to {html_save_path}')
+
+
