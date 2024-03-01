@@ -1,7 +1,7 @@
 
 # Madlibs
   <hr/>
-  <img alt="madlibs image" src="./madlibs.png"/>
+  <img alt="madlibs image" src="./images/madlibs.png"/>
 ## Goal:
    Have you ever played Madlibs? You will get to use input and message dialogs to join Strings and build your own Madlib story.
 ## Steps:

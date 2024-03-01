@@ -1,7 +1,7 @@
 
 # Pin the Tail on the Donkey
   <hr/>
-  <img src="./PinTheTail.png"/>
+  <img src="./images/PinTheTail.png"/>
 ## Goal:
    The player of the game has to click the mouse where the donkey's tail will go. The problem is, the picture keeps disappearing!
 ## Steps:

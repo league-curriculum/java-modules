@@ -1,9 +1,9 @@
 
 # Rock Paper Scissors
   <hr/>
-  <img src="./rock.png"/>
-  <img src="./paper.jpeg"/>
-  <img src="./scissors.jpeg"/>
+  <img src="./images/rock.png"/>
+  <img src="./images/paper.jpeg"/>
+  <img src="./images/scissors.jpeg"/>
 ## Goal:
    Use a Random object to generate random integers so your code can play Rock Paper Scissors with you.
 ## Steps:

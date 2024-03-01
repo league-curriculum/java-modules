@@ -1,7 +1,7 @@
 
 # Scary Maze
   <hr/>
-  <img alt="maze image" src="./standardMaze.png"/>
+  <img alt="maze image" src="./images/standardMaze.png"/>
 ## Goal:
    Design and build a maze game
 ## Steps:

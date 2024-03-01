@@ -1,7 +1,7 @@
 
 # Remarkable
   <hr/>
-  <img src="./wow.jpg"/>
+  <img src="./images/wow.jpg"/>
 ## Goal:
    Find out something remarkable about the people in your class. When the user enters a name into your program, they will learn something remarkable about that person.
 ## Steps:

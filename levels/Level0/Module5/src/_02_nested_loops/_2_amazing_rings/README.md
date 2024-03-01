@@ -1,7 +1,7 @@
 
 # Amazing Rings
   <hr/>
-  <img alt="Amazing Rings image" src="./amazingRings.png"/>
+  <img alt="Amazing Rings image" src="./images/amazingRings.png"/>
 ## Goal:
    Use Processing to make this using for loops and if statements.
 ## Steps:

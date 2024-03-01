@@ -1,7 +1,7 @@
 
 # Prime or Not
   <hr/>
-  <img src="./prime.png"/>
+  <img src="./images/prime.png"/>
 ## Goal:
    Ask the user for a number, then tell them if the number is prime! 
 A prime number is a number that is only divisible by 1 and itself.

@@ -1,7 +1,7 @@
 
 # Flaming Ninja Star
   <hr/>
-  <img alt="Flaming Ninja Star image" src="./flamingNinja3.png"/>
+  <img alt="Flaming Ninja Star image" src="./images/flamingNinja3.png"/>
 ## Goal:
    Use int variables in a loop to draw a flaming ninja star.
 ## Steps:

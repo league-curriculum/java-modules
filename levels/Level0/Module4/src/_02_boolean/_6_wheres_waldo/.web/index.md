@@ -1,7 +1,7 @@
 
 # Where's Waldo?
   <hr/>
-  <img src="./waldo.jpg"/>
+  <img src="./images/waldo.jpg"/>
 ## Goal:
    Make a program where the user has to find Waldo!
 ## Steps:

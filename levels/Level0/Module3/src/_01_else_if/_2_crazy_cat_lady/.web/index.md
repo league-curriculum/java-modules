@@ -1,7 +1,7 @@
 
 # Crazy Cat Lady
   <hr/>
-  <img src="./crazyCatLady.jpg"/>
+  <img src="./images/crazyCatLady.jpg"/>
 ## Goal:
    Use if and else if statements to provide different responses to a user based on how they answer the question, "How many cats do you have?".
 ## Steps:

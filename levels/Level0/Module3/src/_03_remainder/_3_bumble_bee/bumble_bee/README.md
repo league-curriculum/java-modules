@@ -1,7 +1,7 @@
 
 # Bumblebee
   <hr/>
-  <img alt="Bumblebee image" src="./bumbleBee.png"/>
+  <img alt="Bumblebee image" src="./images/bumbleBee.png"/>
 ## Goal:
    Draw the bumblebee using a for loop and remainder
 ## Steps:

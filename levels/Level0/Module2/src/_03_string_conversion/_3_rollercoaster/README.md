@@ -1,7 +1,7 @@
 
 # Roller Coaster
   <hr/>
-  <img src="./rollercoaster.jpeg"/>
+  <img src="./images/rollercoaster.jpeg"/>
 ## Goal:
    Check if a person is tall enough to ride the roller coaster!
 ## Steps:

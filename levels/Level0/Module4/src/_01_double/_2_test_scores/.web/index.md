@@ -1,7 +1,7 @@
 
 # Test Scores
   <hr/>
-  <img src="./testScore.png"/>
+  <img src="./images/testScore.png"/>
 ## Goal:
    Tell the user their grade! Use double variables to allow for decimals,
 ## Steps:

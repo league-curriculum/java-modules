@@ -1,7 +1,7 @@
 
 # High Low Game
   <hr/>
-  <img src="./highLowGame.jpg"/>
+  <img src="./images/highLowGame.jpg"/>
 ## Goal:
    Use if and else if statements in a loop until the user correctly guesses the secret number in a high low game.
 ## Steps:

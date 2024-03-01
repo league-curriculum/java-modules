@@ -1,7 +1,7 @@
 
 # Slippery Dot
   <hr/>
-  <img src="./slipperyDot.png"/>
+  <img src="./images/slipperyDot.png"/>
 ## Goal:
    Make a slippery dot!
 ## Steps:

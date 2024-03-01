@@ -1,7 +1,7 @@
 
 # Robot Square
   <hr/>
-  <img alt="square image" src="./robotSquare.png"/>
+  <img alt="square image" src="./images/robotSquare.png"/>
 ## Goal:
    Use a loop to draw a square using a Robot
 ## Steps:

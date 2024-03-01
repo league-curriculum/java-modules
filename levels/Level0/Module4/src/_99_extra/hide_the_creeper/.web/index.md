@@ -1,7 +1,7 @@
 
 # Hide The Creeper
   <hr/>
-  <img src="./creeper.jpg"/>
+  <img src="./images/creeper.jpg"/>
 ## Goal:
    Find the Creeper!
 ## Steps:

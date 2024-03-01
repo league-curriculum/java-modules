@@ -1,7 +1,7 @@
 
 # Awesome or Not
   <hr/>
-  <img alt="awesome image" src="./awesome.jpg"/>
+  <img alt="awesome image" src="./images/awesome.jpg"/>
 ## Goal:
    Use random numbers and pop-ups to respond to a user's input
 ## Steps:

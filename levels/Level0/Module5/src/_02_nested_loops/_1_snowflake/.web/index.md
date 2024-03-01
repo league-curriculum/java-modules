@@ -1,7 +1,7 @@
 
 # Snowflake
   <hr/>
-  <img src="./snowflake.png"/>
+  <img src="./images/snowflake.png"/>
 ## Goal:
    Use nested for loops to draw a multi-colored snowflake.
 ## Steps:

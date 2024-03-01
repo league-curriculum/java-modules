@@ -1,7 +1,7 @@
 
 # Dragon Fight
   <hr/>
-  <img alt="dragon fight image" src="./dragonPicture.jpg"/>
+  <img alt="dragon fight image" src="./images/dragonPicture.jpg"/>
 ## Goal:
    Use random numbers and pop-ups in a while loop to fight a dragon for its treasure.
 ## Steps:

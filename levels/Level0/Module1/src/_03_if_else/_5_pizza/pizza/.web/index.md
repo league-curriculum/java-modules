@@ -1,7 +1,7 @@
 
 # Pizza
   <hr/>
-  <img src="./pizza.jpeg"/>
+  <img src="./images/pizza.jpeg"/>
 ## Goal:
    Make a pizza with whatever toppings you can imagine!
 ## Steps:

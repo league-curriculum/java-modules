@@ -1,7 +1,7 @@
 
 # The Riddler
   <hr/>
-  <img src="./riddler.jpg"/>
+  <img src="./images/riddler.jpg"/>
 ## Goal:
    Ask the user some riddles!
 ## Steps:

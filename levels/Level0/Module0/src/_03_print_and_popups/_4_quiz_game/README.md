@@ -1,7 +1,7 @@
 
 # Quiz Game
   <hr/>
-  <img alt="quiz image" src="./quiz.png"/>
+  <img alt="quiz image" src="./images/quiz.png"/>
 ## Goal:
    Use pop-ups to ask the user "quiz" questions. Use if / else to check their answers.
 ## Steps:

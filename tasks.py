@@ -95,7 +95,6 @@ def fetch_web(ctx, root):
 
         _proc_html(f)
 
-
 @task
 def proc_web(cts, root):
     """Process the web pages in the .web directories"""
@@ -110,6 +109,15 @@ def proc_web(cts, root):
             rm = idx.parent.parent
             assert (rm/'.web').exists()
             (rm/'README.md').write_text(md)
+
+            images_dir = rm / 'images'
+
+            images_dir.mkdir(parents=True, exist_ok=True)
+
+            for wf in f.glob('*'):
+                if wf.suffix in ('png', 'jpg', 'jpeg', 'gif'):
+                   shutil.copy(wf, images_dir / wf.name)
+
 
 @task
 def walka(ctx, root):

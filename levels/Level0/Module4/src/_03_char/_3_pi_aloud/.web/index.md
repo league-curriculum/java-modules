@@ -1,7 +1,7 @@
 
 # Pi Aloud
   <hr/>
-  <img src="./piAloud.png"/>
+  <img src="./images/piAloud.png"/>
 ## Goal:
    Use charAt and length methods to access the digits of pi in a String variable.
 ## Steps:

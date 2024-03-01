@@ -1,7 +1,7 @@
 
 # Pentagon Crazy
   <hr/>
-  <img alt="pentagon image" src="./pentagonCrazy.png"/>
+  <img alt="pentagon image" src="./images/pentagonCrazy.png"/>
 ## Goal:
    Use int variables in a loop to draw a pentagonal pattern using a Robot
 ## Steps:

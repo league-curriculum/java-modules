@@ -1,7 +1,7 @@
 
 # My Ages
   <hr/>
-  <img src="./ages.jpeg"/>
+  <img src="./images/ages.jpeg"/>
 ## Goal:
    Practice using for loops!
 ## Steps:

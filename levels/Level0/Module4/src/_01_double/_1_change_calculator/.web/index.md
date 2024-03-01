@@ -1,7 +1,7 @@
 
 # Change Calculator
   <hr/>
-  <img src="./changeCalculator.jpg"/>
+  <img src="./images/changeCalculator.jpg"/>
 ## Goal:
    Use the variable type double to store decimal values and calculate the value of the change (coins) the user has.
 ## Steps:

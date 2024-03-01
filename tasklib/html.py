@@ -90,9 +90,11 @@ def html_to_markdown(file_path):
     for img in body.find_all('img'):
         src = img.get('src')
         if not src.startswith('http'):
-            img['src'] = './'+src.split('/')[-1]
+            img['src'] = './images/'+src.split('/')[-1]
 
     replace_lists_with_markdown(body)
+
+
 
     # Extract the body content as html
     md = str(body.prettify())
@@ -124,6 +126,7 @@ def html_to_markdown(file_path):
             line = line.strip()
 
         o += line + '\n'
+
 
 
 

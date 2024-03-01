@@ -1,7 +1,7 @@
 
 # Safe Cracker
   <hr/>
-  <img src="./safeCracker.jpg"/>
+  <img src="./images/safeCracker.jpg"/>
 ## Goal:
    Method calls - call a method passing a parameter. Your mission: use the tryCode method to crack the safe by trying all possible numbers.
 ## Steps:

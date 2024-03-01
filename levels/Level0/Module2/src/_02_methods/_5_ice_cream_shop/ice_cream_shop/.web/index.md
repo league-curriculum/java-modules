@@ -1,7 +1,7 @@
 
 # Ice Cream Shop
   <hr/>
-  <img src="./iceCreamShop.png"/>
+  <img src="./images/iceCreamShop.png"/>
 ## Goal:
    Make an ice cream cone!
 ## Steps:

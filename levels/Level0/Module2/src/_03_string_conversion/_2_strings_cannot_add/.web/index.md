@@ -1,7 +1,7 @@
 
 # Strings Cannot Add
   <hr/>
-  <img src="./stringsCannotAdd.jpg"/>
+  <img src="./images/stringsCannotAdd.jpg"/>
 ## Goal:
    Learn how the + operator works differently with Strings and numbers. Learn how to convert String objects to numbers when math operations are needed.
 ## Steps:

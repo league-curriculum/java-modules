@@ -1,7 +1,7 @@
 
 # Pong
   <hr/>
-  <img src="./pong.png"/>
+  <img src="./images/pong.png"/>
 ## Goal:
    Make a Pong game using Processing!
 ## Steps:

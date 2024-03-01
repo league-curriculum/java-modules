@@ -1,7 +1,7 @@
 
 # Bananas 4eva
   <hr/>
-  <img alt="bananas" src="./bananas.jpg"/>
+  <img alt="bananas" src="./images/bananas.jpg"/>
 ## Goal:
    Practice using for loops!
 ## Steps:

@@ -1,7 +1,7 @@
 
 # Magic 8 Ball
   <hr/>
-  <img src="./magic8ball.jpeg"/>
+  <img src="./images/magic8ball.jpeg"/>
 ## Goal:
    Use a Random object to generate random integers so your code can generate random messages from the Magic 8 Ball.
 ## Steps:

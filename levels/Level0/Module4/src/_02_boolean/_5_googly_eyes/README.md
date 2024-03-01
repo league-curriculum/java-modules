@@ -1,7 +1,7 @@
 
 # Googly Eyes
   <hr/>
-  <img alt="Googly image" src="./googlyEyes.png"/>
+  <img alt="Googly image" src="./images/googlyEyes.png"/>
 ## Goal:
    You’re going to draw a face with eyes that will follow the mouse!
 ## Steps:

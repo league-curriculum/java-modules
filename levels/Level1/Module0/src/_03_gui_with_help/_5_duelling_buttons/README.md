@@ -1,7 +1,7 @@
 
 # Duelling Buttons
   <hr/>
-  <img src="./duellingButtons.png"/>
+  <img src="./images/duellingButtons.png"/>
 ## Goal:
    We are going to use GUI components to make demanding buttons that will compete in a duel for the uer's attention. When the user clicks on one button, the other button will demand to be clicked on!
 ## Steps:

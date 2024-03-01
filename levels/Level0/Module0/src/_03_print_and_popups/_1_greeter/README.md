@@ -1,7 +1,7 @@
 
 # Greeter
   <hr/>
-  <img src="./greeter.png"/>
+  <img src="./images/greeter.png"/>
 ## Goal:
    Print a global greeting to the console. Then use input and message dialogs to join Strings and send the user a friendly greeting!
 ## Steps:

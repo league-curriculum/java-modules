@@ -1,7 +1,7 @@
 
 # Dot Race
   <hr/>
-  <img src="./dotRace.png"/>
+  <img src="./images/dotRace.png"/>
 ## Goal:
    Make the dot move across the screen when you press the mouse.
 ## Steps:

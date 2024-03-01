@@ -1,7 +1,7 @@
 
 # Obedient Robot
   <hr/>
-  <img src="./robot.png"/>
+  <img src="./images/robot.png"/>
 ## Goal:
    Make an obedient robot that will obey commands to draw shapes.
 ## Steps:

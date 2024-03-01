@@ -1,7 +1,7 @@
 
 # Robot Spiral
   <hr/>
-  <img alt="spiral image" src="./spiral.png"/>
+  <img alt="spiral image" src="./images/spiral.png"/>
 ## Goal:
    Use a loop to draw a spiral pattern using a Robot
 ## Steps:

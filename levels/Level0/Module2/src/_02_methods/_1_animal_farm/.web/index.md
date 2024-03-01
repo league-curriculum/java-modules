@@ -1,7 +1,7 @@
 
 # Animal Farm
   <hr/>
-  <img src="./animalFarm.jpg"/>
+  <img src="./images/animalFarm.jpg"/>
 ## Goal:
    Method calls. Call a method that shows an image and makes the sound of an animal as selected by the user in a pop-up.
 ## Steps:

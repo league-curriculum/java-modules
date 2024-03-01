@@ -1,7 +1,7 @@
 
 # Voting Booth
   <hr/>
-  <img src="./vote.jpg"/>
+  <img src="./images/vote.jpg"/>
 ## Goal:
    Check if a person is old enough to vote!
 ## Steps:

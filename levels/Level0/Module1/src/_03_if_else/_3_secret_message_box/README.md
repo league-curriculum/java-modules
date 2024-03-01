@@ -1,7 +1,7 @@
 
 # Secret Message Box
   <hr/>
-  <img src="./messageBox.jpg"/>
+  <img src="./images/messageBox.jpg"/>
 ## Goal:
    Share a secret message!
 ## Steps:

@@ -1,7 +1,7 @@
 
 # Photo Quiz
   <hr/>
-  <img src="./photoQuiz.png"/>
+  <img src="./images/photoQuiz.png"/>
 ## Goal:
    We are going to use GUI components to make quiz that shows images to the player and asks them questions relating to the images they see.
 ## Steps:

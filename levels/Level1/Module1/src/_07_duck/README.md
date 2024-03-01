@@ -1,6 +1,6 @@
 
 # Introduction to Objects
-  <img src="./duck.png" style="width: 400px; height: 190px;"/>
+  <img src="./images/duck.png" style="width: 400px; height: 190px;"/>
 1. Create a Duck class in your java project. Add its member variables and methods to match the picture above. Now add the code for the constructor of the Duck class:
   Duck(String favoriteFood, int numberOfFriends) {
       	this.favoriteFood = favoriteFood;

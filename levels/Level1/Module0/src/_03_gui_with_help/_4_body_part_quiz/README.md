@@ -1,7 +1,7 @@
 
 # Body Part Quiz
   <hr/>
-  <img src="./bodyPart.png"/>
+  <img src="./images/bodyPart.png"/>
 ## Goal:
    We are going to use GUI components to make a quiz in which only part of an image is displayed (like the one shown above). The player has to guess the name of each celebrity shown.
 ## Steps:

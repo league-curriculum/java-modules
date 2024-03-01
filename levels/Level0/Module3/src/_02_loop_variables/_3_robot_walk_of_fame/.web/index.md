@@ -1,7 +1,7 @@
 
 # Robot Walk of Fame
   <hr/>
-  <img src="./walkOfFame.png"/>
+  <img src="./images/walkOfFame.png"/>
 ## Goal:
    Use a for loop to make a robot draw a line of stars.
 ## Steps:

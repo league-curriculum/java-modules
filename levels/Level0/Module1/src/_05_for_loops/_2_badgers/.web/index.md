@@ -1,7 +1,7 @@
 
 # Badgers
   <hr/>
-  <img src="./badgers.png"/>
+  <img src="./images/badgers.png"/>
 ## Goal:
    Print the lyrics to the
 Badgers song!

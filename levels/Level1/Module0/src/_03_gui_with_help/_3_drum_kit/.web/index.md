@@ -1,7 +1,7 @@
 
 # Drum Kit
   <hr/>
-  <img src="./drumKit.png"/>
+  <img src="./images/drumKit.png"/>
 ## Goal:
    We are going to use GUI components to make drum kit. When different images of the drum kit are clicked, they will play appropriate sounds.
 ## Steps:

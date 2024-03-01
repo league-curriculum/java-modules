@@ -1,7 +1,7 @@
 
 # My First Swing GUI
   <hr/>
-  <img src="./myFirstSwingGui.png"/>
+  <img src="./images/myFirstSwingGui.png"/>
 ## Goal:
    We are going to make a simple GUI (pronounced gooey). GUI stands for Graphical User Interface, which in this case means a window and everything that is drawn on it. The user will see a window (frame) with a greeting and image similar to the one shown above.
 ## Steps:

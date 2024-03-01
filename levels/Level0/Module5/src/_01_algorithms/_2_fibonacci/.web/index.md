@@ -1,7 +1,7 @@
 
 # Fibonacci
   <hr/>
-  <img src="./fibonacci.png"/>
+  <img src="./images/fibonacci.png"/>
 ## Goal:
    Print out the first 12 numbers of the fibonacci sequence.
 ## Steps:

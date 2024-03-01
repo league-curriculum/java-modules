@@ -1,7 +1,7 @@
 
 # Venn Diagram of Me
   <hr/>
-  <img alt="Venn Diagram of me image" src="./vennDiagram.png"/>
+  <img alt="Venn Diagram of me image" src="./images/vennDiagram.png"/>
 ## Goal:
    Use the RGB color model to create a Venn Diagram that showcases your personality.
 ## Steps:

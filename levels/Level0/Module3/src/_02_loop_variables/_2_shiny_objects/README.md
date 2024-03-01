@@ -1,7 +1,7 @@
 
 # Shiny Objects
   <hr/>
-  <img src="./shinyObjets.png"/>
+  <img src="./images/shinyObjets.png"/>
 ## Goal:
    Use input from a user to control the number of repetitions of a for loop.
 ## Steps:

@@ -1,7 +1,7 @@
 
 # Moles in Holes
   <hr/>
-  <img alt="Moles in Holes image" src="./molesInHoles.png"/>
+  <img alt="Moles in Holes image" src="./images/molesInHoles.png"/>
 ## Goal:
    Put the moles in their holes!
 ## Steps:

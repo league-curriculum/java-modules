@@ -1,7 +1,7 @@
 
 # World Domination
   <hr/>
-  <img alt="world domination image" src="./worldDomination.jpg"/>
+  <img alt="world domination image" src="./images/worldDomination.jpg"/>
 ## Goal:
    Use an if / else statement and pop-ups to find out if a person might get to rule the world!
 ## Steps:

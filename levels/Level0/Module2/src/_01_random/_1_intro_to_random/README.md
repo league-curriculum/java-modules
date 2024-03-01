@@ -1,7 +1,7 @@
 
 # Intro to Random
   <hr/>
-  <img src="./random.jpg"/>
+  <img src="./images/random.jpg"/>
 ## Goal:
    Learn how to use a Random object to generate random integers within specified number ranges.
 ## Steps:

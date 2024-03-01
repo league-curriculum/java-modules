@@ -1,7 +1,7 @@
 
 # Lottery Numbers
   <hr/>
-  <img src="./lottery.png"/>
+  <img src="./images/lottery.png"/>
 ## Goal:
    Use random numbers to make a lottery ticket!
 ## Steps:

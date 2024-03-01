@@ -1,7 +1,7 @@
 
 # Happy Pet
   <hr/>
-  <img src="./happyPet.png"/>
+  <img src="./images/happyPet.png"/>
 ## Goal:
    Write methods to represent the activities that will make the user's pet happy.
 ## Steps:

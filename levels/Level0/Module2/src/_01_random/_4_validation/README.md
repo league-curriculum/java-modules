@@ -1,7 +1,7 @@
 
 # Validation
   <hr/>
-  <img src="./validation.png"/>
+  <img src="./images/validation.png"/>
 ## Goal:
    Use a Random object to generate random integers so your code can generate random compliments.
 ## Steps:

@@ -1,7 +1,7 @@
 
 # Robot Color Chooser
   <hr/>
-  <img src="./robotColorChooser.png"/>
+  <img src="./images/robotColorChooser.png"/>
 ## Goal:
    Use if and else if statements to set a Robot's pen to a chosen color before drawing a shape.
 ## Steps:

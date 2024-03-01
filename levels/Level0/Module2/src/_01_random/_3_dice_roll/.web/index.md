@@ -1,7 +1,7 @@
 
 # Dice Roll
   <hr/>
-  <img src="./dice.png"/>
+  <img src="./images/dice.png"/>
 ## Goal:
    Use a Random object to generate random integers so your code can roll different numbers on a dice.
 ## Steps:

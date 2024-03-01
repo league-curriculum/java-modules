@@ -1,6 +1,6 @@
 
 # Spinning Record
-  <img align="left" alt="" src="./spinningRecord.png" style="width: 200.00px; height: 207.00px;  margin: 0px 20px" title=""/>
+  <img align="left" alt="" src="./images/spinningRecord.png" style="width: 200.00px; height: 207.00px;  margin: 0px 20px" title=""/>
   We are going to make a virtual record player that spins and plays your song when you click on it.
 1. Use the given record.png image or find your own image of a record.
 

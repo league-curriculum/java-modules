@@ -1,7 +1,7 @@
 
 # Triangle Shell
   <hr/>
-  <img alt="Star Show image" src="./triangleShell.png"/>
+  <img alt="Star Show image" src="./images/triangleShell.png"/>
 ## Goal:
    Use int variables and a loop to draw a pattern with triangles.
 ## Steps:

@@ -1,7 +1,7 @@
 
 # Are You Happy?
   <hr/>
-  <img alt="Are You Happy? image" src="./AreYouHappy.png"/>
+  <img alt="Are You Happy? image" src="./images/AreYouHappy.png"/>
 ## Goal:
    Create a program that mimics the chart above using if and else if statements.
 ## Steps:

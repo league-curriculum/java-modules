@@ -1,7 +1,7 @@
 
 # Typing Tutor
   We are going to make a Typing Tutor.
-  <img alt="" src="./typing.jpg" style="width: 444.00px; height: 163.00px; margin-left: 100.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""/>
+  <img alt="" src="./images/typing.jpg" style="width: 444.00px; height: 163.00px; margin-left: 100.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""/>
 1.  Make a TypingTutor class with a setup() method and a Runner class with a main method. Create a JFrame, JPanel, and currentLetter as member variables 
 	     Make sure the JFrame is visible and set the default close operation.
 

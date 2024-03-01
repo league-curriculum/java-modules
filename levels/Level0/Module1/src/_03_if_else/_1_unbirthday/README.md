@@ -1,7 +1,7 @@
 
 # Unbirthday
   <hr/>
-  <img src="./unbirthday.jpg"/>
+  <img src="./images/unbirthday.jpg"/>
 ## Goal:
    Find out if today is the user's birthday!
 ## Steps:

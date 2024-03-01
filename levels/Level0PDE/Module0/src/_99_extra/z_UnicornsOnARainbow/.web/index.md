@@ -1,7 +1,7 @@
 
 # Unicorns on a Rainbow
   <hr/>
-  <img alt="unicorn rainbow image" src="./unicornOnRainbow.png"/>
+  <img alt="unicorn rainbow image" src="./images/unicornOnRainbow.png"/>
 ## Goal:
    Draw a rainbow, then put a unicorn on it.
 ## Steps:
