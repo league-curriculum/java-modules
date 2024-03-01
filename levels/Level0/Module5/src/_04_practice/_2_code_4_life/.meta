@@ -13,19 +13,5 @@ meta:
   title: 04 Practice 2 Code 4 Life
 module: Module5
 resources:
-- !!python/object/apply:pathlib.PosixPath
-  - /
-  - Users
-  - eric
-  - proj
-  - league-projects
-  - curriculum
-  - java-modules
-  - levels
-  - Level0
-  - Module5
-  - src
-  - _04_practice
-  - _2_code_4_life
-  - batman.png
+- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module5/src/_04_practice/_2_code_4_life/batman.png
 text: ''

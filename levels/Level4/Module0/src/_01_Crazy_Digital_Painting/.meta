@@ -13,18 +13,5 @@ meta:
   title: 01 Crazy Digital Painting
 module: Module0
 resources:
-- !!python/object/apply:pathlib.PosixPath
-  - /
-  - Users
-  - eric
-  - proj
-  - league-projects
-  - curriculum
-  - java-modules
-  - levels
-  - Level4
-  - Module0
-  - src
-  - _01_Crazy_Digital_Painting
-  - crazy_digital_painting.png
+- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level4/Module0/src/_01_Crazy_Digital_Painting/crazy_digital_painting.png
 text: ''

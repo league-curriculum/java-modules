@@ -13,21 +13,7 @@ meta:
   title: 04 Amazing Games 2 Dragon Fight
 module: Module0
 resources:
-- !!python/object/apply:pathlib.PosixPath
-  - /
-  - Users
-  - eric
-  - proj
-  - league-projects
-  - curriculum
-  - java-modules
-  - levels
-  - Level0
-  - Module0
-  - src
-  - _04_amazing_games
-  - _2_dragon_fight
-  - dragonPicture.jpg
+- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module0/src/_04_amazing_games/_2_dragon_fight/dragonPicture.jpg
 text: "\n <div id=\"recipeLeftColumn\">\n  # Dragon Fight\n  <hr/>\n  <img alt=\"\
   dragon fight image\" src=\"./dragonPicture.jpg\"/>\n  <div id=\"recipeGoal\">\n\
   \   ## Goal:\n   Use random numbers and pop-ups in a while loop to fight a dragon\

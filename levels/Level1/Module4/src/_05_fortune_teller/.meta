@@ -13,18 +13,6 @@ meta:
   title: 05 Fortune Teller
 module: Module4
 resources:
-- !!python/object/apply:pathlib.PosixPath
-  - /
-  - Users
-  - eric
-  - proj
-  - league-projects
-  - curriculum
-  - java-modules
-  - levels
-  - Level1
-  - Module4
-  - src
-  - _05_fortune_teller
-  - fortune teller.png
+- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level1/Module4/src/_05_fortune_teller/fortune
+  teller.png
 text: ''

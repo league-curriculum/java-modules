@@ -13,21 +13,7 @@ meta:
   title: 04 Gui From Scratch 2 Jack In The Box
 module: Module0
 resources:
-- !!python/object/apply:pathlib.PosixPath
-  - /
-  - Users
-  - eric
-  - proj
-  - league-projects
-  - curriculum
-  - java-modules
-  - levels
-  - Level1
-  - Module0
-  - src
-  - _04_gui_from_scratch
-  - _2_jack_in_the_box
-  - jackInTheBox.png
+- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level1/Module0/src/_04_gui_from_scratch/_2_jack_in_the_box/jackInTheBox.png
 text: "\n <div id=\"moduleIndex\">\n  # Jack-in-the-Box\n  1. Create a user interface\
   \ (GUI) that has a single button labeled \"Surprise\".\n \_\_\_\_\_If you need help,\
   \ take a look at the instructions for the Fortune Cookie recipe.\n  2. When the\

@@ -13,81 +13,11 @@ meta:
   title: 02 Methods 1 Animal Farm
 module: Module2
 resources:
-- !!python/object/apply:pathlib.PosixPath
-  - /
-  - Users
-  - eric
-  - proj
-  - league-projects
-  - curriculum
-  - java-modules
-  - levels
-  - Level0
-  - Module2
-  - src
-  - _02_methods
-  - _1_animal_farm
-  - duck.jpg
-- !!python/object/apply:pathlib.PosixPath
-  - /
-  - Users
-  - eric
-  - proj
-  - league-projects
-  - curriculum
-  - java-modules
-  - levels
-  - Level0
-  - Module2
-  - src
-  - _02_methods
-  - _1_animal_farm
-  - dog.jpg
-- !!python/object/apply:pathlib.PosixPath
-  - /
-  - Users
-  - eric
-  - proj
-  - league-projects
-  - curriculum
-  - java-modules
-  - levels
-  - Level0
-  - Module2
-  - src
-  - _02_methods
-  - _1_animal_farm
-  - cow.jpg
-- !!python/object/apply:pathlib.PosixPath
-  - /
-  - Users
-  - eric
-  - proj
-  - league-projects
-  - curriculum
-  - java-modules
-  - levels
-  - Level0
-  - Module2
-  - src
-  - _02_methods
-  - _1_animal_farm
-  - cat.jpg
-- !!python/object/apply:pathlib.PosixPath
-  - /
-  - Users
-  - eric
-  - proj
-  - league-projects
-  - curriculum
-  - java-modules
-  - levels
-  - Level0
-  - Module2
-  - src
-  - _02_methods
-  - _1_animal_farm
-  - llama.jpg
+- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module2/src/_02_methods/_1_animal_farm/duck.jpg
+- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module2/src/_02_methods/_1_animal_farm/dog.jpg
+- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module2/src/_02_methods/_1_animal_farm/cow.jpg
+- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module2/src/_02_methods/_1_animal_farm/cat.jpg
+- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module2/src/_02_methods/_1_animal_farm/llama.jpg
 text: "\n <div id=\"recipeLeftColumn\">\n  # Animal Farm\n  <hr/>\n  <img src=\"./animalFarm.jpg\"\
   />\n  <div id=\"recipeGoal\">\n   ## Goal:\n   Method calls. Call a method that\
   \ shows an image and makes the sound of an animal as selected by the user in a pop-up.\n\

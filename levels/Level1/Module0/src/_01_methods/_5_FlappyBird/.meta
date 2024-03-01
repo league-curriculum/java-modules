@@ -13,81 +13,11 @@ meta:
   title: 01 Methods 5 Flappybird
 module: Module0
 resources:
-- !!python/object/apply:pathlib.PosixPath
-  - /
-  - Users
-  - eric
-  - proj
-  - league-projects
-  - curriculum
-  - java-modules
-  - levels
-  - Level1
-  - Module0
-  - src
-  - _01_methods
-  - _5_FlappyBird
-  - bottomPipe.png
-- !!python/object/apply:pathlib.PosixPath
-  - /
-  - Users
-  - eric
-  - proj
-  - league-projects
-  - curriculum
-  - java-modules
-  - levels
-  - Level1
-  - Module0
-  - src
-  - _01_methods
-  - _5_FlappyBird
-  - flappyBackground.jpg
-- !!python/object/apply:pathlib.PosixPath
-  - /
-  - Users
-  - eric
-  - proj
-  - league-projects
-  - curriculum
-  - java-modules
-  - levels
-  - Level1
-  - Module0
-  - src
-  - _01_methods
-  - _5_FlappyBird
-  - bird.png
-- !!python/object/apply:pathlib.PosixPath
-  - /
-  - Users
-  - eric
-  - proj
-  - league-projects
-  - curriculum
-  - java-modules
-  - levels
-  - Level1
-  - Module0
-  - src
-  - _01_methods
-  - _5_FlappyBird
-  - topPipe.png
-- !!python/object/apply:pathlib.PosixPath
-  - /
-  - Users
-  - eric
-  - proj
-  - league-projects
-  - curriculum
-  - java-modules
-  - levels
-  - Level1
-  - Module0
-  - src
-  - _01_methods
-  - _5_FlappyBird
-  - bucket.png
+- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level1/Module0/src/_01_methods/_5_FlappyBird/bottomPipe.png
+- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level1/Module0/src/_01_methods/_5_FlappyBird/flappyBackground.jpg
+- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level1/Module0/src/_01_methods/_5_FlappyBird/bird.png
+- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level1/Module0/src/_01_methods/_5_FlappyBird/topPipe.png
+- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level1/Module0/src/_01_methods/_5_FlappyBird/bucket.png
 text: "\n <div id=\"moduleIndex\">\n  # Flappy Bird\n  1. Start a new sketch with\
   \ draw and setup methods.\n\n2. Set your canvas size in the setup method\n  size(width,\
   \ height)\n  3. In your draw method, set a background, and draw a ball (bird) on\

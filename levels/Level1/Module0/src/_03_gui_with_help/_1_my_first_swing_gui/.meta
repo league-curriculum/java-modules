@@ -13,21 +13,7 @@ meta:
   title: 03 Gui With Help 1 My First Swing Gui
 module: Module0
 resources:
-- !!python/object/apply:pathlib.PosixPath
-  - /
-  - Users
-  - eric
-  - proj
-  - league-projects
-  - curriculum
-  - java-modules
-  - levels
-  - Level1
-  - Module0
-  - src
-  - _03_gui_with_help
-  - _1_my_first_swing_gui
-  - java.png
+- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level1/Module0/src/_03_gui_with_help/_1_my_first_swing_gui/java.png
 text: "\n <div id=\"recipeLeftColumn\">\n  # My First Swing GUI\n  <hr/>\n  <img src=\"\
   ./myFirstSwingGui.png\"/>\n  <div id=\"recipeGoal\">\n   ## Goal:\n   We are going\
   \ to make a simple GUI (pronounced gooey). GUI stands for Graphical User Interface,\

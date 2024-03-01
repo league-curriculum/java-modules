@@ -13,18 +13,5 @@ meta:
   title: 05 Overriding
 module: Module2
 resources:
-- !!python/object/apply:pathlib.PosixPath
-  - /
-  - Users
-  - eric
-  - proj
-  - league-projects
-  - curriculum
-  - java-modules
-  - levels
-  - Level2
-  - Module2
-  - src
-  - _05_overriding
-  - pepperoniPizza.png
+- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level2/Module2/src/_05_overriding/pepperoniPizza.png
 text: ''

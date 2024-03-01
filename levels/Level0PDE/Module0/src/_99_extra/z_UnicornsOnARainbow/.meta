@@ -13,36 +13,8 @@ meta:
   title: 99 Extra Z Unicornsonarainbow
 module: Module0
 resources:
-- !!python/object/apply:pathlib.PosixPath
-  - /
-  - Users
-  - eric
-  - proj
-  - league-projects
-  - curriculum
-  - java-modules
-  - levels
-  - Level0PDE
-  - Module0
-  - src
-  - _99_extra
-  - z_UnicornsOnARainbow
-  - unicorn.png
-- !!python/object/apply:pathlib.PosixPath
-  - /
-  - Users
-  - eric
-  - proj
-  - league-projects
-  - curriculum
-  - java-modules
-  - levels
-  - Level0PDE
-  - Module0
-  - src
-  - _99_extra
-  - z_UnicornsOnARainbow
-  - rainbow_.jpg
+- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0PDE/Module0/src/_99_extra/z_UnicornsOnARainbow/unicorn.png
+- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0PDE/Module0/src/_99_extra/z_UnicornsOnARainbow/rainbow_.jpg
 text: "\n <div id=\"recipeLeftColumn\">\n  # Unicorns on a Rainbow\n  <hr/>\n  <img\
   \ alt=\"unicorn rainbow image\" src=\"./unicornOnRainbow.png\"/>\n  <div id=\"recipeGoal\"\
   >\n   ## Goal:\n   Draw a rainbow, then put a unicorn on it.\n  </div>\n </div>\n\

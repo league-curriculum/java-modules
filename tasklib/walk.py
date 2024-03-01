@@ -156,7 +156,7 @@ def process_dir(root, f):
     resources = []
     for e in f.iterdir():
         if e.is_file() and e.suffix in ('.png', '.gif', '.jpg'):
-            resources.append(e.absolute())
+            resources.append(str(e.absolute()))
 
     r['resources'] = resources
 

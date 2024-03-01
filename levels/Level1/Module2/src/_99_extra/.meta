@@ -13,18 +13,5 @@ meta:
   title: 99 Extra
 module: Module2
 resources:
-- !!python/object/apply:pathlib.PosixPath
-  - /
-  - Users
-  - eric
-  - proj
-  - league-projects
-  - curriculum
-  - java-modules
-  - levels
-  - Level1
-  - Module2
-  - src
-  - _99_extra
-  - PixelParty.png
+- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level1/Module2/src/_99_extra/PixelParty.png
 text: ''

@@ -13,32 +13,6 @@ meta:
   title: 00 Intro To Arrays
 module: Module0
 resources:
-- !!python/object/apply:pathlib.PosixPath
-  - /
-  - Users
-  - eric
-  - proj
-  - league-projects
-  - curriculum
-  - java-modules
-  - levels
-  - Level3
-  - Module0
-  - src
-  - _00_Intro_To_Arrays
-  - robotRace.png
-- !!python/object/apply:pathlib.PosixPath
-  - /
-  - Users
-  - eric
-  - proj
-  - league-projects
-  - curriculum
-  - java-modules
-  - levels
-  - Level3
-  - Module0
-  - src
-  - _00_Intro_To_Arrays
-  - findTheHiddenButton.png
+- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level3/Module0/src/_00_Intro_To_Arrays/robotRace.png
+- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level3/Module0/src/_00_Intro_To_Arrays/findTheHiddenButton.png
 text: ''

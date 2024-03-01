@@ -13,36 +13,8 @@ meta:
   title: 03 Gui With Help 3 Drum Kit
 module: Module0
 resources:
-- !!python/object/apply:pathlib.PosixPath
-  - /
-  - Users
-  - eric
-  - proj
-  - league-projects
-  - curriculum
-  - java-modules
-  - levels
-  - Level1
-  - Module0
-  - src
-  - _03_gui_with_help
-  - _3_drum_kit
-  - cymbal.jpg
-- !!python/object/apply:pathlib.PosixPath
-  - /
-  - Users
-  - eric
-  - proj
-  - league-projects
-  - curriculum
-  - java-modules
-  - levels
-  - Level1
-  - Module0
-  - src
-  - _03_gui_with_help
-  - _3_drum_kit
-  - snare.jpg
+- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level1/Module0/src/_03_gui_with_help/_3_drum_kit/cymbal.jpg
+- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level1/Module0/src/_03_gui_with_help/_3_drum_kit/snare.jpg
 text: "\n <div id=\"recipeLeftColumn\">\n  # Drum Kit\n  <hr/>\n  <img src=\"./drumKit.png\"\
   />\n  <div id=\"recipeGoal\">\n   ## Goal:\n   We are going to use GUI components\
   \ to make drum kit. When different images of the drum kit are clicked, they will\

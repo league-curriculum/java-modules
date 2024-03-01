@@ -13,32 +13,6 @@ meta:
   title: 07 Tv Show Episode Info
 module: Module4
 resources:
-- !!python/object/apply:pathlib.PosixPath
-  - /
-  - Users
-  - eric
-  - proj
-  - league-projects
-  - curriculum
-  - java-modules
-  - levels
-  - Level1
-  - Module4
-  - src
-  - _07_tv_show_episode_info
-  - tvinfo2.png
-- !!python/object/apply:pathlib.PosixPath
-  - /
-  - Users
-  - eric
-  - proj
-  - league-projects
-  - curriculum
-  - java-modules
-  - levels
-  - Level1
-  - Module4
-  - src
-  - _07_tv_show_episode_info
-  - tvinfo1.png
+- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level1/Module4/src/_07_tv_show_episode_info/tvinfo2.png
+- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level1/Module4/src/_07_tv_show_episode_info/tvinfo1.png
 text: ''

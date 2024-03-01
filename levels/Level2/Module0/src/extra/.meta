@@ -13,18 +13,5 @@ meta:
   title: Extra
 module: Module0
 resources:
-- !!python/object/apply:pathlib.PosixPath
-  - /
-  - Users
-  - eric
-  - proj
-  - league-projects
-  - curriculum
-  - java-modules
-  - levels
-  - Level2
-  - Module0
-  - src
-  - extra
-  - java.png
+- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level2/Module0/src/extra/java.png
 text: ''

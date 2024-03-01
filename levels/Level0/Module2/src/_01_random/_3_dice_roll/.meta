@@ -13,96 +13,18 @@ meta:
   title: 01 Random 3 Dice Roll
 module: Module2
 resources:
-- !!python/object/apply:pathlib.PosixPath
-  - /
-  - Users
-  - eric
-  - proj
-  - league-projects
-  - curriculum
-  - java-modules
-  - levels
-  - Level0
-  - Module2
-  - src
-  - _01_random
-  - _3_dice_roll
-  - dice 1.png
-- !!python/object/apply:pathlib.PosixPath
-  - /
-  - Users
-  - eric
-  - proj
-  - league-projects
-  - curriculum
-  - java-modules
-  - levels
-  - Level0
-  - Module2
-  - src
-  - _01_random
-  - _3_dice_roll
-  - dice 2.png
-- !!python/object/apply:pathlib.PosixPath
-  - /
-  - Users
-  - eric
-  - proj
-  - league-projects
-  - curriculum
-  - java-modules
-  - levels
-  - Level0
-  - Module2
-  - src
-  - _01_random
-  - _3_dice_roll
-  - dice 3.png
-- !!python/object/apply:pathlib.PosixPath
-  - /
-  - Users
-  - eric
-  - proj
-  - league-projects
-  - curriculum
-  - java-modules
-  - levels
-  - Level0
-  - Module2
-  - src
-  - _01_random
-  - _3_dice_roll
-  - dice 6.png
-- !!python/object/apply:pathlib.PosixPath
-  - /
-  - Users
-  - eric
-  - proj
-  - league-projects
-  - curriculum
-  - java-modules
-  - levels
-  - Level0
-  - Module2
-  - src
-  - _01_random
-  - _3_dice_roll
-  - dice 4.png
-- !!python/object/apply:pathlib.PosixPath
-  - /
-  - Users
-  - eric
-  - proj
-  - league-projects
-  - curriculum
-  - java-modules
-  - levels
-  - Level0
-  - Module2
-  - src
-  - _01_random
-  - _3_dice_roll
-  - dice 5.png
+- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module2/src/_01_random/_3_dice_roll/dice
+  1.png
+- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module2/src/_01_random/_3_dice_roll/dice
+  2.png
+- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module2/src/_01_random/_3_dice_roll/dice
+  3.png
+- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module2/src/_01_random/_3_dice_roll/dice
+  6.png
+- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module2/src/_01_random/_3_dice_roll/dice
+  4.png
+- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module2/src/_01_random/_3_dice_roll/dice
+  5.png
 text: "\n <div id=\"recipeLeftColumn\">\n  # Dice Roll\n  <hr/>\n  <img src=\"./dice.png\"\
   />\n  <div id=\"recipeGoal\">\n   ## Goal:\n   Use a Random object to generate random\
   \ integers so your code can roll different numbers on a dice.\n  </div>\n </div>\n\

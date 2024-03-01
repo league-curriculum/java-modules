@@ -13,21 +13,7 @@ meta:
   title: 01 Random 2 Rock Paper Scissors
 module: Module2
 resources:
-- !!python/object/apply:pathlib.PosixPath
-  - /
-  - Users
-  - eric
-  - proj
-  - league-projects
-  - curriculum
-  - java-modules
-  - levels
-  - Level0
-  - Module2
-  - src
-  - _01_random
-  - _2_rock_paper_scissors
-  - rock.png
+- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module2/src/_01_random/_2_rock_paper_scissors/rock.png
 text: "\n <div id=\"recipeLeftColumn\">\n  # Rock Paper Scissors\n  <hr/>\n  <img\
   \ src=\"./rock.png\"/>\n  <img src=\"./paper.jpeg\"/>\n  <img src=\"./scissors.jpeg\"\
   />\n  <div id=\"recipeGoal\">\n   ## Goal:\n   Use a Random object to generate random\

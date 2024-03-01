@@ -13,18 +13,5 @@ meta:
   title: 04 Light Switches
 module: Module4
 resources:
-- !!python/object/apply:pathlib.PosixPath
-  - /
-  - Users
-  - eric
-  - proj
-  - league-projects
-  - curriculum
-  - java-modules
-  - levels
-  - Level5
-  - Module4
-  - src
-  - _04_Light_Switches
-  - LightsSequence.gif
+- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level5/Module4/src/_04_Light_Switches/LightsSequence.gif
 text: ''

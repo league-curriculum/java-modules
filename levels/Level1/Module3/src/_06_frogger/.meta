@@ -13,62 +13,10 @@ meta:
   title: 06 Frogger
 module: Module3
 resources:
-- !!python/object/apply:pathlib.PosixPath
-  - /
-  - Users
-  - eric
-  - proj
-  - league-projects
-  - curriculum
-  - java-modules
-  - levels
-  - Level1
-  - Module3
-  - src
-  - _06_frogger
-  - carLeft.png
-- !!python/object/apply:pathlib.PosixPath
-  - /
-  - Users
-  - eric
-  - proj
-  - league-projects
-  - curriculum
-  - java-modules
-  - levels
-  - Level1
-  - Module3
-  - src
-  - _06_frogger
-  - frog.png
-- !!python/object/apply:pathlib.PosixPath
-  - /
-  - Users
-  - eric
-  - proj
-  - league-projects
-  - curriculum
-  - java-modules
-  - levels
-  - Level1
-  - Module3
-  - src
-  - _06_frogger
-  - carRight.png
-- !!python/object/apply:pathlib.PosixPath
-  - /
-  - Users
-  - eric
-  - proj
-  - league-projects
-  - curriculum
-  - java-modules
-  - levels
-  - Level1
-  - Module3
-  - src
-  - _06_frogger
-  - froggerBackground.png
+- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level1/Module3/src/_06_frogger/carLeft.png
+- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level1/Module3/src/_06_frogger/frog.png
+- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level1/Module3/src/_06_frogger/carRight.png
+- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level1/Module3/src/_06_frogger/froggerBackground.png
 text: "\n <div id=\"moduleIndex\">\n  # Frogger\n  1. Start a new sketch with draw,\
   \ setup, and settings methods. Ask your teacher if you do not know how to do this.\n\
   \n    2.  In the settings method, set your canvas of size 800x600 for your game\n\
