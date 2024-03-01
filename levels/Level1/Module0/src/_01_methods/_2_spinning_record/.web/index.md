@@ -1,11 +1,13 @@
 
+
 # Spinning Record
-  <img align="left" alt="" src="./images/spinningRecord.png" style="width: 200.00px; height: 207.00px;  margin: 0px 20px" title=""/>
-  We are going to make a virtual record player that spins and plays your song when you click on it.
+
+<img align="left" alt="" src="./images/spinningRecord.png" style="width: 200.00px; height: 207.00px;  margin: 0px 20px" title=""/>
+We are going to make a virtual record player that spins and plays your song when you click on it.
 1. Use the given record.png image or find your own image of a record.
 
-     i) If using your own image, copy the file onto the /images folder.
-     ii) Load the image into your code using the code below:
+i) If using your own image, copy the file onto the /images folder.
+ii) Load the image into your code using the code below:
 ```
 	PImage pictureOfRecord;                        //as member variable
         size(600,600);                                 //in setup method
@@ -25,9 +27,9 @@
     }
 ```
 5. Adjust the speed of the record player. Make the record spin.
-     i) Make a variable to keep track of the image angle.
-     ii) Increase this variable in the draw method.
-     iii) Use this variable when you call the rotateImage() method.
+i) Make a variable to keep track of the image angle.
+ii) Increase this variable in the draw method.
+iii) Use this variable when you call the rotateImage() method.
 6. Only spin the record when the user clicks the mouse button. Hint: use mousePressed
 7. Add a song.  Use the sound file already in the project, awesomeTrack.mp3, or add a different one.
 8. Only play the song when the mouse is pressed. Hint: use the method below.
@@ -36,5 +38,5 @@
     song.play()
 ```
 9. Make the record spin as fast as possible
- 
+
 

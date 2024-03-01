@@ -1,10 +1,16 @@
 
+
 # Pong
-  <hr/>
-  <img src="./images/pong.png"/>
+
+<hr/>
+<img src="./images/pong.png"/>
+
 ## Goal:
-   Make a Pong game using Processing!
+
+Make a Pong game using Processing!
+
 ## Steps:
+
 1. Draw a ball on the screen.
 ```
 
@@ -56,6 +62,6 @@ int paddleLength) {
 }
 ```
 12. Make sure you SAVE YOUR CODE when you are done.
-  
- 
+
+
 

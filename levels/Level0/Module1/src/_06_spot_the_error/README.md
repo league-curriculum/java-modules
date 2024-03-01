@@ -1,9 +1,17 @@
 
+
 # Spot the Errors
-  <hr/>
+
+<hr/>
+
 ### Fix the Print
+
+
 ### Hello Bob
+
+
 ### Make It Count
-  <hr/>
- 
+
+<hr/>
+
 

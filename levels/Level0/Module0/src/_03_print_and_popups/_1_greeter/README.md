@@ -1,10 +1,16 @@
 
+
 # Greeter
-  <hr/>
-  <img src="./images/greeter.png"/>
+
+<hr/>
+<img src="./images/greeter.png"/>
+
 ## Goal:
-   Print a global greeting to the console. Then use input and message dialogs to join Strings and send the user a friendly greeting!
+
+Print a global greeting to the console. Then use input and message dialogs to join Strings and send the user a friendly greeting!
+
 ## Steps:
+
 1. Create a new class called Greeter.
 2. Add a main method. Eclipse has a helpful schortcut - main
 3. Print "Hello World!" to the console. Eclipse has a helpful schortcut - syso
@@ -18,6 +24,6 @@ String input = JOptionPane.showInputDialog("What is your name?");
 
 JOptionPane.showMessageDialog(null,"Hello "+input);
 ```
-  
- 
+
+
 

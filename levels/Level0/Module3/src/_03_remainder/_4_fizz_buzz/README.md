@@ -1,15 +1,21 @@
 
+
 # Fizz Buzz
-  <hr/>
-  1, 2, fizz, 4, buzz, ...
+
+<hr/>
+1, 2, fizz, 4, buzz, ...
+
 ## Goal:
-   Use a for loop and remainder (%) to build FizzBuzz - a children's counting game.
+
+Use a for loop and remainder (%) to build FizzBuzz - a children's counting game.
+
 ## Steps:
-1. Write a loop to print all the numbers between 1 and 20. 
+
+1. Write a loop to print all the numbers between 1 and 20.
 2. Now modify the  program so that any time a number is divisible by 3, print "fizz" in place of the number. And instead of printing numbers that are divisible by 5, print "buzz". For numbers that are divisible by both 3 and 5, print "fizzbuzz".
 3. If your code is correct, the program will now print:
 
 1, 2, fizz, 4, buzz, fizz, 7, 8, fizz, buzz, 11, fizz, 13, 14, fizzbuzz, 16, 17, fizz, 19, buzz
-  
- 
+
+
 

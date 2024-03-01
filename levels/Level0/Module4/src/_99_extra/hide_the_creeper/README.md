@@ -1,10 +1,16 @@
 
+
 # Hide The Creeper
-  <hr/>
-  <img src="./images/creeper.jpg"/>
+
+<hr/>
+<img src="./images/creeper.jpg"/>
+
 ## Goal:
-   Find the Creeper!
+
+Find the Creeper!
+
 ## Steps:
+
 1. Find the Hide the Creeper recipe program in Eclipse.
 2. Set your canvas size
 ```
@@ -44,14 +50,14 @@ image(creeper, mouseX, mouseY);     //in draw method
 
 creeper.resize(width, height);     //in setup method
 ```
-12. Pick a place to hide your creeper. 
+12. Pick a place to hide your creeper.
 
 Use two variables to store the location (x and y) of the creeper, and initialize them (at the top of your sketch).
 Change your code so that the creeper image is drawn at this location.
 13. Use two variables to store the location (x and y) of the creeper, and initialize them (at the top of your sketch).
 14. Change your code so that the creeper image is drawn at this location.
 15. In the draw method, draw a small red ellipse where the mouse clicks.
-16. If mouseX and mouseY are near the location of your creeper, make the circle green. 
+16. If mouseX and mouseY are near the location of your creeper, make the circle green.
 Note: you will need to check the x and y values separately if you use the code below.
 ```
 
@@ -64,6 +70,6 @@ else
 ```
 17. Let the user know that they found the creeper.
 18. Option: Add more creepers, or move the creeper after they find it.
-  
- 
+
+
 

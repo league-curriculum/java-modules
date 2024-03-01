@@ -1,14 +1,20 @@
 
+
 # Retro Sun (Processing)
+
+
 ### Part 1: Drawing the Sun
-  
-   <img alt="" src="./images/1_sun.png" style="width: 400px; height: 330px;"/>
-   Open the starter code in Processing.
+
+
+<img alt="" src="./images/1_sun.png" style="width: 400px; height: 330px;"/>
+Open the starter code in Processing.
 Draw and fill a solid color ellipse to be the sun.
+
 ### Part 2: Drawing a color gradient on the sun
-   
-    <img alt="" src="./images/2_gradient.png" style="width: 400px; height: 180px;"/>
-    Change the sun-colored pixels in your sketch make the sun have gradually different colors from the top to bottom.
+
+
+<img alt="" src="./images/2_gradient.png" style="width: 400px; height: 180px;"/>
+Change the sun-colored pixels in your sketch make the sun have gradually different colors from the top to bottom.
 
 Use the interpolateColor() method to find which color to change the pixel.
 ```
@@ -17,23 +23,31 @@ Use the interpolateColor() method to find which color to change the pixel.
 // 0.0 is the top of the sun and 1.0 is the bottom
 interpolateColor(color[] arr, float step)
 ```
+
 ### Part 3: Drawing the missing sections at the bottom of the sun
-    
-     <img alt="" src="./images/3_missing_sun_section.png" style="width: 400px; height: 180px;"/>
-     The missing parts of the sun are created by drawing rectangles over the sun with the same color as the background.
+
+
+<img alt="" src="./images/3_missing_sun_section.png" style="width: 400px; height: 180px;"/>
+The missing parts of the sun are created by drawing rectangles over the sun with the same color as the background.
+
 ### Part 4: Moving the missing sun sections
-     
-      <img alt="" src="./images/4b_resizing_section.gif" style="width: 400px; height: 330px;"/>
-      To move a section upwards each rectangle's y value needs to decrease.
+
+
+<img alt="" src="./images/4b_resizing_section.gif" style="width: 400px; height: 330px;"/>
+To move a section upwards each rectangle's y value needs to decrease.
 To make the section get smaller, its height value needs to also decrease.
+
 ### Part 5: Managing the missing sun sections
-      
-       <img alt="" src="./images/5_multiple_sections.gif" style="width: 400px; height: 225px;"/>
-       Using a List to manage moving multiple missing sun sections
+
+
+<img alt="" src="./images/5_multiple_sections.gif" style="width: 400px; height: 225px;"/>
+Using a List to manage moving multiple missing sun sections
+
 ### Part 6: Adding reflections, stars, and other extras
-       
-        <img alt="" src="./images/6_retro_sun_extras.gif" style="width: 400px; height: 225px;"/>
-        If you want to make your retro sun look more unique, try adding reflections and stars. You may use the example classes below.
+
+
+<img alt="" src="./images/6_retro_sun_extras.gif" style="width: 400px; height: 225px;"/>
+If you want to make your retro sun look more unique, try adding reflections and stars. You may use the example classes below.
 ```
 
 class Star {
@@ -172,11 +186,11 @@ class Reflection {
   }
 }
 ```
-       
-      
-     
-    
-   
-  
- 
+
+
+
+
+
+
+
 

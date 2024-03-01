@@ -1,10 +1,16 @@
 
+
 # The Riddler
-  <hr/>
-  <img src="./images/riddler.jpg"/>
+
+<hr/>
+<img src="./images/riddler.jpg"/>
+
 ## Goal:
-   Ask the user some riddles!
+
+Ask the user some riddles!
+
 ## Steps:
+
 1. Make a variable to hold the player's score.
 ```
 
@@ -18,6 +24,6 @@ score++;
 ```
 4. Otherwise, tell them they are "wrong" and also tell them the correct answer
 5. Add some more riddles
-  
- 
+
+
 

@@ -1,15 +1,23 @@
 
+
 # The League of Amazing Programmers
+
+
 ## What's the Output?
+
+
 ### Each number is a complete Java program. If you were to run this program, what output would show up on the screen?
-	Type your answers in the box. Read each question carefully. Your answers must be exact.
+
+Type your answers in the box. Read each question carefully. Your answers must be exact.
 ```
+
 1.
 class MyJavaProgram{
 	public static void main(String[] args){
 		System.out.println("Tacos");
 	}
 }
+
 2.
 class MyJavaProgram{
 	public static void main(String[] args){
@@ -17,6 +25,7 @@ class MyJavaProgram{
 		System.out.println(book);
 	}
 }
+
 3.
 class MyJavaProgram{
 	public static void main(String[] args){
@@ -24,6 +33,7 @@ class MyJavaProgram{
 		System.out.println(book + " " + book);
 	}
 }
+
 4.
 class MyJavaProgram{
 	public static void main(String[] args){
@@ -31,6 +41,7 @@ class MyJavaProgram{
 		System.out.println("book");
 	}
 }
+
 5.
 class MyJavaProgram{
 	public static void main(String[] args){
@@ -38,6 +49,7 @@ class MyJavaProgram{
 		System.out.println(i);
 	}
 }
+
 6.
 class MyJavaProgram{
 	public static void main(String[] args){
@@ -46,6 +58,7 @@ class MyJavaProgram{
 		System.out.println(x + y);
 	}
 }
+
 7.
 class MyJavaProgram{
 	public static void main(String[] args){
@@ -59,6 +72,7 @@ class MyJavaProgram{
 		}
 	}
 }
+
 8.
 class MyJavaProgram{
 	public static void main(String[] args){
@@ -75,6 +89,7 @@ class MyJavaProgram{
 
 	}
 }
+
 9.
 class MyJavaProgram{
 	public static void main(String[] args){
@@ -96,6 +111,7 @@ class MyJavaProgram{
 
 	}
 }
+
 10.
 class MyJavaProgram{
 	public static void main(String[] args){
@@ -114,6 +130,7 @@ class MyJavaProgram{
 		}
 	}
 }
+
 11.
 class MyJavaProgram{
 	public static void main(String[] args){
@@ -124,6 +141,7 @@ class MyJavaProgram{
 		System.out.print(y);
 	}
 }
+
 12.
 class MyJavaProgram{
 	public static void main(String[] args){
@@ -134,6 +152,7 @@ class MyJavaProgram{
 		System.out.print(c + a + b);
 	}
 }
+
 13.
 class MyJavaProgram{
 	public static void main(String[] args){
@@ -144,6 +163,7 @@ class MyJavaProgram{
 		System.out.print(c + a + b);
 	}
 }
+
 14.
 class MyJavaProgram{
 	public static void main(String[] args){
@@ -152,6 +172,7 @@ class MyJavaProgram{
 		}
 	}
 }
+
 15.
 class MyJavaProgram{
 	public static void main(String[] args){
@@ -160,6 +181,7 @@ class MyJavaProgram{
 		}
 	}
 }
+
 16.
 class MyJavaProgram{
 	public static void main(String[] args){
@@ -169,6 +191,7 @@ class MyJavaProgram{
 		}
 	}
 }
+
 17.
 class MyJavaProgram{
 	public static void main(String[] args){
@@ -179,6 +202,7 @@ class MyJavaProgram{
 		System.out.println(d);
 	}
 }
+
 18.
 class MyJavaProgram{
 	public static void main(String[] args){
@@ -189,6 +213,7 @@ class MyJavaProgram{
 		}
 	}
 }
+
 19.
 class MyJavaProgram{
 	public static void main(String[] args){
@@ -199,6 +224,7 @@ class MyJavaProgram{
 		System.out.println(count);
 	}
 }
+
 20.
 class MyJavaProgram{
 	public static void main(String[] args){
@@ -214,5 +240,5 @@ class MyJavaProgram{
 
 SUBMIT YOUR ANSWERS
 ```
- <hr size="3"/>
+<hr size="3"/>
 

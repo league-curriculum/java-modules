@@ -1,10 +1,12 @@
 <html>
- <font color="orange">
+<font color="orange">
+
 ## You're going to create a program that plays Hang Man!
- </font>
- <center>
-  Run hangman.jar to play the finished product.
- </center>
+
+</font>
+<center>
+Run hangman.jar to play the finished product.
+</center>
 ```
 
 Step 1: When the program starts, it will ask the user for a number (up to the total words in the file). Then the 

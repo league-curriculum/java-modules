@@ -1,7 +1,13 @@
 
+
 # The League of Amazing Programmers
+
+
 ## Moustaches
+
+
 ### Put the moustaches where they belong
+
 ```
 
   
@@ -28,5 +34,5 @@ public class Moustache2
 
 SUBMIT YOUR ANSWER
 ```
- <hr size="3"/>
+<hr size="3"/>
 

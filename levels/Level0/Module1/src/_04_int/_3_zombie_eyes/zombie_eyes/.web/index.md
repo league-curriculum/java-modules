@@ -1,10 +1,16 @@
 
+
 # Zombie Eyes
-  <hr/>
-  <img alt="Zombie Eyes image" src="http://level0.jointheleague.org/modules/Mod1Recipes/images/zombieEyes.png       "/>
+
+<hr/>
+<img alt="Zombie Eyes image" src="http://level0.jointheleague.org/modules/Mod1Recipes/images/zombieEyes.png       "/>
+
 ## Goal:
-   You are going to make a face with animated eyes. You could use your own face (if you have a photo) or a zombie, a cat, or whatever you like. Whatever you choose, the eyes should be prominent (large).
+
+You are going to make a face with animated eyes. You could use your own face (if you have a photo) or a zombie, a cat, or whatever you like. Whatever you choose, the eyes should be prominent (large).
+
 ## Steps:
+
 1. Find the Zombie Eyes recipe program ( zombie_eyes.pde ) and open it using Processing.
 2. Drop the image of a face onto your sketch. Load it like this in the setup method:
 ```
@@ -35,6 +41,6 @@ fill(red, green, blue);
 7. Use mouseX and mouseY to change the color of the irises when the mouse moves.
 8. Draw black pupils on top of the irises.
 9. Make sure you SAVE YOUR CODE when you are done.
-  
- 
+
+
 

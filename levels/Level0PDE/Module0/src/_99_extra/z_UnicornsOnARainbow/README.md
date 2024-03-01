@@ -1,13 +1,19 @@
 
+
 # Unicorns on a Rainbow
-  <hr/>
-  <img alt="unicorn rainbow image" src="./images/unicornOnRainbow.png"/>
+
+<hr/>
+<img alt="unicorn rainbow image" src="./images/unicornOnRainbow.png"/>
+
 ## Goal:
-   Draw a rainbow, then put a unicorn on it.
+
+Draw a rainbow, then put a unicorn on it.
+
 ## Steps:
+
 1. Find the Unicorns on a Rainbow recipe program ( z_UnicornsOnARainbow.pde ) and open it using Processing.
 2. Follow the instructions in the program to help you draw a rainbow and put a unicorn on it.
 3. Make sure you SAVE YOUR CODE when you are done.
-  
- 
+
+
 

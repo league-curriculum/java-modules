@@ -1,11 +1,15 @@
 
-# Sound Effects Machine
-1.  Create a GUI for a sound effects machine that will play different sounds when the buttons are pressed.
-      If you need help, take a look at the instructions for the Fortune Cookie recipe. 
 
-     NOTE: because this GUI has more than one button, you must add a JPanel to your JFrame and put the buttons on the panel!
+# Sound Effects Machine
+
+1.  Create a GUI for a sound effects machine that will play different sounds when the buttons are pressed.
+If you need help, take a look at the instructions for the Fortune Cookie recipe.
+
+NOTE: because this GUI has more than one button, you must add a JPanel to your JFrame and put the buttons on the panel!
+
 2. Gather sound bites. They must be .wav files. Free sound effects can be found here. The League also has an account at freesound. Ask your teacher for our login.
-        The .wav files must be placed into your recipe package(_3_sound_effects_machine) (drag and drop).
+The .wav files must be placed into your recipe package(_3_sound_effects_machine) (drag and drop).
+
 3. Call this playSound() method when they click on a button. You will need to import java.applet.AudioClip
 ```
 
@@ -30,5 +34,5 @@
 		
 	}
 ```
- 
+
 

@@ -1,90 +1,198 @@
 
+
 # Level 0 Module 1
-  <form action="https://classroom.github.com/a/PerOaORR" id="moduleButtonForm" method="get">
-   <button id="acceptModuleButton" type="submit">
-    <span>
-     Accept Module
-    </span>
-   </button>
-  </form>
-  <!-- <h3><a href="../Level_0_Cheat_Guide.pdf">Cheat Sheet</a></h3> -->
+
+<form action="https://classroom.github.com/a/PerOaORR" id="moduleButtonForm" method="get">
+<button id="acceptModuleButton" type="submit">
+<span>
+Accept Module
+</span>
+</button>
+</form>
+<!-- <h3><a href="../Level_0_Cheat_Guide.pdf">Cheat Sheet</a></h3> -->
+
 ## Learn
+
+
 ### variables (intro)
-   <hr/>
+
+<hr/>
+
 ### RGB color model
-   <hr/>
+
+<hr/>
+
 ### if/else
+
+
 ###
+
+
 ###
-   <hr/>
+
+<hr/>
+
 ### int variables
+
+
 ### ++ / --
-   <hr/>
+
+<hr/>
+
 ### for loops
+
+
 ###
-   <hr/>
+
+<hr/>
+
 ### Spot the error
+
+
 ###
+
+
 ###
-   <hr/>
+
+<hr/>
+
 ### Extra Practice
+
+
 ## Eclipse
+
+
 ###
-   <hr/>
+
+<hr/>
+
 ###
-   <hr/>
+
+<hr/>
+
 ### Unbirthday
+
+
 ### Remarkable
+
+
 ### Secret Message Box
-   <hr/>
+
+<hr/>
+
 ### The Riddler
+
+
 ### Robot in Space
-   <hr/>
+
+<hr/>
+
 ### My Ages
+
+
 ### Badgers
-   <hr/>
+
+<hr/>
+
 ### Fix the print
+
+
 ### Hello Bob!
+
+
 ### Make it count
-   <hr/>
+
+<hr/>
+
 ## Processing
+
+
 ###
-   <hr/>
+
+<hr/>
+
 ### Venn Diagram of Me
-   <hr/>
+
+<hr/>
+
 ### Tasty Tomato
+
+
 ### Pizza
+
+
 ###
-   <hr/>
+
+<hr/>
+
 ### Zombie Eyes
+
+
 ### Rocket Ship Blastoff
-   <hr/>
+
+<hr/>
+
 ### Bananas 4eva
+
+
 ### Banana Split
-   <hr/>
+
+<hr/>
+
 ###
+
+
 ###
+
+
 ###
-   <hr/>
+
+<hr/>
+
 ## Self-Test
+
+
 ###
-   <hr/>
+
+<hr/>
+
 ###
-   <hr/>
+
+<hr/>
+
 ###
+
+
 ###
+
+
 ###
-   <hr/>
+
+<hr/>
+
 ###
+
+
 ###
-   <hr/>
+
+<hr/>
+
 ### For Loop Check
+
+
 ###
-   <hr/>
+
+<hr/>
+
 ###
+
+
 ###
+
+
 ###
-   <hr/>
-  
- 
+
+<hr/>
+
+
 

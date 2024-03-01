@@ -1,72 +1,168 @@
 
+
 # Level 0 Module 3
-  <form action="https://classroom.github.com/a/bmdMzeFO" id="moduleButtonForm" method="get">
-   <button id="acceptModuleButton" type="submit">
-    <span>
-     Accept Module
-    </span>
-   </button>
-  </form>
-  <!-- <h3><a href="../Level_0_Cheat_Guide.pdf">Cheat Sheet</a></h3> -->
+
+<form action="https://classroom.github.com/a/bmdMzeFO" id="moduleButtonForm" method="get">
+<button id="acceptModuleButton" type="submit">
+<span>
+Accept Module
+</span>
+</button>
+</form>
+<!-- <h3><a href="../Level_0_Cheat_Guide.pdf">Cheat Sheet</a></h3> -->
+
 ## Learn
+
+
 ### else if
+
+
 ###
+
+
 ###
+
+
 ###
+
+
 ###
-   <hr/>
+
+<hr/>
+
 ### loop variables
+
+
 ###
+
+
 ###
-   <hr/>
+
+<hr/>
+
 ### remainder
+
+
 ###
-   <hr/>
+
+<hr/>
+
 ### Extra Practice
+
+
 ## Eclipse
+
+
 ### Color Chooser
+
+
 ### Crazy Cat Lady
+
+
 ### High Low
+
+
 ### Are You Happy?
+
+
 ### Own Adventure
-   <hr/>
+
+<hr/>
+
 ### Years Alive
+
+
 ### Shiny Objects
+
+
 ### Robot Walk of Fame
-   <hr/>
+
+<hr/>
+
 ### Fizz Buzz
+
+
 ###
-   <hr/>
+
+<hr/>
+
 ## Processing
+
+
 ###
+
+
 ###
+
+
 ###
+
+
 ###
+
+
 ###
-   <hr/>
+
+<hr/>
+
 ### 99 Bottles
+
+
 ###
+
+
 ###
-   <hr/>
+
+<hr/>
+
 ### Bullseye
+
+
 ### Bumble Bee
-   <hr/>
+
+<hr/>
+
 ###
+
+
 ## Self-Test
+
+
 ### else if check
+
+
 ###
+
+
 ###
+
+
 ###
+
+
 ###
-   <hr/>
+
+<hr/>
+
 ### loop var check
+
+
 ###
+
+
 ###
-   <hr/>
+
+<hr/>
+
 ### remainder check
+
+
 ###
-   <hr/>
+
+<hr/>
+
 ###
-  
- 
+
+
+
 

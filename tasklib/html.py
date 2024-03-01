@@ -9,7 +9,7 @@ def html_list_to_markdown(html_list):
     tag_name = html_list.name
     for index, li in enumerate(html_list.find_all("li"), start=1):
         prefix = "* " if tag_name == "ul" else f"{index}. "
-        markdown_lines.append(f"{prefix}{li.text}")
+        markdown_lines.append(f"{prefix}{li.text.strip()}")
     return "\n".join(markdown_lines)
 
 def replace_lists_with_markdown(body):
@@ -94,8 +94,6 @@ def html_to_markdown(file_path):
 
     replace_lists_with_markdown(body)
 
-
-
     # Extract the body content as html
     md = str(body.prettify())
     md = html.unescape(md)
@@ -119,22 +117,18 @@ def html_to_markdown(file_path):
     # Remove leading spaces for before  text, but not inside triple backticks
     o = ''
     do_strip = True
+
     for line in md.splitlines():
         if line.startswith('```'):
             do_strip = not do_strip
         if do_strip:
             line = line.strip()
 
+        # Re add spaces around headings.
+        if line.startswith('#'):
+            line = '\n'+line+'\n'
+
         o += line + '\n'
 
-
-
-
-    # Remove any leading space before numbered list items, which
-    # have a number, then a period, then a space, but keep the number
-    # just remove the leading space.
-    md = re.sub(r'\n\s*(\d+\.\s)', r'\n\1', md)
-
-
-    return md
+    return o
 

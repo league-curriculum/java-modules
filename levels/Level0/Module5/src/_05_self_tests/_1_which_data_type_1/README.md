@@ -1,7 +1,13 @@
 
+
 # The League of Amazing Programmers
+
+
 ## Which Data Type?
+
+
 ### Fill in the blank with the correct data type.
+
 ```
 
    x = 5; 
@@ -30,5 +36,5 @@
 
 SUBMIT YOUR ANSWERS
 ```
- <hr size="3"/>
+<hr size="3"/>
 

@@ -1,12 +1,15 @@
 
+
 # Frogger
+
 1. Start a new sketch with draw, setup, and settings methods. Ask your teacher if you do not know how to do this.
+
 2.  In the settings method, set your canvas of size 800x600 for your game
-  size(width, height);
-  In the draw method, set the background color of your sketch
-  background(red,green,blue);
+size(width, height);
+In the draw method, set the background color of your sketch
+background(red,green,blue);
 3. In the draw method, draw a frog on the bottom of the canvas. (It can be a ball for now)
-  fill(red, green, blue);
+fill(red, green, blue);
 ellipse(x, y, width, height);
 4. Make member variables to keep track of your frog’s hop distance, x and y position
 5. Add code to the method below (match the code to the comments) to give our frog movement.
@@ -90,5 +93,5 @@ boolean intersects(Car car) {
         image (frog, 300, 530);
     }
 ```
- 
+
 

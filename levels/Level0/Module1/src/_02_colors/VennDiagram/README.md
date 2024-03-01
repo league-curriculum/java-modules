@@ -1,19 +1,25 @@
 
+
 # Venn Diagram of Me
-  <hr/>
-  <img alt="Venn Diagram of me image" src="./images/vennDiagram.png"/>
+
+<hr/>
+<img alt="Venn Diagram of me image" src="./images/vennDiagram.png"/>
+
 ## Goal:
-   Use the RGB color model to create a Venn Diagram that showcases your personality.
+
+Use the RGB color model to create a Venn Diagram that showcases your personality.
+
 ## Steps:
+
 1. Find the Venn Diagram recipe program ( VennDiagram.pde ) and open it using Processing.
 2. Run the program and you should see an empty gray window.
 3. After the size() command, add code to draw 3 circles to form a Venn Diagram (see picture).
-                            The command to draw a circle in Processing is:
+The command to draw a circle in Processing is:
 ```
 ellipse (centerX, centerY, circleWidth, circleHeight);
 ```
-Change the x and y of each ellipse until they overlap as in the picture. 
-                        
+Change the x and y of each ellipse until they overlap as in the picture.
+
 Run the program. It should look a bit like this
 Now to add the colors. Processing uses the following command to draw in color:
 ```
@@ -36,7 +42,7 @@ You can also make the text larger by changing the sizeOfLetters (you will have t
 ```
 textSize(sizeOfLetters);
 ```
-4. Change the x and y of each ellipse until they overlap as in the picture. 
+4. Change the x and y of each ellipse until they overlap as in the picture.
 5. Run the program. It should look a bit like this
 6. Now to add the colors. Processing uses the following command to draw in color:
 ```
@@ -69,6 +75,6 @@ text("TEXT", xLocation, yLocation);
 ```
 textSize(sizeOfLetters);
 ```
-  
- 
+
+
 

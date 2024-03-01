@@ -1,6 +1,8 @@
 
+
 # Tea Party
-  You are hosting a formal Tea Party. Your task is to welcome your guests properly. Here are the rules
+
+You are hosting a formal Tea Party. Your task is to welcome your guests properly. Here are the rules
 for welcoming guests:
 
 If the guest has been knighted by the Queen and is male, use the title "Sir" before their name to
@@ -18,7 +20,7 @@ public class TeaParty {
     }
 }
 ```
-  Here is some JUnit Test code to check your welcome method. Run the tests and check that the green
+Here is some JUnit Test code to check your welcome method. Run the tests and check that the green
 "pass" bar is displayed.
 ```
 
@@ -58,5 +60,5 @@ public class TeaPartyTest {
 
 }
 ```
- 
+
 

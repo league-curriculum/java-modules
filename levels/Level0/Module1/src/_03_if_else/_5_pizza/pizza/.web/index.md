@@ -1,10 +1,16 @@
 
+
 # Pizza
-  <hr/>
-  <img src="./images/pizza.jpeg"/>
+
+<hr/>
+<img src="./images/pizza.jpeg"/>
+
 ## Goal:
-   Make a pizza with whatever toppings you can imagine!
+
+Make a pizza with whatever toppings you can imagine!
+
 ## Steps:
+
 1. Find the Pizza recipe program ( pizza.pde ) and open it using Processing.
 2. Set your canvas size in the setup method.
 ```
@@ -12,14 +18,14 @@
 size(width, height);
 ```
 3. Draw a biscuit colored ellipse for the pizza base, a red ellipse for sauce and a yellow ellipse inside (for the cheese).
-                                    Do this in the setup method. You can use R,G,B values or the Processing Color Selector Tool to help you find the right colors.
+Do this in the setup method. You can use R,G,B values or the Processing Color Selector Tool to help you find the right colors.
 ```
 
 fill(color);
 ellipse(x, y, width, height);
 ```
 4. Get some topping images for your pizza. Some examples are provided for you, but if you want to choose your own toppings you can.
-                                
+
 
 Make a PImage variable for each type of topping at the top of the sketch:
 ```
@@ -92,7 +98,7 @@ pepperoni.resize(30, 30);
 ```
 10. Repeat the above steps for more toppings.
 11. Add more code so that the toppings are only drawn when the user clicks the mouse (in draw method).
-12. Make sure you SAVE YOUR CODE when you are done. 
+12. Make sure you SAVE YOUR CODE when you are done.
 13. OPTIONAL Add a different topping with the right mouse click.
 ```
 
@@ -106,9 +112,9 @@ pizzaBox.resize(width, height);      //to match your canvas size
 background(pizzaBox);       //in setup method
 ```
 15. OPTIONAL: To play a sound when you add a topping....
-                                    First download a sound from freesound.org and drop it onto your sketch
+First download a sound from freesound.org and drop it onto your sketch
 
-                                    Import the minim library Pocessing > tools > add tools > libraries (search minim)
+Import the minim library Pocessing > tools > add tools > libraries (search minim)
 ```
 
 import ddf.minim.*;     //at the top of the sketch
@@ -122,6 +128,6 @@ sound = minim.loadFile("ding.wav");      //in the setup method
 sound.play();
 sound.rewind();
 ```
-  
- 
+
+
 

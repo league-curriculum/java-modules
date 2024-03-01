@@ -1,10 +1,13 @@
 
+
 # Whack-a-Mole
-  We are going to make a game where the user has to click on a "mole". The game is timed so the user can get their "whack rate".
+
+We are going to make a game where the user has to click on a "mole". The game is timed so the user can get their "whack rate".
 1. Start building a basic Swing GUI to hold the game shown below (JFrame, JPanel, etc.)
 2. Make a drawButtons method that takes a random number as a parameter. It should make a GUI like the one in the picture below, but the “mole!” location will be random each time the frame is drawn.
 
-	[Hint: set the size of the frame rather than packing it.]
+[Hint: set the size of the frame rather than packing it.]
+
 3. If they click on a button other than “mole!”, use this speak() method to tell them they missed.
 ```
 
@@ -27,6 +30,7 @@
     }
 ```
 4. Dispose of the frame and draw the buttons anew.
+
 5. After they’ve whacked 10 moles, call this endGame() method.
 ```
 private void endGame(Date timeAtStart, int molesWhacked) { 
@@ -45,5 +49,5 @@ private void playSound(String fileName) {
     sound.play();
 }
 ```
- 
+
 
