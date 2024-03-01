@@ -1,0 +1,66 @@
+assignment: 3_drum_kit
+dir: levels/Level1/Module0/src/_03_gui_with_help/_3_drum_kit
+lesson: 03_gui_with_help
+level: Level1
+meta:
+  assignment: 03_gui_with_help_3_drum_kit
+  description: ''
+  lesson: 03_gui_with_help
+  level: Level1
+  module: Module0
+  oassignment: 3_drum_kit
+  opath: Level1/Module0/src/_03_gui_with_help/_3_drum_kit
+  title: 03 Gui With Help 3 Drum Kit
+module: Module0
+resources:
+- !!python/object/apply:pathlib.PosixPath
+  - /
+  - Users
+  - eric
+  - proj
+  - league-projects
+  - curriculum
+  - java-modules
+  - levels
+  - Level1
+  - Module0
+  - src
+  - _03_gui_with_help
+  - _3_drum_kit
+  - cymbal.jpg
+- !!python/object/apply:pathlib.PosixPath
+  - /
+  - Users
+  - eric
+  - proj
+  - league-projects
+  - curriculum
+  - java-modules
+  - levels
+  - Level1
+  - Module0
+  - src
+  - _03_gui_with_help
+  - _3_drum_kit
+  - snare.jpg
+text: "\n <div id=\"recipeLeftColumn\">\n  # Drum Kit\n  <hr/>\n  <img src=\"./drumKit.png\"\
+  />\n  <div id=\"recipeGoal\">\n   ## Goal:\n   We are going to use GUI components\
+  \ to make drum kit. When different images of the drum kit are clicked, they will\
+  \ play appropriate sounds.\n  </div>\n </div>\n <div id=\"recipeRightColumn\">\n\
+  \  <div id=\"recipeSteps\">\n   ## Steps:\n   <ol id=\"stepList\">\n    <li>\n \
+  \    Create a JFrame. A JFrame is a window that has a border and title. It will\
+  \ contain one component of your GUI. In this program, it will contain a JPanel (see\
+  \ next). JFrames are invisible when you create them, so you will need to make it\
+  \ visible (follow instructions in the code).\n    </li>\n    <li>\n     Create a\
+  \ JPanel and add it to the JFrame.\n    </li>\n    <li>\n     Create a JLabel that\
+  \ shows the image of a drum (follow instructions in the code) and add it to the\
+  \ JPanel.\n     <li>\n      Packing a JFrame causes it to resize itself so that\
+  \ its components are visible. If you do anything to change the size of its contents,\
+  \ a JFrame should be packed again.\n     </li>\n     <li>\n      When you run the\
+  \ program you should see the drum\n      <img src=\"./drum.png\"/>\n     </li>\n\
+  \    </li>\n    <li>\n     Add a MouseListener to the JLabel and complete the mouseClicked()\
+  \ method so that a drum sound is played when the drum image is clicked (follow instructions\
+  \ in the code).\n    </li>\n    <li>\n     Repeat the above steps for a second JLabel\
+  \ that shows the image of a cymbal (follow instructions in the code).\n    </li>\n\
+  \    <li>\n     Your drum kit is complete!\n    </li>\n   </ol>\n  </div>\n </div>\n\
+  \n"

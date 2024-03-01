@@ -1,0 +1,24 @@
+assignment: 3_world_domination
+dir: levels/Level0/Module0/src/_03_print_and_popups/_3_world_domination
+lesson: 03_print_and_popups
+level: Level0
+meta:
+  assignment: 03_print_and_popups_3_world_domination
+  description: ''
+  lesson: 03_print_and_popups
+  level: Level0
+  module: Module0
+  oassignment: 3_world_domination
+  opath: Level0/Module0/src/_03_print_and_popups/_3_world_domination
+  title: 03 Print And Popups 3 World Domination
+module: Module0
+resources: []
+text: "\n <div id=\"recipeLeftColumn\">\n  # World Domination\n  <hr/>\n  <img alt=\"\
+  world domination image\" src=\"./worldDomination.jpg\"/>\n  <div id=\"recipeGoal\"\
+  >\n   ## Goal:\n   Use an if / else statement and pop-ups to find out if a person\
+  \ might get to rule the world!\n  </div>\n </div>\n <div id=\"recipeRightColumn\"\
+  >\n  <div id=\"recipeSteps\">\n   ## Steps:\n   <ol id=\"stepList\">\n    <li>\n\
+  \     Find the World Domination recipe program ( WorldDomination.java ) and open\
+  \ it using Eclipse.\n    </li>\n    <li>\n     Follow the instructions in the program\
+  \ to find out if a person might get to rule the world!.\n    </li>\n   </ol>\n \
+  \ </div>\n </div>\n\n"

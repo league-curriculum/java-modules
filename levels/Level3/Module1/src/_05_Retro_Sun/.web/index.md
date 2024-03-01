@@ -1,104 +1,42 @@
-<body>
-<div id="wrap">
-<div id="main">
-<div id="header">
 
-</div>
-<div id="moduleIndex">
-# Retro Sun (Processing)
-
-
-
-<div style="align-content: center">
-<img alt="" src="./images/retro_sun.gif" style="width: 600px; height: 330px;"/>
-</div>
-
-
-
-### Part 1: Drawing the Sun
-            
-
-
-
-<div style="align-content: center">
-<img alt="" src="./images/1_sun.png" style="width: 400px; height: 330px;"/>
-
-Open the starter code in Processing.
+ <div id="moduleIndex">
+  # Retro Sun (Processing)
+  ### Part 1: Drawing the Sun
+  <div style="align-content: center">
+   <img alt="" src="./1_sun.png" style="width: 400px; height: 330px;"/>
+   Open the starter code in Processing.
 Draw and fill a solid color ellipse to be the sun.
-
-
-
-### Part 2: Drawing a color gradient on the sun
-            
-
-
-
-<div style="align-content: center">
-<img alt="" src="./images/2_gradient.png" style="width: 400px; height: 180px;"/>
-
-Change the sun-colored pixels in your sketch make the sun have gradually different colors from the top to bottom.
+   ### Part 2: Drawing a color gradient on the sun
+   <div style="align-content: center">
+    <img alt="" src="./2_gradient.png" style="width: 400px; height: 180px;"/>
+    Change the sun-colored pixels in your sketch make the sun have gradually different colors from the top to bottom.
 
 Use the interpolateColor() method to find which color to change the pixel.
-
-```
+    ```
 
 // Input variable 'step' is a value from 0.0 to 1.0, where
 // 0.0 is the top of the sun and 1.0 is the bottom
 interpolateColor(color[] arr, float step)
             
 ```
-
-
-### Part 3: Drawing the missing sections at the bottom of the sun
-            
-
-
-
-<div style="align-content: center">
-<img alt="" src="./images/3_missing_sun_section.png" style="width: 400px; height: 180px;"/>
-
-The missing parts of the sun are created by drawing rectangles over the sun with the same color as the background.
-
-
-
-### Part 4: Moving the missing sun sections
-            
-
-
-
-<div style="align-content: center">
-<img alt="" src="./images/4b_resizing_section.gif" style="width: 400px; height: 330px;"/>
-
-To move a section upwards each rectangle's y value needs to decrease.
+    ### Part 3: Drawing the missing sections at the bottom of the sun
+    <div style="align-content: center">
+     <img alt="" src="./3_missing_sun_section.png" style="width: 400px; height: 180px;"/>
+     The missing parts of the sun are created by drawing rectangles over the sun with the same color as the background.
+     ### Part 4: Moving the missing sun sections
+     <div style="align-content: center">
+      <img alt="" src="./4b_resizing_section.gif" style="width: 400px; height: 330px;"/>
+      To move a section upwards each rectangle's y value needs to decrease.
 To make the section get smaller, its height value needs to also decrease.
-
-
-
-### Part 5: Managing the missing sun sections
-            
-
-
-
-<div style="align-content: center">
-<img alt="" src="./images/5_multiple_sections.gif" style="width: 400px; height: 225px;"/>
-
-Using a List to manage moving multiple missing sun sections
-
-
-
-### Part 6: Adding reflections, stars, and other extras
-            
-
-
-
-<div style="align-content: center">
-<img alt="" src="./images/6_retro_sun_extras.gif" style="width: 400px; height: 225px;"/>
-
-If you want to make your retro sun look more unique, try adding reflections and stars. You may use the example classes below.
-
-
-
-```
+      ### Part 5: Managing the missing sun sections
+      <div style="align-content: center">
+       <img alt="" src="./5_multiple_sections.gif" style="width: 400px; height: 225px;"/>
+       Using a List to manage moving multiple missing sun sections
+       ### Part 6: Adding reflections, stars, and other extras
+       <div style="align-content: center">
+        <img alt="" src="./6_retro_sun_extras.gif" style="width: 400px; height: 225px;"/>
+        If you want to make your retro sun look more unique, try adding reflections and stars. You may use the example classes below.
+        ```
 
 class Star {
   int x;
@@ -129,9 +67,7 @@ class Star {
   }
             
 ```
-
-
-```
+        ```
 
 class Reflection {
 /*
@@ -240,11 +176,11 @@ class Reflection {
 }
             
 ```
-<div id="p3link"></div>
-</div>
-</div>
-</div>
-<div id="footer">
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
 
-</div>
-</div></div></div></div></div></div></body>

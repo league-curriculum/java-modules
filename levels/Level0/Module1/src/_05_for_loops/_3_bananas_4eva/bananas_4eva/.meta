@@ -1,0 +1,23 @@
+assignment: 3_bananas_4eva
+dir: levels/Level0/Module1/src/_05_for_loops/_3_bananas_4eva/bananas_4eva
+lesson: 05_for_loops
+level: Level0
+meta:
+  assignment: 05_for_loops_3_bananas_4eva
+  description: ''
+  lesson: 05_for_loops
+  level: Level0
+  module: Module1
+  oassignment: 3_bananas_4eva
+  opath: Level0/Module1/src/_05_for_loops/_3_bananas_4eva/bananas_4eva
+  title: 05 For Loops 3 Bananas 4Eva
+module: Module1
+resources: []
+text: "\n <div id=\"recipeLeftColumn\">\n  # Bananas 4eva\n  <hr/>\n  <img alt=\"\
+  bananas\" src=\"./bananas.jpg\"/>\n  <div id=\"recipeGoal\">\n   ## Goal:\n   Practice\
+  \ using for loops!\n  </div>\n </div>\n <div id=\"recipeRightColumn\">\n  <div id=\"\
+  recipeSteps\">\n   ## Steps:\n   <ol id=\"stepList\">\n    <li>\n     Find the Bananas\
+  \ 4Eva recipe program ( bananas_4eva.pde ) and open it using Processing.\n    </li>\n\
+  \    <li>\n     Write a for loop that prints \"banana\" 1000 times.\n    </li>\n\
+  \    <li>\n     Make sure you SAVE YOUR CODE when you are done.\n    </li>\n   </ol>\n\
+  \  </div>\n </div>\n\n"

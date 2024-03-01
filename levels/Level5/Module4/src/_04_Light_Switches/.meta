@@ -1,0 +1,30 @@
+assignment: 04_Light_Switches
+dir: levels/Level5/Module4/src/_04_Light_Switches
+lesson: 04_Light_Switches
+level: Level5
+meta:
+  assignment: 04_Light_Switches
+  description: ''
+  lesson: 04_Light_Switches
+  level: Level5
+  module: Module4
+  oassignment: 04_Light_Switches
+  opath: Level5/Module4/src/_04_Light_Switches
+  title: 04 Light Switches
+module: Module4
+resources:
+- !!python/object/apply:pathlib.PosixPath
+  - /
+  - Users
+  - eric
+  - proj
+  - league-projects
+  - curriculum
+  - java-modules
+  - levels
+  - Level5
+  - Module4
+  - src
+  - _04_Light_Switches
+  - LightsSequence.gif
+text: ''

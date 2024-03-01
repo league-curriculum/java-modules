@@ -1,0 +1,24 @@
+assignment: 2_remarkable
+dir: levels/Level0/Module1/src/_03_if_else/_2_remarkable
+lesson: 03_if_else
+level: Level0
+meta:
+  assignment: 03_if_else_2_remarkable
+  description: ''
+  lesson: 03_if_else
+  level: Level0
+  module: Module1
+  oassignment: 2_remarkable
+  opath: Level0/Module1/src/_03_if_else/_2_remarkable
+  title: 03 If Else 2 Remarkable
+module: Module1
+resources: []
+text: "\n <div id=\"recipeLeftColumn\">\n  # Remarkable\n  <hr/>\n  <img src=\"./wow.jpg\"\
+  />\n  <div id=\"recipeGoal\">\n   ## Goal:\n   Find out something remarkable about\
+  \ the people in your class. When the user enters a name into your program, they\
+  \ will learn something remarkable about that person.\n  </div>\n </div>\n <div id=\"\
+  recipeRightColumn\">\n  <div id=\"recipeSteps\">\n   ## Steps:\n   <ol id=\"stepList\"\
+  >\n    <li>\n     Write the names of all the students on the white board\n    </li>\n\
+  \    <li>\n     Depending on which user types their name, tell them something remarkable\
+  \ about themselves\n    </li>\n    <li>\n     Have students walk round and try each\
+  \ other's programs\n    </li>\n   </ol>\n  </div>\n </div>\n\n"

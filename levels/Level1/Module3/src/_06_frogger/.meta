@@ -1,0 +1,121 @@
+assignment: 06_frogger
+dir: levels/Level1/Module3/src/_06_frogger
+lesson: 06_frogger
+level: Level1
+meta:
+  assignment: 06_frogger
+  description: ''
+  lesson: 06_frogger
+  level: Level1
+  module: Module3
+  oassignment: 06_frogger
+  opath: Level1/Module3/src/_06_frogger
+  title: 06 Frogger
+module: Module3
+resources:
+- !!python/object/apply:pathlib.PosixPath
+  - /
+  - Users
+  - eric
+  - proj
+  - league-projects
+  - curriculum
+  - java-modules
+  - levels
+  - Level1
+  - Module3
+  - src
+  - _06_frogger
+  - carLeft.png
+- !!python/object/apply:pathlib.PosixPath
+  - /
+  - Users
+  - eric
+  - proj
+  - league-projects
+  - curriculum
+  - java-modules
+  - levels
+  - Level1
+  - Module3
+  - src
+  - _06_frogger
+  - frog.png
+- !!python/object/apply:pathlib.PosixPath
+  - /
+  - Users
+  - eric
+  - proj
+  - league-projects
+  - curriculum
+  - java-modules
+  - levels
+  - Level1
+  - Module3
+  - src
+  - _06_frogger
+  - carRight.png
+- !!python/object/apply:pathlib.PosixPath
+  - /
+  - Users
+  - eric
+  - proj
+  - league-projects
+  - curriculum
+  - java-modules
+  - levels
+  - Level1
+  - Module3
+  - src
+  - _06_frogger
+  - froggerBackground.png
+text: "\n <div id=\"moduleIndex\">\n  # Frogger\n  1. Start a new sketch with draw,\
+  \ setup, and settings methods. Ask your teacher if you do not know how to do this.\n\
+  \n    2.  In the settings method, set your canvas of size 800x600 for your game\n\
+  \  size(width, height);\n  In the draw method, set the background color of your\
+  \ sketch\n  background(red,green,blue);\n  3. In the draw method, draw a frog on\
+  \ the bottom of the canvas. (It can be a ball for now)\n  fill(red, green, blue);\n\
+  ellipse(x, y, width, height);\n  4. Make member variables to keep track of your\
+  \ frog\u2019s hop distance, x and y position\n  5. Add code to the method below\
+  \ (match the code to the comments) to give our frog movement.\n  ```\nvoid keyPressed()\n\
+  {\n    if(key == CODED){\n        if(keyCode == UP)\n        {\n            //Frog\
+  \ Y position goes up\n        }\n        else if(keyCode == DOWN)\n        {\n \
+  \           //Frog Y position goes down \n        }\n        else if(keyCode ==\
+  \ RIGHT)\n        {\n            //Frog X position goes right\n        }\n     \
+  \   else if(keyCode == LEFT)\n        {\n            //Frog X position goes left\n\
+  \        }\n    }\n}\n```\n  6. Write a method to keep our frog from going outside\
+  \ of the canvas\n  7. Create a new Car class in Eclipse. Your Car class will include\
+  \ the car\u2019s x position, y position, the size of the car, and the speed of the\
+  \ car.\n  8. Create a constructor for your Car class that initializes each member\
+  \ variable with parameters.\n  9. Copy this functionality into your Car class to\
+  \ display your car\n  ```\nvoid display()\n  {\n    fill(0,255,0);\n    rect(x ,\
+  \ y,  size, 50);\n  }\n```\n  10. Declare several Car member variables inside your\
+  \ class and initialize them in the setup method.\n  11. Call the display() method\
+  \ from your draw method for each car. You should see your cars appear.\n  12. Inside\
+  \ your Car class write a method for the car to move to the left with its speed.\n\
+  \  13. Inside your Car class write a method for the car to move to the left with\
+  \ its speed. In the same method, if the car goes off the canvas, have it return\
+  \ to the rightmost position of your canvas.  (hint: use Processing's width variable)\n\
+  \  14.  Write another method for the car to move to the right with its speed. In\
+  \ the same method,  if the car goes off the canvas, have it return to the leftmost\
+  \ position of your canvas\n  15.  In the draw() method, alternate the driving direction\
+  \ of each of your cars to either go left or right. Use the display() method after\
+  \ every drive method.\n  16. Create getX(), getY(), and getSize() methods in your\
+  \ Car class.\n  17. Check when a car hits your frog. You can use the following intersection\
+  \ method to help.\n  ```\nboolean intersects(Car car) {\n if ((frogY &gt; car.getY()\
+  \ &amp;&amp; frogY &lt; car.getY()+50) &amp;&amp;\n                (frogX &gt; car.getX()\
+  \ &amp;&amp; frogX &lt; car.getX()+car.getSize())) {\n   return true;\n  }\n else\
+  \  {\n  return false;\n }\n```\n  18. Call the intersects method for one of your\
+  \ cars in your draw method.  If the intersects method returns true, return your\
+  \ frog to the starting point.\n  19. Repeat step 18 for all of your cars.\n  20.\
+  \ OPTIONAL.   Use images for the background, cars and frog (see image at top). You\
+  \ can find your own images, or those provided in the Module 3 Java project. See\
+  \ below for code snippets to load and draw images.\n  ```\n\n PImage back;\n PImage\
+  \ carLeft;\n PImage carRight;\n PImage frog;\n    void settings(){\n        size(844,600);\n\
+  \    }\n    void setup() {\n        back = loadImage(\"froggerBackground.png\");\n\
+  \        carLeft = loadImage(\"carLeft.png\");\n        carLeft.resize(160,100);\n\
+  \        carRight = loadImage(\"carRight.png\");\n        carRight.resize(160,100);\n\
+  \        frog = loadImage(\"frog.png\");\n        frog.resize(75,75);\n    }\n \
+  \   void draw() {\n        background(back);\n        image (carLeft,250,360);\n\
+  \        image (carRight,250, 210);\n        image (frog, 300, 530);\n    }\n  \
+  \   \n```\n </div>\n\n"

@@ -1,0 +1,25 @@
+assignment: 3_rollercoaster
+dir: levels/Level0/Module2/src/_03_string_conversion/_3_rollercoaster
+lesson: 03_string_conversion
+level: Level0
+meta:
+  assignment: 03_string_conversion_3_rollercoaster
+  description: ''
+  lesson: 03_string_conversion
+  level: Level0
+  module: Module2
+  oassignment: 3_rollercoaster
+  opath: Level0/Module2/src/_03_string_conversion/_3_rollercoaster
+  title: 03 String Conversion 3 Rollercoaster
+module: Module2
+resources: []
+text: "\n <div id=\"recipeLeftColumn\">\n  # Roller Coaster\n  <hr/>\n  <img src=\"\
+  ./rollercoaster.jpeg\"/>\n  <div id=\"recipeGoal\">\n   ## Goal:\n   Check if a\
+  \ person is tall enough to ride the roller coaster!\n  </div>\n </div>\n <div id=\"\
+  recipeRightColumn\">\n  <div id=\"recipeSteps\">\n   ## Steps:\n   <ol id=\"stepList\"\
+  >\n    <li>\n     Ask the user what height they are (in inches)\n    </li>\n   \
+  \ <li>\n     If they are 48\" or taller, tell them they can go on the coaster alone.\n\
+  \    </li>\n    <li>\n     If they are between 42\" and 47\" tall, tell them they\
+  \ need to ride with someone else.\n    </li>\n    <li>\n     If they are less than\
+  \ 42\" tall, tell them they need to grow more.\n    </li>\n   </ol>\n  </div>\n\
+  \ </div>\n\n"

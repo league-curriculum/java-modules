@@ -1,0 +1,64 @@
+assignment: 04_Maze_Maker
+dir: levels/Level3/Module4/src/_04_Maze_Maker
+lesson: 04_Maze_Maker
+level: Level3
+meta:
+  assignment: 04_Maze_Maker
+  description: ''
+  lesson: 04_Maze_Maker
+  level: Level3
+  module: Module4
+  oassignment: 04_Maze_Maker
+  opath: Level3/Module4/src/_04_Maze_Maker
+  title: 04 Maze Maker
+module: Module4
+resources:
+- !!python/object/apply:pathlib.PosixPath
+  - /
+  - Users
+  - eric
+  - proj
+  - league-projects
+  - curriculum
+  - java-modules
+  - levels
+  - Level3
+  - Module4
+  - src
+  - _04_Maze_Maker
+  - maze_incomplete.png
+- !!python/object/apply:pathlib.PosixPath
+  - /
+  - Users
+  - eric
+  - proj
+  - league-projects
+  - curriculum
+  - java-modules
+  - levels
+  - Level3
+  - Module4
+  - src
+  - _04_Maze_Maker
+  - maze.png
+text: "<html>\n ### \nThe end goal of this program is to use a depth first search\
+  \ algorithm to generate a random maze of any size.\n <img height=\"300\" src=\"\
+  https://github.com/League-level4/League-level4.github.io/blob/master/maze_complete.png?raw=true\"\
+  \ width=\"300\"/>\n ### \nFirst, complete the Maze class.\n #### \nThe result of\
+  \ running the program now gives us only a grid.\n <img height=\"300\" src=\"https://github.com/League-level4/League-level4.github.io/blob/master/maze_incomplete.png?raw=true\"\
+  \ width=\"300\"/>\n #### \nIn the MazeMaker class, complete the generateMaze method,\
+  \ selectNextPath method, the removeWalls method, and the getUnvisitedNeighbors method\
+  \ to generate a random maze.\n ##### \ngetUnvisitedNeighbors takes in a cell. It\
+  \ returns all the neighbors of the cell who have NOT yet been visited as an ArrayList.\n\
+  removeWalls takes in two cells. It then figures out the relationship between the\
+  \ two cells and sets their shared walls to false. For example, If cell1 is directly\
+  \ above cell2, the removeWalls will set cell1's south wall to false and set cell2's\
+  \ north wall to false. \nselectNextPath is a recursive method that uses the depth\
+  \ first search alogorithm to determine which walls to remove.\ngenerateMaze will\
+  \ create a maze with the given dimensions, select a cell at random, and call the\
+  \ selectNextPath method using that random cell.\n #### \nWhen the maze maker is\
+  \ generating correct mazes, pick a random cell along the border and remove its exterior\
+  \ wall. This will be the starting point. Then select a random cell along the opposite\
+  \ wall and remove its exterior wall. This will be the finish line.\n <img height=\"\
+  300\" src=\"https://github.com/League-level4/League-level4.github.io/blob/master/maze_with_exit.png?raw=true\"\
+  \ width=\"300\"/>\n</html>\n"

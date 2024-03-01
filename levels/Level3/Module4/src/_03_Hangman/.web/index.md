@@ -1,8 +1,11 @@
 <html>
-<font color="orange">## You're going to create a program that plays Hang Man!
-</font>
-<center>Run hangman.jar to play the finished product.</center>
-```
+ <font color="orange">
+  ## You're going to create a program that plays Hang Man!
+ </font>
+ <center>
+  Run hangman.jar to play the finished product.
+ </center>
+ ```
 
 Step 1: When the program starts, it will ask the user for a number (up to the total words in the file). Then the 
         program will read that many words from the "dictionary.txt" file and push them to a Stack. 

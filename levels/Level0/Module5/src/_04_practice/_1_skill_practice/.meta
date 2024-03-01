@@ -1,0 +1,40 @@
+assignment: 1_skill_practice
+dir: levels/Level0/Module5/src/_04_practice/_1_skill_practice
+lesson: 04_practice
+level: Level0
+meta:
+  assignment: 04_practice_1_skill_practice
+  description: ''
+  lesson: 04_practice
+  level: Level0
+  module: Module5
+  oassignment: 1_skill_practice
+  opath: Level0/Module5/src/_04_practice/_1_skill_practice
+  title: 04 Practice 1 Skill Practice
+module: Module5
+resources: []
+text: "\n # Skill Practice Worksheet\n public class SkillPractice {\npublic static\
+  \ void main(String[] args) {\n\n\tSkillPractice skills = new SkillPractice();\n\
+  \ \_\_\_ \_\_\_\_ \_\tskills.skill1();\n \_\_\_ \_\_\_\_ \_\tskills.skill2();\n\
+  \ \_\_\_ \_\_\_\_ \_\tskills.skill3();\n \_\_\_ \_\_\_\_ \_\tskills.skill4();\n\
+  \ \_\_\_ \_\_\_\_ \_\tskills.skill5();\n}\n\nvoid skill1() {\n\t// Use pop-ups for\
+  \ the following.\n\t// Ask the user how many dimes they have\n\n\n\n\n\t// Tell\
+  \ them how many cents they have (hint multiply by 10)\n\n\n\n\n\t// Ask the user\
+  \ how tall they are (inches)\n\n\n\n\n\t// If they are shorter than 36 inches, tell\
+  \ them to eat their Wheaties\n\n\n\n\n}\n\nvoid skill2() {\n\t// Write a loop to\
+  \ print every third number between 1 and 30 to the console\n\n\n\n\n\n\n\n\n\n}\n\
+  \nvoid skill3() {\n\t// Get a random number that is less than 20 and print it to\
+  \ the console\n\n\n\n\n\t// Get another random number that is less than 10 and print\
+  \ it to the console\n\n\n\n\n\t// Using a pop-up, tell the user the difference between\
+  \ the numbers\n\t// Hint: use subtraction\n\n\n\n\n}\n\nvoid skill4() {\n\t// In\
+  \ a pop-up, ask the user for the city they live in\n\n\n\n\n\t// If they answered\
+  \ \"San Diego\", tell them they live in America's Finest City\n\n\n\n\n\t// Otherwise,\
+  \ tell them to move to San Diego\n\n\n\n\n\t// Create a variable - cars - and initialize\
+  \ it to the number of cars your family has.\n\t// If there are 0 cars, use a pop-up\
+  \ to display, \"I bet you use public transportation.\"\n\n\n\n\n\t// If there is\
+  \ 1 car, use a pop-up to display the make/model of the car\n\n\n\n\n\t// If there\
+  \ is more than 1 car, use a pop-up to display how many wheels the\n\t// cars have\
+  \ between them.\n\n\n\n\n}\n\nvoid skill5() {\n\t// In a pop-up, ask the user for\
+  \ the name of their school\n\n\n\n\n\t// In another pop-up, tell the user, that\
+  \ their school is a fantastic school. \n\t// You must include the name of the school\
+  \ in the message.\n\n\n\n\n}\n\n}\n\n"

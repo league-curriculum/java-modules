@@ -1,63 +1,100 @@
-<body><div id="wrap"><div id="main">
-<div id="recipeLeftColumn"># Hide The Creeper
-<hr/>
-<img src="images/creeper.jpg"/>
-<div id="recipeGoal">## Goal:
-Find the Creeper!</div>
-</div>
-<div id="recipeRightColumn"><div id="recipeSteps">## Steps:
 
-<ol id="stepList">
-<li>Find the Hide the Creeper recipe program in Eclipse.
-            </li>
-<li>Set your canvas size
-```
+ <div id="recipeLeftColumn">
+  # Hide The Creeper
+  <hr/>
+  <img src="./creeper.jpg"/>
+  <div id="recipeGoal">
+   ## Goal:
+   Find the Creeper!
+  </div>
+ </div>
+ <div id="recipeRightColumn">
+  <div id="recipeSteps">
+   ## Steps:
+   <ol id="stepList">
+    <li>
+     Find the Hide the Creeper recipe program in Eclipse.
+    </li>
+    <li>
+     Set your canvas size
+     ```
 
 size(width, height) //in settings method
 
 ```
-</li><li>Download a background image. Something with green where creeper can hide.
-<ol class="insetRecipeStepsOL">
-<li>Save the image.</li>
-<li>Drop the file into the <b>/images</b> folder.</li>
-<li>Load it as the background (it must be same size as your canvas)</li>
-</ol>
-```
+    </li>
+    <li>
+     Download a background image. Something with green where creeper can hide.
+     <ol class="insetRecipeStepsOL">
+      <li>
+       Save the image.
+      </li>
+      <li>
+       Drop the file into the
+       <b>
+        /images
+       </b>
+       folder.
+      </li>
+      <li>
+       Load it as the background (it must be same size as your canvas)
+      </li>
+     </ol>
+     ```
 
 PImage minecraft = loadImage("minecraft.png");     //in setup method
 minecraft.resize(width, height);          //in setup method
 background(minecraft);          //in setup method
 
 ```
-</li><li>Load the creeper image into your sketch
-<ol class="insetRecipeStepsOL">
-<li>Download a Creeper image</li>
-<li>Drop the image onto your sketch</li>
-<li>Use the code below to draw the image (make sure you put the code in the right place)</li>
-</ol>
-```
+    </li>
+    <li>
+     Load the creeper image into your sketch
+     <ol class="insetRecipeStepsOL">
+      <li>
+       Download a Creeper image
+      </li>
+      <li>
+       Drop the image onto your sketch
+      </li>
+      <li>
+       Use the code below to draw the image (make sure you put the code in the right place)
+      </li>
+     </ol>
+     ```
 
 PImage creeper;     //at the top of your program
 creeper=loadImage("creeper.png");     //in setup method
 image(creeper, mouseX, mouseY);     //in draw method
 
 ```
-</li><li>Right after it’s loaded, resize the creeper image so that it is small and can hide.
-```
+    </li>
+    <li>
+     Right after it’s loaded, resize the creeper image so that it is small and can hide.
+     ```
 
 creeper.resize(width, height);     //in setup method
 
 ```
-</li><li>Pick a place to hide your creeper. 
-<ol class="insetRecipeStepsOL">
-<li>Use two variables to store the location (x and y) of the creeper, and initialize them (at the top of your sketch).</li>
-<li>Change your code so that the creeper image is drawn at this location.</li>
-</ol>
-</li><li>In the draw method, draw a small red ellipse where the mouse clicks.
-
-</li><li>If mouseX and mouseY are near the location of your creeper, make the circle green. 
+    </li>
+    <li>
+     Pick a place to hide your creeper.
+     <ol class="insetRecipeStepsOL">
+      <li>
+       Use two variables to store the location (x and y) of the creeper, and initialize them (at the top of your sketch).
+      </li>
+      <li>
+       Change your code so that the creeper image is drawn at this location.
+      </li>
+     </ol>
+    </li>
+    <li>
+     In the draw method, draw a small red ellipse where the mouse clicks.
+    </li>
+    <li>
+     If mouseX and mouseY are near the location of your creeper, make the circle green. 
 Note: you will need to check the x and y values separately if you use the code below.
-```
+     ```
 
 boolean isNear(int a, int b) {
 if (abs(a - b) &lt; 10)
@@ -67,7 +104,14 @@ else
 }
 
 ```
-</li><li>Let the user know that they found the creeper.
+    </li>
+    <li>
+     Let the user know that they found the creeper.
+    </li>
+    <li>
+     Option: Add more creepers, or move the creeper after they find it.
+    </li>
+   </ol>
+  </div>
+ </div>
 
-</li><li>Option: Add more creepers, or move the creeper after they find it.
-</li></ol><div style="clear:both;"></div></div></div></div></div><div id="footer"></div></body>

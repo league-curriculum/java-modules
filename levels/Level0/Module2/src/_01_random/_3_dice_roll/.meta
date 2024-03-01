@@ -1,0 +1,114 @@
+assignment: 3_dice_roll
+dir: levels/Level0/Module2/src/_01_random/_3_dice_roll
+lesson: 01_random
+level: Level0
+meta:
+  assignment: 01_random_3_dice_roll
+  description: ''
+  lesson: 01_random
+  level: Level0
+  module: Module2
+  oassignment: 3_dice_roll
+  opath: Level0/Module2/src/_01_random/_3_dice_roll
+  title: 01 Random 3 Dice Roll
+module: Module2
+resources:
+- !!python/object/apply:pathlib.PosixPath
+  - /
+  - Users
+  - eric
+  - proj
+  - league-projects
+  - curriculum
+  - java-modules
+  - levels
+  - Level0
+  - Module2
+  - src
+  - _01_random
+  - _3_dice_roll
+  - dice 1.png
+- !!python/object/apply:pathlib.PosixPath
+  - /
+  - Users
+  - eric
+  - proj
+  - league-projects
+  - curriculum
+  - java-modules
+  - levels
+  - Level0
+  - Module2
+  - src
+  - _01_random
+  - _3_dice_roll
+  - dice 2.png
+- !!python/object/apply:pathlib.PosixPath
+  - /
+  - Users
+  - eric
+  - proj
+  - league-projects
+  - curriculum
+  - java-modules
+  - levels
+  - Level0
+  - Module2
+  - src
+  - _01_random
+  - _3_dice_roll
+  - dice 3.png
+- !!python/object/apply:pathlib.PosixPath
+  - /
+  - Users
+  - eric
+  - proj
+  - league-projects
+  - curriculum
+  - java-modules
+  - levels
+  - Level0
+  - Module2
+  - src
+  - _01_random
+  - _3_dice_roll
+  - dice 6.png
+- !!python/object/apply:pathlib.PosixPath
+  - /
+  - Users
+  - eric
+  - proj
+  - league-projects
+  - curriculum
+  - java-modules
+  - levels
+  - Level0
+  - Module2
+  - src
+  - _01_random
+  - _3_dice_roll
+  - dice 4.png
+- !!python/object/apply:pathlib.PosixPath
+  - /
+  - Users
+  - eric
+  - proj
+  - league-projects
+  - curriculum
+  - java-modules
+  - levels
+  - Level0
+  - Module2
+  - src
+  - _01_random
+  - _3_dice_roll
+  - dice 5.png
+text: "\n <div id=\"recipeLeftColumn\">\n  # Dice Roll\n  <hr/>\n  <img src=\"./dice.png\"\
+  />\n  <div id=\"recipeGoal\">\n   ## Goal:\n   Use a Random object to generate random\
+  \ integers so your code can roll different numbers on a dice.\n  </div>\n </div>\n\
+  \ <div id=\"recipeRightColumn\">\n  <div id=\"recipeSteps\">\n   ## Steps:\n   <ol\
+  \ id=\"stepList\">\n    <li>\n     Create a Random object.\n    </li>\n    <li>\n\
+  \     Generate a random number between 1 and 6.\n    </li>\n    <li>\n     Change\
+  \ the code to display the dice image to match the number each time the \"CLICK HERE\
+  \ TO ROLL\" button is pressed.\n    </li>\n    <li>\n     Test your code to make\
+  \ sure all 6 sides are displayed.\n    </li>\n   </ol>\n  </div>\n </div>\n\n"

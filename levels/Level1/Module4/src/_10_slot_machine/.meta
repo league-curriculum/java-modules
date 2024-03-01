@@ -1,0 +1,31 @@
+assignment: 10_slot_machine
+dir: levels/Level1/Module4/src/_10_slot_machine
+lesson: 10_slot_machine
+level: Level1
+meta:
+  assignment: 10_slot_machine
+  description: ''
+  lesson: 10_slot_machine
+  level: Level1
+  module: Module4
+  oassignment: 10_slot_machine
+  opath: Level1/Module4/src/_10_slot_machine
+  title: 10 Slot Machine
+module: Module4
+resources: []
+text: "\n <div id=\"moduleIndex\">\n  # Slot Machine\n  We are going to make a slot\
+  \ machine.\n  The slot machine we are going to make, will look a little like the\
+  \ middle row on this image:\n  First, find 3 images for the slot machine to display,\
+  \ e.g. cherry, orange, lime.\n\n            Each \"reel\" of the slot machine will\
+  \ randomly display one of 3 images you have chosen (you can add more images later\
+  \ if there is time).\n\n\n\n    Put a \"SPIN\" button onto the frame that causes\
+  \ each of the 3 \"reels\" to randomly change the image they are showing.\n\n\n \
+  \   If all 3 reels have the same image showing (like in the picture above), the\
+  \ player wins. Display a \"YOU WIN\" message, optionally add a sound of success,\
+  \ and if you are still having fun - update a win counter to show the user how many\
+  \ times they have won.\n\n\n    You may find the code below helpful:\n\n\nprivate\
+  \ JLabel createLabelImage(String fileName) throws MalformedURLException{\n     \
+  \   URL imageURL = getClass().getResource(fileName);\n\tif (imageURL == null){\n\
+  \t\tSystem.err.println(\"Could not find image \" + fileName);\n\t\treturn new JLabel();\n\
+  \t}\n\tIcon icon = new ImageIcon(imageURL);\n\tJLabel imageLabel = new JLabel(icon);\n\
+  \treturn imageLabel;\n}\n </div>\n\n"

@@ -1,0 +1,22 @@
+assignment: 5_own_adventure
+dir: levels/Level0/Module3/src/_01_else_if/_5_own_adventure
+lesson: 01_else_if
+level: Level0
+meta:
+  assignment: 01_else_if_5_own_adventure
+  description: ''
+  lesson: 01_else_if
+  level: Level0
+  module: Module3
+  oassignment: 5_own_adventure
+  opath: Level0/Module3/src/_01_else_if/_5_own_adventure
+  title: 01 Else If 5 Own Adventure
+module: Module3
+resources: []
+text: "\n <div id=\"recipeLeftColumn\">\n  # Choose Your Own Adventure\n  <hr/>\n\
+  \  <img src=\"https://league-central.github.io/curriculum/img/leagueOversized.jpeg\"\
+  />\n  <div id=\"recipeGoal\">\n   ## Goal:\n   Tell the user a story, but give them\
+  \ options so they can decide the path of the plot.\n  </div>\n </div>\n <div id=\"\
+  recipeRightColumn\">\n  <div id=\"recipeSteps\">\n   ## Steps:\n   <ol id=\"stepList\"\
+  >\n    <li>\n     Use JOptionPanes, if statements, and your imagination to make\
+  \ an interesting story.\n    </li>\n   </ol>\n  </div>\n </div>\n\n"

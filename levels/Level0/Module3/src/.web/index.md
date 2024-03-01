@@ -1,135 +1,80 @@
-<body>
-<div id="wrap">
-<div id="main">
-<div id="moduleIndex">
-# Level 0 Module 3
 
-<form action="https://classroom.github.com/a/bmdMzeFO" id="moduleButtonForm" method="get">
-<button id="acceptModuleButton" type="submit"><span>Accept Module</span></button>
-</form>
-<!-- <h3><a href="../Level_0_Cheat_Guide.pdf">Cheat Sheet</a></h3> -->
-<div class="moduleIndexColumn">
-## Learn
+ <div id="moduleIndex">
+  # Level 0 Module 3
+  <form action="https://classroom.github.com/a/bmdMzeFO" id="moduleButtonForm" method="get">
+   <button id="acceptModuleButton" type="submit">
+    <span>
+     Accept Module
+    </span>
+   </button>
+  </form>
+  <!-- <h3><a href="../Level_0_Cheat_Guide.pdf">Cheat Sheet</a></h3> -->
+  <div class="moduleIndexColumn">
+   ## Learn
+   ### else if
+   ###
+   ###
+   ###
+   ###
+   <hr/>
+   ### loop variables
+   ###
+   ###
+   <hr/>
+   ### remainder
+   ###
+   <hr/>
+   ### Extra Practice
+  </div>
+  <div class="moduleIndexColumn">
+   ## Eclipse
+   ### Color Chooser
+   ### Crazy Cat Lady
+   ### High Low
+   ### Are You Happy?
+   ### Own Adventure
+   <hr/>
+   ### Years Alive
+   ### Shiny Objects
+   ### Robot Walk of Fame
+   <hr/>
+   ### Fizz Buzz
+   ###
+   <hr/>
+  </div>
+  <div class="moduleIndexColumn">
+   ## Processing
+   ###
+   ###
+   ###
+   ###
+   ###
+   <hr/>
+   ### 99 Bottles
+   ###
+   ###
+   <hr/>
+   ### Bullseye
+   ### Bumble Bee
+   <hr/>
+   ###
+  </div>
+  <div class="moduleIndexColumn">
+   ## Self-Test
+   ### else if check
+   ###
+   ###
+   ###
+   ###
+   <hr/>
+   ### loop var check
+   ###
+   ###
+   <hr/>
+   ### remainder check
+   ###
+   <hr/>
+   ###
+  </div>
+ </div>
 
-### else if
-
-### 
-
-### 
-
-### 
-
-### 
-
-<hr/>
-### loop variables
-
-### 
-
-### 
-
-<hr/>
-### remainder
-
-### 
-
-<hr/>
-### Extra Practice
-
-</div>
-<div class="moduleIndexColumn">
-## Eclipse
-
-### Color Chooser
-
-### Crazy Cat Lady
-
-### High Low
-
-### Are You Happy?
-
-### Own Adventure
-
-<hr/>
-### Years Alive
-
-### Shiny Objects
-
-### Robot Walk of Fame
-
-<hr/>
-### Fizz Buzz
-
-### 
-
-<hr/>
-</div>
-<div class="moduleIndexColumn">
-## Processing
-
-### 
-
-### 
-
-### 
-
-### 
-
-### 
-
-<hr/>
-### 99 Bottles
-
-### 
-
-### 
-
-<hr/>
-### Bullseye
-
-### Bumble Bee
-
-<hr/>
-### 
-
-
-
-</div>
-<div class="moduleIndexColumn">
-## Self-Test
-
-### else if check
-
-### 
-
-### 
-
-### 
-
-### 
-
-<hr/>
-### loop var check
-
-### 
-
-### 
-
-<hr/>
-### remainder check
-
-### 
-
-<hr/>
-### 
-
-
-
-</div>
-</div>
-</div>
-</div>
-<div id="footer">
-
-</div>
-</body>

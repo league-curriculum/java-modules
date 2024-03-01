@@ -1,0 +1,16 @@
+assignment: 01_asteroids
+dir: levels/Level1/Module1/src/_01_asteroids
+lesson: 01_asteroids
+level: Level1
+meta:
+  assignment: 01_asteroids
+  description: ''
+  lesson: 01_asteroids
+  level: Level1
+  module: Module1
+  oassignment: 01_asteroids
+  opath: Level1/Module1/src/_01_asteroids
+  title: 01 Asteroids
+module: Module1
+resources: []
+text: ''

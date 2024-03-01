@@ -1,18 +1,12 @@
-<body>
-<div id="wrap">
-# 99 Bottles
 
-<hr/>
-<div id="recipeMain">
-<div class="recipeDescription">
-## Description
-
-<hr/>
-Print the words to the "99 bottles" song in a for loop.
-
-
-
-99 bottles of beer on the wall, 99 bottles of beer.
+ # 99 Bottles
+ <hr/>
+ <div id="recipeMain">
+  <div class="recipeDescription">
+   ## Description
+   <hr/>
+   Print the words to the "99 bottles" song in a for loop.
+   99 bottles of beer on the wall, 99 bottles of beer.
 Take one down and pass it around, 98 bottles of beer on the wall.
 98 bottles of beer on the wall, 98 bottles of beer.
 Take one down and pass it around, 97 bottles of beer on the wall.
@@ -21,31 +15,27 @@ Take one down and pass it around, 97 bottles of beer on the wall.
 Take one down and pass it around, no more bottles of beer on the wall.
 No more bottles of beer on the wall, no more bottles of beer.
 Go to the store and buy some more, 99 bottles of beer on the wall.
+  </div>
+  <div class="recipeSteps">
+   ## Instructions
+   <hr/>
+   <ol id="stepList">
+    <li>
+     Find the 99 Bottles recipe program ( bottles.pde ) and open it using Processing.
+    </li>
+    <li>
+     You can find help for printing the lyrics to this song
+     [here](https://academickids.com/encyclopedia/index.php/99_Bottles_of_Beer)
+     .
+    </li>
+    <li>
+     Do not repeat any of the lyrics in your code - use a for loop!
+    </li>
+    <li>
+     Look out for the changes you will need to make to the lyrics when you get down to 1 or zero
+                        bottles.
+    </li>
+   </ol>
+  </div>
+ </div>
 
-</div>
-<div class="recipeSteps">
-## Instructions
-
-<hr/>
-<ol id="stepList">
-<li>Find the 99 Bottles recipe program ( bottles.pde ) and open it using Processing.
-                    </li>
-<li>You can find help for printing the lyrics to this song [here](https://academickids.com/encyclopedia/index.php/99_Bottles_of_Beer).
-
-                    </li>
-<li>Do not repeat any of the lyrics in your code - use a for loop!
-                    </li>
-<li>Look out for the changes you will need to make to the lyrics when you get down to 1 or zero
-                        bottles.</li>
-</ol>
-<div style="clear:both;"></div>
-</div>
-<div id="p3link">
-
-</div>
-</div>
-</div>
-<div id="footer">
-
-</div>
-</body>

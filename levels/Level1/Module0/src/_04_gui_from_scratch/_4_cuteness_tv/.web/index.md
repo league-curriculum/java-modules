@@ -1,25 +1,13 @@
-<body>
-<div id="wrap">
-<div id="main">
-<div id="header">
 
-</div>
-<div id="moduleIndex">
-# Cuteness TV
-
-
-
-
-1. Make a user interface with 3 buttons that will play different videos depending on which button is clicked. 
+ <div id="moduleIndex">
+  # Cuteness TV
+  1. Make a user interface with 3 buttons that will play different videos depending on which button is clicked. 
 
       If you need help, take a look at the instructions for the Fortune Cookie recipe. 
 
 
-  2.  Use the methods below to play the cutest videos ever. 
-
-
-
- void showDucks() {
+  2.  Use the methods below to play the cutest videos ever.
+  void showDucks() {
      playVideo("https://www.youtube.com/watch?v=MtN1YnoL46Q");
 }
 
@@ -53,15 +41,6 @@
 
      }
 	}
+  Note: If any of these video links no longer work, go to youtube and get replacements. Use the method names to give you a hint about what the videos should contain :)
+ </div>
 
-
-
-Note: If any of these video links no longer work, go to youtube and get replacements. Use the method names to give you a hint about what the videos should contain :)
-
-</div>
-</div>
-</div>
-<div id="footer">
-
-</div>
-</body>

@@ -1,0 +1,25 @@
+assignment: 6_level0_summary
+dir: levels/Level0/Module5/src/_05_self_tests/_6_level0_summary
+lesson: 05_self_tests
+level: Level0
+meta:
+  assignment: 05_self_tests_6_level0_summary
+  description: ''
+  lesson: 05_self_tests
+  level: Level0
+  module: Module5
+  oassignment: 6_level0_summary
+  opath: Level0/Module5/src/_05_self_tests/_6_level0_summary
+  title: 05 Self Tests 6 Level0 Summary
+module: Module5
+resources: []
+text: "\n # Level 0 Summary\n <div id=\"overviewPage\">\n  <div class=\"module\">\n\
+  \   ## Module 0\n   ###\n   ### Robot\n   ### Strings\n   ### JOptionPane\n   ###\
+  \ print to console\n  </div>\n  <div class=\"module\">\n   ## Module 1\n   ###\n\
+  \   ### main method\n   ### color\n   ### if statements\n   ### int\n   ### increment\n\
+  \   ### for loop\n   ###\n  </div>\n  <div class=\"module\">\n   ## Module 2\n \
+  \  ###\n   ### Random\n   ### call methods\n   ### Integer.parseInt\n  </div>\n\
+  \  <div class=\"module\">\n   ## Module 3\n   ###\n   ### if / else if / else\n\
+  \   ### for loop variables\n   ### modulo\n   ###\n   ###\n  </div>\n  <div class=\"\
+  module\">\n   ## Module 4/5\n   ###\n   ### double,boolean,char\n   ### nested loops\n\
+  \   ### writing methods\n  </div>\n </div>\n\n"

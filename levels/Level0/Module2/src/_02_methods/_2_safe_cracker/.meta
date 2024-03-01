@@ -1,0 +1,27 @@
+assignment: 2_safe_cracker
+dir: levels/Level0/Module2/src/_02_methods/_2_safe_cracker
+lesson: 02_methods
+level: Level0
+meta:
+  assignment: 02_methods_2_safe_cracker
+  description: ''
+  lesson: 02_methods
+  level: Level0
+  module: Module2
+  oassignment: 2_safe_cracker
+  opath: Level0/Module2/src/_02_methods/_2_safe_cracker
+  title: 02 Methods 2 Safe Cracker
+module: Module2
+resources: []
+text: "\n <div id=\"recipeLeftColumn\">\n  # Safe Cracker\n  <hr/>\n  <img src=\"\
+  ./safeCracker.jpg\"/>\n  <div id=\"recipeGoal\">\n   ## Goal:\n   Method calls -\
+  \ call a method passing a parameter. Your mission: use the tryCode method to crack\
+  \ the safe by trying all possible numbers.\n  </div>\n </div>\n <div id=\"recipeRightColumn\"\
+  >\n  <div id=\"recipeSteps\">\n   ## Steps:\n   <ol id=\"stepList\">\n    <li>\n\
+  \     Create a for loop that will repeat until the program ends.\n    </li>\n  \
+  \  <li>\n     Inside the loop, call the tryCode method using the for loop variable\
+  \ for the code.\n    </li>\n    <li>\n     The tryCode method will end the program\
+  \ when the correct code is guessed.\n    </li>\n    <li>\n     Run the program and\
+  \ see all the guesses being printed to the console.\n    </li>\n    <li>\n     Bonus:\
+  \ Can you change the loop so that the safe will be cracked more quickly?\n    </li>\n\
+  \   </ol>\n  </div>\n </div>\n\n"

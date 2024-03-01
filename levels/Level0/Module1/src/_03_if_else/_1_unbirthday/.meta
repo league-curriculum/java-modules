@@ -1,0 +1,23 @@
+assignment: 1_unbirthday
+dir: levels/Level0/Module1/src/_03_if_else/_1_unbirthday
+lesson: 03_if_else
+level: Level0
+meta:
+  assignment: 03_if_else_1_unbirthday
+  description: ''
+  lesson: 03_if_else
+  level: Level0
+  module: Module1
+  oassignment: 1_unbirthday
+  opath: Level0/Module1/src/_03_if_else/_1_unbirthday
+  title: 03 If Else 1 Unbirthday
+module: Module1
+resources: []
+text: "\n <div id=\"recipeLeftColumn\">\n  # Unbirthday\n  <hr/>\n  <img src=\"./unbirthday.jpg\"\
+  />\n  <div id=\"recipeGoal\">\n   ## Goal:\n   Find out if today is the user's birthday!\n\
+  \  </div>\n </div>\n <div id=\"recipeRightColumn\">\n  <div id=\"recipeSteps\">\n\
+  \   ## Steps:\n   <ol id=\"stepList\">\n    <li>\n     Ask the user for their birthday\
+  \ (mm/dd), e.g. 06/09\n    </li>\n    <li>\n     If it matches today's date, wish\
+  \ them a happy birthday\n    </li>\n    <li>\n     otherwise, wish them a very merry\
+  \ UNbirthday\n     Optional: Watch\n     [this video](https://www.youtube.com/watch?v=iL2Wm-PcfPo)\n\
+  \     .\n    </li>\n   </ol>\n  </div>\n </div>\n\n"

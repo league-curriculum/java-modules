@@ -1,0 +1,20 @@
+assignment: Pixel_Art_Save_State
+dir: levels/Level5/Module1/src/_99_extras/Pixel_Art_Save_State
+lesson: 99_extras
+level: Level5
+meta:
+  assignment: 99_extras_Pixel_Art_Save_State
+  description: ''
+  lesson: 99_extras
+  level: Level5
+  module: Module1
+  oassignment: Pixel_Art_Save_State
+  opath: Level5/Module1/src/_99_extras/Pixel_Art_Save_State
+  title: 99 Extras Pixel Art Save State
+module: Module1
+resources: []
+text: "<html>\n ### \nModify the Pixel Art Maker program you created in Level 4. \n\
+  Add a save button that will save the state of the image. When the program is started,\
+  \ \nit should load the image from the file and display it on the grid.\n\nIf you\
+  \ have not completed the Pixel Art Maker program, now would be a great time to do\
+  \ so.\n</html>\n"

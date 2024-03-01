@@ -1,9 +1,6 @@
-<body>
-# Skill Practice Worksheet
 
-
-
-public class SkillPractice {
+ # Skill Practice Worksheet
+ public class SkillPractice {
 public static void main(String[] args) {
 
 	SkillPractice skills = new SkillPractice();
@@ -121,5 +118,3 @@ void skill5() {
 
 }
 
-
-</body>

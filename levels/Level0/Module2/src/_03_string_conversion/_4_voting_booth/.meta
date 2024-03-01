@@ -1,0 +1,23 @@
+assignment: 4_voting_booth
+dir: levels/Level0/Module2/src/_03_string_conversion/_4_voting_booth
+lesson: 03_string_conversion
+level: Level0
+meta:
+  assignment: 03_string_conversion_4_voting_booth
+  description: ''
+  lesson: 03_string_conversion
+  level: Level0
+  module: Module2
+  oassignment: 4_voting_booth
+  opath: Level0/Module2/src/_03_string_conversion/_4_voting_booth
+  title: 03 String Conversion 4 Voting Booth
+module: Module2
+resources: []
+text: "\n <div id=\"recipeLeftColumn\">\n  # Voting Booth\n  <hr/>\n  <img src=\"\
+  ./vote.jpg\"/>\n  <div id=\"recipeGoal\">\n   ## Goal:\n   Check if a person is\
+  \ old enough to vote!\n  </div>\n </div>\n <div id=\"recipeRightColumn\">\n  <div\
+  \ id=\"recipeSteps\">\n   ## Steps:\n   <ol id=\"stepList\">\n    <li>\n     Ask\
+  \ the user how old they are (in years)\n    </li>\n    <li>\n     If they are over\
+  \ 18, ask them who the next president should be\n    </li>\n    <li>\n     If they\
+  \ are younger, tell them nobody cares what they think\n    </li>\n   </ol>\n  </div>\n\
+  \ </div>\n\n"

@@ -1,0 +1,54 @@
+assignment: z_UnicornsOnARainbow
+dir: levels/Level0PDE/Module0/src/_99_extra/z_UnicornsOnARainbow
+lesson: 99_extra
+level: Level0PDE
+meta:
+  assignment: 99_extra_z_UnicornsOnARainbow
+  description: ''
+  lesson: 99_extra
+  level: Level0PDE
+  module: Module0
+  oassignment: z_UnicornsOnARainbow
+  opath: Level0PDE/Module0/src/_99_extra/z_UnicornsOnARainbow
+  title: 99 Extra Z Unicornsonarainbow
+module: Module0
+resources:
+- !!python/object/apply:pathlib.PosixPath
+  - /
+  - Users
+  - eric
+  - proj
+  - league-projects
+  - curriculum
+  - java-modules
+  - levels
+  - Level0PDE
+  - Module0
+  - src
+  - _99_extra
+  - z_UnicornsOnARainbow
+  - unicorn.png
+- !!python/object/apply:pathlib.PosixPath
+  - /
+  - Users
+  - eric
+  - proj
+  - league-projects
+  - curriculum
+  - java-modules
+  - levels
+  - Level0PDE
+  - Module0
+  - src
+  - _99_extra
+  - z_UnicornsOnARainbow
+  - rainbow_.jpg
+text: "\n <div id=\"recipeLeftColumn\">\n  # Unicorns on a Rainbow\n  <hr/>\n  <img\
+  \ alt=\"unicorn rainbow image\" src=\"./unicornOnRainbow.png\"/>\n  <div id=\"recipeGoal\"\
+  >\n   ## Goal:\n   Draw a rainbow, then put a unicorn on it.\n  </div>\n </div>\n\
+  \ <div id=\"recipeRightColumn\">\n  <div id=\"recipeSteps\">\n   ## Steps:\n   <ol\
+  \ id=\"stepList\">\n    <li>\n     Find the Unicorns on a Rainbow recipe program\
+  \ ( z_UnicornsOnARainbow.pde ) and open it using Processing.\n    </li>\n    <li>\n\
+  \     Follow the instructions in the program to help you draw a rainbow and put\
+  \ a unicorn on it.\n    </li>\n    <li>\n     Make sure you SAVE YOUR CODE when\
+  \ you are done.\n    </li>\n   </ol>\n  </div>\n </div>\n\n"

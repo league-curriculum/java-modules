@@ -1,0 +1,31 @@
+assignment: 4_99_bottles
+dir: levels/Level0/Module3/src/_02_loop_variables/_4_99_bottles/bottles
+lesson: 02_loop_variables
+level: Level0
+meta:
+  assignment: 02_loop_variables_4_99_bottles
+  description: ''
+  lesson: 02_loop_variables
+  level: Level0
+  module: Module3
+  oassignment: 4_99_bottles
+  opath: Level0/Module3/src/_02_loop_variables/_4_99_bottles/bottles
+  title: 02 Loop Variables 4 99 Bottles
+module: Module3
+resources: []
+text: "\n # 99 Bottles\n <hr/>\n <div id=\"recipeMain\">\n  <div class=\"recipeDescription\"\
+  >\n   ## Description\n   <hr/>\n   Print the words to the \"99 bottles\" song in\
+  \ a for loop.\n   99 bottles of beer on the wall, 99 bottles of beer.\nTake one\
+  \ down and pass it around, 98 bottles of beer on the wall.\n98 bottles of beer on\
+  \ the wall, 98 bottles of beer.\nTake one down and pass it around, 97 bottles of\
+  \ beer on the wall.\n...\n1 bottle of beer on the wall, 1 bottle of beer.\nTake\
+  \ one down and pass it around, no more bottles of beer on the wall.\nNo more bottles\
+  \ of beer on the wall, no more bottles of beer.\nGo to the store and buy some more,\
+  \ 99 bottles of beer on the wall.\n  </div>\n  <div class=\"recipeSteps\">\n   ##\
+  \ Instructions\n   <hr/>\n   <ol id=\"stepList\">\n    <li>\n     Find the 99 Bottles\
+  \ recipe program ( bottles.pde ) and open it using Processing.\n    </li>\n    <li>\n\
+  \     You can find help for printing the lyrics to this song\n     [here](https://academickids.com/encyclopedia/index.php/99_Bottles_of_Beer)\n\
+  \     .\n    </li>\n    <li>\n     Do not repeat any of the lyrics in your code\
+  \ - use a for loop!\n    </li>\n    <li>\n     Look out for the changes you will\
+  \ need to make to the lyrics when you get down to 1 or zero\n                  \
+  \      bottles.\n    </li>\n   </ol>\n  </div>\n </div>\n\n"

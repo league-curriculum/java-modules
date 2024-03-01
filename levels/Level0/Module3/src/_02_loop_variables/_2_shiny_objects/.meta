@@ -1,0 +1,24 @@
+assignment: 2_shiny_objects
+dir: levels/Level0/Module3/src/_02_loop_variables/_2_shiny_objects
+lesson: 02_loop_variables
+level: Level0
+meta:
+  assignment: 02_loop_variables_2_shiny_objects
+  description: ''
+  lesson: 02_loop_variables
+  level: Level0
+  module: Module3
+  oassignment: 2_shiny_objects
+  opath: Level0/Module3/src/_02_loop_variables/_2_shiny_objects
+  title: 02 Loop Variables 2 Shiny Objects
+module: Module3
+resources: []
+text: "\n <div id=\"recipeLeftColumn\">\n  # Shiny Objects\n  <hr/>\n  <img src=\"\
+  ./shinyObjets.png\"/>\n  <div id=\"recipeGoal\">\n   ## Goal:\n   Use input from\
+  \ a user to control the number of repetitions of a for loop.\n  </div>\n </div>\n\
+  \ <div id=\"recipeRightColumn\">\n  <div id=\"recipeSteps\">\n   ## Steps:\n   <ol\
+  \ id=\"stepList\">\n    <li>\n     Call the playMisterZee method. Run the program\
+  \ to make sure it works.\n    </li>\n    <li>\n     Ask the user how many shiny\
+  \ objects they would like\n    </li>\n    <li>\n     Use a for loop that repeats\
+  \ the method call for as many times as the user specified.\n    </li>\n   </ol>\n\
+  \  </div>\n </div>\n\n"

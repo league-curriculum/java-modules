@@ -1,0 +1,25 @@
+assignment: 04_netflix
+dir: levels/Level1/Module3/src/_04_netflix
+lesson: 04_netflix
+level: Level1
+meta:
+  assignment: 04_netflix
+  description: ''
+  lesson: 04_netflix
+  level: Level1
+  module: Module3
+  oassignment: 04_netflix
+  opath: Level1/Module3/src/_04_netflix
+  title: 04 Netflix
+module: Module3
+resources: []
+text: "\n <div id=\"moduleIndex\">\n  # Netflix\n  1. The default package contains\
+  \ code for Movie and NetflixQueue classes.\n\n2. Create your own class with a main()\
+  \ method that will use Movie and NetflixQueue to complete the following challenges:\n\
+  \n    \_\_\_\_1. Instantiate some Movie objects (at least 5).\n\t\_\_\_\_2. Use\
+  \ the Movie class to get the ticket price of one of your movies.\n\n\t\_\_\_\_3.\
+  \ Instantiate a NetflixQueue.\n\t\_\_\_\_4. Add your movies to the Netflix queue.\n\
+  \t\_\_\_\_5. Print all the movies in your queue.\n\n\t\_\_\_\_6. Use your NetflixQueue\
+  \ object to finish the sentence \"the best movie is....\"\n\t\_\_\_\_7. Use your\
+  \ NetflixQueue to finish the sentence \"the second best movie is....\"\n </div>\n\
+  \n"

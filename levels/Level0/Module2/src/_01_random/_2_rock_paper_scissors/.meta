@@ -1,0 +1,39 @@
+assignment: 2_rock_paper_scissors
+dir: levels/Level0/Module2/src/_01_random/_2_rock_paper_scissors
+lesson: 01_random
+level: Level0
+meta:
+  assignment: 01_random_2_rock_paper_scissors
+  description: ''
+  lesson: 01_random
+  level: Level0
+  module: Module2
+  oassignment: 2_rock_paper_scissors
+  opath: Level0/Module2/src/_01_random/_2_rock_paper_scissors
+  title: 01 Random 2 Rock Paper Scissors
+module: Module2
+resources:
+- !!python/object/apply:pathlib.PosixPath
+  - /
+  - Users
+  - eric
+  - proj
+  - league-projects
+  - curriculum
+  - java-modules
+  - levels
+  - Level0
+  - Module2
+  - src
+  - _01_random
+  - _2_rock_paper_scissors
+  - rock.png
+text: "\n <div id=\"recipeLeftColumn\">\n  # Rock Paper Scissors\n  <hr/>\n  <img\
+  \ src=\"./rock.png\"/>\n  <img src=\"./paper.jpeg\"/>\n  <img src=\"./scissors.jpeg\"\
+  />\n  <div id=\"recipeGoal\">\n   ## Goal:\n   Use a Random object to generate random\
+  \ integers so your code can play Rock Paper Scissors with you.\n  </div>\n </div>\n\
+  \ <div id=\"recipeRightColumn\">\n  <div id=\"recipeSteps\">\n   ## Steps:\n   <ol\
+  \ id=\"stepList\">\n    <li>\n     Create a Random object.\n    </li>\n    <li>\n\
+  \     Generate a random number to represent rock, paper, or scissors in a game.\n\
+  \    </li>\n    <li>\n     Play Rock Paper Scissors against the computer to test\
+  \ your code.\n    </li>\n   </ol>\n  </div>\n </div>\n\n"

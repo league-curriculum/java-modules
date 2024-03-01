@@ -1,0 +1,101 @@
+assignment: 1_animal_farm
+dir: levels/Level0/Module2/src/_02_methods/_1_animal_farm
+lesson: 02_methods
+level: Level0
+meta:
+  assignment: 02_methods_1_animal_farm
+  description: ''
+  lesson: 02_methods
+  level: Level0
+  module: Module2
+  oassignment: 1_animal_farm
+  opath: Level0/Module2/src/_02_methods/_1_animal_farm
+  title: 02 Methods 1 Animal Farm
+module: Module2
+resources:
+- !!python/object/apply:pathlib.PosixPath
+  - /
+  - Users
+  - eric
+  - proj
+  - league-projects
+  - curriculum
+  - java-modules
+  - levels
+  - Level0
+  - Module2
+  - src
+  - _02_methods
+  - _1_animal_farm
+  - duck.jpg
+- !!python/object/apply:pathlib.PosixPath
+  - /
+  - Users
+  - eric
+  - proj
+  - league-projects
+  - curriculum
+  - java-modules
+  - levels
+  - Level0
+  - Module2
+  - src
+  - _02_methods
+  - _1_animal_farm
+  - dog.jpg
+- !!python/object/apply:pathlib.PosixPath
+  - /
+  - Users
+  - eric
+  - proj
+  - league-projects
+  - curriculum
+  - java-modules
+  - levels
+  - Level0
+  - Module2
+  - src
+  - _02_methods
+  - _1_animal_farm
+  - cow.jpg
+- !!python/object/apply:pathlib.PosixPath
+  - /
+  - Users
+  - eric
+  - proj
+  - league-projects
+  - curriculum
+  - java-modules
+  - levels
+  - Level0
+  - Module2
+  - src
+  - _02_methods
+  - _1_animal_farm
+  - cat.jpg
+- !!python/object/apply:pathlib.PosixPath
+  - /
+  - Users
+  - eric
+  - proj
+  - league-projects
+  - curriculum
+  - java-modules
+  - levels
+  - Level0
+  - Module2
+  - src
+  - _02_methods
+  - _1_animal_farm
+  - llama.jpg
+text: "\n <div id=\"recipeLeftColumn\">\n  # Animal Farm\n  <hr/>\n  <img src=\"./animalFarm.jpg\"\
+  />\n  <div id=\"recipeGoal\">\n   ## Goal:\n   Method calls. Call a method that\
+  \ shows an image and makes the sound of an animal as selected by the user in a pop-up.\n\
+  \  </div>\n </div>\n <div id=\"recipeRightColumn\">\n  <div id=\"recipeSteps\">\n\
+  \   ## Steps:\n   <ol id=\"stepList\">\n    <li>\n     Ask the user to enter the\
+  \ name of an animal on this farm.\n    </li>\n    <li>\n     Use if statements to\
+  \ call the method that matches the animal they chose.\n    </li>\n    <li>\n   \
+  \  Loop the program so the user can choose more than one time.\n    </li>\n    <li>\n\
+  \     Test your code to make sure all animal choices work correctly.\n    </li>\n\
+  \    <li>\n     What happens if the user does not enter the name of an animal on\
+  \ the farm?\n    </li>\n   </ol>\n  </div>\n </div>\n\n"

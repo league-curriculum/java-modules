@@ -1,0 +1,34 @@
+assignment: 4_cuteness_tv
+dir: levels/Level1/Module0/src/_04_gui_from_scratch/_4_cuteness_tv
+lesson: 04_gui_from_scratch
+level: Level1
+meta:
+  assignment: 04_gui_from_scratch_4_cuteness_tv
+  description: ''
+  lesson: 04_gui_from_scratch
+  level: Level1
+  module: Module0
+  oassignment: 4_cuteness_tv
+  opath: Level1/Module0/src/_04_gui_from_scratch/_4_cuteness_tv
+  title: 04 Gui From Scratch 4 Cuteness Tv
+module: Module0
+resources: []
+text: "\n <div id=\"moduleIndex\">\n  # Cuteness TV\n  1. Make a user interface with\
+  \ 3 buttons that will play different videos depending on which button is clicked.\
+  \ \n\n\_\_\_\_\_ If you need help, take a look at the instructions for the Fortune\
+  \ Cookie recipe. \n\n\n  2.  Use the methods below to play the cutest videos ever.\n\
+  \  void showDucks() {\n\_\_\_\_\_playVideo(\"https://www.youtube.com/watch?v=MtN1YnoL46Q\"\
+  );\n}\n\n  void showFrog() {\n\_\_\_\_\_playVideo(\"https://www.youtube.com/watch?v=cBkWhkAZ9ds\"\
+  );\n}\n\n     void showFluffyUnicorns() {\n\_\_\_\_\_playVideo(\"https://www.youtube.com/watch?v=a-xWhG4UU_Y\"\
+  );\n}\n\n     void playVideo(String videoID) {\n     \_\_\_\_\_\n \_\_\_\_\_// Workaround\
+  \ for Linux because \"Desktop.getDesktop().browse()\" doesn't \n \_\_\_\_\_//work\
+  \ on some Linux implementations \n\_\_\_\_\_try { \n\_\_\_\_\_if (System.getProperty(\"\
+  os.name\").toLowerCase().contains(\"linux\")) {\n\_\_\_\_\_if (Runtime.getRuntime().exec(new\
+  \ String[] { \n\_\_\_\_\_ \"which\", \"xdg- open\" }).getInputStream().read() !=\
+  \ -1) {\n\_\_\_\_\_Runtime.getRuntime().exec(new String[] { \"xdg-open\", videoID\
+  \ }); \n\n\_\_\_\_\_}\n\_\_\_\_\_} else {\n\n\n\_\_\_\_\_\_\_\_\_\_URI uri = new\
+  \ URI(videoID);\n\_\_\_\_\_\_\_\_\_\_java.awt.Desktop.getDesktop().browse(uri);\n\
+  \_\_\_\_\_}\n\_\_\_\_\_} catch (Exception e) {\n\_\_\_\_\_\_\_\_\_\_e.printStackTrace();\n\
+  \n\_\_\_\_\_}\n\t}\n  Note: If any of these video links no longer work, go to youtube\
+  \ and get replacements. Use the method names to give you a hint about what the videos\
+  \ should contain :)\n </div>\n\n"

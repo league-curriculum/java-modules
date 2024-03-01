@@ -1,0 +1,23 @@
+assignment: 5_for_loop_onslaught
+dir: levels/Level0/Module5/src/_05_self_tests/_5_for_loop_onslaught
+lesson: 05_self_tests
+level: Level0
+meta:
+  assignment: 05_self_tests_5_for_loop_onslaught
+  description: ''
+  lesson: 05_self_tests
+  level: Level0
+  module: Module5
+  oassignment: 5_for_loop_onslaught
+  opath: Level0/Module5/src/_05_self_tests/_5_for_loop_onslaught
+  title: 05 Self Tests 5 For Loop Onslaught
+module: Module5
+resources: []
+text: "<html>\n <link href=\"https://league-central.github.io/curriculum/style/style.css\"\
+  \ rel=\"stylesheet\"/>\n <link href=\"https://fonts.googleapis.com/css?family=Raleway\"\
+  \ rel=\"stylesheet\"/>\n <link href=\"onslaught_style.css\" rel=\"stylesheet\"/>\n\
+  \ <style>\n  #questionDiv {\n                margin-left:50px;    \n           \
+  \ }\n            #copyright {\n                position: fixed;\n              \
+  \  bottom: 0;\n                width: 100%;\n            }\n        \n        button\
+  \ {background-color:yellow; border-radius: 5px; font-size: 100%;}\n </style>\n <header>\n\
+  \  # For Loop Onslaught\n  <hr/>\n </header>\n</html>\n"

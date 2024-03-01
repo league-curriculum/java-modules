@@ -1,17 +1,7 @@
-<body>
-<div id="wrap">
-<div id="main">
-<div id="header">
 
-</div>
-<div id="moduleIndex">
-# Tea Party
-
-
-
-
-
-You are hosting a formal Tea Party. Your task is to welcome your guests properly. Here are the rules
+ <div id="moduleIndex">
+  # Tea Party
+  You are hosting a formal Tea Party. Your task is to welcome your guests properly. Here are the rules
 for welcoming guests:
 
 
@@ -24,8 +14,7 @@ If the guest has been knighted by the Queen and is female, use the title "Lady" 
 greet them, otherwise if the guest is a female, use the title "Ms." before their name.
 
 Add code to the class below to support the greeting rules above.
-
-```
+  ```
 
 public class TeaParty {
     public String welcome(String name, boolean isWoman, boolean isKnighted) {
@@ -34,13 +23,9 @@ public class TeaParty {
 }
 
 ```
-
-
-
-Here is some JUnit Test code to check your welcome method. Run the tests and check that the green
+  Here is some JUnit Test code to check your welcome method. Run the tests and check that the green
 "pass" bar is displayed.
-
-```
+  ```
 
 import static org.junit.Assert.assertEquals;
 import org.junit.Test;
@@ -79,10 +64,5 @@ public class TeaPartyTest {
 }
     
 ```
-</div>
-</div>
-</div>
-<div id="footer">
+ </div>
 
-</div>
-</body>

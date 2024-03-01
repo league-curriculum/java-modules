@@ -1,12 +1,8 @@
-<body>
-# The League of Amazing Programmers
 
-## Moustaches
-
-### Put the moustaches where they belong
-
-
-```
+ # The League of Amazing Programmers
+ ## Moustaches
+ ### Put the moustaches where they belong
+ ```
 
   
 public class Moustache2
@@ -37,5 +33,5 @@ SUBMIT YOUR ANSWER
 
   
 ```
-<hr size="3"/>
-</body>
+ <hr size="3"/>
+

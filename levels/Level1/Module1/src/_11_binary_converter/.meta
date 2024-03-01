@@ -1,0 +1,63 @@
+assignment: 11_binary_converter
+dir: levels/Level1/Module1/src/_11_binary_converter
+lesson: 11_binary_converter
+level: Level1
+meta:
+  assignment: 11_binary_converter
+  description: ''
+  lesson: 11_binary_converter
+  level: Level1
+  module: Module1
+  oassignment: 11_binary_converter
+  opath: Level1/Module1/src/_11_binary_converter
+  title: 11 Binary Converter
+module: Module1
+resources: []
+text: "\n <div id=\"moduleIndex\">\n  # Flappy Bird\n  1. Start a new sketch with\
+  \ draw and setup methods.\n\n2. Set your canvas size in the setup method\n  size(width,\
+  \ height)\n  3. In your draw method, set a background, and draw a ball (bird) on\
+  \ the screen.\n  ```\nbackground(red, green, blue);\nfill(red, green, blue);\nstroke(red,\
+  \ green, blue);\nellipse(x, y, width, height);\n\n```\n  4. Make the bird fall down\n\
+  \   \_\_\_\_\_ Hint: make variables for the bird's X and Y position and use them\
+  \ for the ellipse in the draw method.\n  5. Add velocity to the bird. \n    \_\_\
+  \_\_\_Hint: make a variable for the velocity of the bird in the Y direction (up).\
+  \ Changing its value should change the velocity of your bird.\n  int birdYVelocity\
+  \ = -10;\n  6.  Give the bird gravity.\n    \_\_\_\_\_Hint: make a variable for\
+  \ the gravity pulling the bird down. Gravity should continually increase the value\
+  \ of birdYVelocity.\n  int gravity = 1;\n  7. Make the bird jump (flap) when the\
+  \ mouse is clicked.\n     \_\_\_\_\_Hint: construct a mousePressed() method the\
+  \ same way setup() and draw() were made. \n    \_\_\_\_\_In this method, reset the\
+  \ bird\u2019s velocity to make the bird rise.\n  8.  Draw a pipe coming down from\
+  \ the top of the sketch.\n\n \_\_\_\_\_In the draw() method:\n  fill(red, green,\
+  \ blue);\nrect(x, y, width, height);\n  9. Make the pipe move from right to left.\n\
+  \n\_\_\_\_\_Hint: make a variable for the pipe X position and change it in the draw\
+  \ method.\n  10. Make the pipe teleport back to the right side of the screen once\
+  \ it has passed through the left. This will simulate the repeating pipes coming\
+  \ from the right of the screen.\n\_\_\_\_\_ Tip: Put this code into a teleportPipes()\
+  \ method and you can also call it from the setup() method to create the first pipes.\n\
+  \  11. Set the upper pipe's height to a new random number each time it teleports\n\
+  \  int upperPipeHeight = (int) random(100, 400);\n  12. Create a variable, pipeGap,\
+  \ to represent the gap between the pipes. Make sure the gap is big enough for the\
+  \ ball to go through. The gap between the pipes will not change.\n  13. Make a second\
+  \ pipe that will go down to the bottom of the sketch, leaving a space between the\
+  \ two pipes that is the size of the gap (see step 12). Make sure both pipes use\
+  \ the same value for their x position. Set the lower pipe y value by adding the\
+  \ upper pipe height and pipe gap. Ex:\n  lowerY = upperPipeHeight + pipeGap;\n \
+  \ 14. Make the game end when the bird hits the pipe. Figure it out by yourself,\
+  \ or use this method:\n  ```\nboolean intersectsPipes() { \n         if (birdY &lt;\
+  \ upperPipeHeight &amp;&amp; birdX &gt; pipeX &amp;&amp; birdX &lt; (pipeX+pipeWidth)){\n\
+  \            return true; }\n        else if (birdY&gt;lowerPipeTop &amp;&amp; birdX\
+  \ &gt; pipeX &amp;&amp; birdX &lt; (pipeX+pipeWidth)) {\n            return true;\
+  \ }\n        else { return false; }\n}\n```\n  15. End the game when the bird hits\
+  \ the ground.\n\_\_\_\_\_Make a rectangle for the ground.\n\_\_\_\_\_Use a boolean\
+  \ variable at the top of the sketch to indicate if game has ended.\n  17.  Create\
+  \ a score and make it increase each time the bird passes through a pipe.\n  text(text,\
+  \ xPosition, yPosition);\n  18. OPTIONAL.   Use images for the background, pipes\
+  \ and bird (see image at top). You can find your own images, or those provided in\
+  \ the Module 3 Java project. See below for code snippets to load and draw images.\n\
+  \n\nPImage back;\nPImage pipeBottom;\nPImage pipeTop;\nPImage bird;\n   void setup()\
+  \ {\n       back = loadImage(\"flappyBackground.jpg\");\n       pipeBottom = loadImage(\"\
+  bottomPipe.png\");\n       pipeTop = loadImage(\"topPipe.png\");\n       bird =\
+  \ loadImage(\"bird.png\");\n       bird.resize(50,50);\n   }\n   void draw() {\n\
+  \       background(back);\n       image (pipeBottom,250,375);\n       image (pipeTop,250,-130);\n\
+  \       image (bird, 250, 300);\n   }\n </div>\n\n"

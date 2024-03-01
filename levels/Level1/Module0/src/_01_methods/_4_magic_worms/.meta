@@ -1,0 +1,41 @@
+assignment: 4_magic_worms
+dir: levels/Level1/Module0/src/_01_methods/_4_magic_worms
+lesson: 01_methods
+level: Level1
+meta:
+  assignment: 01_methods_4_magic_worms
+  description: ''
+  lesson: 01_methods
+  level: Level1
+  module: Module0
+  oassignment: 4_magic_worms
+  opath: Level1/Module0/src/_01_methods/_4_magic_worms
+  title: 01 Methods 4 Magic Worms
+module: Module0
+resources: []
+text: "\n <div id=\"moduleIndex\">\n  # Magic Worms\n  1. Start a new sketch with\
+  \ draw, setup, and settings methods.\n\n2. Set your canvas size and background color\
+  \ in the settings() method\n  ```\n    size(width, height\n    background(red, green,\
+  \ blue)\n```\n  3. In your draw method, use a for loop to draw 300 ellipses in a\
+  \ diagonal line across the canvas.\n    RUN THE PROGRAM TO CHECK IT.\n  4. Now change\
+  \ the x and y location of each ellipse to \"different\" random numbers that are\
+  \ inside the canvas. Note: random() returns values that are type float so your x\
+  \ and y variable types should also be float.\n    RUN THE PROGRAM TO CHECK IT.\n\
+  \  ```\n   random(int maxValue)\n```\n  5. Set the color of each ellipse.\n    RUN\
+  \ THE PROGRAM TO CHECK IT.\n  ```\n    fill(red, green, blue)\n```\n  6.  If this\
+  \ code isn't already in your file, paste this code at the bottom.\n  ```\n    float\
+  \ frequency = .001;\n    float noiseInterval = PI;\n\n    void makeMagical() {\n\
+  \        fill( 0, 0, 0, 10 );\n        rect(0, 0, width, height);\n        noStroke();\n\
+  \    }\n\n    float getWormX(int i) {\n        return map(noise(i*noiseInterval\
+  \ + frameCount * frequency), 0, 1, 0, width);\n    }\n\n    float getWormY(int i)\
+  \ {\n        return map(noise(i*noiseInterval+1 + frameCount * frequency), 0, 1,\
+  \ 0, height);\n    }\n```\n  7. Now change the x and y location of each ellipse\
+  \ to the value returned by the getWormX() and getWormY() methods (use the for loop\
+  \ variable as the parameter to these methods). \n    RUN THE PROGRAM TO CHECK IT.\n\
+  \  8. Call makeMagical() in your draw method before the for loop.  OPTIONS: Pass\
+  \ in frameCount or another variable for the ellipse \"red value\", and i as the\
+  \ \"green value\" for some extra color coolness.\n    RUN THE PROGRAM TO CHECK IT.\n\
+  \  10. You can adjust the frequency and noiseInterval variables to your liking.\
+  \ Also play with the number and size of particles (ellipses) until it looks amazing.\n\
+  \  11. [Optional] Add another worm every time the user clicks the mouse.\n </div>\n\
+  \n"

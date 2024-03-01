@@ -1,25 +1,14 @@
-<body>
-<div id="wrap">
-<div id="main">
-<div id="header">
 
-</div>
-<div id="moduleIndex">
-# Nasty Surprise
-
-
-
-
-1. Make a user interface that has 2 buttons. One says “Trick” the other says “Treat”. 
+ <div id="moduleIndex">
+  # Nasty Surprise
+  1. Make a user interface that has 2 buttons. One says “Trick” the other says “Treat”. 
 
 2. When the user clicks on the Trick button, show them a picture of a cute puppy. 
 
 3. When they click Treat, show them a scary image.
 
 To show the pictures, use the showPictureFromTheInternet() method below.
- 
-
-```
+  ```
 private void showPictureFromTheInternet(String imageUrl) {
     try {
         URL url = new URL(imageUrl);
@@ -34,10 +23,5 @@ private void showPictureFromTheInternet(String imageUrl) {
     }
 }
 ```
-</div>
-</div>
-</div>
-<div id="footer">
+ </div>
 
-</div>
-</body>

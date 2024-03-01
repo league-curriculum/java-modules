@@ -1,0 +1,27 @@
+assignment: 04_variables_check
+dir: levels/Level0/Module4/src/_04_variables_check
+lesson: 04_variables_check
+level: Level0
+meta:
+  assignment: 04_variables_check
+  description: ''
+  lesson: 04_variables_check
+  level: Level0
+  module: Module4
+  oassignment: 04_variables_check
+  opath: Level0/Module4/src/_04_variables_check
+  title: 04 Variables Check
+module: Module4
+resources: []
+text: "<html>\n <head>\n  <title>\n   Level 0 - Variable Types Quiz\n  </title>\n\
+  \  <meta charset=\"utf-8\"/>\n  <meta content=\"width=device-width, initial-scale=1\"\
+  \ name=\"viewport\"/>\n  <link href=\"https://league-central.github.io/curriculum/style/style.css\"\
+  \ rel=\"stylesheet\"/>\n  <link href=\"https://fonts.googleapis.com/css?family=Raleway\"\
+  \ rel=\"stylesheet\"/>\n  <style>\n   #quiz {\n                margin-left:50px;\n\
+  \            }\n            #nav {\n                margin-left:50px;\n        \
+  \        position: relative;\n            }\n            #footer {\n           \
+  \     position: absolute;\n                bottom: -100;\n                width:\
+  \ 100%;\n            }\n            button {background-color:yellow; border-radius:\
+  \ 3px; font-size: 125%;\n            }\n            code {font-size: 125%; color:\
+  \ forestgreen}\n  </style>\n </head>\n <div id=\"header\">\n  <center>\n   # \n\t\
+  \tLevel 0 - Variable Types Quiz\n   <hr/>\n  </center>\n </div>\n</html>\n"

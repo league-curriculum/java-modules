@@ -1,0 +1,68 @@
+assignment: 7_study_guide
+dir: levels/Level0/Module5/src/_05_self_tests/_7_study_guide
+lesson: 05_self_tests
+level: Level0
+meta:
+  assignment: 05_self_tests_7_study_guide
+  description: ''
+  lesson: 05_self_tests
+  level: Level0
+  module: Module5
+  oassignment: 7_study_guide
+  opath: Level0/Module5/src/_05_self_tests/_7_study_guide
+  title: 05 Self Tests 7 Study Guide
+module: Module5
+resources: []
+text: "\n # Level 0 Study Guide\n ### \nVariables\n \u2018Declare and initialize a\
+  \ variable\u2019 means make a variable and give it a value.\n int age = 12; \nString\
+  \ name = \u201CSarah\u201D;\n Remember, String is capitalized and the value always\
+  \ has quotes around it.\n Every time you want to hold a new piece of information\
+  \ you need to declare the variable and initialize it, by setting it equal to something.\n\
+  \ If you want to generate a random number you do it like this.\n int x = new Random().nextInt(10);\n\
+  \ The number in parenthesis limits the value of the random number you will get.\
+  \ In this case, x will be a number between 0 and 9.\n ### \nif Statements\n if (condition){\n\
+  \n}\nelse if (next condition){\n\n}\nelse{\n\n}\n The question looks like this for\
+  \ a String\n (name .equals (\u201CSarah\u201D))\n You use .equals to compare a String.\
+  \ The String value is in parenthesis and in quotes.\n The question looks like this\
+  \ for an int\n (age == 12)\n Remember you use == for a comparison.\n It is a good\
+  \ idea to use an else with an if statement to catch any options you didn\u2019t\
+  \ think of.\n ### \nfor loop\n for ( int i = 0; i&lt;10; i++){\n\n}\n <font color=\"\
+  green\">\n  int i = 0;\n </font>\n This is the starting point of the loop. You must\
+  \ declare the int.\n <font color=\"green\">\n  i&lt;10;\n </font>\n This is the\
+  \ finishing point for the loop. The loop will continue as long as i is less than\
+  \ 10.\n i++ This is how much the loop counter changes by each time. In this case\
+  \ it increments (goes up) by 1.\n for ( int i = 10; i&gt;0; i-=2){\n\n}\n This loop\
+  \ counts down in 2s starting at 10.\n10, 8 , 6, 4, 2.  It doesn\u2019t go to 0 because\
+  \ it must be greater than 0.\nNotice that you have to change from less than (&lt;)\
+  \ to greater than (&gt;) when you count down.\n ### \nJOptionPane\n If you want\
+  \ a pop up to give the user a message use\n JOptionPane.showMessageDialog(null,\
+  \ \u201CHello \u201D+ name);\n Don\u2019t forget the\n <b>\n  null\n </b>\n , or\
+  \ that any text needs to be in quotes.\n If you want to get an answer from the user,\
+  \ use:\n String ageString = JOptionPane.showInputDialog(\u201CHow old are you?\u201D\
+  );\n Remember you must catch the user\u2019s answer in a String, otherwise you can\u2019\
+  t use it.\n Because the answer is always a String, you sometimes want to convert\
+  \ it to a number so you can do a calculation. This is how you do it.\n int age =\
+  \ Integer.parseInt(ageString);\n If you want to write something to the console,\
+  \ instead of using a pop-up\n System.out.println(age);\n ### Methods\n You must\
+  \ have a\n <b>\n  main method\n </b>\n in order to start your class running.\n public\
+  \ static void main(String[] args){\n\n}\n Other methods looks like this\n void drawSquare(){\n\
+  \_for (int i= 0; i&lt;4; i++){\n\_\_Tortoise.move(100);\n\_\_Tortoise.turn(90);\n\
+  \_}\n}\n <font color=\"green\">\n  void\n </font>\n This tells you what the method\
+  \ will return - in this case nothing.\n <font color=\"green\">\n  drawSquare\n </font>\n\
+  \ This is the name of the method, that you use to call it.\n <font color=\"green\"\
+  >\n  (  )\n </font>\n This tells you what parameters the method needs. In this case\
+  \ it doesn\u2019t need any.\n You call the method like this:\n drawSquare();\n Look\
+  \ at this method:\n int sevenTimes(int number){\n\t\_return number * 7;\n}\n <font\
+  \ color=\"green\">\n  int\n </font>\n This method is going to a return an int so\
+  \ you need to create an int variable to store it. In the example below, the variable\
+  \ is named \"answer\".\n <font color=\"green\">\n  sevenTimes\n </font>\n This is\
+  \ the name of the method, that you use when you call it.\n <font color=\"green\"\
+  >\n  (int number)\n </font>\n This tells you what parameters the method needs. In\
+  \ this case it needs you to give an int. In the example below, the int is the number\
+  \ 2.\n int answer = sevenTimes(2);\n The value of answer will be 14.\n ### \nModulo\n\
+  \nModulo means remainder.\nThe value of 11%5 is 1, because 5 goes into 11, 2 times\
+  \ (5x2=10) with a remainder of 1.\n\nIt is useful to use modulo to alternate between\
+  \ options. e.g.\n \nfor (int i = 0; i&lt;1000;i+=10){\n\_\tif (i%3==0){\n\_\_\t\t\
+  fill(255,0,0);\n\_\t}\n\_\telse if (i%3==1){\n\_\_\t\tfill(0,255,0);\n\_\t}\n\_\
+  else if (i%3==2){\n\t\_\_\tfill(0,0,255);\n\t\_}\n\t\_ellipse(i,i,10,10);\n}\n\n\
+  This code will draw a line of circles alternating in red, green and blue.\n\n"

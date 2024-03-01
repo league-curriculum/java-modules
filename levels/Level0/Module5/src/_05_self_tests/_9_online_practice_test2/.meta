@@ -1,0 +1,17 @@
+assignment: 9_online_practice_test2
+dir: levels/Level0/Module5/src/_05_self_tests/_9_online_practice_test2
+lesson: 05_self_tests
+level: Level0
+meta:
+  assignment: 05_self_tests_9_online_practice_test2
+  description: ''
+  lesson: 05_self_tests
+  level: Level0
+  module: Module5
+  oassignment: 9_online_practice_test2
+  opath: Level0/Module5/src/_05_self_tests/_9_online_practice_test2
+  title: 05 Self Tests 9 Online Practice Test2
+module: Module5
+resources: []
+text: "<body onload=\"startup()\" style=\"background-color:#bbccdd;font-weight:bold;font-size:22px;\"\
+  >\n ```\n\n  \n\n```\n\n"

@@ -1,0 +1,44 @@
+assignment: 5_googly_eyes
+dir: levels/Level0/Module4/src/_02_boolean/_5_googly_eyes
+lesson: 02_boolean
+level: Level0
+meta:
+  assignment: 02_boolean_5_googly_eyes
+  description: ''
+  lesson: 02_boolean
+  level: Level0
+  module: Module4
+  oassignment: 5_googly_eyes
+  opath: Level0/Module4/src/_02_boolean/_5_googly_eyes
+  title: 02 Boolean 5 Googly Eyes
+module: Module4
+resources: []
+text: "\n <div id=\"recipeLeftColumn\">\n  # Googly Eyes\n  <hr/>\n  <img alt=\"Googly\
+  \ image\" src=\"./googlyEyes.png\"/>\n  <div id=\"recipeGoal\">\n   ## Goal:\n \
+  \  You\u2019re going to draw a face with eyes that will follow the mouse!\n  </div>\n\
+  \ </div>\n <div id=\"recipeRightColumn\">\n  <div id=\"recipeSteps\">\n   ## Steps:\n\
+  \   <ol>\n    <li>\n     Find the Googly Eyes recipe program in Eclipse.\n    </li>\n\
+  \    <li>\n     Find an image on the internet and copy it to the\n     <b>\n   \
+  \   /images\n     </b>\n     folder. It can be anything as long as it has large\
+  \ eyes!\n    </li>\n    <li>\n     On line 1 of your program (outside of the methods)\
+  \ declare a variable for the image:\n     ```\n   PImage face;\n\n```\n    </li>\n\
+  \    <li>\n     In your setup() method, import your image using the following code:\n\
+  \     ```\n\n    face = loadImage(\u201Cface.jpg\u201D);\n\n```\n    </li>\n   \
+  \ <li>\n     If you need to, change the code you just entered so that \"face.jpg\"\
+  \ matches the name of your picture.\n    </li>\n    <li>\n     Set the size of your\
+  \ window and the size of your image to be the same by entering the following code\
+  \ in the setup method.\n     ```\n    size(800,600);\n    face.resize(width,height);\n\
+  \n```\n    </li>\n    <li>\n     In the draw() method, place a white ellipse over\
+  \ the left eye of your image.\n     HINT: To find out where to put it, add code\
+  \ to print the mouseX and mouseY where you click the mouse.\n    </li>\n    <li>\n\
+  \     Now add a pupil (the black part) to the left eye earlier.\n    </li>\n   \
+  \ <li>\n     Use mouseX and mouseY to move the left pupil where the mouse moves.\n\
+  \    </li>\n    <li>\n     Add a white ellipse over the right eye using the same\
+  \ technique used for the left eye.\n    </li>\n    <li>\n     Add a right pupil\
+  \ and make it move by using mouseX + [distance from left eye] and mouseY + [distance\
+  \ from left eye].\n    </li>\n    <li>\n     Here\u2019s the tricky part: stop the\
+  \ pupils from going outside of the white circles!  To do this, imagine a rectangle\
+  \ that the pupil should stay within.  When mouseX and mouseY goes outside of these\
+  \ bounds, set it back to the boundary.  Put this code before you draw the pupils.\n\
+  \    </li>\n    <li>\n     Make sure you SAVE YOUR CODE when you are done.\n   \
+  \ </li>\n   </ol>\n  </div>\n </div>\n\n"

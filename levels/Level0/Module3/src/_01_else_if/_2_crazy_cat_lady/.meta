@@ -1,0 +1,26 @@
+assignment: 2_crazy_cat_lady
+dir: levels/Level0/Module3/src/_01_else_if/_2_crazy_cat_lady
+lesson: 01_else_if
+level: Level0
+meta:
+  assignment: 01_else_if_2_crazy_cat_lady
+  description: ''
+  lesson: 01_else_if
+  level: Level0
+  module: Module3
+  oassignment: 2_crazy_cat_lady
+  opath: Level0/Module3/src/_01_else_if/_2_crazy_cat_lady
+  title: 01 Else If 2 Crazy Cat Lady
+module: Module3
+resources: []
+text: "\n <div id=\"recipeLeftColumn\">\n  # Crazy Cat Lady\n  <hr/>\n  <img src=\"\
+  ./crazyCatLady.jpg\"/>\n  <div id=\"recipeGoal\">\n   ## Goal:\n   Use if and else\
+  \ if statements to provide different responses to a user based on how they answer\
+  \ the question, \"How many cats do you have?\".\n  </div>\n </div>\n <div id=\"\
+  recipeRightColumn\">\n  <div id=\"recipeSteps\">\n   ## Steps:\n   <ol id=\"stepList\"\
+  >\n    <li>\n     Ask the user how many cats they have.\n    </li>\n    <li>\n \
+  \    Convert their answer into a number (int).\n    </li>\n    <li>\n     If they\
+  \ have 3 or more cats, they might be a crazy cat lady.\n    </li>\n    <li>\n  \
+  \   If they have less than 3 cats AND more than 0 cats, they are a cat lover.\n\
+  \    </li>\n    <li>\n     If they have 0 cats, maybe they have a different pet.\n\
+  \    </li>\n   </ol>\n  </div>\n </div>\n\n"

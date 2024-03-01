@@ -1,0 +1,25 @@
+assignment: 2_strings_cannot_add
+dir: levels/Level0/Module2/src/_03_string_conversion/_2_strings_cannot_add
+lesson: 03_string_conversion
+level: Level0
+meta:
+  assignment: 03_string_conversion_2_strings_cannot_add
+  description: ''
+  lesson: 03_string_conversion
+  level: Level0
+  module: Module2
+  oassignment: 2_strings_cannot_add
+  opath: Level0/Module2/src/_03_string_conversion/_2_strings_cannot_add
+  title: 03 String Conversion 2 Strings Cannot Add
+module: Module2
+resources: []
+text: "\n <div id=\"recipeLeftColumn\">\n  # Strings Cannot Add\n  <hr/>\n  <img src=\"\
+  ./stringsCannotAdd.jpg\"/>\n  <div id=\"recipeGoal\">\n   ## Goal:\n   Learn how\
+  \ the + operator works differently with Strings and numbers. Learn how to convert\
+  \ String objects to numbers when math operations are needed.\n  </div>\n </div>\n\
+  \ <div id=\"recipeRightColumn\">\n  <div id=\"recipeSteps\">\n   ## Steps:\n   <ol\
+  \ id=\"stepList\">\n    <li>\n     Follow all the instructions in the main method.\n\
+  \    </li>\n    <li>\n     Observe how the + operator joins Strings to produce a\
+  \ new (longer) String.\n    </li>\n    <li>\n     Use the Integer.parseInt() method\
+  \ to convert Strings to numbers.\n    </li>\n    <li>\n     Observe how the + operator\
+  \ adds numbers to produce a sum.\n    </li>\n   </ol>\n  </div>\n </div>\n\n"

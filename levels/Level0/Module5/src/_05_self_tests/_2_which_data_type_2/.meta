@@ -1,0 +1,21 @@
+assignment: 2_which_data_type_2
+dir: levels/Level0/Module5/src/_05_self_tests/_2_which_data_type_2
+lesson: 05_self_tests
+level: Level0
+meta:
+  assignment: 05_self_tests_2_which_data_type_2
+  description: ''
+  lesson: 05_self_tests
+  level: Level0
+  module: Module5
+  oassignment: 2_which_data_type_2
+  opath: Level0/Module5/src/_05_self_tests/_2_which_data_type_2
+  title: 05 Self Tests 2 Which Data Type 2
+module: Module5
+resources: []
+text: "\n # The League of Amazing Programmers\n ## Which Data Type? Part 2\n ### Fill\
+  \ in the blank with the correct data type.\n ```\n\n   maxValue = 1000000; \n\n\
+  \  \n   someWords = \"Here are some words\"; \n\n  \n   c3PO = new Robot(); \n\n\
+  \  \n   rand = new Random(); \n\n  \n   minValue = -23; \n\n  \n   value =  JOptionPane.showInputDialog(\"\
+  Enter some data\");\n\n  \n   myObject = new Object(); \n\n  \n   randValue = random.nextInt();\
+  \ \n\n  \n\nSUBMIT YOUR ANSWERS\n\n  \n```\n <hr size=\"3\"/>\n\n"

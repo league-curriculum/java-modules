@@ -1,12 +1,14 @@
 <html>
-<head>
-<title>League Level 1 - Quiz</title>
-<meta charset="utf-8"/>
-<meta content="width=device-width, initial-scale=1" name="viewport"/>
-<link href="https://league-central.github.io/curriculum/style/style.css" rel="stylesheet"/>
-<link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet"/>
-<style>
-            #quiz {
+ <head>
+  <title>
+   League Level 1 - Quiz
+  </title>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <link href="https://league-central.github.io/curriculum/style/style.css" rel="stylesheet"/>
+  <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet"/>
+  <style>
+   #quiz {
                 margin-left:50px;
             }
             #nav {
@@ -24,20 +26,9 @@
             pre{
                 margin: 10 auto;
                 width: 90%;
-            }                        
-        </style>
-
-</head>
-<div id="header">
-
-</div>
-# 
+            }
+  </style>
+ </head>
+ # 
         Level 1 Self-Test Quiz
-	
-
-<div id="quiz"></div>
-<div id="nav">
-<div id="footer"></div>
-</div>
-
 </html>

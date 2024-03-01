@@ -1,0 +1,28 @@
+assignment: 2_fibonacci
+dir: levels/Level0/Module5/src/_01_algorithms/_2_fibonacci
+lesson: 01_algorithms
+level: Level0
+meta:
+  assignment: 01_algorithms_2_fibonacci
+  description: ''
+  lesson: 01_algorithms
+  level: Level0
+  module: Module5
+  oassignment: 2_fibonacci
+  opath: Level0/Module5/src/_01_algorithms/_2_fibonacci
+  title: 01 Algorithms 2 Fibonacci
+module: Module5
+resources: []
+text: "\n <div id=\"recipeLeftColumn\">\n  # Fibonacci\n  <hr/>\n  <img src=\"./fibonacci.png\"\
+  />\n  <div id=\"recipeGoal\">\n   ## Goal:\n   Print out the first 12 numbers of\
+  \ the fibonacci sequence.\n  </div>\n </div>\n <div id=\"recipeRightColumn\">\n\
+  \  <div id=\"recipeSteps\">\n   ## Steps:\n   <ol id=\"stepList\">\n    <li>\n \
+  \    There is more than one way to code a solution to this. The following steps\
+  \ give you some guidelines for one of them.\n    </li>\n    <li>\n     Declare and\
+  \ initialize three int variables: number1, number2, and sum.\n    </li>\n    <li>\n\
+  \     Initialize number1 and number2 to the first two numbers of the fibonacci sequence\
+  \ (0 and 1) and print both numbers.\n    </li>\n    <li>\n     Use a for loop that\
+  \ calculates the sum of the two numbers and prints it. The for loop should repeat\
+  \ 10 times.\n    </li>\n    <li>\n     Now try to figure out how to change the variables\
+  \ before the for loop repeats so the sequence of numbers is correct.\n    </li>\n\
+  \   </ol>\n  </div>\n </div>\n\n"

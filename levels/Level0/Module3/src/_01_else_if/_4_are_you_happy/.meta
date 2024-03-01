@@ -1,0 +1,22 @@
+assignment: 4_are_you_happy
+dir: levels/Level0/Module3/src/_01_else_if/_4_are_you_happy
+lesson: 01_else_if
+level: Level0
+meta:
+  assignment: 01_else_if_4_are_you_happy
+  description: ''
+  lesson: 01_else_if
+  level: Level0
+  module: Module3
+  oassignment: 4_are_you_happy
+  opath: Level0/Module3/src/_01_else_if/_4_are_you_happy
+  title: 01 Else If 4 Are You Happy
+module: Module3
+resources: []
+text: "\n <div id=\"recipeLeftColumn\">\n  # Are You Happy?\n  <hr/>\n  <img alt=\"\
+  Are You Happy? image\" src=\"./AreYouHappy.png\"/>\n  <div id=\"recipeGoal\">\n\
+  \   ## Goal:\n   Create a program that mimics the chart above using if and else\
+  \ if statements.\n  </div>\n </div>\n <div id=\"recipeRightColumn\">\n  <div id=\"\
+  recipeSteps\">\n   ## Steps:\n   <ol id=\"stepList\">\n    <li>\n     Use JOptionPanes\
+  \ and if / else if /else statements to recreate\n     [this chart](images/AreYouHappy.png)\n\
+  \     .\n    </li>\n   </ol>\n  </div>\n </div>\n\n"

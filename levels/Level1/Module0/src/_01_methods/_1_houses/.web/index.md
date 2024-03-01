@@ -1,16 +1,7 @@
-<body>
-<div id="wrap">
-<div id="main">
-<div id="moduleIndex">
-# Houses
 
-
-
-
-
-
-
-    1. Have a robot start on the left side of the window near the bottom.
+ <div id="moduleIndex">
+  # Houses
+  1. Have a robot start on the left side of the window near the bottom.
 
 
     2. Draw a flat-topped house of height 100 with grass after it (see picture).
@@ -47,13 +38,5 @@
 
 
     9. Make large houses have flat roofs
+ </div>
 
-
-
-</div>
-</div>
-</div>
-<div id="footer">
-
-</div>
-</body>

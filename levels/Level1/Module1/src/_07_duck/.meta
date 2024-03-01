@@ -1,0 +1,30 @@
+assignment: 07_duck
+dir: levels/Level1/Module1/src/_07_duck
+lesson: 07_duck
+level: Level1
+meta:
+  assignment: 07_duck
+  description: ''
+  lesson: 07_duck
+  level: Level1
+  module: Module1
+  oassignment: 07_duck
+  opath: Level1/Module1/src/_07_duck
+  title: 07 Duck
+module: Module1
+resources: []
+text: "\n <div id=\"moduleIndex\">\n  # Introduction to Objects\n  <img src=\"./duck.png\"\
+  \ style=\"width: 400px; height: 190px;\"/>\n  1. Create a Duck class in your java\
+  \ project. Add its member variables and methods to match the picture above. Now\
+  \ add the code for the constructor of the Duck class:\n  Duck(String favoriteFood,\
+  \ int numberOfFriends) {\n\_\_\_\_\_\_\tthis.favoriteFood = favoriteFood;\n\_\_\_\
+  \_\_\_\tthis.numberOfFriends = numberOfFriends;\n}\n  2. Now pick your favorite\
+  \ animal and describe it with at least 2 member variables and 2 methods.\n\n3. Create\
+  \ a java class for your animal including:\n\_\_\_\_\_\_member variables\n\_\_\_\_\
+  \_\_methods(with sysouts)\n\_\_\_\_\_\_a constructor that sets the member variables\n\
+  \n4. Create a new java class. This will be a \"runner\" or \"driver\" class, so\
+  \ it will need a main method.\n\n5. In your runner class, create a Duck object (instance)\
+  \ by calling its constructor as follows:\n  Duck daffy = new Duck(\"donuts\",5);\n\
+  \  Now you have a duck object, you can make it quack:\n  daffy.quack();\n  6. Now\
+  \ create an instance of your animal (Hint: see step 5 above) and call its methods.\n\
+  \ </div>\n\n"

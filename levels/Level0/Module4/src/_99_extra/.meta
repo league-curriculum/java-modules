@@ -1,0 +1,106 @@
+assignment: 99_extra
+dir: levels/Level0/Module4/src/_99_extra
+lesson: 99_extra
+level: Level0
+meta:
+  assignment: 99_extra
+  description: ''
+  lesson: 99_extra
+  level: Level0
+  module: Module4
+  oassignment: 99_extra
+  opath: Level0/Module4/src/_99_extra
+  title: 99 Extra
+module: Module4
+resources:
+- !!python/object/apply:pathlib.PosixPath
+  - /
+  - Users
+  - eric
+  - proj
+  - league-projects
+  - curriculum
+  - java-modules
+  - levels
+  - Level0
+  - Module4
+  - src
+  - _99_extra
+  - donkey.jpg
+- !!python/object/apply:pathlib.PosixPath
+  - /
+  - Users
+  - eric
+  - proj
+  - league-projects
+  - curriculum
+  - java-modules
+  - levels
+  - Level0
+  - Module4
+  - src
+  - _99_extra
+  - minecraft.png
+- !!python/object/apply:pathlib.PosixPath
+  - /
+  - Users
+  - eric
+  - proj
+  - league-projects
+  - curriculum
+  - java-modules
+  - levels
+  - Level0
+  - Module4
+  - src
+  - _99_extra
+  - tail.png
+- !!python/object/apply:pathlib.PosixPath
+  - /
+  - Users
+  - eric
+  - proj
+  - league-projects
+  - curriculum
+  - java-modules
+  - levels
+  - Level0
+  - Module4
+  - src
+  - _99_extra
+  - creeper.png
+text: "\n <div id=\"recipeLeftColumn\">\n  # Hide The Creeper\n  <hr/>\n  <img src=\"\
+  ./creeper.jpg\"/>\n  <div id=\"recipeGoal\">\n   ## Goal:\n   Find the Creeper!\n\
+  \  </div>\n </div>\n <div id=\"recipeRightColumn\">\n  <div id=\"recipeSteps\">\n\
+  \   ## Steps:\n   <ol id=\"stepList\">\n    <li>\n     Find the Hide the Creeper\
+  \ recipe program in Eclipse.\n    </li>\n    <li>\n     Set your canvas size\n \
+  \    ```\n\nsize(width, height) //in settings method\n\n```\n    </li>\n    <li>\n\
+  \     Download a background image. Something with green where creeper can hide.\n\
+  \     <ol class=\"insetRecipeStepsOL\">\n      <li>\n       Save the image.\n  \
+  \    </li>\n      <li>\n       Drop the file into the\n       <b>\n        /images\n\
+  \       </b>\n       folder.\n      </li>\n      <li>\n       Load it as the background\
+  \ (it must be same size as your canvas)\n      </li>\n     </ol>\n     ```\n\nPImage\
+  \ minecraft = loadImage(\"minecraft.png\");     //in setup method\nminecraft.resize(width,\
+  \ height);          //in setup method\nbackground(minecraft);          //in setup\
+  \ method\n\n```\n    </li>\n    <li>\n     Load the creeper image into your sketch\n\
+  \     <ol class=\"insetRecipeStepsOL\">\n      <li>\n       Download a Creeper image\n\
+  \      </li>\n      <li>\n       Drop the image onto your sketch\n      </li>\n\
+  \      <li>\n       Use the code below to draw the image (make sure you put the\
+  \ code in the right place)\n      </li>\n     </ol>\n     ```\n\nPImage creeper;\
+  \     //at the top of your program\ncreeper=loadImage(\"creeper.png\");     //in\
+  \ setup method\nimage(creeper, mouseX, mouseY);     //in draw method\n\n```\n  \
+  \  </li>\n    <li>\n     Right after it\u2019s loaded, resize the creeper image\
+  \ so that it is small and can hide.\n     ```\n\ncreeper.resize(width, height);\
+  \     //in setup method\n\n```\n    </li>\n    <li>\n     Pick a place to hide your\
+  \ creeper.\n     <ol class=\"insetRecipeStepsOL\">\n      <li>\n       Use two variables\
+  \ to store the location (x and y) of the creeper, and initialize them (at the top\
+  \ of your sketch).\n      </li>\n      <li>\n       Change your code so that the\
+  \ creeper image is drawn at this location.\n      </li>\n     </ol>\n    </li>\n\
+  \    <li>\n     In the draw method, draw a small red ellipse where the mouse clicks.\n\
+  \    </li>\n    <li>\n     If mouseX and mouseY are near the location of your creeper,\
+  \ make the circle green. \nNote: you will need to check the x and y values separately\
+  \ if you use the code below.\n     ```\n\nboolean isNear(int a, int b) {\nif (abs(a\
+  \ - b) &lt; 10)\n     return true;\nelse\n     return false;\n}\n\n```\n    </li>\n\
+  \    <li>\n     Let the user know that they found the creeper.\n    </li>\n    <li>\n\
+  \     Option: Add more creepers, or move the creeper after they find it.\n    </li>\n\
+  \   </ol>\n  </div>\n </div>\n\n"

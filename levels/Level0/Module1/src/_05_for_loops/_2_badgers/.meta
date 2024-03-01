@@ -1,0 +1,26 @@
+assignment: 2_badgers
+dir: levels/Level0/Module1/src/_05_for_loops/_2_badgers
+lesson: 05_for_loops
+level: Level0
+meta:
+  assignment: 05_for_loops_2_badgers
+  description: ''
+  lesson: 05_for_loops
+  level: Level0
+  module: Module1
+  oassignment: 2_badgers
+  opath: Level0/Module1/src/_05_for_loops/_2_badgers
+  title: 05 For Loops 2 Badgers
+module: Module1
+resources: []
+text: "\n <div id=\"recipeLeftColumn\">\n  # Badgers\n  <hr/>\n  <img src=\"./badgers.png\"\
+  />\n  <div id=\"recipeGoal\">\n   ## Goal:\n   Print the lyrics to the\nBadgers\
+  \ song!\n  </div>\n </div>\n <div id=\"recipeRightColumn\">\n  <div id=\"recipeSteps\"\
+  >\n   ## Steps:\n   <ol id=\"stepList\">\n    <li>\n     Use for loops (you will\
+  \ need more than one) to print the following lyrics from the Badger Song.  You can\
+  \ only use the words \u201CBadger\u201D, \u201CMushroom\u201D and \u201CSnake\u201D\
+  \ once each in your code.\n     Print 2 verses of the song as follows:\n     Badger,\_\
+  Badger,\_Badger,\_Badger,\_Badger,\_Badger,\_Badger,Badger,\_Badger,Badger,\_Badger,\_\
+  Badger\n     Mushroom,\_Mushroom\n     Badger,\_Badger,\_Badger,Badger,\_Badger,\_\
+  Badger,\_Badger,Badger,\_Badger,\_Badger,\_Badger,\_Badger\n     Mushroom,\_Mushroom\n\
+  \     A Snake!!!\n    </li>\n   </ol>\n  </div>\n </div>\n\n"

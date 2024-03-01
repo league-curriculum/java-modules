@@ -1,0 +1,26 @@
+assignment: 2_bullseye
+dir: levels/Level0/Module3/src/_03_remainder/_2_bullseye/bullseye
+lesson: 03_remainder
+level: Level0
+meta:
+  assignment: 03_remainder_2_bullseye
+  description: ''
+  lesson: 03_remainder
+  level: Level0
+  module: Module3
+  oassignment: 2_bullseye
+  opath: Level0/Module3/src/_03_remainder/_2_bullseye/bullseye
+  title: 03 Remainder 2 Bullseye
+module: Module3
+resources: []
+text: "\n <div id=\"recipeLeftColumn\">\n  # Bullseye\n  <hr/>\n  <img alt=\"Bullseye\
+  \ image\" src=\"http://level0.jointheleague.org/modules/Mod3Recipes/images/bullseye.png\"\
+  />\n  <div id=\"recipeGoal\">\n   ## Goal:\n   Use remainder to make a bullseye\
+  \ like the image above.\n  </div>\n </div>\n <div id=\"recipeRightColumn\">\n  <div\
+  \ id=\"recipeSteps\">\n   ## Steps:\n   <ol id=\"stepList\">\n    <li>\n     This\
+  \ recipe practices using remainder to detect odd and even numbers.\n    </li>\n\
+  \    <li>\n     Find the Bullseye recipe program ( bullseye.pde ) and open it using\
+  \ Processing.\n    </li>\n    <li>\n     Follow the instructions in the code to\
+  \ make a striped bullseye like the one in the picture.\n    </li>\n    <li>\n  \
+  \   Make sure you SAVE YOUR CODE when you are done.\n    </li>\n   </ol>\n  </div>\n\
+  \ </div>\n\n"

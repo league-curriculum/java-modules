@@ -1,0 +1,25 @@
+assignment: 2_madlibs
+dir: levels/Level0/Module0/src/_03_print_and_popups/_2_madlibs
+lesson: 03_print_and_popups
+level: Level0
+meta:
+  assignment: 03_print_and_popups_2_madlibs
+  description: ''
+  lesson: 03_print_and_popups
+  level: Level0
+  module: Module0
+  oassignment: 2_madlibs
+  opath: Level0/Module0/src/_03_print_and_popups/_2_madlibs
+  title: 03 Print And Popups 2 Madlibs
+module: Module0
+resources: []
+text: "\n <div id=\"recipeLeftColumn\">\n  # Madlibs\n  <hr/>\n  <img alt=\"madlibs\
+  \ image\" src=\"./madlibs.png\"/>\n  <div id=\"recipeGoal\">\n   ## Goal:\n   Have\
+  \ you ever played Madlibs? You will get to use input and message dialogs to join\
+  \ Strings and build your own Madlib story.\n  </div>\n </div>\n <div id=\"recipeRightColumn\"\
+  >\n  <div id=\"recipeSteps\">\n   ## Steps:\n   <ol id=\"stepList\">\n    <li>\n\
+  \     Find the Madlibs ecipe program ( MadlibsOfTheAmazon.java ) and open it using\
+  \ Eclipse.\n    </li>\n    <li>\n     Follow the instructions in the program to\
+  \ help you make a hilarious story about crossing a piranha-infested river.\n   \
+  \ </li>\n    <li>\n     You can invent your own madlib story too!\n    </li>\n \
+  \  </ol>\n  </div>\n </div>\n\n"

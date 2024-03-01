@@ -1,28 +1,9 @@
-<body>
-<div id="wrap">
-<div id="main">
-<div id="header">
 
-</div>
-<div id="moduleIndex">
-# Slot Machine
-
-
-
-
-We are going to make a slot machine. 
-
-
-
-The slot machine we are going to make, will look a little like the middle row on this image:
-
-
-
-
-
-
-
-        First, find 3 images for the slot machine to display, e.g. cherry, orange, lime.
+ <div id="moduleIndex">
+  # Slot Machine
+  We are going to make a slot machine.
+  The slot machine we are going to make, will look a little like the middle row on this image:
+  First, find 3 images for the slot machine to display, e.g. cherry, orange, lime.
 
             Each "reel" of the slot machine will randomly display one of 3 images you have chosen (you can add more images later if there is time).
 
@@ -47,11 +28,5 @@ private JLabel createLabelImage(String fileName) throws MalformedURLException{
 	JLabel imageLabel = new JLabel(icon);
 	return imageLabel;
 }
+ </div>
 
-</div>
-</div>
-</div>
-<div id="footer">
-
-</div>
-</body>

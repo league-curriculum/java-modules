@@ -1,0 +1,25 @@
+assignment: 3_bumble_bee
+dir: levels/Level0/Module3/src/_03_remainder/_3_bumble_bee/bumble_bee
+lesson: 03_remainder
+level: Level0
+meta:
+  assignment: 03_remainder_3_bumble_bee
+  description: ''
+  lesson: 03_remainder
+  level: Level0
+  module: Module3
+  oassignment: 3_bumble_bee
+  opath: Level0/Module3/src/_03_remainder/_3_bumble_bee/bumble_bee
+  title: 03 Remainder 3 Bumble Bee
+module: Module3
+resources: []
+text: "\n <div id=\"recipeLeftColumn\">\n  # Bumblebee\n  <hr/>\n  <img alt=\"Bumblebee\
+  \ image\" src=\"./bumbleBee.png\"/>\n  <div id=\"recipeGoal\">\n   ## Goal:\n  \
+  \ Draw the bumblebee using a for loop and remainder\n  </div>\n </div>\n <div id=\"\
+  recipeRightColumn\">\n  <div id=\"recipeSteps\">\n   ## Steps:\n   <ol id=\"stepList\"\
+  >\n    <li>\n     This recipe practices using remainder and calling methods that\
+  \ use parameters.\n    </li>\n    <li>\n     Find the Bumble Bee recipe program\
+  \ ( bumble_bee.pde ) and open it using Processing.\n    </li>\n    <li>\n     Follow\
+  \ the instructions in the code to make a long stripy bumble bee like the one in\
+  \ the picture.\n    </li>\n    <li>\n     Make sure you SAVE YOUR CODE when you\
+  \ are done.\n    </li>\n   </ol>\n  </div>\n </div>\n\n"

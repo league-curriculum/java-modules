@@ -1,0 +1,23 @@
+assignment: 5_ice_cream_shop
+dir: levels/Level0/Module2/src/_02_methods/_5_ice_cream_shop/ice_cream_shop
+lesson: 02_methods
+level: Level0
+meta:
+  assignment: 02_methods_5_ice_cream_shop
+  description: ''
+  lesson: 02_methods
+  level: Level0
+  module: Module2
+  oassignment: 5_ice_cream_shop
+  opath: Level0/Module2/src/_02_methods/_5_ice_cream_shop/ice_cream_shop
+  title: 02 Methods 5 Ice Cream Shop
+module: Module2
+resources: []
+text: "\n <div id=\"recipeLeftColumn\">\n  # Ice Cream Shop\n  <hr/>\n  <img src=\"\
+  ./iceCreamShop.png\"/>\n  <div id=\"recipeGoal\">\n   ## Goal:\n   Make an ice cream\
+  \ cone!\n  </div>\n </div>\n <div id=\"recipeRightColumn\">\n  <div id=\"recipeSteps\"\
+  >\n   ## Steps:\n   <ol id=\"stepList\">\n    <li>\n     Find the Ice Cream Shop\
+  \ recipe program ( ice_cream_shop.pde ) and open it using Processing.\n    </li>\n\
+  \    <li>\n     Follow the instructions in the code to make a delicious ice cream\
+  \ cone with sprinkles.\n    </li>\n    <li>\n     Make sure you SAVE YOUR CODE when\
+  \ you are done.\n    </li>\n   </ol>\n  </div>\n </div>\n\n"

@@ -1,0 +1,25 @@
+assignment: 1_riddler
+dir: levels/Level0/Module1/src/_04_int/_1_riddler
+lesson: 04_int
+level: Level0
+meta:
+  assignment: 04_int_1_riddler
+  description: ''
+  lesson: 04_int
+  level: Level0
+  module: Module1
+  oassignment: 1_riddler
+  opath: Level0/Module1/src/_04_int/_1_riddler
+  title: 04 Int 1 Riddler
+module: Module1
+resources: []
+text: "\n <div id=\"recipeLeftColumn\">\n  # The Riddler\n  <hr/>\n  <img src=\"./riddler.jpg\"\
+  />\n  <div id=\"recipeGoal\">\n   ## Goal:\n   Ask the user some riddles!\n  </div>\n\
+  \ </div>\n <div id=\"recipeRightColumn\">\n  <div id=\"recipeSteps\">\n   ## Steps:\n\
+  \   <ol id=\"stepList\">\n    <li>\n     Make a variable to hold the player's score.\n\
+  \     ```\n\nint score = 0;\n\n```\n    </li>\n    <li>\n     Ask the player a riddle.\n\
+  \     [Here](http://brainden.com/logic-riddles.htm)\n     are some ideas.\n    </li>\n\
+  \    <li>\n     If they get the answer right, pop up \"correct!\" and increase the\
+  \ score by one\n     ```\n\nscore++;\n\n```\n    </li>\n    <li>\n     Otherwise,\
+  \ tell them they are \"wrong\" and also tell them the correct answer\n    </li>\n\
+  \    <li>\n     Add some more riddles\n    </li>\n   </ol>\n  </div>\n </div>\n\n"

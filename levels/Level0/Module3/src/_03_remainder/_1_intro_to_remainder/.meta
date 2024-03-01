@@ -1,0 +1,28 @@
+assignment: 1_intro_to_remainder
+dir: levels/Level0/Module3/src/_03_remainder/_1_intro_to_remainder
+lesson: 03_remainder
+level: Level0
+meta:
+  assignment: 03_remainder_1_intro_to_remainder
+  description: ''
+  lesson: 03_remainder
+  level: Level0
+  module: Module3
+  oassignment: 1_intro_to_remainder
+  opath: Level0/Module3/src/_03_remainder/_1_intro_to_remainder
+  title: 03 Remainder 1 Intro To Remainder
+module: Module3
+resources: []
+text: "\n # Introduction to Remainder\n The remainder operator is represented as the\
+  \ percent sign %. This just means the remainder after division. You may also hear\
+  \ this be called modulo.\n A common use for remainder is to test if a number is\
+  \ odd or even.\nTo do this test, you divide the number by 2.\nIf the remainder is\
+  \ zero, the number is even, but if the remainder is one, the number is odd. In code\
+  \ this would look like this:\n ```\nint number = new Random().nextInt(100);\n if\
+  \ (number % 2 == 0) {\n     System.out.println(\"number is even\");\n }\n else {\n\
+  \     System.out.println(\"number is odd\");\n }\n```\n Another use for remainder\
+  \ could be to track every 20 times a loop is executed, as follows:\n ```\nfor (int\
+  \ i=1; i&lt;=1000; i++) {\n    // do some code\n    if (i % 20 == 0){\n        System.out.println(\"\
+  20 more repeats completed\");\n    }\n}\n```\n <div style=\"float: left; width:\
+  \ 50%;\">\n  ## Eclipse Recipes\n  FizzBuzz\n </div>\n <div style=\"float: left;\
+  \ width: 50%;\">\n  ## Processing Recipes\n  Bullseye\nBumble Bee\n </div>\n\n"

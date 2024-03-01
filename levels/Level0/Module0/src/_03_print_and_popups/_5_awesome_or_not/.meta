@@ -1,0 +1,22 @@
+assignment: 5_awesome_or_not
+dir: levels/Level0/Module0/src/_03_print_and_popups/_5_awesome_or_not
+lesson: 03_print_and_popups
+level: Level0
+meta:
+  assignment: 03_print_and_popups_5_awesome_or_not
+  description: ''
+  lesson: 03_print_and_popups
+  level: Level0
+  module: Module0
+  oassignment: 5_awesome_or_not
+  opath: Level0/Module0/src/_03_print_and_popups/_5_awesome_or_not
+  title: 03 Print And Popups 5 Awesome Or Not
+module: Module0
+resources: []
+text: "\n <div id=\"recipeLeftColumn\">\n  # Awesome or Not\n  <hr/>\n  <img alt=\"\
+  awesome image\" src=\"./awesome.jpg\"/>\n  <div id=\"recipeGoal\">\n   ## Goal:\n\
+  \   Use random numbers and pop-ups to respond to a user's input\n  </div>\n </div>\n\
+  \ <div id=\"recipeRightColumn\">\n  <div id=\"recipeSteps\">\n   ## Steps:\n   <ol\
+  \ id=\"stepList\">\n    <li>\n     Find the Awesome or Not recipe program ( AwesomeOrNot.java\
+  \ ) and open it using Eclipse.\n    </li>\n    <li>\n     Follow the instructions\
+  \ in the program to code this game.\n    </li>\n   </ol>\n  </div>\n </div>\n\n"

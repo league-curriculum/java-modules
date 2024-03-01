@@ -1,0 +1,103 @@
+assignment: 5_pizza
+dir: levels/Level0/Module1/src/_03_if_else/_5_pizza/pizza
+lesson: 03_if_else
+level: Level0
+meta:
+  assignment: 03_if_else_5_pizza
+  description: ''
+  lesson: 03_if_else
+  level: Level0
+  module: Module1
+  oassignment: 5_pizza
+  opath: Level0/Module1/src/_03_if_else/_5_pizza/pizza
+  title: 03 If Else 5 Pizza
+module: Module1
+resources:
+- !!python/object/apply:pathlib.PosixPath
+  - /
+  - Users
+  - eric
+  - proj
+  - league-projects
+  - curriculum
+  - java-modules
+  - levels
+  - Level0
+  - Module1
+  - src
+  - _03_if_else
+  - _5_pizza
+  - pizza
+  - pepperoni.png
+- !!python/object/apply:pathlib.PosixPath
+  - /
+  - Users
+  - eric
+  - proj
+  - league-projects
+  - curriculum
+  - java-modules
+  - levels
+  - Level0
+  - Module1
+  - src
+  - _03_if_else
+  - _5_pizza
+  - pizza
+  - mushroom.png
+- !!python/object/apply:pathlib.PosixPath
+  - /
+  - Users
+  - eric
+  - proj
+  - league-projects
+  - curriculum
+  - java-modules
+  - levels
+  - Level0
+  - Module1
+  - src
+  - _03_if_else
+  - _5_pizza
+  - pizza
+  - olive.png
+text: "\n <div id=\"recipeLeftColumn\">\n  # Pizza\n  <hr/>\n  <img src=\"./pizza.jpeg\"\
+  />\n  <div id=\"recipeGoal\">\n   ## Goal:\n   Make a pizza with whatever toppings\
+  \ you can imagine!\n  </div>\n </div>\n <div id=\"recipeRightColumn\">\n  <div id=\"\
+  recipeSteps\">\n   ## Steps:\n   <ol id=\"stepList\">\n    <li>\n     Find the Pizza\
+  \ recipe program ( pizza.pde ) and open it using Processing.\n    </li>\n    <li>\n\
+  \     Set your canvas size in the setup method.\n     ```\n\nsize(width, height);\n\
+  \n```\n    </li>\n    <li>\n     Draw a biscuit colored ellipse for the pizza base,\
+  \ a red ellipse for sauce and a yellow ellipse inside (for the cheese).\n      \
+  \                              Do this in the setup method. You can use R,G,B values\
+  \ or the Processing Color Selector Tool to help you find the right colors.\n   \
+  \  ```\n\nfill(color);\nellipse(x, y, width, height);\n\n```\n    </li>\n    <li>\n\
+  \     Get some topping images for your pizza. Some examples are provided for you,\
+  \ but if you want to choose your own toppings you can.\n     <ul>\n      <li>\n\
+  \       Make a PImage variable for each type of topping at the top of the sketch:\n\
+  \       ```\nPImage pepperoni;\n```\n      </li>\n      <li>\n       Drag and drop\
+  \ the topping image file onto your sketch.\n      </li>\n      <li>\n       Load\
+  \ the topping image (in the setup method):\n       ```\npepperoni = loadImage(\"\
+  pepperoni.png\");\n```\n      </li>\n      <li>\n       In the draw method, use\
+  \ the image command to draw the topping somewhere on your pizza:\n       ```\nimage(pepperoni,200,200);\n\
+  ```\n      </li>\n      <li>\n       If your topping is too big for the pizza, resize\
+  \ the topping image. Do this in the setup method.\n       ```\npepperoni.resize(30,\
+  \ 30);\n```\n      </li>\n      <li>\n       Repeat the above steps for more toppings.\n\
+  \      </li>\n     </ul>\n     <li>\n      Add more code so that the toppings are\
+  \ only drawn when the user clicks the mouse (in draw method).\n     </li>\n    \
+  \ <li>\n      Make sure you SAVE YOUR CODE when you are done.\n     </li>\n    \
+  \ <li>\n      OPTIONAL Add a different topping with the right mouse click.\n   \
+  \   ```\n\nif (mousePressed &amp;&amp; (mouseButton == RIGHT)) {}\n\n```\n     </li>\n\
+  \     <li>\n      OPTIONAL Use a background image to put the pizza in a box.\n \
+  \     ```\n\nPImage pizzaBox = loadImage(\"box.jpg\");     //in setup method\npizzaBox.resize(width,\
+  \ height);      //to match your canvas size\nbackground(pizzaBox);       //in setup\
+  \ method\n\n```\n     </li>\n     <li>\n      OPTIONAL: To play a sound when you\
+  \ add a topping....\n                                    First download a sound\
+  \ from freesound.org and drop it onto your sketch\n\n                          \
+  \          Import the minim library Pocessing &gt; tools &gt; add tools &gt; libraries\
+  \ (search minim)\n      ```\n\nimport ddf.minim.*;     //at the top of the sketch\n\
+  Minim minim;     //at the top of the sketch\nAudioPlayer sound;    //at the top\
+  \ of the sketch\n\nminim = new Minim(this);      //in the setup method\nsound =\
+  \ minim.loadFile(\"ding.wav\");      //in the setup method\n\n// Put next 2 lines\
+  \ where you want the sound to play\nsound.play();\nsound.rewind();\n\n```\n    \
+  \ </li>\n    </li>\n   </ol>\n  </div>\n </div>\n\n"

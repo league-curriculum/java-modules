@@ -1,21 +1,9 @@
-<body>
-<div id="wrap">
-<div id="main">
-<div id="header">
 
-</div>
-<div id="moduleIndex">
-# Fortune Cookie
-
-
-
-
-Goal: Make a Swing program from scratch.
+ <div id="moduleIndex">
+  # Fortune Cookie
+  Goal: Make a Swing program from scratch.
 The program will have a window (frame) with a button that gives one of five random fortunes when clicked.
-
-
-
-    1. Make a FortuneCookie class, with a showButton() method like the one below: 
+  1. Make a FortuneCookie class, with a showButton() method like the one below: 
 
        public class FortuneCookie {
         public void showButton() {
@@ -55,10 +43,5 @@ button.addActionListener(this);
 7. Depending on which random number, show one of the five fortunes.
 
 [optional] 8. Run other student's programs to receive fortunes from them.
-</div>
-</div>
-</div>
-<div id="footer">
+ </div>
 
-</div>
-</body>

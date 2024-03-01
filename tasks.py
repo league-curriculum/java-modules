@@ -1,9 +1,8 @@
 from invoke import task
-from pathlib import Path
 
+from tasklib.html import *
 from tasklib.util import *
 from tasklib.walk import *
-from tasklib.html import *
 
 repo_root = Path(__file__).parent
 
@@ -19,9 +18,8 @@ def update_modules(ctx, root):
         write_gitignore(dir_)
         write_launch(dir_)
         copy_devcontainer(repo_root, dir_)
-        #copy_scripts(dir_)
+        # copy_scripts(dir_)
         disable_eclipse(dir_)
-
 
 
 #
@@ -33,27 +31,24 @@ def update_modules(ctx, root):
 def push(ctx, root, build_dir=None):
     """Upload the module in the current dir to Github"""
 
-
     if build_dir is None:
         build_dir = repo_root / "_build"
 
     build_dir = Path(build_dir)
 
-    for dir_ in walk_modules(root): 
-        create_repo(ctx, dir_, build_dir)  
-        #make_repo_template(dir_)
+    for dir_ in walk_modules(root):
+        create_repo(ctx, dir_, build_dir)
+        # make_repo_template(dir_)
 
 
 #
 # Misc
 #
 
+
+
+
 @task
-def hello(ctx):
-    print(Path(__file__).parent)
-
-
-@task 
 def move_pde_assign(ctx, root):
     pde = list(Path(root).glob('**/*.pde'))
     for f in pde:
@@ -61,8 +56,8 @@ def move_pde_assign(ctx, root):
         new_path.parent.mkdir(parents=True, exist_ok=True)
         f.rename(new_path)
 
-def _proc_html(f):
 
+def _proc_html(f):
     l, m, ls, a = get_lmla(f)
 
     print("Downloading ", f)
@@ -86,10 +81,9 @@ def _proc_html(f):
     # f.rename(web_dir / f.name)
 
 
-@task 
+@task
 def fetch_web(ctx, root):
     """Walk the levels looking for html files and download the assets"""
-    from researchrobot.openai_tools.completions import openai_one_completion
     root = Path(root)
 
     for f in root.glob("**/*.html"):
@@ -101,6 +95,7 @@ def fetch_web(ctx, root):
 
         _proc_html(f)
 
+
 @task
 def proc_web(cts, root):
     """Process the web pages in the .web directories"""
@@ -108,11 +103,22 @@ def proc_web(cts, root):
 
     for f in root.glob("**/.web/"):
         idx = f / "index.html"
-        if not idx.exists():
-            continue
+        if idx.exists():
+            md = html_to_markdown(idx)
+            idx.with_suffix('.md').write_text(md)
 
-        print(idx)
-        md = html_to_markdown(idx)
-        idx.with_suffix('.md').write_text(md)
+@task
+def walka(ctx, root):
+    import yaml
+
+    for l in walk_assignments(Path(root)):
+        java = list(l.glob('*.java'))
+        pde = list(l.glob('*.pde'))
+        web = (l / '.web').exists()
+        r = process_dir(root, l)
+        if r:
+            (l/'.meta').write_text(yaml.dump(r, indent=2))
+            print("Wrote ",  (l/'.meta') )
+
 
 

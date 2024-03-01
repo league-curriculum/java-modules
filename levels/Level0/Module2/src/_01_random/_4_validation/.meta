@@ -1,0 +1,24 @@
+assignment: 4_validation
+dir: levels/Level0/Module2/src/_01_random/_4_validation
+lesson: 01_random
+level: Level0
+meta:
+  assignment: 01_random_4_validation
+  description: ''
+  lesson: 01_random
+  level: Level0
+  module: Module2
+  oassignment: 4_validation
+  opath: Level0/Module2/src/_01_random/_4_validation
+  title: 01 Random 4 Validation
+module: Module2
+resources: []
+text: "\n <div id=\"recipeLeftColumn\">\n  # Validation\n  <hr/>\n  <img src=\"./validation.png\"\
+  />\n  <div id=\"recipeGoal\">\n   ## Goal:\n   Use a Random object to generate random\
+  \ integers so your code can generate random compliments.\n  </div>\n </div>\n <div\
+  \ id=\"recipeRightColumn\">\n  <div id=\"recipeSteps\">\n   ## Steps:\n   <ol id=\"\
+  stepList\">\n    <li>\n     Create a Random object.\n    </li>\n    <li>\n     Generate\
+  \ a random number between 0 and 4.\n    </li>\n    <li>\n     Map each value (0-4)\
+  \ to a unique compliment.\n    </li>\n    <li>\n     Print a random compliment 10\
+  \ times (using a loop)\n    </li>\n    <li>\n     Test your code and receive some\
+  \ compliments.\n    </li>\n   </ol>\n  </div>\n </div>\n\n"

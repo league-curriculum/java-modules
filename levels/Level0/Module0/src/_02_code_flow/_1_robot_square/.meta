@@ -1,0 +1,23 @@
+assignment: 1_robot_square
+dir: levels/Level0/Module0/src/_02_code_flow/_1_robot_square
+lesson: 02_code_flow
+level: Level0
+meta:
+  assignment: 02_code_flow_1_robot_square
+  description: ''
+  lesson: 02_code_flow
+  level: Level0
+  module: Module0
+  oassignment: 1_robot_square
+  opath: Level0/Module0/src/_02_code_flow/_1_robot_square
+  title: 02 Code Flow 1 Robot Square
+module: Module0
+resources: []
+text: "\n <div id=\"recipeLeftColumn\">\n  # Robot Square\n  <hr/>\n  <img alt=\"\
+  square image\" src=\"./robotSquare.png\"/>\n  <div id=\"recipeGoal\">\n   ## Goal:\n\
+  \   Use a loop to draw a square using a Robot\n  </div>\n </div>\n <div id=\"recipeRightColumn\"\
+  >\n  <div id=\"recipeSteps\">\n   ## Steps:\n   <ol id=\"stepList\">\n    <li>\n\
+  \     Find the RobotSquare recipe program ( RobotSquare.java ) and open it using\
+  \ Eclipse.\n    </li>\n    <li>\n     Follow the instructions in the program to\
+  \ help you make a Robot draw a square.\n    </li>\n   </ol>\n  </div>\n </div>\n\
+  \n"

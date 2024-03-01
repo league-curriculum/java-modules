@@ -2,11 +2,10 @@ from pathlib import Path
 
 
 def walk_modules(root):
-
     root = Path(root)
 
     if root.name.startswith("Module"):
-            yield root
+        yield root
 
     for dir_ in root.glob("**/*"):
         if dir_.name.startswith("Module"):
@@ -15,7 +14,7 @@ def walk_modules(root):
 
 def walk_lessons(root):
     for m in walk_modules(root):
-        src = m/'src'
+        src = m / 'src'
         if src.exists():
             for a in src.iterdir():
                 if a.is_dir():
@@ -23,7 +22,6 @@ def walk_lessons(root):
 
 
 def get_lm(dir_=None):
-
     if dir_ is None:
         p = Path('.')
     else:
@@ -45,6 +43,7 @@ def get_lm(dir_=None):
 
     return l, m
 
+
 def get_lmla(dir_=None):
     """Get level, module, lesson, assignment from a directory"""
     if dir_ is None:
@@ -52,32 +51,133 @@ def get_lmla(dir_=None):
     else:
         p = Path(dir_)
 
-    parts = str(p.absolute()).split('/')
+    p = str(p.absolute())
 
-    l = None
-    m = None
-    ls = None
-    a = None
-
+    if not '/src/' in p:
+        return None, None, None, None
 
     # The lesson is the first directory after 'src',
     # and the assignment is the directory after the lesson.
 
-    for i, part in enumerate(parts):
-        if part.startswith("Level"):
-            l = part
-        if part.startswith("Module"):
-            m = part
-        if part == "src":
-            # The lesson must be a directory
-            t = Path('/'.join(parts[:i + 1]))
-            if t.is_dir():
-                ls = parts[i+1]
-        if ls and parts[i] == ls:
-            # The assignment must be a directory
-            t = Path('/'.join(parts[:i+1]))
-            if t.is_dir():
-                a = parts[i+1]
+    lm, la = p.split("src")
+
+    lm_parts = lm.strip("/").split('/')
+    la_parts = la.strip("/").split('/')
+
+    l = lm_parts[-2]
+    m = lm_parts[-1]
+
+    ls = None
+    a = None
+
+    try:
+        ls = la_parts.pop(0);
+    except IndexError:
+        print("   ", dir_)
+        pass
+
+    try:
+        a = la_parts.pop(0)
+    except IndexError:
+        pass
 
     return l, m, ls, a
 
+
+def find_leaf_directories(root_dir):
+    from os import walk
+
+    root_path = Path(root_dir)
+    leaf_directories = []  # List to hold the Path objects of leaf directories
+
+    for dirpath, dirnames, filenames in walk(root_path):
+        dirpath = Path(dirpath)
+
+        dirnames = [e for e in dirnames if e not in ('.web', 'lib', 'league_token')]
+
+        if not dirnames and dirpath.name not in ('.web', 'lib', 'league_token') \
+                and '/src/' in str(dirpath):
+            leaf_directories.append(Path(dirpath))
+
+    return leaf_directories
+
+
+def process_dir(root, f):
+
+    if f.name in ('.web', 'lib', 'league_token', 'tests'):
+        f = f.parent
+
+    try:
+        l, m, ls, a = get_lmla(f)
+    except Exception as e:
+        print("ERROR (lmla) ", f, e)
+        return None
+
+    if a is None and ls is None:
+        # Module level
+        #print("No assignment ", f)
+        return None
+
+    elif a is None and ls is not None:
+        # missing one level of less / assignment
+        ls = ls.strip('_')
+        a = ls
+        assign = ls
+    else:
+        assign = ls.strip('_') + '_' + a.strip('_')
+
+    ls = ls.strip('_')
+
+    title = assign.replace('_', ' ').title()
+
+    src = (f / '.web' / 'index.md')
+
+
+
+    r = {
+        'dir': str(f),
+        'level': l,
+        'module': m,
+        'lesson': ls,
+        'assignment': a.strip('_'),
+        'text': src.read_text() if src.exists() else '',
+        'meta': {
+            'opath': str(f.relative_to(root)),
+            'level': l,
+            'module': m,
+            'lesson': ls,
+            'oassignment': a.strip('_'),
+            'assignment': assign,
+            'title': title,
+            'description': ''
+        }
+    }
+
+    resources = []
+    for e in f.iterdir():
+        if e.is_file() and e.suffix in ('.png', '.gif', '.jpg'):
+            resources.append(e.absolute())
+
+    r['resources'] = resources
+
+    return r
+
+
+def walk_assignments(root):
+    adirs = set()
+
+    for f in root.glob('**/*'):
+        p = f.parent
+
+        if p.name in ('.web', 'lib', 'league_token', 'tests'):
+            continue
+
+        java = list(p.glob('*.java'))
+        pdf = list(p.glob('*.pdf'))
+
+        web = (p / '.web').exists()
+
+        if len(java) > 0 or len(pdf) > 0 or web:
+            adirs.add(p)
+
+    return list(sorted(adirs))

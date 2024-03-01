@@ -1,0 +1,30 @@
+assignment: 08_LeagueSnake
+dir: levels/Level2/Module2/src/_08_LeagueSnake
+lesson: 08_LeagueSnake
+level: Level2
+meta:
+  assignment: 08_LeagueSnake
+  description: ''
+  lesson: 08_LeagueSnake
+  level: Level2
+  module: Module2
+  oassignment: 08_LeagueSnake
+  opath: Level2/Module2/src/_08_LeagueSnake
+  title: 08 Leaguesnake
+module: Module2
+resources: []
+text: "\n ## League Snake - Recipe Overview\n <form action=\"https://classroom.github.com/a/W9Nkgfkh\"\
+  \ id=\"moduleButtonForm\" method=\"get\">\n  <button id=\"acceptModuleButton\" type=\"\
+  submit\">\n   <span>\n    Accept Module\n   </span>\n  </button>\n </form>\n <div\
+  \ id=\"overviewPage\">\n  <div class=\"module\">\n   <div class=\"titleBar\">\n\
+  \    ### Part 1\n   </div>\n   <div class=\"description\">\n    #### Draw Head and\
+  \ Food\n    <ul>\n     <li>\n      [Recipe](Snake.html)\n     </li>\n    </ul>\n\
+  \    <img src=\"./SnakePart1.png\" style=\"width: 100%\"/>\n   </div>\n  </div>\n\
+  \  <div class=\"module\">\n   <div class=\"titleBar\">\n    ### Part 2\n   </div>\n\
+  \   <div class=\"description\">\n    #### Move Head and Food\n    <ul>\n     <li>\n\
+  \      [Recipe](Snake2.html)\n     </li>\n    </ul>\n    <img src=\"./SnakePart1.png\"\
+  \ style=\"width: 100%\"/>\n   </div>\n  </div>\n  <div class=\"module\">\n   <div\
+  \ class=\"titleBar\">\n    ### Part 3\n   </div>\n   <div class=\"description\"\
+  >\n    #### Grow Tail and Reset Game\n    <ul>\n     <li>\n      [Recipe](Snake3.html)\n\
+  \     </li>\n     <img src=\"./SnakePart3.png\" style=\"width: 100%\"/>\n    </ul>\n\
+  \   </div>\n  </div>\n </div>\n\n"

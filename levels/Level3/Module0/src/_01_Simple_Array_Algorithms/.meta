@@ -1,0 +1,33 @@
+assignment: 01_Simple_Array_Algorithms
+dir: levels/Level3/Module0/src/_01_Simple_Array_Algorithms
+lesson: 01_Simple_Array_Algorithms
+level: Level3
+meta:
+  assignment: 01_Simple_Array_Algorithms
+  description: ''
+  lesson: 01_Simple_Array_Algorithms
+  level: Level3
+  module: Module0
+  oassignment: 01_Simple_Array_Algorithms
+  opath: Level3/Module0/src/_01_Simple_Array_Algorithms
+  title: 01 Simple Array Algorithms
+module: Module0
+resources: []
+text: "\n <div id=\"moduleIndex\">\n  # JUnit Tests\n  When you have written a new\
+  \ program, you need to test if it is working properly. Also, if you need to make\
+  \ changes to an existing program, you need to make sure you haven't broken anything\
+  \ that worked before.\n  When you develop new code, you sometimes add print statements\
+  \ to check what is happening, but after you have done that, you need to go back\
+  \ and remove the print statements and you might break something in the process.\
+  \ So how can you test a program without changing its code?\n  JUnit provides us\
+  \ with a framework to test code \"from the outside\".\n  For example, The code below\
+  \ runs the static method add() on the Algorithms class. This test is not part of\
+  \ the Algorithms class, but an external testing class, and checks that when given\
+  \ the numbers 3 and 1, the add method returns the number 4.\n  @Test\n\tpublic void\
+  \ testAdd() {\n\_\_\_\_\_assertEquals(4, Algorithms.add(3,1));\n\t}\n  If a programmer\
+  \ later changes other parts of the Algorithms class for any reason, they can re-run\
+  \ this test to see if the add() method still works correctly.\n  You can use a variety\
+  \ of assertions that allow the program to test for different conditions. In the\
+  \ above example, the code is testing for the equals condition.  Ask your teacher,\
+  \ or search the Internet for a complete overview of the JUnit class and its capabilities.\n\
+  \ </div>\n\n"

@@ -1,0 +1,30 @@
+assignment: 05_overriding
+dir: levels/Level2/Module2/src/_05_overriding
+lesson: 05_overriding
+level: Level2
+meta:
+  assignment: 05_overriding
+  description: ''
+  lesson: 05_overriding
+  level: Level2
+  module: Module2
+  oassignment: 05_overriding
+  opath: Level2/Module2/src/_05_overriding
+  title: 05 Overriding
+module: Module2
+resources:
+- !!python/object/apply:pathlib.PosixPath
+  - /
+  - Users
+  - eric
+  - proj
+  - league-projects
+  - curriculum
+  - java-modules
+  - levels
+  - Level2
+  - Module2
+  - src
+  - _05_overriding
+  - pepperoniPizza.png
+text: ''

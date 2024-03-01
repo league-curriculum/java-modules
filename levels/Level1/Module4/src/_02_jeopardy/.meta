@@ -1,0 +1,19 @@
+assignment: 02_jeopardy
+dir: levels/Level1/Module4/src/_02_jeopardy
+lesson: 02_jeopardy
+level: Level1
+meta:
+  assignment: 02_jeopardy
+  description: ''
+  lesson: 02_jeopardy
+  level: Level1
+  module: Module4
+  oassignment: 02_jeopardy
+  opath: Level1/Module4/src/_02_jeopardy
+  title: 02 Jeopardy
+module: Module4
+resources: []
+text: "\n <div id=\"moduleIndex\">\n  # Jeopardy\n  We are going to make a Jeopardy\
+  \ game\n\n     This is what a \"real\" Jeopardy board looks like:\n  Sample output:\
+  \ Figure 1\n  Sample output: Figure 2 (first question answered correctly)\n </div>\n\
+  \n"

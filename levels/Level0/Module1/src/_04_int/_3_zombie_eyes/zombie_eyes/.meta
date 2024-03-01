@@ -1,0 +1,37 @@
+assignment: 3_zombie_eyes
+dir: levels/Level0/Module1/src/_04_int/_3_zombie_eyes/zombie_eyes
+lesson: 04_int
+level: Level0
+meta:
+  assignment: 04_int_3_zombie_eyes
+  description: ''
+  lesson: 04_int
+  level: Level0
+  module: Module1
+  oassignment: 3_zombie_eyes
+  opath: Level0/Module1/src/_04_int/_3_zombie_eyes/zombie_eyes
+  title: 04 Int 3 Zombie Eyes
+module: Module1
+resources: []
+text: "\n <div id=\"recipeLeftColumn\">\n  # Zombie Eyes\n  <hr/>\n  <img alt=\"Zombie\
+  \ Eyes image\" src=\"http://level0.jointheleague.org/modules/Mod1Recipes/images/zombieEyes.png\
+  \       \"/>\n  <div id=\"recipeGoal\">\n   ## Goal:\n   You are going to make a\
+  \ face with animated eyes. You could use your own face (if you have a photo) or\
+  \ a zombie, a cat, or whatever you like. Whatever you choose, the eyes should be\
+  \ prominent (large).\n  </div>\n </div>\n <div id=\"recipeRightColumn\">\n  <div\
+  \ id=\"recipeSteps\">\n   ## Steps:\n   <ol id=\"stepList\">\n    <li>\n     Find\
+  \ the Zombie Eyes recipe program ( zombie_eyes.pde ) and open it using Processing.\n\
+  \    </li>\n    <li>\n     Drop the image of a face onto your sketch. Load it like\
+  \ this in the setup method:\n     ```\n\nPImage face = loadImage(\"face.jpeg\");\n\
+  \n```\n    </li>\n    <li>\n     Adjust the size of your sketch if necessary.\n\
+  \     ```\n\nsize(width, height);\n\n```\n    </li>\n    <li>\n     Adjust the size\
+  \ of your image so that the size matches the sketch and draw it using the image\
+  \ command.\n     ```\n\nface.resize(width, height);\nimage(face, 0, 0);\n\n```\n\
+  \    </li>\n    <li>\n     Place 2 ellipses over the irises of the eyes in the draw\
+  \ method.\n     ```\n\nellipse(x, y, width, height);\n\n```\n    </li>\n    <li>\n\
+  \     Give the irises a color with the fill command (use numbers in place of red,\
+  \ green, blue).\n     ```\n\nfill(red, green, blue);\n\n```\n    </li>\n    <li>\n\
+  \     Use mouseX and mouseY to change the color of the irises when the mouse moves.\n\
+  \    </li>\n    <li>\n     Draw black pupils on top of the irises.\n    </li>\n\
+  \    <li>\n     Make sure you SAVE YOUR CODE when you are done.\n    </li>\n   </ol>\n\
+  \  </div>\n </div>\n\n"

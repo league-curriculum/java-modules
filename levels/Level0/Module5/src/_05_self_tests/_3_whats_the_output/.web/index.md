@@ -1,12 +1,9 @@
-<body>
-# The League of Amazing Programmers
 
-## What's the Output?
-
-### Each number is a complete Java program. If you were to run this program, what output would show up on the screen?
+ # The League of Amazing Programmers
+ ## What's the Output?
+ ### Each number is a complete Java program. If you were to run this program, what output would show up on the screen?
 	Type your answers in the box. Read each question carefully. Your answers must be exact.
-
-```
+ ```
 
 1.
 class MyJavaProgram{
@@ -279,5 +276,5 @@ SUBMIT YOUR ANSWERS
 
   
 ```
-<hr size="3"/>
-</body>
+ <hr size="3"/>
+

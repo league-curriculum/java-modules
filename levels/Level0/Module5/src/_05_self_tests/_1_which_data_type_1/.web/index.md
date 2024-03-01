@@ -1,12 +1,8 @@
-<body>
-# The League of Amazing Programmers
 
-## Which Data Type?
-
-### Fill in the blank with the correct data type.
-
-
-```
+ # The League of Amazing Programmers
+ ## Which Data Type?
+ ### Fill in the blank with the correct data type.
+ ```
 
    x = 5; 
 
@@ -39,5 +35,5 @@ SUBMIT YOUR ANSWERS
 
   
 ```
-<hr size="3"/>
-</body>
+ <hr size="3"/>
+

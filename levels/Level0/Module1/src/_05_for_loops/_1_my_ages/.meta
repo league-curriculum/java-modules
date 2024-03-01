@@ -1,0 +1,21 @@
+assignment: 1_my_ages
+dir: levels/Level0/Module1/src/_05_for_loops/_1_my_ages
+lesson: 05_for_loops
+level: Level0
+meta:
+  assignment: 05_for_loops_1_my_ages
+  description: ''
+  lesson: 05_for_loops
+  level: Level0
+  module: Module1
+  oassignment: 1_my_ages
+  opath: Level0/Module1/src/_05_for_loops/_1_my_ages
+  title: 05 For Loops 1 My Ages
+module: Module1
+resources: []
+text: "\n <div id=\"recipeLeftColumn\">\n  # My Ages\n  <hr/>\n  <img src=\"./ages.jpeg\"\
+  />\n  <div id=\"recipeGoal\">\n   ## Goal:\n   Practice using for loops!\n  </div>\n\
+  \ </div>\n <div id=\"recipeRightColumn\">\n  <div id=\"recipeSteps\">\n   ## Steps:\n\
+  \   <ol id=\"stepList\">\n    <li>\n     Using a for loop, print out all the ages\
+  \ you have been alive, up to your current age.\n    </li>\n   </ol>\n  </div>\n\
+  \ </div>\n\n"

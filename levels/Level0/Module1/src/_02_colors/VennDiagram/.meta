@@ -1,0 +1,45 @@
+assignment: VennDiagram
+dir: levels/Level0/Module1/src/_02_colors/VennDiagram
+lesson: 02_colors
+level: Level0
+meta:
+  assignment: 02_colors_VennDiagram
+  description: ''
+  lesson: 02_colors
+  level: Level0
+  module: Module1
+  oassignment: VennDiagram
+  opath: Level0/Module1/src/_02_colors/VennDiagram
+  title: 02 Colors Venndiagram
+module: Module1
+resources: []
+text: "\n <div id=\"recipeLeftColumn\">\n  # Venn Diagram of Me\n  <hr/>\n  <img alt=\"\
+  Venn Diagram of me image\" src=\"./vennDiagram.png\"/>\n  <div id=\"recipeGoal\"\
+  >\n   ## Goal:\n   Use the RGB color model to create a Venn Diagram that showcases\
+  \ your personality.\n  </div>\n </div>\n <div id=\"recipeRightColumn\">\n  <div\
+  \ id=\"recipeSteps\">\n   ## Steps:\n   <ol id=\"stepList\">\n    <li>\n     Find\
+  \ the Venn Diagram recipe program ( VennDiagram.pde ) and open it using Processing.\n\
+  \    </li>\n    <li>\n     Run the program and you should see an empty gray window.\n\
+  \    </li>\n    <li>\n     After the size() command, add code to draw 3 circles\
+  \ to form a Venn Diagram (see picture).\n                            The command\
+  \ to draw a circle in Processing is:\n     ```\nellipse (centerX, centerY, circleWidth,\
+  \ circleHeight);\n```\n     <li>\n      Change the x and y of each ellipse until\
+  \ they overlap as in the picture.\n     </li>\n     <li>\n      Run the program.\
+  \ It should look a bit like this\n      <img src=\"./whiteCircles.png\"/>\n    \
+  \ </li>\n     <li>\n      Now to add the colors. Processing uses the following command\
+  \ to draw in color:\n      ```\nfill(red, green, blue, opacity);\n```\n      where\
+  \ red, green, blue, and opacity are all numbers between 0 and 255. So to make see-through\
+  \ red circles, we add the following line of code BEFORE we draw the circles.\n \
+  \     ```\nfill(255, 0, 0, 100);\n```\n      <li>\n       Run the program. It should\
+  \ look a bit like this\n       <img src=\"./redCircles.png\"/>\n       We can now\
+  \ see the edges of all the circles because we made them \"see-through\" by setting\
+  \ the opacity to 100 (which is &lt; 255)\n      </li>\n      <li>\n       Add more\
+  \ fill commands (you will have to figure out where to put them) so that each ellipse\
+  \ has its own unique color.\n       <img src=\"./colorfulCircles.png\"/>\n     \
+  \ </li>\n      <li>\n       Label each of the circles with an aspect of your personality.\
+  \ Processing uses the following command to draw text. You will need to put numbers\
+  \ in place of xLocation, and yLocation. Play around with the x and y until it works\
+  \ with your diagram.\n       ```\ntext(\"TEXT\", xLocation, yLocation);\n```\n \
+  \     </li>\n      <li>\n       You can also make the text larger by changing the\
+  \ sizeOfLetters (you will have to figure out where to put this)\n       ```\ntextSize(sizeOfLetters);\n\
+  ```\n      </li>\n     </li>\n    </li>\n   </ol>\n  </div>\n </div>\n\n"

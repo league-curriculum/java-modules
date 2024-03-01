@@ -1,0 +1,72 @@
+assignment: 02_static_smiley_blues
+dir: levels/Level1/Module3/src/_02_static_smiley_blues
+lesson: 02_static_smiley_blues
+level: Level1
+meta:
+  assignment: 02_static_smiley_blues
+  description: ''
+  lesson: 02_static_smiley_blues
+  level: Level1
+  module: Module3
+  oassignment: 02_static_smiley_blues
+  opath: Level1/Module3/src/_02_static_smiley_blues
+  title: 02 Static Smiley Blues
+module: Module3
+resources:
+- !!python/object/apply:pathlib.PosixPath
+  - /
+  - Users
+  - eric
+  - proj
+  - league-projects
+  - curriculum
+  - java-modules
+  - levels
+  - Level1
+  - Module3
+  - src
+  - _02_static_smiley_blues
+  - smiley_red.jpg
+- !!python/object/apply:pathlib.PosixPath
+  - /
+  - Users
+  - eric
+  - proj
+  - league-projects
+  - curriculum
+  - java-modules
+  - levels
+  - Level1
+  - Module3
+  - src
+  - _02_static_smiley_blues
+  - smiley_yellow.jpg
+- !!python/object/apply:pathlib.PosixPath
+  - /
+  - Users
+  - eric
+  - proj
+  - league-projects
+  - curriculum
+  - java-modules
+  - levels
+  - Level1
+  - Module3
+  - src
+  - _02_static_smiley_blues
+  - smiley_green.jpg
+- !!python/object/apply:pathlib.PosixPath
+  - /
+  - Users
+  - eric
+  - proj
+  - league-projects
+  - curriculum
+  - java-modules
+  - levels
+  - Level1
+  - Module3
+  - src
+  - _02_static_smiley_blues
+  - smiley_blue.jpg
+text: ''

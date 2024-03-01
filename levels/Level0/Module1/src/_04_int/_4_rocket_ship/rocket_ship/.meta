@@ -1,0 +1,26 @@
+assignment: 4_rocket_ship
+dir: levels/Level0/Module1/src/_04_int/_4_rocket_ship/rocket_ship
+lesson: 04_int
+level: Level0
+meta:
+  assignment: 04_int_4_rocket_ship
+  description: ''
+  lesson: 04_int
+  level: Level0
+  module: Module1
+  oassignment: 4_rocket_ship
+  opath: Level0/Module1/src/_04_int/_4_rocket_ship/rocket_ship
+  title: 04 Int 4 Rocket Ship
+module: Module1
+resources: []
+text: "\n <div id=\"recipeLeftColumn\">\n  # Rock Ship Blastoff\n  <hr/>\n  <img alt=\"\
+  Rock Ship Blastoff image\" src=\"http://level0.jointheleague.org/modules/Mod1Recipes/images/rocketship.png\
+  \ \"/>\n  <div id=\"recipeGoal\">\n   ## Goal:\n   The goal is to make the Rocketship\
+  \ blast off and move from the bottom of the screen to the top of the screen.\n \
+  \ </div>\n </div>\n <div id=\"recipeRightColumn\">\n  <div id=\"recipeSteps\">\n\
+  \   ## Steps:\n   <ol id=\"stepList\">\n    <li>\n     Find the Rocket Ship recipe\
+  \ program ( rocket_ship.pde ) and open it using Processing.\n    </li>\n    <li>\n\
+  \     Change the code to make the rocket ship take off.\n    </li>\n    <li>\n \
+  \    Optional: Add a moon and stars to the sky (see picture)\n    </li>\n    <li>\n\
+  \     Make sure you SAVE YOUR CODE when you are done.\n    </li>\n   </ol>\n  </div>\n\
+  \ </div>\n\n"

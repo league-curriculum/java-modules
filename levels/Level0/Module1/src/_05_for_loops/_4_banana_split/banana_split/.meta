@@ -1,0 +1,26 @@
+assignment: 4_banana_split
+dir: levels/Level0/Module1/src/_05_for_loops/_4_banana_split/banana_split
+lesson: 05_for_loops
+level: Level0
+meta:
+  assignment: 05_for_loops_4_banana_split
+  description: ''
+  lesson: 05_for_loops
+  level: Level0
+  module: Module1
+  oassignment: 4_banana_split
+  opath: Level0/Module1/src/_05_for_loops/_4_banana_split/banana_split
+  title: 05 For Loops 4 Banana Split
+module: Module1
+resources: []
+text: "\n <div id=\"recipeLeftColumn\">\n  # Banana Split\n  <hr/>\n  <img alt=\"\
+  Banana Split image\" src=\"http://level0.jointheleague.org/modules/Mod1Recipes/images/splitOutput.png\"\
+  />\n  <div id=\"recipeGoal\">\n   ## Goal:\n   Use for loops to recreate the image\
+  \ above!\n  </div>\n </div>\n <div id=\"recipeRightColumn\">\n  <div id=\"recipeSteps\"\
+  >\n   ## Steps:\n   <ol id=\"stepList\">\n    <li>\n     Find the Banana Split recipe\
+  \ program ( banana_split.pde ) and open it using Processing.\n    </li>\n    <li>\n\
+  \     Use the code below to help you print \u201Cice cream ice cream ice cream banana\u201D\
+  \ on the sketch.  However, you can only use the words \"ice cream\" once in your\
+  \ code so you'll need a loop.\n     ```\n\ntext(\"word\", xPos, yPos);\n\n```\n\
+  \    </li>\n    <li>\n     Make sure you SAVE YOUR CODE when you are done.\n   \
+  \ </li>\n   </ol>\n  </div>\n </div>\n\n"
