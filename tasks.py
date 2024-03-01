@@ -107,6 +107,10 @@ def proc_web(cts, root):
             md = html_to_markdown(idx)
             idx.with_suffix('.md').write_text(md)
 
+            rm = idx.parent.parent
+            assert (rm/'.web').exists()
+            (rm/'README.md').write_text(md)
+
 @task
 def walka(ctx, root):
     import yaml

@@ -124,7 +124,7 @@ def html_to_markdown(file_path):
             line = line.strip()
 
         o += line + '\n'
-        
+
 
 
     # Remove any leading space before numbered list items, which
