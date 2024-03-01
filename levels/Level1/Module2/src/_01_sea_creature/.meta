@@ -2,15 +2,12 @@ assignment: 01_sea_creature
 dir: levels/Level1/Module2/src/_01_sea_creature
 lesson: 01_sea_creature
 level: Level1
-meta:
-  assignment: 01_sea_creature
-  description: ''
-  lesson: 01_sea_creature
-  level: Level1
-  module: Module2
-  oassignment: 01_sea_creature
-  opath: Level1/Module2/src/_01_sea_creature
-  title: 01 Sea Creature
 module: Module2
+oassignment: 01_sea_creature
+opath: Level1/Module2/src/_01_sea_creature
 resources: []
-text: ''
+text: '# 01 Sea Creature
+
+
+  '
+title: 01 Sea Creature

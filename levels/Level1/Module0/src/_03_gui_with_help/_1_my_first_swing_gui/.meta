@@ -1,19 +1,12 @@
-assignment: 1_my_first_swing_gui
+assignment: 03_gui_with_help_1_my_first_swing_gui
 dir: levels/Level1/Module0/src/_03_gui_with_help/_1_my_first_swing_gui
 lesson: 03_gui_with_help
 level: Level1
-meta:
-  assignment: 03_gui_with_help_1_my_first_swing_gui
-  description: ''
-  lesson: 03_gui_with_help
-  level: Level1
-  module: Module0
-  oassignment: 1_my_first_swing_gui
-  opath: Level1/Module0/src/_03_gui_with_help/_1_my_first_swing_gui
-  title: 03 Gui With Help 1 My First Swing Gui
 module: Module0
+oassignment: 1_my_first_swing_gui
+opath: Level1/Module0/src/_03_gui_with_help/_1_my_first_swing_gui
 resources:
-- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level1/Module0/src/_03_gui_with_help/_1_my_first_swing_gui/java.png
+- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level1/Module0/src/_03_gui_with_help/_1_my_first_swing_gui/.web/myFirstSwingGui.png
 text: '
 
 
@@ -58,3 +51,4 @@ text: '
 
 
   '
+title: 03 Gui With Help 1 My First Swing Gui

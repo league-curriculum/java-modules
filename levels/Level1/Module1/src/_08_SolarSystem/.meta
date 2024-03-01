@@ -2,15 +2,12 @@ assignment: 08_SolarSystem
 dir: levels/Level1/Module1/src/_08_SolarSystem
 lesson: 08_SolarSystem
 level: Level1
-meta:
-  assignment: 08_SolarSystem
-  description: ''
-  lesson: 08_SolarSystem
-  level: Level1
-  module: Module1
-  oassignment: 08_SolarSystem
-  opath: Level1/Module1/src/_08_SolarSystem
-  title: 08 Solarsystem
 module: Module1
+oassignment: 08_SolarSystem
+opath: Level1/Module1/src/_08_SolarSystem
 resources: []
-text: ''
+text: '# 08 Solarsystem
+
+
+  '
+title: 08 Solarsystem

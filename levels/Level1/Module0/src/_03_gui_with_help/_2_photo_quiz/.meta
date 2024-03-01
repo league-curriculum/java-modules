@@ -1,18 +1,12 @@
-assignment: 2_photo_quiz
+assignment: 03_gui_with_help_2_photo_quiz
 dir: levels/Level1/Module0/src/_03_gui_with_help/_2_photo_quiz
 lesson: 03_gui_with_help
 level: Level1
-meta:
-  assignment: 03_gui_with_help_2_photo_quiz
-  description: ''
-  lesson: 03_gui_with_help
-  level: Level1
-  module: Module0
-  oassignment: 2_photo_quiz
-  opath: Level1/Module0/src/_03_gui_with_help/_2_photo_quiz
-  title: 03 Gui With Help 2 Photo Quiz
 module: Module0
-resources: []
+oassignment: 2_photo_quiz
+opath: Level1/Module0/src/_03_gui_with_help/_2_photo_quiz
+resources:
+- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level1/Module0/src/_03_gui_with_help/_2_photo_quiz/.web/photoQuiz.png
 text: '
 
 
@@ -57,3 +51,4 @@ text: '
 
 
   '
+title: 03 Gui With Help 2 Photo Quiz

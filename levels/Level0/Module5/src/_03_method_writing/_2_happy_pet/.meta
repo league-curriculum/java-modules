@@ -1,18 +1,12 @@
-assignment: 2_happy_pet
+assignment: 03_method_writing_2_happy_pet
 dir: levels/Level0/Module5/src/_03_method_writing/_2_happy_pet
 lesson: 03_method_writing
 level: Level0
-meta:
-  assignment: 03_method_writing_2_happy_pet
-  description: ''
-  lesson: 03_method_writing
-  level: Level0
-  module: Module5
-  oassignment: 2_happy_pet
-  opath: Level0/Module5/src/_03_method_writing/_2_happy_pet
-  title: 03 Method Writing 2 Happy Pet
 module: Module5
-resources: []
+oassignment: 2_happy_pet
+opath: Level0/Module5/src/_03_method_writing/_2_happy_pet
+resources:
+- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module5/src/_03_method_writing/_2_happy_pet/.web/happyPet.png
 text: '
 
 
@@ -47,3 +41,4 @@ text: '
 
 
   '
+title: 03 Method Writing 2 Happy Pet

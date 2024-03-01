@@ -1,20 +1,13 @@
-assignment: 3_drum_kit
+assignment: 03_gui_with_help_3_drum_kit
 dir: levels/Level1/Module0/src/_03_gui_with_help/_3_drum_kit
 lesson: 03_gui_with_help
 level: Level1
-meta:
-  assignment: 03_gui_with_help_3_drum_kit
-  description: ''
-  lesson: 03_gui_with_help
-  level: Level1
-  module: Module0
-  oassignment: 3_drum_kit
-  opath: Level1/Module0/src/_03_gui_with_help/_3_drum_kit
-  title: 03 Gui With Help 3 Drum Kit
 module: Module0
+oassignment: 3_drum_kit
+opath: Level1/Module0/src/_03_gui_with_help/_3_drum_kit
 resources:
-- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level1/Module0/src/_03_gui_with_help/_3_drum_kit/cymbal.jpg
-- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level1/Module0/src/_03_gui_with_help/_3_drum_kit/snare.jpg
+- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level1/Module0/src/_03_gui_with_help/_3_drum_kit/.web/drumKit.png
+- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level1/Module0/src/_03_gui_with_help/_3_drum_kit/.web/drum.png
 text: '
 
 
@@ -73,3 +66,4 @@ text: '
 
 
   '
+title: 03 Gui With Help 3 Drum Kit

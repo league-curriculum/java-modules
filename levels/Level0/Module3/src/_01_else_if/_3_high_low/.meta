@@ -1,18 +1,12 @@
-assignment: 3_high_low
+assignment: 01_else_if_3_high_low
 dir: levels/Level0/Module3/src/_01_else_if/_3_high_low
 lesson: 01_else_if
 level: Level0
-meta:
-  assignment: 01_else_if_3_high_low
-  description: ''
-  lesson: 01_else_if
-  level: Level0
-  module: Module3
-  oassignment: 3_high_low
-  opath: Level0/Module3/src/_01_else_if/_3_high_low
-  title: 01 Else If 3 High Low
 module: Module3
-resources: []
+oassignment: 3_high_low
+opath: Level0/Module3/src/_01_else_if/_3_high_low
+resources:
+- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module3/src/_01_else_if/_3_high_low/.web/highLowGame.jpg
 text: '
 
 
@@ -51,3 +45,4 @@ text: '
 
 
   '
+title: 01 Else If 3 High Low

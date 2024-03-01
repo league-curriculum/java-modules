@@ -1,18 +1,12 @@
-assignment: 1_riddler
+assignment: 04_int_1_riddler
 dir: levels/Level0/Module1/src/_04_int/_1_riddler
 lesson: 04_int
 level: Level0
-meta:
-  assignment: 04_int_1_riddler
-  description: ''
-  lesson: 04_int
-  level: Level0
-  module: Module1
-  oassignment: 1_riddler
-  opath: Level0/Module1/src/_04_int/_1_riddler
-  title: 04 Int 1 Riddler
 module: Module1
-resources: []
+oassignment: 1_riddler
+opath: Level0/Module1/src/_04_int/_1_riddler
+resources:
+- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module1/src/_04_int/_1_riddler/.web/riddler.jpg
 text: '
 
 
@@ -62,3 +56,4 @@ text: '
 
 
   '
+title: 04 Int 1 Riddler

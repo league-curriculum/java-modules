@@ -2,15 +2,12 @@ assignment: 01_StringTrimmer
 dir: levels/Level3/Module5/src/_01_StringTrimmer
 lesson: 01_StringTrimmer
 level: Level3
-meta:
-  assignment: 01_StringTrimmer
-  description: ''
-  lesson: 01_StringTrimmer
-  level: Level3
-  module: Module5
-  oassignment: 01_StringTrimmer
-  opath: Level3/Module5/src/_01_StringTrimmer
-  title: 01 Stringtrimmer
 module: Module5
+oassignment: 01_StringTrimmer
+opath: Level3/Module5/src/_01_StringTrimmer
 resources: []
-text: ''
+text: '# 01 Stringtrimmer
+
+
+  '
+title: 01 Stringtrimmer

@@ -1,17 +1,10 @@
-assignment: 1_my_ages
+assignment: 05_for_loops_1_my_ages
 dir: levels/Level0/Module1/src/_05_for_loops/_1_my_ages
 lesson: 05_for_loops
 level: Level0
-meta:
-  assignment: 05_for_loops_1_my_ages
-  description: ''
-  lesson: 05_for_loops
-  level: Level0
-  module: Module1
-  oassignment: 1_my_ages
-  opath: Level0/Module1/src/_05_for_loops/_1_my_ages
-  title: 05 For Loops 1 My Ages
 module: Module1
+oassignment: 1_my_ages
+opath: Level0/Module1/src/_05_for_loops/_1_my_ages
 resources: []
 text: '
 
@@ -40,3 +33,4 @@ text: '
 
 
   '
+title: 05 For Loops 1 My Ages

@@ -2,15 +2,12 @@ assignment: 00_Intro_To_2D_Arrays
 dir: levels/Level4/Module0/src/_00_Intro_To_2D_Arrays
 lesson: 00_Intro_To_2D_Arrays
 level: Level4
-meta:
-  assignment: 00_Intro_To_2D_Arrays
-  description: ''
-  lesson: 00_Intro_To_2D_Arrays
-  level: Level4
-  module: Module0
-  oassignment: 00_Intro_To_2D_Arrays
-  opath: Level4/Module0/src/_00_Intro_To_2D_Arrays
-  title: 00 Intro To 2D Arrays
 module: Module0
+oassignment: 00_Intro_To_2D_Arrays
+opath: Level4/Module0/src/_00_Intro_To_2D_Arrays
 resources: []
-text: ''
+text: '# 00 Intro To 2D Arrays
+
+
+  '
+title: 00 Intro To 2D Arrays

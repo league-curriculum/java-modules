@@ -2,15 +2,12 @@ assignment: 02_Advanced_Robot_Race
 dir: levels/Level5/Module2/src/_02_Advanced_Robot_Race
 lesson: 02_Advanced_Robot_Race
 level: Level5
-meta:
-  assignment: 02_Advanced_Robot_Race
-  description: ''
-  lesson: 02_Advanced_Robot_Race
-  level: Level5
-  module: Module2
-  oassignment: 02_Advanced_Robot_Race
-  opath: Level5/Module2/src/_02_Advanced_Robot_Race
-  title: 02 Advanced Robot Race
 module: Module2
+oassignment: 02_Advanced_Robot_Race
+opath: Level5/Module2/src/_02_Advanced_Robot_Race
 resources: []
-text: ''
+text: '# 02 Advanced Robot Race
+
+
+  '
+title: 02 Advanced Robot Race

@@ -2,15 +2,12 @@ assignment: StringMethods
 dir: levels/Level4/Module2/src/StringMethods
 lesson: StringMethods
 level: Level4
-meta:
-  assignment: StringMethods
-  description: ''
-  lesson: StringMethods
-  level: Level4
-  module: Module2
-  oassignment: StringMethods
-  opath: Level4/Module2/src/StringMethods
-  title: Stringmethods
 module: Module2
+oassignment: StringMethods
+opath: Level4/Module2/src/StringMethods
 resources: []
-text: ''
+text: '# Stringmethods
+
+
+  '
+title: Stringmethods

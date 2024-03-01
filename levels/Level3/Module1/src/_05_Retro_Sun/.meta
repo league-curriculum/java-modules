@@ -2,17 +2,17 @@ assignment: 05_Retro_Sun
 dir: levels/Level3/Module1/src/_05_Retro_Sun
 lesson: 05_Retro_Sun
 level: Level3
-meta:
-  assignment: 05_Retro_Sun
-  description: ''
-  lesson: 05_Retro_Sun
-  level: Level3
-  module: Module1
-  oassignment: 05_Retro_Sun
-  opath: Level3/Module1/src/_05_Retro_Sun
-  title: 05 Retro Sun
 module: Module1
-resources: []
+oassignment: 05_Retro_Sun
+opath: Level3/Module1/src/_05_Retro_Sun
+resources:
+- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level3/Module1/src/_05_Retro_Sun/.web/2_gradient.png
+- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level3/Module1/src/_05_Retro_Sun/.web/retro_sun.gif
+- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level3/Module1/src/_05_Retro_Sun/.web/3_missing_sun_section.png
+- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level3/Module1/src/_05_Retro_Sun/.web/6_retro_sun_extras.gif
+- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level3/Module1/src/_05_Retro_Sun/.web/5_multiple_sections.gif
+- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level3/Module1/src/_05_Retro_Sun/.web/4b_resizing_section.gif
+- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level3/Module1/src/_05_Retro_Sun/.web/1_sun.png
 text: "\n\n# Retro Sun (Processing)\n\n\n### Part 1: Drawing the Sun\n\n\n<img alt=\"\
   \" src=\"./images/1_sun.png\" style=\"width: 400px; height: 330px;\"/>\nOpen the\
   \ starter code in Processing.\nDraw and fill a solid color ellipse to be the sun.\n\
@@ -75,3 +75,4 @@ text: "\n\n# Retro Sun (Processing)\n\n\n### Part 1: Drawing the Sun\n\n\n<img a
   \ if( bar.h < maxHeight ) {\n        // Bar height just reset and at top\n     \
   \   \n        bar.y -= speed;\n        bar.h += speed;\n      }\n    }\n  }\n}\n\
   ```\n\n\n\n\n\n\n\n\n"
+title: 05 Retro Sun

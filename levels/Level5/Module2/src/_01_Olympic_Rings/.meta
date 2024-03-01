@@ -2,15 +2,12 @@ assignment: 01_Olympic_Rings
 dir: levels/Level5/Module2/src/_01_Olympic_Rings
 lesson: 01_Olympic_Rings
 level: Level5
-meta:
-  assignment: 01_Olympic_Rings
-  description: ''
-  lesson: 01_Olympic_Rings
-  level: Level5
-  module: Module2
-  oassignment: 01_Olympic_Rings
-  opath: Level5/Module2/src/_01_Olympic_Rings
-  title: 01 Olympic Rings
 module: Module2
+oassignment: 01_Olympic_Rings
+opath: Level5/Module2/src/_01_Olympic_Rings
 resources: []
-text: ''
+text: '# 01 Olympic Rings
+
+
+  '
+title: 01 Olympic Rings

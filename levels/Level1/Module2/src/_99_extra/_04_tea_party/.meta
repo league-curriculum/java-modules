@@ -1,17 +1,10 @@
-assignment: 04_tea_party
+assignment: 99_extra_04_tea_party
 dir: levels/Level1/Module2/src/_99_extra/_04_tea_party
 lesson: 99_extra
 level: Level1
-meta:
-  assignment: 99_extra_04_tea_party
-  description: ''
-  lesson: 99_extra
-  level: Level1
-  module: Module2
-  oassignment: 04_tea_party
-  opath: Level1/Module2/src/_99_extra/_04_tea_party
-  title: 99 Extra 04 Tea Party
 module: Module2
+oassignment: 04_tea_party
+opath: Level1/Module2/src/_99_extra/_04_tea_party
 resources: []
 text: "\n\n# Tea Party\n\nYou are hosting a formal Tea Party. Your task is to welcome\
   \ your guests properly. Here are the rules\nfor welcoming guests:\n\nIf the guest\
@@ -37,3 +30,4 @@ text: "\n\n# Tea Party\n\nYou are hosting a formal Tea Party. Your task is to we
   Isaac Newton\", false, true));\n\t}\n\t\n\t@Test\n\tpublic void testIsWomanKnighted()\
   \ {\n\t\tTeaParty teaParty = new TeaParty();\n\t\tassertEquals(\"Hello Lady Laura\"\
   , teaParty.welcome(\"Laura\", true, true));\n\t}\n\n}\n```\n\n\n"
+title: 99 Extra 04 Tea Party

@@ -2,19 +2,12 @@ assignment: 02_static_smiley_blues
 dir: levels/Level1/Module3/src/_02_static_smiley_blues
 lesson: 02_static_smiley_blues
 level: Level1
-meta:
-  assignment: 02_static_smiley_blues
-  description: ''
-  lesson: 02_static_smiley_blues
-  level: Level1
-  module: Module3
-  oassignment: 02_static_smiley_blues
-  opath: Level1/Module3/src/_02_static_smiley_blues
-  title: 02 Static Smiley Blues
 module: Module3
-resources:
-- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level1/Module3/src/_02_static_smiley_blues/smiley_red.jpg
-- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level1/Module3/src/_02_static_smiley_blues/smiley_yellow.jpg
-- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level1/Module3/src/_02_static_smiley_blues/smiley_green.jpg
-- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level1/Module3/src/_02_static_smiley_blues/smiley_blue.jpg
-text: ''
+oassignment: 02_static_smiley_blues
+opath: Level1/Module3/src/_02_static_smiley_blues
+resources: []
+text: '# 02 Static Smiley Blues
+
+
+  '
+title: 02 Static Smiley Blues

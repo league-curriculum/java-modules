@@ -2,15 +2,12 @@ assignment: 02_Pixel_Art
 dir: levels/Level4/Module0/src/_02_Pixel_Art
 lesson: 02_Pixel_Art
 level: Level4
-meta:
-  assignment: 02_Pixel_Art
-  description: ''
-  lesson: 02_Pixel_Art
-  level: Level4
-  module: Module0
-  oassignment: 02_Pixel_Art
-  opath: Level4/Module0/src/_02_Pixel_Art
-  title: 02 Pixel Art
 module: Module0
+oassignment: 02_Pixel_Art
+opath: Level4/Module0/src/_02_Pixel_Art
 resources: []
-text: ''
+text: '# 02 Pixel Art
+
+
+  '
+title: 02 Pixel Art

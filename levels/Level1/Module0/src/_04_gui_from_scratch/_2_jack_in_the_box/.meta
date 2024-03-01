@@ -1,19 +1,11 @@
-assignment: 2_jack_in_the_box
+assignment: 04_gui_from_scratch_2_jack_in_the_box
 dir: levels/Level1/Module0/src/_04_gui_from_scratch/_2_jack_in_the_box
 lesson: 04_gui_from_scratch
 level: Level1
-meta:
-  assignment: 04_gui_from_scratch_2_jack_in_the_box
-  description: ''
-  lesson: 04_gui_from_scratch
-  level: Level1
-  module: Module0
-  oassignment: 2_jack_in_the_box
-  opath: Level1/Module0/src/_04_gui_from_scratch/_2_jack_in_the_box
-  title: 04 Gui From Scratch 2 Jack In The Box
 module: Module0
-resources:
-- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level1/Module0/src/_04_gui_from_scratch/_2_jack_in_the_box/jackInTheBox.png
+oassignment: 2_jack_in_the_box
+opath: Level1/Module0/src/_04_gui_from_scratch/_2_jack_in_the_box
+resources: []
 text: '
 
 
@@ -110,3 +102,4 @@ text: '
 
 
   '
+title: 04 Gui From Scratch 2 Jack In The Box

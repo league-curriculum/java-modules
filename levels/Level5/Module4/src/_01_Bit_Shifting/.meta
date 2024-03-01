@@ -2,15 +2,12 @@ assignment: 01_Bit_Shifting
 dir: levels/Level5/Module4/src/_01_Bit_Shifting
 lesson: 01_Bit_Shifting
 level: Level5
-meta:
-  assignment: 01_Bit_Shifting
-  description: ''
-  lesson: 01_Bit_Shifting
-  level: Level5
-  module: Module4
-  oassignment: 01_Bit_Shifting
-  opath: Level5/Module4/src/_01_Bit_Shifting
-  title: 01 Bit Shifting
 module: Module4
+oassignment: 01_Bit_Shifting
+opath: Level5/Module4/src/_01_Bit_Shifting
 resources: []
-text: ''
+text: '# 01 Bit Shifting
+
+
+  '
+title: 01 Bit Shifting

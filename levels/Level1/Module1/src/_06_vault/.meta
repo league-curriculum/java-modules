@@ -2,16 +2,9 @@ assignment: 06_vault
 dir: levels/Level1/Module1/src/_06_vault
 lesson: 06_vault
 level: Level1
-meta:
-  assignment: 06_vault
-  description: ''
-  lesson: 06_vault
-  level: Level1
-  module: Module1
-  oassignment: 06_vault
-  opath: Level1/Module1/src/_06_vault
-  title: 06 Vault
 module: Module1
+oassignment: 06_vault
+opath: Level1/Module1/src/_06_vault
 resources: []
 text: '
 
@@ -46,3 +39,4 @@ text: '
 
 
   '
+title: 06 Vault

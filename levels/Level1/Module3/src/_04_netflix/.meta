@@ -2,16 +2,9 @@ assignment: 04_netflix
 dir: levels/Level1/Module3/src/_04_netflix
 lesson: 04_netflix
 level: Level1
-meta:
-  assignment: 04_netflix
-  description: ''
-  lesson: 04_netflix
-  level: Level1
-  module: Module3
-  oassignment: 04_netflix
-  opath: Level1/Module3/src/_04_netflix
-  title: 04 Netflix
 module: Module3
+oassignment: 04_netflix
+opath: Level1/Module3/src/_04_netflix
 resources: []
 text: '
 
@@ -45,3 +38,4 @@ text: '
 
 
   '
+title: 04 Netflix

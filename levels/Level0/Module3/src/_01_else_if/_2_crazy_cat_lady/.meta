@@ -1,18 +1,12 @@
-assignment: 2_crazy_cat_lady
+assignment: 01_else_if_2_crazy_cat_lady
 dir: levels/Level0/Module3/src/_01_else_if/_2_crazy_cat_lady
 lesson: 01_else_if
 level: Level0
-meta:
-  assignment: 01_else_if_2_crazy_cat_lady
-  description: ''
-  lesson: 01_else_if
-  level: Level0
-  module: Module3
-  oassignment: 2_crazy_cat_lady
-  opath: Level0/Module3/src/_01_else_if/_2_crazy_cat_lady
-  title: 01 Else If 2 Crazy Cat Lady
 module: Module3
-resources: []
+oassignment: 2_crazy_cat_lady
+opath: Level0/Module3/src/_01_else_if/_2_crazy_cat_lady
+resources:
+- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module3/src/_01_else_if/_2_crazy_cat_lady/.web/crazyCatLady.jpg
 text: '
 
 
@@ -48,3 +42,4 @@ text: '
 
 
   '
+title: 01 Else If 2 Crazy Cat Lady

@@ -2,15 +2,12 @@ assignment: 01_File_Recorder
 dir: levels/Level5/Module1/src/_01_File_Recorder
 lesson: 01_File_Recorder
 level: Level5
-meta:
-  assignment: 01_File_Recorder
-  description: ''
-  lesson: 01_File_Recorder
-  level: Level5
-  module: Module1
-  oassignment: 01_File_Recorder
-  opath: Level5/Module1/src/_01_File_Recorder
-  title: 01 File Recorder
 module: Module1
+oassignment: 01_File_Recorder
+opath: Level5/Module1/src/_01_File_Recorder
 resources: []
-text: ''
+text: '# 01 File Recorder
+
+
+  '
+title: 01 File Recorder

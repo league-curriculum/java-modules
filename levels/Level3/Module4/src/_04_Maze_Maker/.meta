@@ -2,19 +2,13 @@ assignment: 04_Maze_Maker
 dir: levels/Level3/Module4/src/_04_Maze_Maker
 lesson: 04_Maze_Maker
 level: Level3
-meta:
-  assignment: 04_Maze_Maker
-  description: ''
-  lesson: 04_Maze_Maker
-  level: Level3
-  module: Module4
-  oassignment: 04_Maze_Maker
-  opath: Level3/Module4/src/_04_Maze_Maker
-  title: 04 Maze Maker
 module: Module4
+oassignment: 04_Maze_Maker
+opath: Level3/Module4/src/_04_Maze_Maker
 resources:
-- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level3/Module4/src/_04_Maze_Maker/maze_incomplete.png
-- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level3/Module4/src/_04_Maze_Maker/maze.png
+- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level3/Module4/src/_04_Maze_Maker/.web/maze_incomplete.png
+- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level3/Module4/src/_04_Maze_Maker/.web/maze_complete.png
+- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level3/Module4/src/_04_Maze_Maker/.web/maze_with_exit.png
 text: '<html>
 
 
@@ -83,3 +77,4 @@ text: '<html>
   </html>
 
   '
+title: 04 Maze Maker

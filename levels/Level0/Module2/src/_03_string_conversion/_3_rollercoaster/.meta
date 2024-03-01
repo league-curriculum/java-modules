@@ -1,17 +1,10 @@
-assignment: 3_rollercoaster
+assignment: 03_string_conversion_3_rollercoaster
 dir: levels/Level0/Module2/src/_03_string_conversion/_3_rollercoaster
 lesson: 03_string_conversion
 level: Level0
-meta:
-  assignment: 03_string_conversion_3_rollercoaster
-  description: ''
-  lesson: 03_string_conversion
-  level: Level0
-  module: Module2
-  oassignment: 3_rollercoaster
-  opath: Level0/Module2/src/_03_string_conversion/_3_rollercoaster
-  title: 03 String Conversion 3 Rollercoaster
 module: Module2
+oassignment: 3_rollercoaster
+opath: Level0/Module2/src/_03_string_conversion/_3_rollercoaster
 resources: []
 text: '
 
@@ -46,3 +39,4 @@ text: '
 
 
   '
+title: 03 String Conversion 3 Rollercoaster

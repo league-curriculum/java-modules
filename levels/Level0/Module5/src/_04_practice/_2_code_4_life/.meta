@@ -1,17 +1,13 @@
-assignment: 2_code_4_life
+assignment: 04_practice_2_code_4_life
 dir: levels/Level0/Module5/src/_04_practice/_2_code_4_life
 lesson: 04_practice
 level: Level0
-meta:
-  assignment: 04_practice_2_code_4_life
-  description: ''
-  lesson: 04_practice
-  level: Level0
-  module: Module5
-  oassignment: 2_code_4_life
-  opath: Level0/Module5/src/_04_practice/_2_code_4_life
-  title: 04 Practice 2 Code 4 Life
 module: Module5
-resources:
-- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module5/src/_04_practice/_2_code_4_life/batman.png
-text: ''
+oassignment: 2_code_4_life
+opath: Level0/Module5/src/_04_practice/_2_code_4_life
+resources: []
+text: '# 04 Practice 2 Code 4 Life
+
+
+  '
+title: 04 Practice 2 Code 4 Life

@@ -2,15 +2,12 @@ assignment: 01_MurderOfCrows
 dir: levels/Level3/Module1/src/_01_MurderOfCrows
 lesson: 01_MurderOfCrows
 level: Level3
-meta:
-  assignment: 01_MurderOfCrows
-  description: ''
-  lesson: 01_MurderOfCrows
-  level: Level3
-  module: Module1
-  oassignment: 01_MurderOfCrows
-  opath: Level3/Module1/src/_01_MurderOfCrows
-  title: 01 Murderofcrows
 module: Module1
+oassignment: 01_MurderOfCrows
+opath: Level3/Module1/src/_01_MurderOfCrows
 resources: []
-text: ''
+text: '# 01 Murderofcrows
+
+
+  '
+title: 01 Murderofcrows

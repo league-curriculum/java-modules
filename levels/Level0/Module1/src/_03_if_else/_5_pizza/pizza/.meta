@@ -1,21 +1,11 @@
-assignment: 5_pizza
+assignment: 03_if_else_5_pizza
 dir: levels/Level0/Module1/src/_03_if_else/_5_pizza/pizza
 lesson: 03_if_else
 level: Level0
-meta:
-  assignment: 03_if_else_5_pizza
-  description: ''
-  lesson: 03_if_else
-  level: Level0
-  module: Module1
-  oassignment: 5_pizza
-  opath: Level0/Module1/src/_03_if_else/_5_pizza/pizza
-  title: 03 If Else 5 Pizza
 module: Module1
-resources:
-- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module1/src/_03_if_else/_5_pizza/pizza/pepperoni.png
-- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module1/src/_03_if_else/_5_pizza/pizza/mushroom.png
-- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module1/src/_03_if_else/_5_pizza/pizza/olive.png
+oassignment: 5_pizza
+opath: Level0/Module1/src/_03_if_else/_5_pizza/pizza
+resources: []
 text: "\n\n# Pizza\n\n<hr/>\n<img src=\"./images/pizza.jpeg\"/>\n\n## Goal:\n\nMake\
   \ a pizza with whatever toppings you can imagine!\n\n## Steps:\n\n1. Find the Pizza\
   \ recipe program ( pizza.pde ) and open it using Processing.\n2. Set your canvas\
@@ -69,3 +59,4 @@ text: "\n\n# Pizza\n\n<hr/>\n<img src=\"./images/pizza.jpeg\"/>\n\n## Goal:\n\nM
   \ method\nsound = minim.loadFile(\"ding.wav\");      //in the setup method\n\n//\
   \ Put next 2 lines where you want the sound to play\nsound.play();\nsound.rewind();\n\
   ```\n\n\n\n"
+title: 03 If Else 5 Pizza

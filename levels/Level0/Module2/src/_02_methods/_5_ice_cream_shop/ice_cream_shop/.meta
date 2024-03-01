@@ -1,18 +1,12 @@
-assignment: 5_ice_cream_shop
+assignment: 02_methods_5_ice_cream_shop
 dir: levels/Level0/Module2/src/_02_methods/_5_ice_cream_shop/ice_cream_shop
 lesson: 02_methods
 level: Level0
-meta:
-  assignment: 02_methods_5_ice_cream_shop
-  description: ''
-  lesson: 02_methods
-  level: Level0
-  module: Module2
-  oassignment: 5_ice_cream_shop
-  opath: Level0/Module2/src/_02_methods/_5_ice_cream_shop/ice_cream_shop
-  title: 02 Methods 5 Ice Cream Shop
 module: Module2
-resources: []
+oassignment: 5_ice_cream_shop
+opath: Level0/Module2/src/_02_methods/_5_ice_cream_shop/ice_cream_shop
+resources:
+- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module2/src/_02_methods/_5_ice_cream_shop/ice_cream_shop/.web/iceCreamShop.png
 text: '
 
 
@@ -44,3 +38,4 @@ text: '
 
 
   '
+title: 02 Methods 5 Ice Cream Shop

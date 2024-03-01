@@ -1,18 +1,14 @@
-assignment: 1_intro
+assignment: 03_string_conversion_1_intro
 dir: levels/Level0/Module2/src/_03_string_conversion/_1_intro
 lesson: 03_string_conversion
 level: Level0
-meta:
-  assignment: 03_string_conversion_1_intro
-  description: ''
-  lesson: 03_string_conversion
-  level: Level0
-  module: Module2
-  oassignment: 1_intro
-  opath: Level0/Module2/src/_03_string_conversion/_1_intro
-  title: 03 String Conversion 1 Intro
 module: Module2
-resources: []
+oassignment: 1_intro
+opath: Level0/Module2/src/_03_string_conversion/_1_intro
+resources:
+- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module2/src/_03_string_conversion/_1_intro/.web/parseInt3.png
+- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module2/src/_03_string_conversion/_1_intro/.web/parseInt2.png
+- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module2/src/_03_string_conversion/_1_intro/.web/paresInt1.png
 text: '
 
 
@@ -33,3 +29,4 @@ text: '
 
 
   '
+title: 03 String Conversion 1 Intro

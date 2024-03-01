@@ -1,18 +1,12 @@
-assignment: 1_unbirthday
+assignment: 03_if_else_1_unbirthday
 dir: levels/Level0/Module1/src/_03_if_else/_1_unbirthday
 lesson: 03_if_else
 level: Level0
-meta:
-  assignment: 03_if_else_1_unbirthday
-  description: ''
-  lesson: 03_if_else
-  level: Level0
-  module: Module1
-  oassignment: 1_unbirthday
-  opath: Level0/Module1/src/_03_if_else/_1_unbirthday
-  title: 03 If Else 1 Unbirthday
 module: Module1
-resources: []
+oassignment: 1_unbirthday
+opath: Level0/Module1/src/_03_if_else/_1_unbirthday
+resources:
+- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module1/src/_03_if_else/_1_unbirthday/.web/unbirthday.jpg
 text: '
 
 
@@ -47,3 +41,4 @@ text: '
 
 
   '
+title: 03 If Else 1 Unbirthday

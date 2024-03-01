@@ -1,18 +1,12 @@
-assignment: 3_pi_aloud
+assignment: 03_char_3_pi_aloud
 dir: levels/Level0/Module4/src/_03_char/_3_pi_aloud
 lesson: 03_char
 level: Level0
-meta:
-  assignment: 03_char_3_pi_aloud
-  description: ''
-  lesson: 03_char
-  level: Level0
-  module: Module4
-  oassignment: 3_pi_aloud
-  opath: Level0/Module4/src/_03_char/_3_pi_aloud
-  title: 03 Char 3 Pi Aloud
 module: Module4
-resources: []
+oassignment: 3_pi_aloud
+opath: Level0/Module4/src/_03_char/_3_pi_aloud
+resources:
+- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module4/src/_03_char/_3_pi_aloud/.web/piAloud.png
 text: '
 
 
@@ -58,3 +52,4 @@ text: '
 
 
   '
+title: 03 Char 3 Pi Aloud

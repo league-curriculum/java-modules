@@ -1,16 +1,13 @@
-assignment: 3_game_over
+assignment: 02_boolean_3_game_over
 dir: levels/Level0/Module4/src/_02_boolean/_3_game_over
 lesson: 02_boolean
 level: Level0
-meta:
-  assignment: 02_boolean_3_game_over
-  description: ''
-  lesson: 02_boolean
-  level: Level0
-  module: Module4
-  oassignment: 3_game_over
-  opath: Level0/Module4/src/_02_boolean/_3_game_over
-  title: 02 Boolean 3 Game Over
 module: Module4
+oassignment: 3_game_over
+opath: Level0/Module4/src/_02_boolean/_3_game_over
 resources: []
-text: ''
+text: '# 02 Boolean 3 Game Over
+
+
+  '
+title: 02 Boolean 3 Game Over

@@ -1,16 +1,13 @@
-assignment: 2_list_of_goals
+assignment: 02_return_types_2_list_of_goals
 dir: levels/Level1/Module0/src/_02_return_types/_2_list_of_goals
 lesson: 02_return_types
 level: Level1
-meta:
-  assignment: 02_return_types_2_list_of_goals
-  description: ''
-  lesson: 02_return_types
-  level: Level1
-  module: Module0
-  oassignment: 2_list_of_goals
-  opath: Level1/Module0/src/_02_return_types/_2_list_of_goals
-  title: 02 Return Types 2 List Of Goals
 module: Module0
+oassignment: 2_list_of_goals
+opath: Level1/Module0/src/_02_return_types/_2_list_of_goals
 resources: []
-text: ''
+text: '# 02 Return Types 2 List Of Goals
+
+
+  '
+title: 02 Return Types 2 List Of Goals

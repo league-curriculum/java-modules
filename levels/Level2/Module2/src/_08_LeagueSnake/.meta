@@ -2,17 +2,12 @@ assignment: 08_LeagueSnake
 dir: levels/Level2/Module2/src/_08_LeagueSnake
 lesson: 08_LeagueSnake
 level: Level2
-meta:
-  assignment: 08_LeagueSnake
-  description: ''
-  lesson: 08_LeagueSnake
-  level: Level2
-  module: Module2
-  oassignment: 08_LeagueSnake
-  opath: Level2/Module2/src/_08_LeagueSnake
-  title: 08 Leaguesnake
 module: Module2
-resources: []
+oassignment: 08_LeagueSnake
+opath: Level2/Module2/src/_08_LeagueSnake
+resources:
+- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level2/Module2/src/_08_LeagueSnake/.web/SnakePart1.png
+- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level2/Module2/src/_08_LeagueSnake/.web/SnakePart3.png
 text: '
 
 
@@ -72,3 +67,4 @@ text: '
 
 
   '
+title: 08 Leaguesnake

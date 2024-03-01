@@ -1,16 +1,13 @@
-assignment: 2_robot_in_space
+assignment: 04_int_2_robot_in_space
 dir: levels/Level0/Module1/src/_04_int/_2_robot_in_space
 lesson: 04_int
 level: Level0
-meta:
-  assignment: 04_int_2_robot_in_space
-  description: ''
-  lesson: 04_int
-  level: Level0
-  module: Module1
-  oassignment: 2_robot_in_space
-  opath: Level0/Module1/src/_04_int/_2_robot_in_space
-  title: 04 Int 2 Robot In Space
 module: Module1
+oassignment: 2_robot_in_space
+opath: Level0/Module1/src/_04_int/_2_robot_in_space
 resources: []
-text: ''
+text: '# 04 Int 2 Robot In Space
+
+
+  '
+title: 04 Int 2 Robot In Space

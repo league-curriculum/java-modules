@@ -1,17 +1,10 @@
-assignment: 4_cuteness_tv
+assignment: 04_gui_from_scratch_4_cuteness_tv
 dir: levels/Level1/Module0/src/_04_gui_from_scratch/_4_cuteness_tv
 lesson: 04_gui_from_scratch
 level: Level1
-meta:
-  assignment: 04_gui_from_scratch_4_cuteness_tv
-  description: ''
-  lesson: 04_gui_from_scratch
-  level: Level1
-  module: Module0
-  oassignment: 4_cuteness_tv
-  opath: Level1/Module0/src/_04_gui_from_scratch/_4_cuteness_tv
-  title: 04 Gui From Scratch 4 Cuteness Tv
 module: Module0
+oassignment: 4_cuteness_tv
+opath: Level1/Module0/src/_04_gui_from_scratch/_4_cuteness_tv
 resources: []
 text: '
 
@@ -93,3 +86,4 @@ text: '
 
 
   '
+title: 04 Gui From Scratch 4 Cuteness Tv

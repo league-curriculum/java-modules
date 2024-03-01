@@ -1,17 +1,10 @@
-assignment: 1_skill_practice
+assignment: 04_practice_1_skill_practice
 dir: levels/Level0/Module5/src/_04_practice/_1_skill_practice
 lesson: 04_practice
 level: Level0
-meta:
-  assignment: 04_practice_1_skill_practice
-  description: ''
-  lesson: 04_practice
-  level: Level0
-  module: Module5
-  oassignment: 1_skill_practice
-  opath: Level0/Module5/src/_04_practice/_1_skill_practice
-  title: 04 Practice 1 Skill Practice
 module: Module5
+oassignment: 1_skill_practice
+opath: Level0/Module5/src/_04_practice/_1_skill_practice
 resources: []
 text: '
 
@@ -127,3 +120,4 @@ text: '
 
 
   '
+title: 04 Practice 1 Skill Practice

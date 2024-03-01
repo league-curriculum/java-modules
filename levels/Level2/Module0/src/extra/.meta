@@ -2,16 +2,12 @@ assignment: extra
 dir: levels/Level2/Module0/src/extra
 lesson: extra
 level: Level2
-meta:
-  assignment: extra
-  description: ''
-  lesson: extra
-  level: Level2
-  module: Module0
-  oassignment: extra
-  opath: Level2/Module0/src/extra
-  title: Extra
 module: Module0
-resources:
-- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level2/Module0/src/extra/java.png
-text: ''
+oassignment: extra
+opath: Level2/Module0/src/extra
+resources: []
+text: '# Extra
+
+
+  '
+title: Extra

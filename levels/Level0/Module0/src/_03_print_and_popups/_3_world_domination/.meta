@@ -1,18 +1,12 @@
-assignment: 3_world_domination
+assignment: 03_print_and_popups_3_world_domination
 dir: levels/Level0/Module0/src/_03_print_and_popups/_3_world_domination
 lesson: 03_print_and_popups
 level: Level0
-meta:
-  assignment: 03_print_and_popups_3_world_domination
-  description: ''
-  lesson: 03_print_and_popups
-  level: Level0
-  module: Module0
-  oassignment: 3_world_domination
-  opath: Level0/Module0/src/_03_print_and_popups/_3_world_domination
-  title: 03 Print And Popups 3 World Domination
 module: Module0
-resources: []
+oassignment: 3_world_domination
+opath: Level0/Module0/src/_03_print_and_popups/_3_world_domination
+resources:
+- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module0/src/_03_print_and_popups/_3_world_domination/.web/worldDomination.jpg
 text: '
 
 
@@ -44,3 +38,4 @@ text: '
 
 
   '
+title: 03 Print And Popups 3 World Domination

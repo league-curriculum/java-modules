@@ -1,18 +1,12 @@
-assignment: 2_remarkable
+assignment: 03_if_else_2_remarkable
 dir: levels/Level0/Module1/src/_03_if_else/_2_remarkable
 lesson: 03_if_else
 level: Level0
-meta:
-  assignment: 03_if_else_2_remarkable
-  description: ''
-  lesson: 03_if_else
-  level: Level0
-  module: Module1
-  oassignment: 2_remarkable
-  opath: Level0/Module1/src/_03_if_else/_2_remarkable
-  title: 03 If Else 2 Remarkable
 module: Module1
-resources: []
+oassignment: 2_remarkable
+opath: Level0/Module1/src/_03_if_else/_2_remarkable
+resources:
+- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module1/src/_03_if_else/_2_remarkable/.web/wow.jpg
 text: '
 
 
@@ -45,3 +39,4 @@ text: '
 
 
   '
+title: 03 If Else 2 Remarkable

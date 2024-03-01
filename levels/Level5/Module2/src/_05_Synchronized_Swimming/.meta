@@ -2,15 +2,12 @@ assignment: 05_Synchronized_Swimming
 dir: levels/Level5/Module2/src/_05_Synchronized_Swimming
 lesson: 05_Synchronized_Swimming
 level: Level5
-meta:
-  assignment: 05_Synchronized_Swimming
-  description: ''
-  lesson: 05_Synchronized_Swimming
-  level: Level5
-  module: Module2
-  oassignment: 05_Synchronized_Swimming
-  opath: Level5/Module2/src/_05_Synchronized_Swimming
-  title: 05 Synchronized Swimming
 module: Module2
+oassignment: 05_Synchronized_Swimming
+opath: Level5/Module2/src/_05_Synchronized_Swimming
 resources: []
-text: ''
+text: '# 05 Synchronized Swimming
+
+
+  '
+title: 05 Synchronized Swimming

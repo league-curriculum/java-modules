@@ -1,17 +1,10 @@
-assignment: 01_nasty_surprise
+assignment: 99_extra_01_nasty_surprise
 dir: levels/Level1/Module4/src/_99_extra/_01_nasty_surprise
 lesson: 99_extra
 level: Level1
-meta:
-  assignment: 99_extra_01_nasty_surprise
-  description: ''
-  lesson: 99_extra
-  level: Level1
-  module: Module4
-  oassignment: 01_nasty_surprise
-  opath: Level1/Module4/src/_99_extra/_01_nasty_surprise
-  title: 99 Extra 01 Nasty Surprise
 module: Module4
+oassignment: 01_nasty_surprise
+opath: Level1/Module4/src/_99_extra/_01_nasty_surprise
 resources: []
 text: "\n\n# Nasty Surprise\n\n1. Make a user interface that has 2 buttons. One says\
   \ \u201CTrick\u201D the other says \u201CTreat\u201D.\n\n2. When the user clicks\
@@ -23,3 +16,4 @@ text: "\n\n# Nasty Surprise\n\n1. Make a user interface that has 2 buttons. One 
   \        frame.add(imageLabel);\n        frame.setVisible(true);\n        frame.pack();\n\
   \    } catch (MalformedURLException e) {\n        e.printStackTrace();\n    }\n\
   }\n```\n\n\n"
+title: 99 Extra 01 Nasty Surprise

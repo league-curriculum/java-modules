@@ -1,23 +1,12 @@
-assignment: 5_FlappyBird
+assignment: 01_methods_5_FlappyBird
 dir: levels/Level1/Module0/src/_01_methods/_5_FlappyBird
 lesson: 01_methods
 level: Level1
-meta:
-  assignment: 01_methods_5_FlappyBird
-  description: ''
-  lesson: 01_methods
-  level: Level1
-  module: Module0
-  oassignment: 5_FlappyBird
-  opath: Level1/Module0/src/_01_methods/_5_FlappyBird
-  title: 01 Methods 5 Flappybird
 module: Module0
+oassignment: 5_FlappyBird
+opath: Level1/Module0/src/_01_methods/_5_FlappyBird
 resources:
-- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level1/Module0/src/_01_methods/_5_FlappyBird/bottomPipe.png
-- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level1/Module0/src/_01_methods/_5_FlappyBird/flappyBackground.jpg
-- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level1/Module0/src/_01_methods/_5_FlappyBird/bird.png
-- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level1/Module0/src/_01_methods/_5_FlappyBird/topPipe.png
-- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level1/Module0/src/_01_methods/_5_FlappyBird/bucket.png
+- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level1/Module0/src/_01_methods/_5_FlappyBird/.web/FlappyBirdScreenShot.png
 text: "\n\n# Flappy Bird\n\n1. Start a new sketch with draw and setup methods.\n\n\
   2. Set your canvas size in the setup method\nsize(width, height)\n3. In your draw\
   \ method, set a background, and draw a ball (bird) on the screen.\n```\nbackground(red,\
@@ -63,3 +52,4 @@ text: "\n\n# Flappy Bird\n\n1. Start a new sketch with draw and setup methods.\n
   \ = loadImage(\"bird.png\");\nbird.resize(50,50);\n}\nvoid draw() {\nbackground(back);\n\
   image (pipeBottom,250,375);\nimage (pipeTop,250,-130);\nimage (bird, 250, 300);\n\
   }\n\n\n"
+title: 01 Methods 5 Flappybird

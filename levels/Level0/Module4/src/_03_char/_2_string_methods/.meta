@@ -1,17 +1,10 @@
-assignment: 2_string_methods
+assignment: 03_char_2_string_methods
 dir: levels/Level0/Module4/src/_03_char/_2_string_methods
 lesson: 03_char
 level: Level0
-meta:
-  assignment: 03_char_2_string_methods
-  description: ''
-  lesson: 03_char
-  level: Level0
-  module: Module4
-  oassignment: 2_string_methods
-  opath: Level0/Module4/src/_03_char/_2_string_methods
-  title: 03 Char 2 String Methods
 module: Module4
+oassignment: 2_string_methods
+opath: Level0/Module4/src/_03_char/_2_string_methods
 resources: []
 text: '
 
@@ -47,3 +40,4 @@ text: '
 
 
   '
+title: 03 Char 2 String Methods

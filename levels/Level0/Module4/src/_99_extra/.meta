@@ -2,21 +2,12 @@ assignment: 99_extra
 dir: levels/Level0/Module4/src/_99_extra
 lesson: 99_extra
 level: Level0
-meta:
-  assignment: 99_extra
-  description: ''
-  lesson: 99_extra
-  level: Level0
-  module: Module4
-  oassignment: 99_extra
-  opath: Level0/Module4/src/_99_extra
-  title: 99 Extra
 module: Module4
+oassignment: 99_extra
+opath: Level0/Module4/src/_99_extra
 resources:
-- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module4/src/_99_extra/donkey.jpg
-- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module4/src/_99_extra/minecraft.png
-- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module4/src/_99_extra/tail.png
-- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module4/src/_99_extra/creeper.png
+- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module4/src/_99_extra/.web/PinTheTail.png
+- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module4/src/_99_extra/.web/creeper.jpg
 text: "\n\n# Hide The Creeper\n\n<hr/>\n<img src=\"./images/creeper.jpg\"/>\n\n##\
   \ Goal:\n\nFind the Creeper!\n\n## Steps:\n\n1. Find the Hide the Creeper recipe\
   \ program in Eclipse.\n2. Set your canvas size\n```\n\nsize(width, height) //in\
@@ -47,3 +38,4 @@ text: "\n\n# Hide The Creeper\n\n<hr/>\n<img src=\"./images/creeper.jpg\"/>\n\n#
   \     return true;\nelse\n     return false;\n}\n```\n17. Let the user know that\
   \ they found the creeper.\n18. Option: Add more creepers, or move the creeper after\
   \ they find it.\n\n\n\n"
+title: 99 Extra

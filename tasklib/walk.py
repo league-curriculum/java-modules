@@ -103,6 +103,8 @@ def find_leaf_directories(root_dir):
 
 
 def process_dir(root, f):
+    from .html import html_to_markdown
+
     if f.name in ('.web', 'lib', 'league_token', 'tests'):
         f = f.parent
 
@@ -129,31 +131,33 @@ def process_dir(root, f):
 
     title = assign.replace('_', ' ').title()
 
-    src = (f / '.web' / 'index.md')
+    web_dir =  (f / '.web')
+
+    idx = web_dir / 'index.html'
+
+    if idx.exists():
+        md = html_to_markdown(idx)
+    else:
+        md = f"# {title}\n\n"
 
     r = {
+        'title': title,
         'dir': str(f),
+        'opath': str(f.relative_to(root)),
         'level': l,
         'module': m,
         'lesson': ls,
-        'assignment': a.strip('_'),
-        'text': src.read_text() if src.exists() else '',
-        'meta': {
-            'opath': str(f.relative_to(root)),
-            'level': l,
-            'module': m,
-            'lesson': ls,
-            'oassignment': a.strip('_'),
-            'assignment': assign,
-            'title': title,
-            'description': ''
-        }
+        'oassignment': a.strip('_'),
+        'assignment': assign,
+        'resources': [],
+        'text': md
     }
 
     resources = []
-    for e in f.iterdir():
-        if e.is_file() and e.suffix in ('.png', '.gif', '.jpg'):
-            resources.append(str(e.absolute()))
+    if web_dir.exists():
+        for e in web_dir.iterdir():
+            if e.is_file() and e.suffix in ('.png', '.gif', '.jpg'):
+                resources.append(str(e.absolute()))
 
     r['resources'] = resources
 

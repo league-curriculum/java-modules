@@ -1,16 +1,13 @@
-assignment: 1_intro_to_methods
+assignment: 03_method_writing_1_intro_to_methods
 dir: levels/Level0/Module5/src/_03_method_writing/_1_intro_to_methods
 lesson: 03_method_writing
 level: Level0
-meta:
-  assignment: 03_method_writing_1_intro_to_methods
-  description: ''
-  lesson: 03_method_writing
-  level: Level0
-  module: Module5
-  oassignment: 1_intro_to_methods
-  opath: Level0/Module5/src/_03_method_writing/_1_intro_to_methods
-  title: 03 Method Writing 1 Intro To Methods
 module: Module5
+oassignment: 1_intro_to_methods
+opath: Level0/Module5/src/_03_method_writing/_1_intro_to_methods
 resources: []
-text: ''
+text: '# 03 Method Writing 1 Intro To Methods
+
+
+  '
+title: 03 Method Writing 1 Intro To Methods

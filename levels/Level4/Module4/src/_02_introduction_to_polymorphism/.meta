@@ -2,15 +2,12 @@ assignment: 02_introduction_to_polymorphism
 dir: levels/Level4/Module4/src/_02_introduction_to_polymorphism
 lesson: 02_introduction_to_polymorphism
 level: Level4
-meta:
-  assignment: 02_introduction_to_polymorphism
-  description: ''
-  lesson: 02_introduction_to_polymorphism
-  level: Level4
-  module: Module4
-  oassignment: 02_introduction_to_polymorphism
-  opath: Level4/Module4/src/_02_introduction_to_polymorphism
-  title: 02 Introduction To Polymorphism
 module: Module4
+oassignment: 02_introduction_to_polymorphism
+opath: Level4/Module4/src/_02_introduction_to_polymorphism
 resources: []
-text: ''
+text: '# 02 Introduction To Polymorphism
+
+
+  '
+title: 02 Introduction To Polymorphism

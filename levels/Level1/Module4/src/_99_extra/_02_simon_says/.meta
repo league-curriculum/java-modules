@@ -1,20 +1,13 @@
-assignment: 02_simon_says
+assignment: 99_extra_02_simon_says
 dir: levels/Level1/Module4/src/_99_extra/_02_simon_says
 lesson: 99_extra
 level: Level1
-meta:
-  assignment: 99_extra_02_simon_says
-  description: ''
-  lesson: 99_extra
-  level: Level1
-  module: Module4
-  oassignment: 02_simon_says
-  opath: Level1/Module4/src/_99_extra/_02_simon_says
-  title: 99 Extra 02 Simon Says
 module: Module4
-resources:
-- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level1/Module4/src/_99_extra/_02_simon_says/up.jpg
-- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level1/Module4/src/_99_extra/_02_simon_says/down.jpg
-- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level1/Module4/src/_99_extra/_02_simon_says/left.jpg
-- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level1/Module4/src/_99_extra/_02_simon_says/right.jpg
-text: ''
+oassignment: 02_simon_says
+opath: Level1/Module4/src/_99_extra/_02_simon_says
+resources: []
+text: '# 99 Extra 02 Simon Says
+
+
+  '
+title: 99 Extra 02 Simon Says

@@ -1,17 +1,10 @@
-assignment: 5_magic_8_ball
+assignment: 01_random_5_magic_8_ball
 dir: levels/Level0/Module2/src/_01_random/_5_magic_8_ball
 lesson: 01_random
 level: Level0
-meta:
-  assignment: 01_random_5_magic_8_ball
-  description: ''
-  lesson: 01_random
-  level: Level0
-  module: Module2
-  oassignment: 5_magic_8_ball
-  opath: Level0/Module2/src/_01_random/_5_magic_8_ball
-  title: 01 Random 5 Magic 8 Ball
 module: Module2
+oassignment: 5_magic_8_ball
+opath: Level0/Module2/src/_01_random/_5_magic_8_ball
 resources: []
 text: '
 
@@ -46,3 +39,4 @@ text: '
 
 
   '
+title: 01 Random 5 Magic 8 Ball

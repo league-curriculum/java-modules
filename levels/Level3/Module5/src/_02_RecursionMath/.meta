@@ -2,15 +2,12 @@ assignment: 02_RecursionMath
 dir: levels/Level3/Module5/src/_02_RecursionMath
 lesson: 02_RecursionMath
 level: Level3
-meta:
-  assignment: 02_RecursionMath
-  description: ''
-  lesson: 02_RecursionMath
-  level: Level3
-  module: Module5
-  oassignment: 02_RecursionMath
-  opath: Level3/Module5/src/_02_RecursionMath
-  title: 02 Recursionmath
 module: Module5
+oassignment: 02_RecursionMath
+opath: Level3/Module5/src/_02_RecursionMath
 resources: []
-text: ''
+text: '# 02 Recursionmath
+
+
+  '
+title: 02 Recursionmath

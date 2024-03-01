@@ -2,19 +2,12 @@ assignment: 06_overloading
 dir: levels/Level2/Module2/src/_06_overloading
 lesson: 06_overloading
 level: Level2
-meta:
-  assignment: 06_overloading
-  description: ''
-  lesson: 06_overloading
-  level: Level2
-  module: Module2
-  oassignment: 06_overloading
-  opath: Level2/Module2/src/_06_overloading
-  title: 06 Overloading
 module: Module2
-resources:
-- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level2/Module2/src/_06_overloading/leagueDark.png
-- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level2/Module2/src/_06_overloading/java.png
-- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level2/Module2/src/_06_overloading/league.png
-- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level2/Module2/src/_06_overloading/example.png
-text: ''
+oassignment: 06_overloading
+opath: Level2/Module2/src/_06_overloading
+resources: []
+text: '# 06 Overloading
+
+
+  '
+title: 06 Overloading

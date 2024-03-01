@@ -1,19 +1,12 @@
-assignment: 2_rock_paper_scissors
+assignment: 01_random_2_rock_paper_scissors
 dir: levels/Level0/Module2/src/_01_random/_2_rock_paper_scissors
 lesson: 01_random
 level: Level0
-meta:
-  assignment: 01_random_2_rock_paper_scissors
-  description: ''
-  lesson: 01_random
-  level: Level0
-  module: Module2
-  oassignment: 2_rock_paper_scissors
-  opath: Level0/Module2/src/_01_random/_2_rock_paper_scissors
-  title: 01 Random 2 Rock Paper Scissors
 module: Module2
+oassignment: 2_rock_paper_scissors
+opath: Level0/Module2/src/_01_random/_2_rock_paper_scissors
 resources:
-- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module2/src/_01_random/_2_rock_paper_scissors/rock.png
+- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module2/src/_01_random/_2_rock_paper_scissors/.web/rock.png
 text: '
 
 
@@ -49,3 +42,4 @@ text: '
 
 
   '
+title: 01 Random 2 Rock Paper Scissors

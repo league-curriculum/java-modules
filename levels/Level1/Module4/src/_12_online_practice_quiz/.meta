@@ -2,16 +2,9 @@ assignment: 12_online_practice_quiz
 dir: levels/Level1/Module4/src/_12_online_practice_quiz
 lesson: 12_online_practice_quiz
 level: Level1
-meta:
-  assignment: 12_online_practice_quiz
-  description: ''
-  lesson: 12_online_practice_quiz
-  level: Level1
-  module: Module4
-  oassignment: 12_online_practice_quiz
-  opath: Level1/Module4/src/_12_online_practice_quiz
-  title: 12 Online Practice Quiz
 module: Module4
+oassignment: 12_online_practice_quiz
+opath: Level1/Module4/src/_12_online_practice_quiz
 resources: []
 text: '<html>
 
@@ -90,3 +83,4 @@ text: '<html>
   </html>
 
   '
+title: 12 Online Practice Quiz

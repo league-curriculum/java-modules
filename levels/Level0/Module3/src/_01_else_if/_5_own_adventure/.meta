@@ -1,17 +1,10 @@
-assignment: 5_own_adventure
+assignment: 01_else_if_5_own_adventure
 dir: levels/Level0/Module3/src/_01_else_if/_5_own_adventure
 lesson: 01_else_if
 level: Level0
-meta:
-  assignment: 01_else_if_5_own_adventure
-  description: ''
-  lesson: 01_else_if
-  level: Level0
-  module: Module3
-  oassignment: 5_own_adventure
-  opath: Level0/Module3/src/_01_else_if/_5_own_adventure
-  title: 01 Else If 5 Own Adventure
 module: Module3
+oassignment: 5_own_adventure
+opath: Level0/Module3/src/_01_else_if/_5_own_adventure
 resources: []
 text: '
 
@@ -41,3 +34,4 @@ text: '
 
 
   '
+title: 01 Else If 5 Own Adventure

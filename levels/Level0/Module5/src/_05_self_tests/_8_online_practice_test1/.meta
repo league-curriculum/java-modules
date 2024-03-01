@@ -1,17 +1,10 @@
-assignment: 8_online_practice_test1
+assignment: 05_self_tests_8_online_practice_test1
 dir: levels/Level0/Module5/src/_05_self_tests/_8_online_practice_test1
 lesson: 05_self_tests
 level: Level0
-meta:
-  assignment: 05_self_tests_8_online_practice_test1
-  description: ''
-  lesson: 05_self_tests
-  level: Level0
-  module: Module5
-  oassignment: 8_online_practice_test1
-  opath: Level0/Module5/src/_05_self_tests/_8_online_practice_test1
-  title: 05 Self Tests 8 Online Practice Test1
 module: Module5
+oassignment: 8_online_practice_test1
+opath: Level0/Module5/src/_05_self_tests/_8_online_practice_test1
 resources: []
 text: '<body onload="startup()" style="background-color:lightblue">
 
@@ -21,3 +14,4 @@ text: '<body onload="startup()" style="background-color:lightblue">
 
 
   '
+title: 05 Self Tests 8 Online Practice Test1

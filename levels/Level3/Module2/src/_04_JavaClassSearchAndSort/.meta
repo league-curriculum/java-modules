@@ -2,15 +2,12 @@ assignment: 04_JavaClassSearchAndSort
 dir: levels/Level3/Module2/src/_04_JavaClassSearchAndSort
 lesson: 04_JavaClassSearchAndSort
 level: Level3
-meta:
-  assignment: 04_JavaClassSearchAndSort
-  description: ''
-  lesson: 04_JavaClassSearchAndSort
-  level: Level3
-  module: Module2
-  oassignment: 04_JavaClassSearchAndSort
-  opath: Level3/Module2/src/_04_JavaClassSearchAndSort
-  title: 04 Javaclasssearchandsort
 module: Module2
+oassignment: 04_JavaClassSearchAndSort
+opath: Level3/Module2/src/_04_JavaClassSearchAndSort
 resources: []
-text: ''
+text: '# 04 Javaclasssearchandsort
+
+
+  '
+title: 04 Javaclasssearchandsort

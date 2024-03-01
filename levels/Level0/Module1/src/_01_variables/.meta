@@ -2,17 +2,12 @@ assignment: 01_variables
 dir: levels/Level0/Module1/src/_01_variables
 lesson: 01_variables
 level: Level0
-meta:
-  assignment: 01_variables
-  description: ''
-  lesson: 01_variables
-  level: Level0
-  module: Module1
-  oassignment: 01_variables
-  opath: Level0/Module1/src/_01_variables
-  title: 01 Variables
 module: Module1
-resources: []
+oassignment: 01_variables
+opath: Level0/Module1/src/_01_variables
+resources:
+- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module1/src/_01_variables/.web/Variables1.png
+- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module1/src/_01_variables/.web/Variables2.png
 text: '
 
   <img alt="images/Variables1.png" src="./images/Variables1.png" style="width: 960.00px;
@@ -25,3 +20,4 @@ text: '
 
 
   '
+title: 01 Variables

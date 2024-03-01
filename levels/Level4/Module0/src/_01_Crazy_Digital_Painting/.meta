@@ -2,16 +2,12 @@ assignment: 01_Crazy_Digital_Painting
 dir: levels/Level4/Module0/src/_01_Crazy_Digital_Painting
 lesson: 01_Crazy_Digital_Painting
 level: Level4
-meta:
-  assignment: 01_Crazy_Digital_Painting
-  description: ''
-  lesson: 01_Crazy_Digital_Painting
-  level: Level4
-  module: Module0
-  oassignment: 01_Crazy_Digital_Painting
-  opath: Level4/Module0/src/_01_Crazy_Digital_Painting
-  title: 01 Crazy Digital Painting
 module: Module0
-resources:
-- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level4/Module0/src/_01_Crazy_Digital_Painting/crazy_digital_painting.png
-text: ''
+oassignment: 01_Crazy_Digital_Painting
+opath: Level4/Module0/src/_01_Crazy_Digital_Painting
+resources: []
+text: '# 01 Crazy Digital Painting
+
+
+  '
+title: 01 Crazy Digital Painting

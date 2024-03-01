@@ -2,17 +2,12 @@ assignment: 07_tv_show_episode_info
 dir: levels/Level1/Module4/src/_07_tv_show_episode_info
 lesson: 07_tv_show_episode_info
 level: Level1
-meta:
-  assignment: 07_tv_show_episode_info
-  description: ''
-  lesson: 07_tv_show_episode_info
-  level: Level1
-  module: Module4
-  oassignment: 07_tv_show_episode_info
-  opath: Level1/Module4/src/_07_tv_show_episode_info
-  title: 07 Tv Show Episode Info
 module: Module4
-resources:
-- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level1/Module4/src/_07_tv_show_episode_info/tvinfo2.png
-- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level1/Module4/src/_07_tv_show_episode_info/tvinfo1.png
-text: ''
+oassignment: 07_tv_show_episode_info
+opath: Level1/Module4/src/_07_tv_show_episode_info
+resources: []
+text: '# 07 Tv Show Episode Info
+
+
+  '
+title: 07 Tv Show Episode Info

@@ -2,17 +2,11 @@ assignment: 10_slot_machine
 dir: levels/Level1/Module4/src/_10_slot_machine
 lesson: 10_slot_machine
 level: Level1
-meta:
-  assignment: 10_slot_machine
-  description: ''
-  lesson: 10_slot_machine
-  level: Level1
-  module: Module4
-  oassignment: 10_slot_machine
-  opath: Level1/Module4/src/_10_slot_machine
-  title: 10 Slot Machine
 module: Module4
-resources: []
+oassignment: 10_slot_machine
+opath: Level1/Module4/src/_10_slot_machine
+resources:
+- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level1/Module4/src/_10_slot_machine/.web/slotMachine.png
 text: '
 
 
@@ -67,3 +61,4 @@ text: '
 
 
   '
+title: 10 Slot Machine

@@ -2,17 +2,11 @@ assignment: 08_pig_latin
 dir: levels/Level1/Module4/src/_08_pig_latin
 lesson: 08_pig_latin
 level: Level1
-meta:
-  assignment: 08_pig_latin
-  description: ''
-  lesson: 08_pig_latin
-  level: Level1
-  module: Module4
-  oassignment: 08_pig_latin
-  opath: Level1/Module4/src/_08_pig_latin
-  title: 08 Pig Latin
 module: Module4
-resources: []
+oassignment: 08_pig_latin
+opath: Level1/Module4/src/_08_pig_latin
+resources:
+- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level1/Module4/src/_08_pig_latin/.web/PigLatin2.png
 text: '
 
 
@@ -37,3 +31,4 @@ text: '
 
 
   '
+title: 08 Pig Latin

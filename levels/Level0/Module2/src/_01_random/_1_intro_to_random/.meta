@@ -1,18 +1,12 @@
-assignment: 1_intro_to_random
+assignment: 01_random_1_intro_to_random
 dir: levels/Level0/Module2/src/_01_random/_1_intro_to_random
 lesson: 01_random
 level: Level0
-meta:
-  assignment: 01_random_1_intro_to_random
-  description: ''
-  lesson: 01_random
-  level: Level0
-  module: Module2
-  oassignment: 1_intro_to_random
-  opath: Level0/Module2/src/_01_random/_1_intro_to_random
-  title: 01 Random 1 Intro To Random
 module: Module2
-resources: []
+oassignment: 1_intro_to_random
+opath: Level0/Module2/src/_01_random/_1_intro_to_random
+resources:
+- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module2/src/_01_random/_1_intro_to_random/.web/random.jpg
 text: '
 
 
@@ -46,3 +40,4 @@ text: '
 
 
   '
+title: 01 Random 1 Intro To Random

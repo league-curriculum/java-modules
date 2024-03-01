@@ -2,15 +2,12 @@ assignment: 02_AND_OR_and_XOR
 dir: levels/Level5/Module4/src/_02_AND_OR_and_XOR
 lesson: 02_AND_OR_and_XOR
 level: Level5
-meta:
-  assignment: 02_AND_OR_and_XOR
-  description: ''
-  lesson: 02_AND_OR_and_XOR
-  level: Level5
-  module: Module4
-  oassignment: 02_AND_OR_and_XOR
-  opath: Level5/Module4/src/_02_AND_OR_and_XOR
-  title: 02 And Or And Xor
 module: Module4
+oassignment: 02_AND_OR_and_XOR
+opath: Level5/Module4/src/_02_AND_OR_and_XOR
 resources: []
-text: ''
+text: '# 02 And Or And Xor
+
+
+  '
+title: 02 And Or And Xor

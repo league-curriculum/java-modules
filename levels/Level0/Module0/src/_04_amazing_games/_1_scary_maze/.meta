@@ -1,19 +1,12 @@
-assignment: 1_scary_maze
+assignment: 04_amazing_games_1_scary_maze
 dir: levels/Level0/Module0/src/_04_amazing_games/_1_scary_maze
 lesson: 04_amazing_games
 level: Level0
-meta:
-  assignment: 04_amazing_games_1_scary_maze
-  description: ''
-  lesson: 04_amazing_games
-  level: Level0
-  module: Module0
-  oassignment: 1_scary_maze
-  opath: Level0/Module0/src/_04_amazing_games/_1_scary_maze
-  title: 04 Amazing Games 1 Scary Maze
 module: Module0
+oassignment: 1_scary_maze
+opath: Level0/Module0/src/_04_amazing_games/_1_scary_maze
 resources:
-- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module0/src/_04_amazing_games/_1_scary_maze/standardMaze.png
+- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module0/src/_04_amazing_games/_1_scary_maze/.web/standardMaze.png
 text: '
 
 
@@ -42,3 +35,4 @@ text: '
 
 
   '
+title: 04 Amazing Games 1 Scary Maze

@@ -1,16 +1,13 @@
-assignment: 05_minion
+assignment: 99_extra_05_minion
 dir: levels/Level1/Module2/src/_99_extra/_05_minion
 lesson: 99_extra
 level: Level1
-meta:
-  assignment: 99_extra_05_minion
-  description: ''
-  lesson: 99_extra
-  level: Level1
-  module: Module2
-  oassignment: 05_minion
-  opath: Level1/Module2/src/_99_extra/_05_minion
-  title: 99 Extra 05 Minion
 module: Module2
+oassignment: 05_minion
+opath: Level1/Module2/src/_99_extra/_05_minion
 resources: []
-text: ''
+text: '# 99 Extra 05 Minion
+
+
+  '
+title: 99 Extra 05 Minion

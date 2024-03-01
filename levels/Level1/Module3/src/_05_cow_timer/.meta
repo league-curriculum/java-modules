@@ -2,15 +2,12 @@ assignment: 05_cow_timer
 dir: levels/Level1/Module3/src/_05_cow_timer
 lesson: 05_cow_timer
 level: Level1
-meta:
-  assignment: 05_cow_timer
-  description: ''
-  lesson: 05_cow_timer
-  level: Level1
-  module: Module3
-  oassignment: 05_cow_timer
-  opath: Level1/Module3/src/_05_cow_timer
-  title: 05 Cow Timer
 module: Module3
+oassignment: 05_cow_timer
+opath: Level1/Module3/src/_05_cow_timer
 resources: []
-text: ''
+text: '# 05 Cow Timer
+
+
+  '
+title: 05 Cow Timer

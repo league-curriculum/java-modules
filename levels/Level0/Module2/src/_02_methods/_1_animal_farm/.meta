@@ -1,23 +1,12 @@
-assignment: 1_animal_farm
+assignment: 02_methods_1_animal_farm
 dir: levels/Level0/Module2/src/_02_methods/_1_animal_farm
 lesson: 02_methods
 level: Level0
-meta:
-  assignment: 02_methods_1_animal_farm
-  description: ''
-  lesson: 02_methods
-  level: Level0
-  module: Module2
-  oassignment: 1_animal_farm
-  opath: Level0/Module2/src/_02_methods/_1_animal_farm
-  title: 02 Methods 1 Animal Farm
 module: Module2
+oassignment: 1_animal_farm
+opath: Level0/Module2/src/_02_methods/_1_animal_farm
 resources:
-- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module2/src/_02_methods/_1_animal_farm/duck.jpg
-- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module2/src/_02_methods/_1_animal_farm/dog.jpg
-- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module2/src/_02_methods/_1_animal_farm/cow.jpg
-- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module2/src/_02_methods/_1_animal_farm/cat.jpg
-- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module2/src/_02_methods/_1_animal_farm/llama.jpg
+- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module2/src/_02_methods/_1_animal_farm/.web/animalFarm.jpg
 text: '
 
 
@@ -53,3 +42,4 @@ text: '
 
 
   '
+title: 02 Methods 1 Animal Farm

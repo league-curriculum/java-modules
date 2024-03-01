@@ -2,15 +2,12 @@ assignment: 02_Intro_to_Switch_Statements
 dir: levels/Level4/Module1/src/_02_Intro_to_Switch_Statements
 lesson: 02_Intro_to_Switch_Statements
 level: Level4
-meta:
-  assignment: 02_Intro_to_Switch_Statements
-  description: ''
-  lesson: 02_Intro_to_Switch_Statements
-  level: Level4
-  module: Module1
-  oassignment: 02_Intro_to_Switch_Statements
-  opath: Level4/Module1/src/_02_Intro_to_Switch_Statements
-  title: 02 Intro To Switch Statements
 module: Module1
+oassignment: 02_Intro_to_Switch_Statements
+opath: Level4/Module1/src/_02_Intro_to_Switch_Statements
 resources: []
-text: ''
+text: '# 02 Intro To Switch Statements
+
+
+  '
+title: 02 Intro To Switch Statements

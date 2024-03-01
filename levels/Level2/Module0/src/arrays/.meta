@@ -2,15 +2,12 @@ assignment: arrays
 dir: levels/Level2/Module0/src/arrays
 lesson: arrays
 level: Level2
-meta:
-  assignment: arrays
-  description: ''
-  lesson: arrays
-  level: Level2
-  module: Module0
-  oassignment: arrays
-  opath: Level2/Module0/src/arrays
-  title: Arrays
 module: Module0
+oassignment: arrays
+opath: Level2/Module0/src/arrays
 resources: []
-text: ''
+text: '# Arrays
+
+
+  '
+title: Arrays

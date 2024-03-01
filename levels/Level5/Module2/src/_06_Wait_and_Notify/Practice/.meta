@@ -1,16 +1,13 @@
-assignment: Practice
+assignment: 06_Wait_and_Notify_Practice
 dir: levels/Level5/Module2/src/_06_Wait_and_Notify/Practice
 lesson: 06_Wait_and_Notify
 level: Level5
-meta:
-  assignment: 06_Wait_and_Notify_Practice
-  description: ''
-  lesson: 06_Wait_and_Notify
-  level: Level5
-  module: Module2
-  oassignment: Practice
-  opath: Level5/Module2/src/_06_Wait_and_Notify/Practice
-  title: 06 Wait And Notify Practice
 module: Module2
+oassignment: Practice
+opath: Level5/Module2/src/_06_Wait_and_Notify/Practice
 resources: []
-text: ''
+text: '# 06 Wait And Notify Practice
+
+
+  '
+title: 06 Wait And Notify Practice

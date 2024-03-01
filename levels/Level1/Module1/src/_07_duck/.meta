@@ -2,17 +2,11 @@ assignment: 07_duck
 dir: levels/Level1/Module1/src/_07_duck
 lesson: 07_duck
 level: Level1
-meta:
-  assignment: 07_duck
-  description: ''
-  lesson: 07_duck
-  level: Level1
-  module: Module1
-  oassignment: 07_duck
-  opath: Level1/Module1/src/_07_duck
-  title: 07 Duck
 module: Module1
-resources: []
+oassignment: 07_duck
+opath: Level1/Module1/src/_07_duck
+resources:
+- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level1/Module1/src/_07_duck/.web/duck.png
 text: '
 
 
@@ -63,3 +57,4 @@ text: '
 
 
   '
+title: 07 Duck

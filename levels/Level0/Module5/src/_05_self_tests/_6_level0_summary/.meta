@@ -1,17 +1,10 @@
-assignment: 6_level0_summary
+assignment: 05_self_tests_6_level0_summary
 dir: levels/Level0/Module5/src/_05_self_tests/_6_level0_summary
 lesson: 05_self_tests
 level: Level0
-meta:
-  assignment: 05_self_tests_6_level0_summary
-  description: ''
-  lesson: 05_self_tests
-  level: Level0
-  module: Module5
-  oassignment: 6_level0_summary
-  opath: Level0/Module5/src/_05_self_tests/_6_level0_summary
-  title: 05 Self Tests 6 Level0 Summary
 module: Module5
+oassignment: 6_level0_summary
+opath: Level0/Module5/src/_05_self_tests/_6_level0_summary
 resources: []
 text: '
 
@@ -151,3 +144,4 @@ text: '
 
 
   '
+title: 05 Self Tests 6 Level0 Summary

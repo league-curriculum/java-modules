@@ -1,17 +1,10 @@
-assignment: 5_for_loop_onslaught
+assignment: 05_self_tests_5_for_loop_onslaught
 dir: levels/Level0/Module5/src/_05_self_tests/_5_for_loop_onslaught
 lesson: 05_self_tests
 level: Level0
-meta:
-  assignment: 05_self_tests_5_for_loop_onslaught
-  description: ''
-  lesson: 05_self_tests
-  level: Level0
-  module: Module5
-  oassignment: 5_for_loop_onslaught
-  opath: Level0/Module5/src/_05_self_tests/_5_for_loop_onslaught
-  title: 05 Self Tests 5 For Loop Onslaught
 module: Module5
+oassignment: 5_for_loop_onslaught
+opath: Level0/Module5/src/_05_self_tests/_5_for_loop_onslaught
 resources: []
 text: '<html>
 
@@ -61,3 +54,4 @@ text: '<html>
   </html>
 
   '
+title: 05 Self Tests 5 For Loop Onslaught

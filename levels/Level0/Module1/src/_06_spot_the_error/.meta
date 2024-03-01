@@ -2,17 +2,11 @@ assignment: 06_spot_the_error
 dir: levels/Level0/Module1/src/_06_spot_the_error
 lesson: 06_spot_the_error
 level: Level0
-meta:
-  assignment: 06_spot_the_error
-  description: ''
-  lesson: 06_spot_the_error
-  level: Level0
-  module: Module1
-  oassignment: 06_spot_the_error
-  opath: Level0/Module1/src/_06_spot_the_error
-  title: 06 Spot The Error
 module: Module1
-resources: []
+oassignment: 06_spot_the_error
+opath: Level0/Module1/src/_06_spot_the_error
+resources:
+- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module1/src/_06_spot_the_error/.web/bug.jpg
 text: '
 
 
@@ -38,3 +32,4 @@ text: '
 
 
   '
+title: 06 Spot The Error

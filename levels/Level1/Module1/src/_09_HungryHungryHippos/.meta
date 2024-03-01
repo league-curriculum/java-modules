@@ -2,15 +2,12 @@ assignment: 09_HungryHungryHippos
 dir: levels/Level1/Module1/src/_09_HungryHungryHippos
 lesson: 09_HungryHungryHippos
 level: Level1
-meta:
-  assignment: 09_HungryHungryHippos
-  description: ''
-  lesson: 09_HungryHungryHippos
-  level: Level1
-  module: Module1
-  oassignment: 09_HungryHungryHippos
-  opath: Level1/Module1/src/_09_HungryHungryHippos
-  title: 09 Hungryhungryhippos
 module: Module1
+oassignment: 09_HungryHungryHippos
+opath: Level1/Module1/src/_09_HungryHungryHippos
 resources: []
-text: ''
+text: '# 09 Hungryhungryhippos
+
+
+  '
+title: 09 Hungryhungryhippos

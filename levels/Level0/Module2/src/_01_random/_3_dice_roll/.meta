@@ -1,30 +1,12 @@
-assignment: 3_dice_roll
+assignment: 01_random_3_dice_roll
 dir: levels/Level0/Module2/src/_01_random/_3_dice_roll
 lesson: 01_random
 level: Level0
-meta:
-  assignment: 01_random_3_dice_roll
-  description: ''
-  lesson: 01_random
-  level: Level0
-  module: Module2
-  oassignment: 3_dice_roll
-  opath: Level0/Module2/src/_01_random/_3_dice_roll
-  title: 01 Random 3 Dice Roll
 module: Module2
+oassignment: 3_dice_roll
+opath: Level0/Module2/src/_01_random/_3_dice_roll
 resources:
-- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module2/src/_01_random/_3_dice_roll/dice
-  1.png
-- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module2/src/_01_random/_3_dice_roll/dice
-  2.png
-- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module2/src/_01_random/_3_dice_roll/dice
-  3.png
-- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module2/src/_01_random/_3_dice_roll/dice
-  6.png
-- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module2/src/_01_random/_3_dice_roll/dice
-  4.png
-- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module2/src/_01_random/_3_dice_roll/dice
-  5.png
+- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module2/src/_01_random/_3_dice_roll/.web/dice.png
 text: '
 
 
@@ -59,3 +41,4 @@ text: '
 
 
   '
+title: 01 Random 3 Dice Roll

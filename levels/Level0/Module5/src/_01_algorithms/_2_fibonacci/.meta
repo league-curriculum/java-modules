@@ -1,18 +1,12 @@
-assignment: 2_fibonacci
+assignment: 01_algorithms_2_fibonacci
 dir: levels/Level0/Module5/src/_01_algorithms/_2_fibonacci
 lesson: 01_algorithms
 level: Level0
-meta:
-  assignment: 01_algorithms_2_fibonacci
-  description: ''
-  lesson: 01_algorithms
-  level: Level0
-  module: Module5
-  oassignment: 2_fibonacci
-  opath: Level0/Module5/src/_01_algorithms/_2_fibonacci
-  title: 01 Algorithms 2 Fibonacci
 module: Module5
-resources: []
+oassignment: 2_fibonacci
+opath: Level0/Module5/src/_01_algorithms/_2_fibonacci
+resources:
+- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module5/src/_01_algorithms/_2_fibonacci/.web/fibonacci.png
 text: '
 
 
@@ -51,3 +45,4 @@ text: '
 
 
   '
+title: 01 Algorithms 2 Fibonacci

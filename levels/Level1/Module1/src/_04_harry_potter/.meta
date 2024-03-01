@@ -2,15 +2,12 @@ assignment: 04_harry_potter
 dir: levels/Level1/Module1/src/_04_harry_potter
 lesson: 04_harry_potter
 level: Level1
-meta:
-  assignment: 04_harry_potter
-  description: ''
-  lesson: 04_harry_potter
-  level: Level1
-  module: Module1
-  oassignment: 04_harry_potter
-  opath: Level1/Module1/src/_04_harry_potter
-  title: 04 Harry Potter
 module: Module1
+oassignment: 04_harry_potter
+opath: Level1/Module1/src/_04_harry_potter
 resources: []
-text: ''
+text: '# 04 Harry Potter
+
+
+  '
+title: 04 Harry Potter

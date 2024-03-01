@@ -2,21 +2,11 @@ assignment: 06_frogger
 dir: levels/Level1/Module3/src/_06_frogger
 lesson: 06_frogger
 level: Level1
-meta:
-  assignment: 06_frogger
-  description: ''
-  lesson: 06_frogger
-  level: Level1
-  module: Module3
-  oassignment: 06_frogger
-  opath: Level1/Module3/src/_06_frogger
-  title: 06 Frogger
 module: Module3
+oassignment: 06_frogger
+opath: Level1/Module3/src/_06_frogger
 resources:
-- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level1/Module3/src/_06_frogger/carLeft.png
-- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level1/Module3/src/_06_frogger/frog.png
-- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level1/Module3/src/_06_frogger/carRight.png
-- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level1/Module3/src/_06_frogger/froggerBackground.png
+- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level1/Module3/src/_06_frogger/.web/FroggerScreenShot.png
 text: "\n\n# Frogger\n\n1. Start a new sketch with draw, setup, and settings methods.\
   \ Ask your teacher if you do not know how to do this.\n\n2.  In the settings method,\
   \ set your canvas of size 800x600 for your game\nsize(width, height);\nIn the draw\
@@ -65,3 +55,4 @@ text: "\n\n# Frogger\n\n1. Start a new sketch with draw, setup, and settings met
   \      frog.resize(75,75);\n    }\n    void draw() {\n        background(back);\n\
   \        image (carLeft,250,360);\n        image (carRight,250, 210);\n        image\
   \ (frog, 300, 530);\n    }\n```\n\n\n"
+title: 06 Frogger

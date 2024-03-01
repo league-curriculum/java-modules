@@ -1,16 +1,13 @@
-assignment: the_wrong_way_cow
+assignment: extras_the_wrong_way_cow
 dir: levels/Level4/Module0/src/extras/the_wrong_way_cow
 lesson: extras
 level: Level4
-meta:
-  assignment: extras_the_wrong_way_cow
-  description: ''
-  lesson: extras
-  level: Level4
-  module: Module0
-  oassignment: the_wrong_way_cow
-  opath: Level4/Module0/src/extras/the_wrong_way_cow
-  title: Extras The Wrong Way Cow
 module: Module0
+oassignment: the_wrong_way_cow
+opath: Level4/Module0/src/extras/the_wrong_way_cow
 resources: []
-text: ''
+text: '# Extras The Wrong Way Cow
+
+
+  '
+title: Extras The Wrong Way Cow

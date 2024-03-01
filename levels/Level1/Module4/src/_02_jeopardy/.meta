@@ -2,17 +2,13 @@ assignment: 02_jeopardy
 dir: levels/Level1/Module4/src/_02_jeopardy
 lesson: 02_jeopardy
 level: Level1
-meta:
-  assignment: 02_jeopardy
-  description: ''
-  lesson: 02_jeopardy
-  level: Level1
-  module: Module4
-  oassignment: 02_jeopardy
-  opath: Level1/Module4/src/_02_jeopardy
-  title: 02 Jeopardy
 module: Module4
-resources: []
+oassignment: 02_jeopardy
+opath: Level1/Module4/src/_02_jeopardy
+resources:
+- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level1/Module4/src/_02_jeopardy/.web/jeopardy1.png
+- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level1/Module4/src/_02_jeopardy/.web/jeopardy2.png
+- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level1/Module4/src/_02_jeopardy/.web/jeopardy3.png
 text: '
 
 
@@ -31,3 +27,4 @@ text: '
 
 
   '
+title: 02 Jeopardy

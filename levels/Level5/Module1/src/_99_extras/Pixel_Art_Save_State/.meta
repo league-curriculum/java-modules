@@ -1,17 +1,10 @@
-assignment: Pixel_Art_Save_State
+assignment: 99_extras_Pixel_Art_Save_State
 dir: levels/Level5/Module1/src/_99_extras/Pixel_Art_Save_State
 lesson: 99_extras
 level: Level5
-meta:
-  assignment: 99_extras_Pixel_Art_Save_State
-  description: ''
-  lesson: 99_extras
-  level: Level5
-  module: Module1
-  oassignment: Pixel_Art_Save_State
-  opath: Level5/Module1/src/_99_extras/Pixel_Art_Save_State
-  title: 99 Extras Pixel Art Save State
 module: Module1
+oassignment: Pixel_Art_Save_State
+opath: Level5/Module1/src/_99_extras/Pixel_Art_Save_State
 resources: []
 text: '<html>
 
@@ -32,3 +25,4 @@ text: '<html>
   </html>
 
   '
+title: 99 Extras Pixel Art Save State

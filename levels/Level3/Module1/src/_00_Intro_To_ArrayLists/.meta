@@ -2,17 +2,13 @@ assignment: 00_Intro_To_ArrayLists
 dir: levels/Level3/Module1/src/_00_Intro_To_ArrayLists
 lesson: 00_Intro_To_ArrayLists
 level: Level3
-meta:
-  assignment: 00_Intro_To_ArrayLists
-  description: ''
-  lesson: 00_Intro_To_ArrayLists
-  level: Level3
-  module: Module1
-  oassignment: 00_Intro_To_ArrayLists
-  opath: Level3/Module1/src/_00_Intro_To_ArrayLists
-  title: 00 Intro To Arraylists
 module: Module1
-resources: []
+oassignment: 00_Intro_To_ArrayLists
+opath: Level3/Module1/src/_00_Intro_To_ArrayLists
+resources:
+- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level3/Module1/src/_00_Intro_To_ArrayLists/.web/GuestBookButtons.png
+- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level3/Module1/src/_00_Intro_To_ArrayLists/.web/ViewNamesDialog.png
+- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level3/Module1/src/_00_Intro_To_ArrayLists/.web/AddNameDialog.png
 text: "\n\n# Array List\n\nVariables are used to hold a single value. For example:\n\
   int age = 12;\nString name = \u201CSarah\u201D;\nHowever, what if a program needed\
   \ a list of names? We don't want to declare multiple variables with meaningless\
@@ -32,3 +28,4 @@ text: "\n\n# Array List\n\nVariables are used to hold a single value. For exampl
   \ ArrayList (advantages and disadvantages of different types of loop)\nAdvantages\
   \ and disadvantages of ArrayLists\n\n## Sample Program\n\nArrayListDemo\n\n## Student\
   \ Recipes\n\nIntroToArrayList\nGuestBook\n\n\n"
+title: 00 Intro To Arraylists

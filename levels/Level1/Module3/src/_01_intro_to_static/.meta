@@ -2,16 +2,9 @@ assignment: 01_intro_to_static
 dir: levels/Level1/Module3/src/_01_intro_to_static
 lesson: 01_intro_to_static
 level: Level1
-meta:
-  assignment: 01_intro_to_static
-  description: ''
-  lesson: 01_intro_to_static
-  level: Level1
-  module: Module3
-  oassignment: 01_intro_to_static
-  opath: Level1/Module3/src/_01_intro_to_static
-  title: 01 Intro To Static
 module: Module3
+oassignment: 01_intro_to_static
+opath: Level1/Module3/src/_01_intro_to_static
 resources: []
 text: "\n\n# Running Race - Explaining Static\n\nThe static keyword is a reserved\
   \ word in Java like int, for, if, and else.\nIt can be placed before the type when\
@@ -55,3 +48,4 @@ text: "\n\n# Running Race - Explaining Static\n\nThe static keyword is a reserve
   \ so it can't be put inside of a static method either:\n```\n\npublic static void\
   \ main(String[] args){\n    JFrame frame = new JFrame();\n    frame.addActionListener(this);\
   \      // ERROR!\n}\n```\n\n\n"
+title: 01 Intro To Static

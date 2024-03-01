@@ -1,18 +1,12 @@
-assignment: 2_madlibs
+assignment: 03_print_and_popups_2_madlibs
 dir: levels/Level0/Module0/src/_03_print_and_popups/_2_madlibs
 lesson: 03_print_and_popups
 level: Level0
-meta:
-  assignment: 03_print_and_popups_2_madlibs
-  description: ''
-  lesson: 03_print_and_popups
-  level: Level0
-  module: Module0
-  oassignment: 2_madlibs
-  opath: Level0/Module0/src/_03_print_and_popups/_2_madlibs
-  title: 03 Print And Popups 2 Madlibs
 module: Module0
-resources: []
+oassignment: 2_madlibs
+opath: Level0/Module0/src/_03_print_and_popups/_2_madlibs
+resources:
+- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module0/src/_03_print_and_popups/_2_madlibs/.web/madlibs.png
 text: '
 
 
@@ -46,3 +40,4 @@ text: '
 
 
   '
+title: 03 Print And Popups 2 Madlibs

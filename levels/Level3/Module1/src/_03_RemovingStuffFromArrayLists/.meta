@@ -2,15 +2,12 @@ assignment: 03_RemovingStuffFromArrayLists
 dir: levels/Level3/Module1/src/_03_RemovingStuffFromArrayLists
 lesson: 03_RemovingStuffFromArrayLists
 level: Level3
-meta:
-  assignment: 03_RemovingStuffFromArrayLists
-  description: ''
-  lesson: 03_RemovingStuffFromArrayLists
-  level: Level3
-  module: Module1
-  oassignment: 03_RemovingStuffFromArrayLists
-  opath: Level3/Module1/src/_03_RemovingStuffFromArrayLists
-  title: 03 Removingstufffromarraylists
 module: Module1
+oassignment: 03_RemovingStuffFromArrayLists
+opath: Level3/Module1/src/_03_RemovingStuffFromArrayLists
 resources: []
-text: ''
+text: '# 03 Removingstufffromarraylists
+
+
+  '
+title: 03 Removingstufffromarraylists

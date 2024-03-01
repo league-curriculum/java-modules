@@ -1,18 +1,12 @@
-assignment: pong
+assignment: 99_extra_pong
 dir: levels/Level0/Module4/src/_99_extra/pong
 lesson: 99_extra
 level: Level0
-meta:
-  assignment: 99_extra_pong
-  description: ''
-  lesson: 99_extra
-  level: Level0
-  module: Module4
-  oassignment: pong
-  opath: Level0/Module4/src/_99_extra/pong
-  title: 99 Extra Pong
 module: Module4
-resources: []
+oassignment: pong
+opath: Level0/Module4/src/_99_extra/pong
+resources:
+- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module4/src/_99_extra/pong/.web/pong.png
 text: "\n\n# Pong\n\n<hr/>\n<img src=\"./images/pong.png\"/>\n\n## Goal:\n\nMake a\
   \ Pong game using Processing!\n\n## Steps:\n\n1. Draw a ball on the screen.\n```\n\
   \nellipse(x, y, width, height) //in draw method\nfill(red, green, blue) //in draw\
@@ -35,3 +29,4 @@ text: "\n\n# Pong\n\n<hr/>\n<img src=\"./images/pong.png\"/>\n\n## Goal:\n\nMake
   \ int paddleY,\nint paddleLength) {\n    if (ballY > paddleY && ballX > paddleX\
   \ && ballX < paddleX + paddleLength)\n        return true;\n    else\n        return\
   \ false;\n}\n```\n12. Make sure you SAVE YOUR CODE when you are done.\n\n\n\n"
+title: 99 Extra Pong

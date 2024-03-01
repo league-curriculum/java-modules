@@ -2,17 +2,11 @@ assignment: 09_whack_a_mole
 dir: levels/Level1/Module4/src/_09_whack_a_mole
 lesson: 09_whack_a_mole
 level: Level1
-meta:
-  assignment: 09_whack_a_mole
-  description: ''
-  lesson: 09_whack_a_mole
-  level: Level1
-  module: Module4
-  oassignment: 09_whack_a_mole
-  opath: Level1/Module4/src/_09_whack_a_mole
-  title: 09 Whack A Mole
 module: Module4
-resources: []
+oassignment: 09_whack_a_mole
+opath: Level1/Module4/src/_09_whack_a_mole
+resources:
+- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level1/Module4/src/_09_whack_a_mole/.web/whackAmole.png
 text: "\n\n# Whack-a-Mole\n\nWe are going to make a game where the user has to click\
   \ on a \"mole\". The game is timed so the user can get their \"whack rate\".\n1.\
   \ Start building a basic Swing GUI to hold the game shown below (JFrame, JPanel,\
@@ -42,3 +36,4 @@ text: "\n\n# Whack-a-Mole\n\nWe are going to make a game where the user has to c
   \ method when they hit a mole.\n```\nprivate void playSound(String fileName) { \n\
   \    AudioClip sound = JApplet.newAudioClip(getClass().getResource(fileName));\n\
   \    sound.play();\n}\n```\n\n\n"
+title: 09 Whack A Mole

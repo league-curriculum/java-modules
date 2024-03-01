@@ -1,18 +1,12 @@
-assignment: 2_spinning_record
+assignment: 01_methods_2_spinning_record
 dir: levels/Level1/Module0/src/_01_methods/_2_spinning_record
 lesson: 01_methods
 level: Level1
-meta:
-  assignment: 01_methods_2_spinning_record
-  description: ''
-  lesson: 01_methods
-  level: Level1
-  module: Module0
-  oassignment: 2_spinning_record
-  opath: Level1/Module0/src/_01_methods/_2_spinning_record
-  title: 01 Methods 2 Spinning Record
 module: Module0
-resources: []
+oassignment: 2_spinning_record
+opath: Level1/Module0/src/_01_methods/_2_spinning_record
+resources:
+- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level1/Module0/src/_01_methods/_2_spinning_record/.web/spinningRecord.png
 text: "\n\n# Spinning Record\n\n<img align=\"left\" alt=\"\" src=\"./images/spinningRecord.png\"\
   \ style=\"width: 200.00px; height: 207.00px;  margin: 0px 20px\" title=\"\"/>\n\
   We are going to make a virtual record player that spins and plays your song when\
@@ -35,3 +29,4 @@ text: "\n\n# Spinning Record\n\n<img align=\"left\" alt=\"\" src=\"./images/spin
   \  Use the sound file already in the project, awesomeTrack.mp3, or add a different\
   \ one.\n8. Only play the song when the mouse is pressed. Hint: use the method below.\n\
   ```\n\n    song.play()\n```\n9. Make the record spin as fast as possible\n\n\n"
+title: 01 Methods 2 Spinning Record

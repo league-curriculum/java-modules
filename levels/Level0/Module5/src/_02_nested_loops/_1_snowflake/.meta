@@ -1,18 +1,12 @@
-assignment: 1_snowflake
+assignment: 02_nested_loops_1_snowflake
 dir: levels/Level0/Module5/src/_02_nested_loops/_1_snowflake
 lesson: 02_nested_loops
 level: Level0
-meta:
-  assignment: 02_nested_loops_1_snowflake
-  description: ''
-  lesson: 02_nested_loops
-  level: Level0
-  module: Module5
-  oassignment: 1_snowflake
-  opath: Level0/Module5/src/_02_nested_loops/_1_snowflake
-  title: 02 Nested Loops 1 Snowflake
 module: Module5
-resources: []
+oassignment: 1_snowflake
+opath: Level0/Module5/src/_02_nested_loops/_1_snowflake
+resources:
+- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module5/src/_02_nested_loops/_1_snowflake/.web/snowflake.png
 text: '
 
 
@@ -44,3 +38,4 @@ text: '
 
 
   '
+title: 02 Nested Loops 1 Snowflake

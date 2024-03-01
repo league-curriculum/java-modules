@@ -2,15 +2,12 @@ assignment: 00_Intro_To_Generics
 dir: levels/Level4/Module1/src/_00_Intro_To_Generics
 lesson: 00_Intro_To_Generics
 level: Level4
-meta:
-  assignment: 00_Intro_To_Generics
-  description: ''
-  lesson: 00_Intro_To_Generics
-  level: Level4
-  module: Module1
-  oassignment: 00_Intro_To_Generics
-  opath: Level4/Module1/src/_00_Intro_To_Generics
-  title: 00 Intro To Generics
 module: Module1
+oassignment: 00_Intro_To_Generics
+opath: Level4/Module1/src/_00_Intro_To_Generics
 resources: []
-text: ''
+text: '# 00 Intro To Generics
+
+
+  '
+title: 00 Intro To Generics

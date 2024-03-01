@@ -2,16 +2,9 @@ assignment: 01_Simple_Array_Algorithms
 dir: levels/Level3/Module0/src/_01_Simple_Array_Algorithms
 lesson: 01_Simple_Array_Algorithms
 level: Level3
-meta:
-  assignment: 01_Simple_Array_Algorithms
-  description: ''
-  lesson: 01_Simple_Array_Algorithms
-  level: Level3
-  module: Module0
-  oassignment: 01_Simple_Array_Algorithms
-  opath: Level3/Module0/src/_01_Simple_Array_Algorithms
-  title: 01 Simple Array Algorithms
 module: Module0
+oassignment: 01_Simple_Array_Algorithms
+opath: Level3/Module0/src/_01_Simple_Array_Algorithms
 resources: []
 text: '
 
@@ -53,3 +46,4 @@ text: '
 
 
   '
+title: 01 Simple Array Algorithms

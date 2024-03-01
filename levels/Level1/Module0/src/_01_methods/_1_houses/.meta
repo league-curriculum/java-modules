@@ -1,18 +1,12 @@
-assignment: 1_houses
+assignment: 01_methods_1_houses
 dir: levels/Level1/Module0/src/_01_methods/_1_houses
 lesson: 01_methods
 level: Level1
-meta:
-  assignment: 01_methods_1_houses
-  description: ''
-  lesson: 01_methods
-  level: Level1
-  module: Module0
-  oassignment: 1_houses
-  opath: Level1/Module0/src/_01_methods/_1_houses
-  title: 01 Methods 1 Houses
 module: Module0
-resources: []
+oassignment: 1_houses
+opath: Level1/Module0/src/_01_methods/_1_houses
+resources:
+- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level1/Module0/src/_01_methods/_1_houses/.web/houses.jpg
 text: "\n\n# Houses\n\n1. Have a robot start on the left side of the window near the\
   \ bottom.\n\n2. Draw a flat-topped house of height 100 with grass after it (see\
   \ picture).\n\n3. Extract the piece of code that draws the house into a method.\
@@ -24,3 +18,4 @@ text: "\n\n# Houses\n\n1. Have a robot start on the left side of the window near
   \ to black\n\n7. Give the houses peaked roofs\n\n8. Extract that roof code into\
   \ a method \u201CdrawPointyRoof\u201D and create a new method: \u201CdrawFlatRoof\u201D\
   .\n\n9. Make large houses have flat roofs\n\n\n"
+title: 01 Methods 1 Houses

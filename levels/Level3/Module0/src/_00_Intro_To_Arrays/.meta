@@ -2,17 +2,12 @@ assignment: 00_Intro_To_Arrays
 dir: levels/Level3/Module0/src/_00_Intro_To_Arrays
 lesson: 00_Intro_To_Arrays
 level: Level3
-meta:
-  assignment: 00_Intro_To_Arrays
-  description: ''
-  lesson: 00_Intro_To_Arrays
-  level: Level3
-  module: Module0
-  oassignment: 00_Intro_To_Arrays
-  opath: Level3/Module0/src/_00_Intro_To_Arrays
-  title: 00 Intro To Arrays
 module: Module0
-resources:
-- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level3/Module0/src/_00_Intro_To_Arrays/robotRace.png
-- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level3/Module0/src/_00_Intro_To_Arrays/findTheHiddenButton.png
-text: ''
+oassignment: 00_Intro_To_Arrays
+opath: Level3/Module0/src/_00_Intro_To_Arrays
+resources: []
+text: '# 00 Intro To Arrays
+
+
+  '
+title: 00 Intro To Arrays

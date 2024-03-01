@@ -1,17 +1,10 @@
-assignment: 4_fizz_buzz
+assignment: 03_remainder_4_fizz_buzz
 dir: levels/Level0/Module3/src/_03_remainder/_4_fizz_buzz
 lesson: 03_remainder
 level: Level0
-meta:
-  assignment: 03_remainder_4_fizz_buzz
-  description: ''
-  lesson: 03_remainder
-  level: Level0
-  module: Module3
-  oassignment: 4_fizz_buzz
-  opath: Level0/Module3/src/_03_remainder/_4_fizz_buzz
-  title: 03 Remainder 4 Fizz Buzz
 module: Module3
+oassignment: 4_fizz_buzz
+opath: Level0/Module3/src/_03_remainder/_4_fizz_buzz
 resources: []
 text: '
 
@@ -49,3 +42,4 @@ text: '
 
 
   '
+title: 03 Remainder 4 Fizz Buzz
