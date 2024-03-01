@@ -8,14 +8,14 @@
   <link href="https://league-central.github.io/curriculum/style/style.css" rel="stylesheet"/>
   <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet"/>
   <style>
-   #quiz {
+#quiz {
                 margin-left:50px;
             }
-            #nav {
+#nav {
                 margin-left:50px;
                 position: relative;
             }
-            #footer {
+#footer {
                 position: absolute;
                 bottom: -100;
                 width: 100%;
@@ -25,11 +25,11 @@
             code {font-size: 125%; color: forestgreen}
   </style>
  </head>
- <div id="header">
+ 
   <center>
-   # 
+# 
 		Level 0 - Variable Types Quiz
    <hr/>
   </center>
- </div>
+ 
 </html>

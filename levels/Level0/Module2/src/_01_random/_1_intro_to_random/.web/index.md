@@ -1,30 +1,14 @@
 
- <div id="recipeLeftColumn">
-  # Intro to Random
+# Intro to Random
   <hr/>
   <img src="./random.jpg"/>
-  <div id="recipeGoal">
-   ## Goal:
+## Goal:
    Learn how to use a Random object to generate random integers within specified number ranges.
-  </div>
- </div>
- <div id="recipeRightColumn">
-  <div id="recipeSteps">
-   ## Steps:
-   <ol id="stepList">
-    <li>
-     Generate a random integer without limits.
-    </li>
-    <li>
-     Generate a random positive integer with an upper limit.
-    </li>
-    <li>
-     Generate a random integer with an upper and lower (positive) limit.
-    </li>
-    <li>
-     Generate a random integer with an upper and lower (negative) limit
-    </li>
-   </ol>
-  </div>
- </div>
+## Steps:
+1. Generate a random integer without limits.
+2. Generate a random positive integer with an upper limit.
+3. Generate a random integer with an upper and lower (positive) limit.
+4. Generate a random integer with an upper and lower (negative) limit
+  
+ 
 

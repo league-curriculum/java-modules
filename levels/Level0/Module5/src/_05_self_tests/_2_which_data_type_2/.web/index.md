@@ -1,8 +1,8 @@
 
- # The League of Amazing Programmers
- ## Which Data Type? Part 2
- ### Fill in the blank with the correct data type.
- ```
+# The League of Amazing Programmers
+## Which Data Type? Part 2
+### Fill in the blank with the correct data type.
+```
 
    maxValue = 1000000; 
 
@@ -30,8 +30,6 @@
   
 
 SUBMIT YOUR ANSWERS
-
-  
 ```
  <hr size="3"/>
 

@@ -1,6 +1,5 @@
 
- <div id="moduleIndex">
-  # Level 1 Module 3
+# Level 1 Module 3
   <form action="http://bit.ly/l1m3code" id="moduleButtonForm" method="get">
    <button id="acceptModuleButton" type="submit">
     <span>
@@ -9,54 +8,47 @@
    </button>
   </form>
   <!-- <h3><a href="../Level_1_Cheat_Guide.pdf">Cheat Sheet</a></h3> -->
-  <div class="moduleIndexColumn">
-   ## Learn
-   ### Static
+## Learn
+### Static
    <hr/>
-   ### Inheritance
+### Inheritance
    <hr/>
-   ### Variable Scope
-   ###
+### Variable Scope
+###
    <hr/>
-   ### Instantiation, "this"
-   ###
-   ###
+### Instantiation, "this"
+###
+###
    <hr/>
-  </div>
-  <div class="moduleIndexColumn">
-   ## Eclipse
-   ### Intro to Static
+## Eclipse
+### Intro to Static
    <hr/>
-   ### Backpack
+### Backpack
    <hr/>
-   ###
-   ###
+###
+###
    <hr/>
-   ### Netflix
-   ### Gridworld
-   ### Cow Timer
+### Netflix
+### Gridworld
+### Cow Timer
    <hr/>
-  </div>
-  <div class="moduleIndexColumn">
-   ## Processing
-   ###
+## Processing
+###
    <hr/>
-   ###
+###
    <hr/>
-   ### Frogger
-   ###
-   ###
+### Frogger
+###
+###
    <hr/>
-   ###
-   ###
-   ###
+###
+###
+###
    <hr/>
-  </div>
-  <div class="moduleIndexColumn">
-   ## Paper/WB
-   ### Module 3 Checkpoint
-   ### SOC-55121197
+## Paper/WB
+### Module 3 Checkpoint
+### SOC-55121197
    <hr/>
-  </div>
- </div>
+  
+ 
 

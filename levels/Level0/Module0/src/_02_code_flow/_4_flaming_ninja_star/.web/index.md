@@ -1,35 +1,15 @@
 
- <div id="recipeLeftColumn">
-  # Flaming Ninja Star
+# Flaming Ninja Star
   <hr/>
   <img alt="Flaming Ninja Star image" src="./flamingNinja3.png"/>
-  <div id="recipeGoal">
-   ## Goal:
+## Goal:
    Use int variables in a loop to draw a flaming ninja star.
-  </div>
- </div>
- <div id="recipeRightColumn">
-  <div id="recipeSteps">
-   ## Steps:
-   <ol id="stepList">
-    <li>
-     Find the Flaming Ninja Star recipe program ( FlamingNinjaStar.java ) and open it using Eclipse.
-    </li>
-    <li>
-     Follow the instructions in the program to draw the star.
-    </li>
-    <li>
-     The first time you run the program, it should look like this
-     <img src="./flamingNinja1.png"/>
-    </li>
-    <li>
-     After you add the color, it should look like this
-     <img src="./flamingNinja2.png"/>
-    </li>
-    <li>
-     Using a loop to repeat the pattern, the flaming star will be complete.
-    </li>
-   </ol>
-  </div>
- </div>
+## Steps:
+1. Find the Flaming Ninja Star recipe program ( FlamingNinjaStar.java ) and open it using Eclipse.
+2. Follow the instructions in the program to draw the star.
+3. The first time you run the program, it should look like this
+4. After you add the color, it should look like this
+5. Using a loop to repeat the pattern, the flaming star will be complete.
+  
+ 
 

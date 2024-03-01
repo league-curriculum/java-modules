@@ -1,21 +1,11 @@
 
- <div id="recipeLeftColumn">
-  # Choose Your Own Adventure
+# Choose Your Own Adventure
   <hr/>
   <img src="https://league-central.github.io/curriculum/img/leagueOversized.jpeg"/>
-  <div id="recipeGoal">
-   ## Goal:
+## Goal:
    Tell the user a story, but give them options so they can decide the path of the plot.
-  </div>
- </div>
- <div id="recipeRightColumn">
-  <div id="recipeSteps">
-   ## Steps:
-   <ol id="stepList">
-    <li>
-     Use JOptionPanes, if statements, and your imagination to make an interesting story.
-    </li>
-   </ol>
-  </div>
- </div>
+## Steps:
+1. Use JOptionPanes, if statements, and your imagination to make an interesting story.
+  
+ 
 

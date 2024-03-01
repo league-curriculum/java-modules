@@ -1,19 +1,15 @@
 
- # The League of Amazing Programmers
- ## What's the Output?
- ### Each number is a complete Java program. If you were to run this program, what output would show up on the screen?
+# The League of Amazing Programmers
+## What's the Output?
+### Each number is a complete Java program. If you were to run this program, what output would show up on the screen?
 	Type your answers in the box. Read each question carefully. Your answers must be exact.
- ```
-
+```
 1.
 class MyJavaProgram{
 	public static void main(String[] args){
 		System.out.println("Tacos");
 	}
 }
-
-
-
 2.
 class MyJavaProgram{
 	public static void main(String[] args){
@@ -21,9 +17,6 @@ class MyJavaProgram{
 		System.out.println(book);
 	}
 }
-
-
-
 3.
 class MyJavaProgram{
 	public static void main(String[] args){
@@ -31,9 +24,6 @@ class MyJavaProgram{
 		System.out.println(book + " " + book);
 	}
 }
-
-
-
 4.
 class MyJavaProgram{
 	public static void main(String[] args){
@@ -41,9 +31,6 @@ class MyJavaProgram{
 		System.out.println("book");
 	}
 }
-
-
-
 5.
 class MyJavaProgram{
 	public static void main(String[] args){
@@ -51,9 +38,6 @@ class MyJavaProgram{
 		System.out.println(i);
 	}
 }
-
-
-
 6.
 class MyJavaProgram{
 	public static void main(String[] args){
@@ -62,9 +46,6 @@ class MyJavaProgram{
 		System.out.println(x + y);
 	}
 }
-
-
-
 7.
 class MyJavaProgram{
 	public static void main(String[] args){
@@ -78,15 +59,12 @@ class MyJavaProgram{
 		}
 	}
 }
-
-
-
 8.
 class MyJavaProgram{
 	public static void main(String[] args){
 		int j = 1;
 
-		if(j &gt; 0){
+		if(j > 0){
 			System.out.println("CLICK");
 		} 
 		else if ( j == 2){
@@ -97,9 +75,6 @@ class MyJavaProgram{
 
 	}
 }
-
-
-
 9.
 class MyJavaProgram{
 	public static void main(String[] args){
@@ -121,9 +96,6 @@ class MyJavaProgram{
 
 	}
 }
-
-
-
 10.
 class MyJavaProgram{
 	public static void main(String[] args){
@@ -142,9 +114,6 @@ class MyJavaProgram{
 		}
 	}
 }
-
-
-
 11.
 class MyJavaProgram{
 	public static void main(String[] args){
@@ -155,9 +124,6 @@ class MyJavaProgram{
 		System.out.print(y);
 	}
 }
-
-
-
 12.
 class MyJavaProgram{
 	public static void main(String[] args){
@@ -168,9 +134,6 @@ class MyJavaProgram{
 		System.out.print(c + a + b);
 	}
 }
-
-
-
 13.
 class MyJavaProgram{
 	public static void main(String[] args){
@@ -181,88 +144,67 @@ class MyJavaProgram{
 		System.out.print(c + a + b);
 	}
 }
-
-
-
 14.
 class MyJavaProgram{
 	public static void main(String[] args){
-		for(int i = 0; i &lt; 5; i++){
+		for(int i = 0; i < 5; i++){
 			System.out.print(i);
 		}
 	}
 }
-
-
-
 15.
 class MyJavaProgram{
 	public static void main(String[] args){
-		for(int i = 5; i &gt;= 0; i--){
+		for(int i = 5; i >= 0; i--){
 			System.out.println(i);
 		}
 	}
 }
-
-
-
 16.
 class MyJavaProgram{
 	public static void main(String[] args){
 		String h = "horse";
-		for(int i = 5; i &gt;= 0; i--){
+		for(int i = 5; i >= 0; i--){
 			System.out.println(h);
 		}
 	}
 }
-
-
-
 17.
 class MyJavaProgram{
 	public static void main(String[] args){
 		String d = "dynomite";
-		for(int i = 5; i &gt;= 0; i--){
+		for(int i = 5; i >= 0; i--){
 			System.out.println(i);
 		}
 		System.out.println(d);
 	}
 }
-
-
-
 18.
 class MyJavaProgram{
 	public static void main(String[] args){
-		for(int i = 0; i &lt; 20; i++){
+		for(int i = 0; i < 20; i++){
 			if(i % 2 == 0){
 				System.out.print(i + ", ");
 			}
 		}
 	}
 }
-
-
-
 19.
 class MyJavaProgram{
 	public static void main(String[] args){
 		String count = "";
-		for(int i = 5; i &gt;= 0; i--){
+		for(int i = 5; i >= 0; i--){
 			count += "count" + i + " ";
 		}
 		System.out.println(count);
 	}
 }
-
-
-
 20.
 class MyJavaProgram{
 	public static void main(String[] args){
 		int x = 7;
 
-		for(int i = 0; i &lt; 22; i++){
+		for(int i = 0; i < 22; i++){
 			if(i % x == 0){
 				System.out.print(i + ", ");
 			}
@@ -270,11 +212,7 @@ class MyJavaProgram{
 	}
 }
 
-
-
 SUBMIT YOUR ANSWERS
-
-  
 ```
  <hr size="3"/>
 

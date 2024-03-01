@@ -1,24 +1,12 @@
 
- <div id="recipeLeftColumn">
-  # Quiz Game
+# Quiz Game
   <hr/>
   <img alt="quiz image" src="./quiz.png"/>
-  <div id="recipeGoal">
-   ## Goal:
+## Goal:
    Use pop-ups to ask the user "quiz" questions. Use if / else to check their answers.
-  </div>
- </div>
- <div id="recipeRightColumn">
-  <div id="recipeSteps">
-   ## Steps:
-   <ol id="stepList">
-    <li>
-     Find the Quiz Game recipe program ( QuizGame.java ) and open it using Eclipse.
-    </li>
-    <li>
-     Follow the instructions in the program to code this game.
-    </li>
-   </ol>
-  </div>
- </div>
+## Steps:
+1. Find the Quiz Game recipe program ( QuizGame.java ) and open it using Eclipse.
+2. Follow the instructions in the program to code this game.
+  
+ 
 

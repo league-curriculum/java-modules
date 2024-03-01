@@ -1,6 +1,5 @@
 
- <div id="moduleIndex">
-  # Level 0 Module 3
+# Level 0 Module 3
   <form action="https://classroom.github.com/a/bmdMzeFO" id="moduleButtonForm" method="get">
    <button id="acceptModuleButton" type="submit">
     <span>
@@ -9,72 +8,65 @@
    </button>
   </form>
   <!-- <h3><a href="../Level_0_Cheat_Guide.pdf">Cheat Sheet</a></h3> -->
-  <div class="moduleIndexColumn">
-   ## Learn
-   ### else if
-   ###
-   ###
-   ###
-   ###
+## Learn
+### else if
+###
+###
+###
+###
    <hr/>
-   ### loop variables
-   ###
-   ###
+### loop variables
+###
+###
    <hr/>
-   ### remainder
-   ###
+### remainder
+###
    <hr/>
-   ### Extra Practice
-  </div>
-  <div class="moduleIndexColumn">
-   ## Eclipse
-   ### Color Chooser
-   ### Crazy Cat Lady
-   ### High Low
-   ### Are You Happy?
-   ### Own Adventure
+### Extra Practice
+## Eclipse
+### Color Chooser
+### Crazy Cat Lady
+### High Low
+### Are You Happy?
+### Own Adventure
    <hr/>
-   ### Years Alive
-   ### Shiny Objects
-   ### Robot Walk of Fame
+### Years Alive
+### Shiny Objects
+### Robot Walk of Fame
    <hr/>
-   ### Fizz Buzz
-   ###
+### Fizz Buzz
+###
    <hr/>
-  </div>
-  <div class="moduleIndexColumn">
-   ## Processing
-   ###
-   ###
-   ###
-   ###
-   ###
+## Processing
+###
+###
+###
+###
+###
    <hr/>
-   ### 99 Bottles
-   ###
-   ###
+### 99 Bottles
+###
+###
    <hr/>
-   ### Bullseye
-   ### Bumble Bee
+### Bullseye
+### Bumble Bee
    <hr/>
-   ###
-  </div>
-  <div class="moduleIndexColumn">
-   ## Self-Test
-   ### else if check
-   ###
-   ###
-   ###
-   ###
+###
+## Self-Test
+### else if check
+###
+###
+###
+###
    <hr/>
-   ### loop var check
-   ###
-   ###
+### loop var check
+###
+###
    <hr/>
-   ### remainder check
-   ###
+### remainder check
+###
    <hr/>
-   ###
-  </div>
- </div>
+###
+  
+ 
 

@@ -1,30 +1,14 @@
 
- <div id="recipeLeftColumn">
-  # Bumblebee
+# Bumblebee
   <hr/>
   <img alt="Bumblebee image" src="./bumbleBee.png"/>
-  <div id="recipeGoal">
-   ## Goal:
+## Goal:
    Draw the bumblebee using a for loop and remainder
-  </div>
- </div>
- <div id="recipeRightColumn">
-  <div id="recipeSteps">
-   ## Steps:
-   <ol id="stepList">
-    <li>
-     This recipe practices using remainder and calling methods that use parameters.
-    </li>
-    <li>
-     Find the Bumble Bee recipe program ( bumble_bee.pde ) and open it using Processing.
-    </li>
-    <li>
-     Follow the instructions in the code to make a long stripy bumble bee like the one in the picture.
-    </li>
-    <li>
-     Make sure you SAVE YOUR CODE when you are done.
-    </li>
-   </ol>
-  </div>
- </div>
+## Steps:
+1. This recipe practices using remainder and calling methods that use parameters.
+2. Find the Bumble Bee recipe program ( bumble_bee.pde ) and open it using Processing.
+3. Follow the instructions in the code to make a long stripy bumble bee like the one in the picture.
+4. Make sure you SAVE YOUR CODE when you are done.
+  
+ 
 

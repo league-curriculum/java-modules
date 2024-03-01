@@ -1,27 +1,13 @@
 
- <div id="recipeLeftColumn">
-  # Madlibs
+# Madlibs
   <hr/>
   <img alt="madlibs image" src="./madlibs.png"/>
-  <div id="recipeGoal">
-   ## Goal:
+## Goal:
    Have you ever played Madlibs? You will get to use input and message dialogs to join Strings and build your own Madlib story.
-  </div>
- </div>
- <div id="recipeRightColumn">
-  <div id="recipeSteps">
-   ## Steps:
-   <ol id="stepList">
-    <li>
-     Find the Madlibs ecipe program ( MadlibsOfTheAmazon.java ) and open it using Eclipse.
-    </li>
-    <li>
-     Follow the instructions in the program to help you make a hilarious story about crossing a piranha-infested river.
-    </li>
-    <li>
-     You can invent your own madlib story too!
-    </li>
-   </ol>
-  </div>
- </div>
+## Steps:
+1. Find the Madlibs ecipe program ( MadlibsOfTheAmazon.java ) and open it using Eclipse.
+2. Follow the instructions in the program to help you make a hilarious story about crossing a piranha-infested river.
+3. You can invent your own madlib story too!
+  
+ 
 

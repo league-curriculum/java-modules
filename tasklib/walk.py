@@ -103,7 +103,6 @@ def find_leaf_directories(root_dir):
 
 
 def process_dir(root, f):
-
     if f.name in ('.web', 'lib', 'league_token', 'tests'):
         f = f.parent
 
@@ -115,7 +114,7 @@ def process_dir(root, f):
 
     if a is None and ls is None:
         # Module level
-        #print("No assignment ", f)
+        # print("No assignment ", f)
         return None
 
     elif a is None and ls is not None:
@@ -131,8 +130,6 @@ def process_dir(root, f):
     title = assign.replace('_', ' ').title()
 
     src = (f / '.web' / 'index.md')
-
-
 
     r = {
         'dir': str(f),

@@ -1,48 +1,20 @@
 
- <div id="recipeLeftColumn">
-  # Obedient Robot
+# Obedient Robot
   <hr/>
   <img src="./robot.png"/>
-  <div id="recipeGoal">
-   ## Goal:
+## Goal:
    Make an obedient robot that will obey commands to draw shapes.
-  </div>
- </div>
- <div id="recipeRightColumn">
-  <div id="recipeSteps">
-   ## Steps:
-   <ol id="stepList">
-    <li>
-     This recipe practices writing and calling void methods.
-    </li>
-    <li>
-     Make a new class, create a main method, and show the robot.
-    </li>
-    <li>
-     Have the robot draw a square.
-    </li>
-    <li>
-     Put this code into a drawSquare() method.
-    </li>
-    <li>
-     Have the robot draw a triangle.
-    </li>
-    <li>
-     Put this code into a drawTriangle() method.
-    </li>
-    <li>
-     Have the robot draw a circle.
-    </li>
-    <li>
-     Put this code into a drawCircle() method.
-    </li>
-    <li>
-     Ask the user which shape they want. Draw the appropriate shape depending on their answer (call the right method).
-    </li>
-    <li>
-     Ask the user which color they want. Give them some choices so you don't have to accomodate every possible color. Color the the shape depending on their answer.
-    </li>
-   </ol>
-  </div>
- </div>
+## Steps:
+1. This recipe practices writing and calling void methods.
+2. Make a new class, create a main method, and show the robot.
+3. Have the robot draw a square.
+4. Put this code into a drawSquare() method.
+5. Have the robot draw a triangle.
+6. Put this code into a drawTriangle() method.
+7. Have the robot draw a circle.
+8. Put this code into a drawCircle() method.
+9. Ask the user which shape they want. Draw the appropriate shape depending on their answer (call the right method).
+10. Ask the user which color they want. Give them some choices so you don't have to accomodate every possible color. Color the the shape depending on their answer.
+  
+ 
 

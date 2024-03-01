@@ -1,27 +1,13 @@
 
- <div id="recipeLeftColumn">
-  # Snowflake
+# Snowflake
   <hr/>
   <img src="./snowflake.png"/>
-  <div id="recipeGoal">
-   ## Goal:
+## Goal:
    Use nested for loops to draw a multi-colored snowflake.
-  </div>
- </div>
- <div id="recipeRightColumn">
-  <div id="recipeSteps">
-   ## Steps:
-   <ol id="stepList">
-    <li>
-     This recipe introduces using nested for loops (where one for loop is inside another for loop).
-    </li>
-    <li>
-     Follow the instructions in the code to complete this recipe.
-    </li>
-    <li>
-     When complete the Robot should draw the pattern shown here.
-    </li>
-   </ol>
-  </div>
- </div>
+## Steps:
+1. This recipe introduces using nested for loops (where one for loop is inside another for loop).
+2. Follow the instructions in the code to complete this recipe.
+3. When complete the Robot should draw the pattern shown here.
+  
+ 
 

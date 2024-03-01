@@ -1,10 +1,9 @@
 
- <div id="linkPageBody">
-  # Spot the Errors
+# Spot the Errors
   <hr/>
-  ### Fix the Print
-  ### Hello Bob
-  ### Make It Count
+### Fix the Print
+### Hello Bob
+### Make It Count
   <hr/>
- </div>
+ 
 

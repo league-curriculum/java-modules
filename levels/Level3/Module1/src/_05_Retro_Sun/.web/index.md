@@ -1,42 +1,40 @@
 
- <div id="moduleIndex">
-  # Retro Sun (Processing)
-  ### Part 1: Drawing the Sun
-  <div style="align-content: center">
+# Retro Sun (Processing)
+### Part 1: Drawing the Sun
+  
    <img alt="" src="./1_sun.png" style="width: 400px; height: 330px;"/>
    Open the starter code in Processing.
 Draw and fill a solid color ellipse to be the sun.
-   ### Part 2: Drawing a color gradient on the sun
-   <div style="align-content: center">
+### Part 2: Drawing a color gradient on the sun
+   
     <img alt="" src="./2_gradient.png" style="width: 400px; height: 180px;"/>
     Change the sun-colored pixels in your sketch make the sun have gradually different colors from the top to bottom.
 
 Use the interpolateColor() method to find which color to change the pixel.
-    ```
+```
 
 // Input variable 'step' is a value from 0.0 to 1.0, where
 // 0.0 is the top of the sun and 1.0 is the bottom
 interpolateColor(color[] arr, float step)
-            
 ```
-    ### Part 3: Drawing the missing sections at the bottom of the sun
-    <div style="align-content: center">
+### Part 3: Drawing the missing sections at the bottom of the sun
+    
      <img alt="" src="./3_missing_sun_section.png" style="width: 400px; height: 180px;"/>
      The missing parts of the sun are created by drawing rectangles over the sun with the same color as the background.
-     ### Part 4: Moving the missing sun sections
-     <div style="align-content: center">
+### Part 4: Moving the missing sun sections
+     
       <img alt="" src="./4b_resizing_section.gif" style="width: 400px; height: 330px;"/>
       To move a section upwards each rectangle's y value needs to decrease.
 To make the section get smaller, its height value needs to also decrease.
-      ### Part 5: Managing the missing sun sections
-      <div style="align-content: center">
+### Part 5: Managing the missing sun sections
+      
        <img alt="" src="./5_multiple_sections.gif" style="width: 400px; height: 225px;"/>
        Using a List to manage moving multiple missing sun sections
-       ### Part 6: Adding reflections, stars, and other extras
-       <div style="align-content: center">
+### Part 6: Adding reflections, stars, and other extras
+       
         <img alt="" src="./6_retro_sun_extras.gif" style="width: 400px; height: 225px;"/>
         If you want to make your retro sun look more unique, try adding reflections and stars. You may use the example classes below.
-        ```
+```
 
 class Star {
   int x;
@@ -65,9 +63,8 @@ class Star {
     float blink = random(0, 0.8);
     ellipse(x, y, diameter + blink, diameter + blink);
   }
-            
 ```
-        ```
+```
 
 class Reflection {
 /*
@@ -125,7 +122,7 @@ class Reflection {
     int y = topY;
     int w = topWidth;
     int h = maxHeight;
-    for ( int i = 0; i &lt; numReflectionBars; i++ ) {   
+    for ( int i = 0; i < numReflectionBars; i++ ) {   
       y += (bottomY - topY) / numBars;
       x += sunRadius / 16;
       w -= 2 * (sunRadius / 16);
@@ -139,7 +136,7 @@ class Reflection {
     strokeWeight(1);
     
     for ( Rectangle bar : lowerBars ) {
-      for ( int i = (int)bar.x; i &lt; bar.x + bar.w; i++ ) {
+      for ( int i = (int)bar.x; i < bar.x + bar.w; i++ ) {
         float alphaMax = -255 - (bar.y - topY);
         float alphaMin =  255 + (bar.y - topY);
         float alpha = map(i, bar.x, bar.x + bar.w, alphaMin, alphaMax);
@@ -154,18 +151,18 @@ class Reflection {
       bar.x += speed;
       bar.w -= 2 * speed;
 
-      if( bar.y &gt; bottomY ) {
+      if( bar.y > bottomY ) {
         // Bar at bottom, reset to top
         
         bar.x = topX;
         bar.y = topY + maxHeight;
         bar.w = topWidth;
         bar.h = 1;
-      } else if( bar.y &gt; bottomY - maxHeight ) {
+      } else if( bar.y > bottomY - maxHeight ) {
         // Bar near bottom
         
         bar.h -= speed;
-      } else if( bar.h &lt; maxHeight ) {
+      } else if( bar.h < maxHeight ) {
         // Bar height just reset and at top
         
         bar.y -= speed;
@@ -174,13 +171,12 @@ class Reflection {
     }
   }
 }
-            
 ```
-       </div>
-      </div>
-     </div>
-    </div>
-   </div>
-  </div>
- </div>
+       
+      
+     
+    
+   
+  
+ 
 

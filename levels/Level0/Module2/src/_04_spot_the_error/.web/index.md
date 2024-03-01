@@ -1,10 +1,9 @@
 
- <div id="linkPageBody">
-  # Spot the Errors
+# Spot the Errors
   <hr/>
-  ### Fix the Random
-  ### How Many?
-  ### Method Call
+### Fix the Random
+### How Many?
+### Method Call
   <hr/>
- </div>
+ 
 

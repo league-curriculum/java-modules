@@ -1,5 +1,5 @@
 <html>
- ### 
+### 
 Modify the Pixel Art Maker program you created in Level 4. 
 Add a save button that will save the state of the image. When the program is started, 
 it should load the image from the file and display it on the grid.

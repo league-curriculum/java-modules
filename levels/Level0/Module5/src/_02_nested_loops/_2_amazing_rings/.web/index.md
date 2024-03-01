@@ -1,30 +1,14 @@
 
- <div id="recipeLeftColumn">
-  # Amazing Rings
+# Amazing Rings
   <hr/>
   <img alt="Amazing Rings image" src="./amazingRings.png"/>
-  <div id="recipeGoal">
-   ## Goal:
+## Goal:
    Use Processing to make this using for loops and if statements.
-  </div>
- </div>
- <div id="recipeRightColumn">
-  <div id="recipeSteps">
-   ## Steps:
-   <ol id="stepList">
-    <li>
-     This recipe practices using for loops and if statements.
-    </li>
-    <li>
-     Find the Amazing Rings recipe program in Eclipse.
-    </li>
-    <li>
-     Follow the instructions in the code to make the rings move from side to side in the sketch.
-    </li>
-    <li>
-     Make sure you SAVE YOUR CODE when you are done.
-    </li>
-   </ol>
-  </div>
- </div>
+## Steps:
+1. This recipe practices using for loops and if statements.
+2. Find the Amazing Rings recipe program in Eclipse.
+3. Follow the instructions in the code to make the rings move from side to side in the sketch.
+4. Make sure you SAVE YOUR CODE when you are done.
+  
+ 
 

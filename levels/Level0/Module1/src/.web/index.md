@@ -1,6 +1,5 @@
 
- <div id="moduleIndex">
-  # Level 0 Module 1
+# Level 0 Module 1
   <form action="https://classroom.github.com/a/PerOaORR" id="moduleButtonForm" method="get">
    <button id="acceptModuleButton" type="submit">
     <span>
@@ -9,90 +8,83 @@
    </button>
   </form>
   <!-- <h3><a href="../Level_0_Cheat_Guide.pdf">Cheat Sheet</a></h3> -->
-  <div class="moduleIndexColumn">
-   ## Learn
-   ### variables (intro)
+## Learn
+### variables (intro)
    <hr/>
-   ### RGB color model
+### RGB color model
    <hr/>
-   ### if/else
-   ###
-   ###
+### if/else
+###
+###
    <hr/>
-   ### int variables
-   ### ++ / --
+### int variables
+### ++ / --
    <hr/>
-   ### for loops
-   ###
+### for loops
+###
    <hr/>
-   ### Spot the error
-   ###
-   ###
+### Spot the error
+###
+###
    <hr/>
-   ### Extra Practice
-  </div>
-  <div class="moduleIndexColumn">
-   ## Eclipse
-   ###
+### Extra Practice
+## Eclipse
+###
    <hr/>
-   ###
+###
    <hr/>
-   ### Unbirthday
-   ### Remarkable
-   ### Secret Message Box
+### Unbirthday
+### Remarkable
+### Secret Message Box
    <hr/>
-   ### The Riddler
-   ### Robot in Space
+### The Riddler
+### Robot in Space
    <hr/>
-   ### My Ages
-   ### Badgers
+### My Ages
+### Badgers
    <hr/>
-   ### Fix the print
-   ### Hello Bob!
-   ### Make it count
+### Fix the print
+### Hello Bob!
+### Make it count
    <hr/>
-  </div>
-  <div class="moduleIndexColumn">
-   ## Processing
-   ###
+## Processing
+###
    <hr/>
-   ### Venn Diagram of Me
+### Venn Diagram of Me
    <hr/>
-   ### Tasty Tomato
-   ### Pizza
-   ###
+### Tasty Tomato
+### Pizza
+###
    <hr/>
-   ### Zombie Eyes
-   ### Rocket Ship Blastoff
+### Zombie Eyes
+### Rocket Ship Blastoff
    <hr/>
-   ### Bananas 4eva
-   ### Banana Split
+### Bananas 4eva
+### Banana Split
    <hr/>
-   ###
-   ###
-   ###
+###
+###
+###
    <hr/>
-  </div>
-  <div class="moduleIndexColumn">
-   ## Self-Test
-   ###
+## Self-Test
+###
    <hr/>
-   ###
+###
    <hr/>
-   ###
-   ###
-   ###
+###
+###
+###
    <hr/>
-   ###
-   ###
+###
+###
    <hr/>
-   ### For Loop Check
-   ###
+### For Loop Check
+###
    <hr/>
-   ###
-   ###
-   ###
+###
+###
+###
    <hr/>
-  </div>
- </div>
+  
+ 
 

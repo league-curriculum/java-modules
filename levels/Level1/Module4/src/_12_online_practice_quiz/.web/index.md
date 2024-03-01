@@ -8,14 +8,14 @@
   <link href="https://league-central.github.io/curriculum/style/style.css" rel="stylesheet"/>
   <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet"/>
   <style>
-   #quiz {
+#quiz {
                 margin-left:50px;
             }
-            #nav {
+#nav {
                 margin-left:50px;
                 position: relative;
             }
-            #footer {
+#footer {
                 position: absolute;
                 bottom: -100;
                 width: 100%;
@@ -29,6 +29,6 @@
             }
   </style>
  </head>
- # 
+# 
         Level 1 Self-Test Quiz
 </html>
