@@ -13,10 +13,32 @@ meta:
   title: 03 Print And Popups 5 Awesome Or Not
 module: Module0
 resources: []
-text: "\n <div id=\"recipeLeftColumn\">\n  # Awesome or Not\n  <hr/>\n  <img alt=\"\
-  awesome image\" src=\"./awesome.jpg\"/>\n  <div id=\"recipeGoal\">\n   ## Goal:\n\
-  \   Use random numbers and pop-ups to respond to a user's input\n  </div>\n </div>\n\
-  \ <div id=\"recipeRightColumn\">\n  <div id=\"recipeSteps\">\n   ## Steps:\n   <ol\
-  \ id=\"stepList\">\n    <li>\n     Find the Awesome or Not recipe program ( AwesomeOrNot.java\
-  \ ) and open it using Eclipse.\n    </li>\n    <li>\n     Follow the instructions\
-  \ in the program to code this game.\n    </li>\n   </ol>\n  </div>\n </div>\n\n"
+text: '
+
+
+  # Awesome or Not
+
+
+  <hr/>
+
+  <img alt="awesome image" src="./images/awesome.jpg"/>
+
+
+  ## Goal:
+
+
+  Use random numbers and pop-ups to respond to a user''s input
+
+
+  ## Steps:
+
+
+  1. Find the Awesome or Not recipe program ( AwesomeOrNot.java ) and open it using
+  Eclipse.
+
+  2. Follow the instructions in the program to code this game.
+
+
+
+
+  '

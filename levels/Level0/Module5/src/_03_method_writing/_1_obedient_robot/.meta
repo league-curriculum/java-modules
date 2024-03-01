@@ -13,19 +13,49 @@ meta:
   title: 03 Method Writing 1 Obedient Robot
 module: Module5
 resources: []
-text: "\n <div id=\"recipeLeftColumn\">\n  # Obedient Robot\n  <hr/>\n  <img src=\"\
-  ./robot.png\"/>\n  <div id=\"recipeGoal\">\n   ## Goal:\n   Make an obedient robot\
-  \ that will obey commands to draw shapes.\n  </div>\n </div>\n <div id=\"recipeRightColumn\"\
-  >\n  <div id=\"recipeSteps\">\n   ## Steps:\n   <ol id=\"stepList\">\n    <li>\n\
-  \     This recipe practices writing and calling void methods.\n    </li>\n    <li>\n\
-  \     Make a new class, create a main method, and show the robot.\n    </li>\n \
-  \   <li>\n     Have the robot draw a square.\n    </li>\n    <li>\n     Put this\
-  \ code into a drawSquare() method.\n    </li>\n    <li>\n     Have the robot draw\
-  \ a triangle.\n    </li>\n    <li>\n     Put this code into a drawTriangle() method.\n\
-  \    </li>\n    <li>\n     Have the robot draw a circle.\n    </li>\n    <li>\n\
-  \     Put this code into a drawCircle() method.\n    </li>\n    <li>\n     Ask the\
-  \ user which shape they want. Draw the appropriate shape depending on their answer\
-  \ (call the right method).\n    </li>\n    <li>\n     Ask the user which color they\
-  \ want. Give them some choices so you don't have to accomodate every possible color.\
-  \ Color the the shape depending on their answer.\n    </li>\n   </ol>\n  </div>\n\
-  \ </div>\n\n"
+text: '
+
+
+  # Obedient Robot
+
+
+  <hr/>
+
+  <img src="./images/robot.png"/>
+
+
+  ## Goal:
+
+
+  Make an obedient robot that will obey commands to draw shapes.
+
+
+  ## Steps:
+
+
+  1. This recipe practices writing and calling void methods.
+
+  2. Make a new class, create a main method, and show the robot.
+
+  3. Have the robot draw a square.
+
+  4. Put this code into a drawSquare() method.
+
+  5. Have the robot draw a triangle.
+
+  6. Put this code into a drawTriangle() method.
+
+  7. Have the robot draw a circle.
+
+  8. Put this code into a drawCircle() method.
+
+  9. Ask the user which shape they want. Draw the appropriate shape depending on their
+  answer (call the right method).
+
+  10. Ask the user which color they want. Give them some choices so you don''t have
+  to accomodate every possible color. Color the the shape depending on their answer.
+
+
+
+
+  '

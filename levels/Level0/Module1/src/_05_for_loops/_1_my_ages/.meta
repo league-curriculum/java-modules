@@ -13,9 +13,30 @@ meta:
   title: 05 For Loops 1 My Ages
 module: Module1
 resources: []
-text: "\n <div id=\"recipeLeftColumn\">\n  # My Ages\n  <hr/>\n  <img src=\"./ages.jpeg\"\
-  />\n  <div id=\"recipeGoal\">\n   ## Goal:\n   Practice using for loops!\n  </div>\n\
-  \ </div>\n <div id=\"recipeRightColumn\">\n  <div id=\"recipeSteps\">\n   ## Steps:\n\
-  \   <ol id=\"stepList\">\n    <li>\n     Using a for loop, print out all the ages\
-  \ you have been alive, up to your current age.\n    </li>\n   </ol>\n  </div>\n\
-  \ </div>\n\n"
+text: '
+
+
+  # My Ages
+
+
+  <hr/>
+
+  <img src="./images/ages.jpeg"/>
+
+
+  ## Goal:
+
+
+  Practice using for loops!
+
+
+  ## Steps:
+
+
+  1. Using a for loop, print out all the ages you have been alive, up to your current
+  age.
+
+
+
+
+  '

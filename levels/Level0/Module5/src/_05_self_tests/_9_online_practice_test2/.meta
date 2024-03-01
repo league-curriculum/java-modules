@@ -13,5 +13,11 @@ meta:
   title: 05 Self Tests 9 Online Practice Test2
 module: Module5
 resources: []
-text: "<body onload=\"startup()\" style=\"background-color:#bbccdd;font-weight:bold;font-size:22px;\"\
-  >\n ```\n\n  \n\n```\n\n"
+text: '<body onload="startup()" style="background-color:#bbccdd;font-weight:bold;font-size:22px;">
+
+  ```
+
+  ```
+
+
+  '

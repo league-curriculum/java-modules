@@ -13,11 +13,33 @@ meta:
   title: 02 Methods 3 Dot Race
 module: Module2
 resources: []
-text: "\n <div id=\"recipeLeftColumn\">\n  # Dot Race\n  <hr/>\n  <img src=\"./dotRace.png\"\
-  />\n  <div id=\"recipeGoal\">\n   ## Goal:\n   Make the dot move across the screen\
-  \ when you press the mouse.\n  </div>\n </div>\n <div id=\"recipeRightColumn\">\n\
-  \  <div id=\"recipeSteps\">\n   ## Steps:\n   <ol id=\"stepList\">\n    <li>\n \
-  \    Find the Dot Race recipe program ( dot_race.pde ) and open it using Processing.\n\
-  \    </li>\n    <li>\n     Follow the instructions in the code to make a dot race\
-  \ across the screen.\n    </li>\n    <li>\n     Make sure you SAVE YOUR CODE when\
-  \ you are done.\n    </li>\n   </ol>\n  </div>\n </div>\n\n"
+text: '
+
+
+  # Dot Race
+
+
+  <hr/>
+
+  <img src="./images/dotRace.png"/>
+
+
+  ## Goal:
+
+
+  Make the dot move across the screen when you press the mouse.
+
+
+  ## Steps:
+
+
+  1. Find the Dot Race recipe program ( dot_race.pde ) and open it using Processing.
+
+  2. Follow the instructions in the code to make a dot race across the screen.
+
+  3. Make sure you SAVE YOUR CODE when you are done.
+
+
+
+
+  '

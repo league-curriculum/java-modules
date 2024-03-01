@@ -13,16 +13,41 @@ meta:
   title: 01 Else If 3 High Low
 module: Module3
 resources: []
-text: "\n <div id=\"recipeLeftColumn\">\n  # High Low Game\n  <hr/>\n  <img src=\"\
-  ./highLowGame.jpg\"/>\n  <div id=\"recipeGoal\">\n   ## Goal:\n   Use if and else\
-  \ if statements in a loop until the user correctly guesses the secret number in\
-  \ a high low game.\n  </div>\n </div>\n <div id=\"recipeRightColumn\">\n  <div id=\"\
-  recipeSteps\">\n   ## Steps:\n   <ol id=\"stepList\">\n    <li>\n     Get a random\
-  \ number between 1 and 100. Hint: use a Random object\n    </li>\n    <li>\n   \
-  \  Ask the user to guess what the number is.\n    </li>\n    <li>\n     If their\
-  \ guess is correct, tell them they won and end the game.\n    </li>\n    <li>\n\
-  \     If their guess is too high, tell them it is too high.\n    </li>\n    <li>\n\
-  \     If their guess is too low, tell them it is too low.\n    </li>\n    <li>\n\
-  \     Use a for loop to repeat the above code 10 times. If they don't find the number\
-  \ after 10 tries, tell them they lost the game and tell them the number.\n    </li>\n\
-  \   </ol>\n  </div>\n </div>\n\n"
+text: '
+
+
+  # High Low Game
+
+
+  <hr/>
+
+  <img src="./images/highLowGame.jpg"/>
+
+
+  ## Goal:
+
+
+  Use if and else if statements in a loop until the user correctly guesses the secret
+  number in a high low game.
+
+
+  ## Steps:
+
+
+  1. Get a random number between 1 and 100. Hint: use a Random object
+
+  2. Ask the user to guess what the number is.
+
+  3. If their guess is correct, tell them they won and end the game.
+
+  4. If their guess is too high, tell them it is too high.
+
+  5. If their guess is too low, tell them it is too low.
+
+  6. Use a for loop to repeat the above code 10 times. If they don''t find the number
+  after 10 tries, tell them they lost the game and tell them the number.
+
+
+
+
+  '

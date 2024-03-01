@@ -13,13 +13,39 @@ meta:
   title: 01 Else If 1 Robot Color Chooser
 module: Module3
 resources: []
-text: "\n <div id=\"recipeLeftColumn\">\n  # Robot Color Chooser\n  <hr/>\n  <img\
-  \ src=\"./robotColorChooser.png\"/>\n  <div id=\"recipeGoal\">\n   ## Goal:\n  \
-  \ Use if and else if statements to set a Robot's pen to a chosen color before drawing\
-  \ a shape.\n  </div>\n </div>\n <div id=\"recipeRightColumn\">\n  <div id=\"recipeSteps\"\
-  >\n   ## Steps:\n   <ol id=\"stepList\">\n    <li>\n     Ask the user to choose\
-  \ a color.\n    </li>\n    <li>\n     Set the Robot's pen to the chosen color.\n\
-  \    </li>\n    <li>\n     Have the Robot draw a shape.\n    </li>\n    <li>\n \
-  \    Repeat the above in a loop to test all the supported colors.\n    </li>\n \
-  \   <li>\n     Don't forget to use an else statement in case the user enters an\
-  \ unrecognized color.\n    </li>\n   </ol>\n  </div>\n </div>\n\n"
+text: '
+
+
+  # Robot Color Chooser
+
+
+  <hr/>
+
+  <img src="./images/robotColorChooser.png"/>
+
+
+  ## Goal:
+
+
+  Use if and else if statements to set a Robot''s pen to a chosen color before drawing
+  a shape.
+
+
+  ## Steps:
+
+
+  1. Ask the user to choose a color.
+
+  2. Set the Robot''s pen to the chosen color.
+
+  3. Have the Robot draw a shape.
+
+  4. Repeat the above in a loop to test all the supported colors.
+
+  5. Don''t forget to use an else statement in case the user enters an unrecognized
+  color.
+
+
+
+
+  '

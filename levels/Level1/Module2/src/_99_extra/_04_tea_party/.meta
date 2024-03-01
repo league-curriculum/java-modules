@@ -13,28 +13,27 @@ meta:
   title: 99 Extra 04 Tea Party
 module: Module2
 resources: []
-text: "\n <div id=\"moduleIndex\">\n  # Tea Party\n  You are hosting a formal Tea\
-  \ Party. Your task is to welcome your guests properly. Here are the rules\nfor welcoming\
-  \ guests:\n\n\n\nIf the guest has been knighted by the Queen and is male, use the\
-  \ title \"Sir\" before their name to\ngreet them, otherwise if the guest is a male,\
-  \ use the title \"Mr.\" before their name.\n\n\nIf the guest has been knighted by\
-  \ the Queen and is female, use the title \"Lady\" before their name to\ngreet them,\
-  \ otherwise if the guest is a female, use the title \"Ms.\" before their name.\n\
-  \nAdd code to the class below to support the greeting rules above.\n  ```\n\npublic\
-  \ class TeaParty {\n    public String welcome(String name, boolean isWoman, boolean\
-  \ isKnighted) {\n        \n    }\n}\n\n```\n  Here is some JUnit Test code to check\
-  \ your welcome method. Run the tests and check that the green\n\"pass\" bar is displayed.\n\
-  \  ```\n\nimport static org.junit.Assert.assertEquals;\nimport org.junit.Test;\n\
-  \npublic class TeaPartyTest {\n\t/**\n\t * Jane Austen is a woman, so say \u201C\
-  Hello Ms. Austen\u201D. \n\t * George Orwell is a man, so say \u201CHello Mr. Orwell\u201D\
-  . \n\t * Isaac Newton was knighted, so say \"Hello Sir Isaac Newton\".\n\t **/\n\
-  \n\t@Test\n\tpublic void testIsWomanNotKnighted() {\n\t\tTeaParty teaParty = new\
-  \ TeaParty();\n\t\tassertEquals(\"Hello Ms. Austen\", teaParty.welcome(\"Austen\"\
-  , true, false));\n\t}\n\n\t@Test\n\tpublic void testIsManNotKnighted() {\n\t\tTeaParty\
-  \ teaParty = new TeaParty();\n\t\tassertEquals(\"Hello Mr. Orwell\", teaParty.welcome(\"\
-  Orwell\", false, false));\n\t}\n\n\t@Test\n\tpublic void testIsManKnighted() {\n\
-  \t\tTeaParty teaParty = new TeaParty();\n\t\tassertEquals(\"Hello Sir Isaac Newton\"\
-  , teaParty.welcome(\"Isaac Newton\", false, true));\n\t}\n\t\n\t@Test\n\tpublic\
-  \ void testIsWomanKnighted() {\n\t\tTeaParty teaParty = new TeaParty();\n\t\tassertEquals(\"\
-  Hello Lady Laura\", teaParty.welcome(\"Laura\", true, true));\n\t}\n\n}\n    \n\
-  ```\n </div>\n\n"
+text: "\n\n# Tea Party\n\nYou are hosting a formal Tea Party. Your task is to welcome\
+  \ your guests properly. Here are the rules\nfor welcoming guests:\n\nIf the guest\
+  \ has been knighted by the Queen and is male, use the title \"Sir\" before their\
+  \ name to\ngreet them, otherwise if the guest is a male, use the title \"Mr.\" before\
+  \ their name.\n\nIf the guest has been knighted by the Queen and is female, use\
+  \ the title \"Lady\" before their name to\ngreet them, otherwise if the guest is\
+  \ a female, use the title \"Ms.\" before their name.\n\nAdd code to the class below\
+  \ to support the greeting rules above.\n```\n\npublic class TeaParty {\n    public\
+  \ String welcome(String name, boolean isWoman, boolean isKnighted) {\n        \n\
+  \    }\n}\n```\nHere is some JUnit Test code to check your welcome method. Run the\
+  \ tests and check that the green\n\"pass\" bar is displayed.\n```\n\nimport static\
+  \ org.junit.Assert.assertEquals;\nimport org.junit.Test;\n\npublic class TeaPartyTest\
+  \ {\n\t/**\n\t * Jane Austen is a woman, so say \u201CHello Ms. Austen\u201D. \n\
+  \t * George Orwell is a man, so say \u201CHello Mr. Orwell\u201D. \n\t * Isaac Newton\
+  \ was knighted, so say \"Hello Sir Isaac Newton\".\n\t **/\n\n\t@Test\n\tpublic\
+  \ void testIsWomanNotKnighted() {\n\t\tTeaParty teaParty = new TeaParty();\n\t\t\
+  assertEquals(\"Hello Ms. Austen\", teaParty.welcome(\"Austen\", true, false));\n\
+  \t}\n\n\t@Test\n\tpublic void testIsManNotKnighted() {\n\t\tTeaParty teaParty =\
+  \ new TeaParty();\n\t\tassertEquals(\"Hello Mr. Orwell\", teaParty.welcome(\"Orwell\"\
+  , false, false));\n\t}\n\n\t@Test\n\tpublic void testIsManKnighted() {\n\t\tTeaParty\
+  \ teaParty = new TeaParty();\n\t\tassertEquals(\"Hello Sir Isaac Newton\", teaParty.welcome(\"\
+  Isaac Newton\", false, true));\n\t}\n\t\n\t@Test\n\tpublic void testIsWomanKnighted()\
+  \ {\n\t\tTeaParty teaParty = new TeaParty();\n\t\tassertEquals(\"Hello Lady Laura\"\
+  , teaParty.welcome(\"Laura\", true, true));\n\t}\n\n}\n```\n\n\n"

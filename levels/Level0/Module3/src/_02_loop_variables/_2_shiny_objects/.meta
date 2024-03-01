@@ -13,12 +13,33 @@ meta:
   title: 02 Loop Variables 2 Shiny Objects
 module: Module3
 resources: []
-text: "\n <div id=\"recipeLeftColumn\">\n  # Shiny Objects\n  <hr/>\n  <img src=\"\
-  ./shinyObjets.png\"/>\n  <div id=\"recipeGoal\">\n   ## Goal:\n   Use input from\
-  \ a user to control the number of repetitions of a for loop.\n  </div>\n </div>\n\
-  \ <div id=\"recipeRightColumn\">\n  <div id=\"recipeSteps\">\n   ## Steps:\n   <ol\
-  \ id=\"stepList\">\n    <li>\n     Call the playMisterZee method. Run the program\
-  \ to make sure it works.\n    </li>\n    <li>\n     Ask the user how many shiny\
-  \ objects they would like\n    </li>\n    <li>\n     Use a for loop that repeats\
-  \ the method call for as many times as the user specified.\n    </li>\n   </ol>\n\
-  \  </div>\n </div>\n\n"
+text: '
+
+
+  # Shiny Objects
+
+
+  <hr/>
+
+  <img src="./images/shinyObjets.png"/>
+
+
+  ## Goal:
+
+
+  Use input from a user to control the number of repetitions of a for loop.
+
+
+  ## Steps:
+
+
+  1. Call the playMisterZee method. Run the program to make sure it works.
+
+  2. Ask the user how many shiny objects they would like
+
+  3. Use a for loop that repeats the method call for as many times as the user specified.
+
+
+
+
+  '

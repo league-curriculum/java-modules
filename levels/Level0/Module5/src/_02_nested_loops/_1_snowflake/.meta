@@ -13,11 +13,34 @@ meta:
   title: 02 Nested Loops 1 Snowflake
 module: Module5
 resources: []
-text: "\n <div id=\"recipeLeftColumn\">\n  # Snowflake\n  <hr/>\n  <img src=\"./snowflake.png\"\
-  />\n  <div id=\"recipeGoal\">\n   ## Goal:\n   Use nested for loops to draw a multi-colored\
-  \ snowflake.\n  </div>\n </div>\n <div id=\"recipeRightColumn\">\n  <div id=\"recipeSteps\"\
-  >\n   ## Steps:\n   <ol id=\"stepList\">\n    <li>\n     This recipe introduces\
-  \ using nested for loops (where one for loop is inside another for loop).\n    </li>\n\
-  \    <li>\n     Follow the instructions in the code to complete this recipe.\n \
-  \   </li>\n    <li>\n     When complete the Robot should draw the pattern shown\
-  \ here.\n    </li>\n   </ol>\n  </div>\n </div>\n\n"
+text: '
+
+
+  # Snowflake
+
+
+  <hr/>
+
+  <img src="./images/snowflake.png"/>
+
+
+  ## Goal:
+
+
+  Use nested for loops to draw a multi-colored snowflake.
+
+
+  ## Steps:
+
+
+  1. This recipe introduces using nested for loops (where one for loop is inside another
+  for loop).
+
+  2. Follow the instructions in the code to complete this recipe.
+
+  3. When complete the Robot should draw the pattern shown here.
+
+
+
+
+  '

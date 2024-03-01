@@ -14,28 +14,99 @@ meta:
 module: Module0
 resources:
 - /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level1/Module0/src/_04_gui_from_scratch/_2_jack_in_the_box/jackInTheBox.png
-text: "\n <div id=\"moduleIndex\">\n  # Jack-in-the-Box\n  1. Create a user interface\
-  \ (GUI) that has a single button labeled \"Surprise\".\n \_\_\_\_\_If you need help,\
-  \ take a look at the instructions for the Fortune Cookie recipe.\n  2. When the\
-  \ user presses the button 5 times, show them a jack-in-the-box using the methods\
-  \ below.\n     (A sample jackInTheBox.png file is provided in the default package)\n\
-  \  private void showPicture(String fileName) { \n\_\_\_\_\_try {\n\n\_\_\_\_\_\_\
-  \_\_\_\_JLabel imageLabel = createLabelImage(fileName);\n\_\_\_\_\_\_\_\_\_\_JFrame\
-  \ frame = new JFrame();\n\_\_\_\_\_\_\_\_\_\_frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);\n\
-  \_\_\_\_\_\_\_\_\_\_frame.add(imageLabel);\n\_\_\_\_\_\_\_\_\_\_frame.setVisible(true);\n\
-  \_\_\_\_\_\_\_\_\_\_frame.pack();\n\_\_\_\_\_} catch (Exception e) {\n\_\_\_\_\_\
-  \_\_\_\_\_e.printStackTrace();\n\_\_\_\_\_}\n}\n  private JLabel createLabelImage(String\
-  \ fileName) {\n\t\_\_\_\_\_try {\t\t\t\n\t\_\_\_\_\_\_\_\_\_\_URL imageURL = getClass().getResource(fileName);\n\
-  \t\_\_\_\_\_\_\_\_\_\_if (imageURL == null) {\n\t\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
-  System.err.println(\"Could not find image \" + fileName);\n\t\_\_\_\_\_\_\_\_\_\_\
-  \_\_\_\_\_return new JLabel();\n\_\_\_\_\_\_\_\_\_\_} else {\n\_\_\_\_\_\_\_\_\_\
-  \_\_\_\_\_\_Icon icon = new ImageIcon(imageURL);\n\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
-  JLabel imageLabel = new JLabel(icon);\n\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_return imageLabel;\n\
-  \   \_\_\_\_\_\_\_\_\_\_}  \n\_\_\_\_\_} catch (Exception e) {\n\_\_\_\_\_\_\_\_\
-  \_\_System.err.println(\"Could not find image \" + fileName);\n\_\_\_\_\_\_\_\_\_\
-  \_return new JLabel();\n    \_\_\_\_\_}\n}\n  3. Also play a sound when the jack-in-the-box\
-  \ pops up using this method.\n        (A sample sound homer-woohoo.wav is provided\
-  \ in the default package)\n\n    private void playSound(String soundFile) { \n\_\
-  \_\_\_\_try {\n\_\_\_\_\_\_\_\_\_\_AudioClip sound = JApplet.newAudioClip(getClass().getResource(soundFile));\n\
-  \_\_\_\_\_\_\_\_\_\_sound.play();\n\_\_\_\_\_} catch (Exception e) {\n\_\_\_\_\_\
-  \_\_\_\_\_e.printStackTrace();\n\_\_\_\_\_}\n}\n </div>\n\n"
+text: '
+
+
+  # Jack-in-the-Box
+
+
+  1. Create a user interface (GUI) that has a single button labeled "Surprise".
+
+  If you need help, take a look at the instructions for the Fortune Cookie recipe.
+
+  2. When the user presses the button 5 times, show them a jack-in-the-box using the
+  methods below.
+
+  (A sample jackInTheBox.png file is provided in the default package)
+
+  private void showPicture(String fileName) {
+
+  try {
+
+
+  JLabel imageLabel = createLabelImage(fileName);
+
+  JFrame frame = new JFrame();
+
+  frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+
+  frame.add(imageLabel);
+
+  frame.setVisible(true);
+
+  frame.pack();
+
+  } catch (Exception e) {
+
+  e.printStackTrace();
+
+  }
+
+  }
+
+  private JLabel createLabelImage(String fileName) {
+
+  try {
+
+  URL imageURL = getClass().getResource(fileName);
+
+  if (imageURL == null) {
+
+  System.err.println("Could not find image " + fileName);
+
+  return new JLabel();
+
+  } else {
+
+  Icon icon = new ImageIcon(imageURL);
+
+  JLabel imageLabel = new JLabel(icon);
+
+  return imageLabel;
+
+  }
+
+  } catch (Exception e) {
+
+  System.err.println("Could not find image " + fileName);
+
+  return new JLabel();
+
+  }
+
+  }
+
+  3. Also play a sound when the jack-in-the-box pops up using this method.
+
+  (A sample sound homer-woohoo.wav is provided in the default package)
+
+
+  private void playSound(String soundFile) {
+
+  try {
+
+  AudioClip sound = JApplet.newAudioClip(getClass().getResource(soundFile));
+
+  sound.play();
+
+  } catch (Exception e) {
+
+  e.printStackTrace();
+
+  }
+
+  }
+
+
+
+  '

@@ -13,15 +13,40 @@ meta:
   title: 01 Algorithms 3 Goofy Names
 module: Module5
 resources: []
-text: "\n <div id=\"recipeLeftColumn\">\n  # Goofy Names\n  <hr/>\n  GoOfY NaMeS\n\
-  \  <div id=\"recipeGoal\">\n   ## Goal:\n   Write an algorithm to change a String\
-  \ into a \"goofy\" version.\n  </div>\n </div>\n <div id=\"recipeRightColumn\">\n\
-  \  <div id=\"recipeSteps\">\n   ## Steps:\n   <ol id=\"stepList\">\n    <li>\n \
-  \    Ask the user to enter their name.\n    </li>\n    <li>\n     Use a loop to\
-  \ alternately modify each character of the name into uppercase and lowercase letters\
-  \ until a new \"goofy\" representation of their name has been constructed.\n   \
-  \  For example, if they enter their name as\n     <font color=\"green\">\n     \
-  \ Alexander Hamilton\n     </font>\n     their goofy name will be\n     <font color=\"\
-  green\">\n      AlExAnDeR HaMiLtOn\n     </font>\n    </li>\n    <li>\n     Show\
-  \ the user the goofy version of their name in a pop-up.\n    </li>\n   </ol>\n \
-  \ </div>\n </div>\n\n"
+text: '
+
+
+  # Goofy Names
+
+
+  <hr/>
+
+  GoOfY NaMeS
+
+
+  ## Goal:
+
+
+  Write an algorithm to change a String into a "goofy" version.
+
+
+  ## Steps:
+
+
+  1. Ask the user to enter their name.
+
+  2. Use a loop to alternately modify each character of the name into uppercase and
+  lowercase letters until a new "goofy" representation of their name has been constructed.
+
+
+  For example, if they enter their name as Alexander Hamilton
+
+
+  their goofy name will be AlExAnDeR HaMiLtOn
+
+  3. Show the user the goofy version of their name in a pop-up.
+
+
+
+
+  '

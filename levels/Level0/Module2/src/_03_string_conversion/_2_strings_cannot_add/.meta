@@ -13,13 +13,36 @@ meta:
   title: 03 String Conversion 2 Strings Cannot Add
 module: Module2
 resources: []
-text: "\n <div id=\"recipeLeftColumn\">\n  # Strings Cannot Add\n  <hr/>\n  <img src=\"\
-  ./stringsCannotAdd.jpg\"/>\n  <div id=\"recipeGoal\">\n   ## Goal:\n   Learn how\
-  \ the + operator works differently with Strings and numbers. Learn how to convert\
-  \ String objects to numbers when math operations are needed.\n  </div>\n </div>\n\
-  \ <div id=\"recipeRightColumn\">\n  <div id=\"recipeSteps\">\n   ## Steps:\n   <ol\
-  \ id=\"stepList\">\n    <li>\n     Follow all the instructions in the main method.\n\
-  \    </li>\n    <li>\n     Observe how the + operator joins Strings to produce a\
-  \ new (longer) String.\n    </li>\n    <li>\n     Use the Integer.parseInt() method\
-  \ to convert Strings to numbers.\n    </li>\n    <li>\n     Observe how the + operator\
-  \ adds numbers to produce a sum.\n    </li>\n   </ol>\n  </div>\n </div>\n\n"
+text: '
+
+
+  # Strings Cannot Add
+
+
+  <hr/>
+
+  <img src="./images/stringsCannotAdd.jpg"/>
+
+
+  ## Goal:
+
+
+  Learn how the + operator works differently with Strings and numbers. Learn how to
+  convert String objects to numbers when math operations are needed.
+
+
+  ## Steps:
+
+
+  1. Follow all the instructions in the main method.
+
+  2. Observe how the + operator joins Strings to produce a new (longer) String.
+
+  3. Use the Integer.parseInt() method to convert Strings to numbers.
+
+  4. Observe how the + operator adds numbers to produce a sum.
+
+
+
+
+  '

@@ -13,16 +13,48 @@ meta:
   title: 03 Char 3 Pi Aloud
 module: Module4
 resources: []
-text: "\n <div id=\"recipeLeftColumn\">\n  # Pi Aloud\n  <hr/>\n  <img src=\"./piAloud.png\"\
-  />\n  <div id=\"recipeGoal\">\n   ## Goal:\n   Use charAt and length methods to\
-  \ access the digits of pi in a String variable.\n  </div>\n </div>\n <div id=\"\
-  recipeRightColumn\">\n  <div id=\"recipeSteps\">\n   ## Steps:\n   <ol id=\"stepList\"\
-  >\n    <li>\n     Place the first 20 digits of pi into a String variable.\n    </li>\n\
-  \    <li>\n     Print out the first 3 digits of pi. Remember the first digit will\
-  \ be pi.charAt(0).\n    </li>\n    <li>\n     Use a for loop to print each digit\
-  \ of pi on a new line.\n    </li>\n    <li>\n     If your computer can play sounds,\
-  \ use the speak method to say each digit of pi using a loop.\n    </li>\n    <li>\n\
-  \     [CHALLENGE]\n     After printing the first 3 digits of pi, ask the user for\
-  \ the next digit using the getInputFromUser() method\n     Compare the users' char\
-  \ to the next digit of pi\n     If they are correct, print out \"correct\". If they\
-  \ are not, print \"incorrect\"\n    </li>\n   </ol>\n  </div>\n </div>\n\n"
+text: '
+
+
+  # Pi Aloud
+
+
+  <hr/>
+
+  <img src="./images/piAloud.png"/>
+
+
+  ## Goal:
+
+
+  Use charAt and length methods to access the digits of pi in a String variable.
+
+
+  ## Steps:
+
+
+  1. Place the first 20 digits of pi into a String variable.
+
+  2. Print out the first 3 digits of pi. Remember the first digit will be pi.charAt(0).
+
+  3. Use a for loop to print each digit of pi on a new line.
+
+  4. If your computer can play sounds, use the speak method to say each digit of pi
+  using a loop.
+
+  5. [CHALLENGE]
+
+
+  After printing the first 3 digits of pi, ask the user for the next digit using the
+  getInputFromUser() method
+
+
+  Compare the users'' char to the next digit of pi
+
+
+  If they are correct, print out "correct". If they are not, print "incorrect"
+
+
+
+
+  '

@@ -13,15 +13,52 @@ meta:
   title: 03 Print And Popups 1 Greeter
 module: Module0
 resources: []
-text: "\n <div id=\"recipeLeftColumn\">\n  # Greeter\n  <hr/>\n  <img src=\"./greeter.png\"\
-  />\n  <div id=\"recipeGoal\">\n   ## Goal:\n   Print a global greeting to the console.\
-  \ Then use input and message dialogs to join Strings and send the user a friendly\
-  \ greeting!\n  </div>\n </div>\n <div id=\"recipeRightColumn\">\n  <div id=\"recipeSteps\"\
-  >\n   ## Steps:\n   <ol id=\"stepList\">\n    <li>\n     Create a new class called\
-  \ Greeter.\n    </li>\n    <li>\n     Add a main method. Eclipse has a helpful schortcut\
-  \ - main\n    </li>\n    <li>\n     Print \"Hello World!\" to the console. Eclipse\
-  \ has a helpful schortcut - syso\n    </li>\n    <li>\n     Now ask the user for\
-  \ their name. The code looks like this:\n     ```\n\nString input = JOptionPane.showInputDialog(\"\
-  What is your name?\");\n\n```\n    </li>\n    <li>\n     Join their name to the\
-  \ end of this greeting. The code looks like this.\n     ```\n\nJOptionPane.showMessageDialog(null,\"\
-  Hello \"+input);\n\n```\n    </li>\n   </ol>\n  </div>\n </div>\n\n"
+text: '
+
+
+  # Greeter
+
+
+  <hr/>
+
+  <img src="./images/greeter.png"/>
+
+
+  ## Goal:
+
+
+  Print a global greeting to the console. Then use input and message dialogs to join
+  Strings and send the user a friendly greeting!
+
+
+  ## Steps:
+
+
+  1. Create a new class called Greeter.
+
+  2. Add a main method. Eclipse has a helpful schortcut - main
+
+  3. Print "Hello World!" to the console. Eclipse has a helpful schortcut - syso
+
+  4. Now ask the user for their name. The code looks like this:
+
+  ```
+
+
+  String input = JOptionPane.showInputDialog("What is your name?");
+
+  ```
+
+  5. Join their name to the end of this greeting. The code looks like this.
+
+  ```
+
+
+  JOptionPane.showMessageDialog(null,"Hello "+input);
+
+  ```
+
+
+
+
+  '

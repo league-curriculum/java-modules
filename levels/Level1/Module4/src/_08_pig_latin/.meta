@@ -13,12 +13,27 @@ meta:
   title: 08 Pig Latin
 module: Module4
 resources: []
-text: "\n <div id=\"moduleIndex\">\n  # Pig Latin Translator\n  We are going to make\
-  \ a translator (similar to Google translate) that converts English to Pig Latin.\n\
-  \  1. Make a UI that looks something like this:\n\n\n\n2. Using the PigLatinTranslator\
-  \ class in the package, create a program that:\n  <ul style=\"margin-left:40px;\"\
-  >\n   <li>\n    Translates a word in English to Pig Latin when a button is pressed.\n\
-  \   </li>\n   <li>\n    Translates a word in Pig Latin to English when a button\
-  \ is pressed.\n   </li>\n   <li>\n    Make the computer speak the Pig Latin phrase\
-  \ (using\n    <b>\n     Sound.speak(words)\n    </b>\n    ) when a button is pressed.\n\
-  \   </li>\n  </ul>\n </div>\n\n"
+text: '
+
+
+  # Pig Latin Translator
+
+
+  We are going to make a translator (similar to Google translate) that converts English
+  to Pig Latin.
+
+  1. Make a UI that looks something like this:
+
+
+  2. Using the PigLatinTranslator class in the package, create a program that:
+
+  * Translates a word in English to Pig Latin when a button is pressed.
+
+  * Translates a word in Pig Latin to English when a button is pressed.
+
+  * Make the computer speak the Pig Latin phrase (using Sound.speak(words)) when a
+  button is pressed.
+
+
+
+  '

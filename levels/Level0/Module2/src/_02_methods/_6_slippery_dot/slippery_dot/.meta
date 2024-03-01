@@ -13,11 +13,34 @@ meta:
   title: 02 Methods 6 Slippery Dot
 module: Module2
 resources: []
-text: "\n <div id=\"recipeLeftColumn\">\n  # Slippery Dot\n  <hr/>\n  <img src=\"\
-  ./slipperyDot.png\"/>\n  <div id=\"recipeGoal\">\n   ## Goal:\n   Make a slippery\
-  \ dot!\n  </div>\n </div>\n <div id=\"recipeRightColumn\">\n  <div id=\"recipeSteps\"\
-  >\n   ## Steps:\n   <ol id=\"stepList\">\n    <li>\n     Find the Slippery Dot recipe\
-  \ program ( slippery_dot.pde ) and open it using Processing.\n    </li>\n    <li>\n\
-  \     Follow the instructions in the code to make a dot slide away each time you\
-  \ click on it.\n    </li>\n    <li>\n     Make sure you SAVE YOUR CODE when you\
-  \ are done.\n    </li>\n   </ol>\n  </div>\n </div>\n\n"
+text: '
+
+
+  # Slippery Dot
+
+
+  <hr/>
+
+  <img src="./images/slipperyDot.png"/>
+
+
+  ## Goal:
+
+
+  Make a slippery dot!
+
+
+  ## Steps:
+
+
+  1. Find the Slippery Dot recipe program ( slippery_dot.pde ) and open it using Processing.
+
+  2. Follow the instructions in the code to make a dot slide away each time you click
+  on it.
+
+  3. Make sure you SAVE YOUR CODE when you are done.
+
+
+
+
+  '

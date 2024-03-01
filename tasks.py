@@ -1,4 +1,5 @@
 from invoke import task
+import yaml
 
 from tasklib.html import *
 from tasklib.util import *
@@ -44,8 +45,6 @@ def push(ctx, root, build_dir=None):
 #
 # Misc
 #
-
-
 
 
 @task
@@ -95,32 +94,9 @@ def fetch_web(ctx, root):
 
         _proc_html(f)
 
-@task
-def proc_web(cts, root):
-    """Process the web pages in the .web directories"""
-    root = Path(root)
-
-    for f in root.glob("**/.web/"):
-        idx = f / "index.html"
-        if idx.exists():
-            md = html_to_markdown(idx)
-            idx.with_suffix('.md').write_text(md)
-
-            rm = idx.parent.parent
-            assert (rm/'.web').exists()
-            (rm/'README.md').write_text(md)
-
-            images_dir = rm / 'images'
-
-            images_dir.mkdir(parents=True, exist_ok=True)
-
-            for wf in f.glob('**/*'):
-                if wf.suffix in ('.png', '.jpg', '.jpeg', '.gif'):
-
-                    shutil.copy(wf, images_dir / wf.name)
 
 @task
-def walka(ctx, root):
+def create_meta(ctx, root):
     import yaml
 
     for l in walk_assignments(Path(root)):
@@ -129,8 +105,41 @@ def walka(ctx, root):
         web = (l / '.web').exists()
         r = process_dir(root, l)
         if r:
-            (l/'.meta').write_text(yaml.dump(r, indent=2))
-            print("Wrote ",  (l/'.meta') )
+            (l / '.meta').write_text(yaml.dump(r, indent=2))
+        # print("Wrote ",  (l/'.meta') )
+        else:
+            print("No meta ", l)
 
 
 
+@task
+def proc_web(cts, root):
+    """Process the web pages in the .web directories"""
+    root = Path(root)
+
+    for f in root.glob("**/.meta"):
+
+        web_dir = f.parent / '.web'
+
+        idx = web_dir / "index.html"
+
+        if idx.exists():
+
+            md = html_to_markdown(idx)
+            idx.with_suffix('.md').write_text(md)
+
+            rm = idx.parent.parent
+            assert (rm / '.web').exists()
+            (rm / 'README.md').write_text(md)
+
+            images_dir = rm / 'images'
+
+            images_dir.mkdir(parents=True, exist_ok=True)
+
+            for wf in f.glob('**/*'):
+                if wf.suffix in ('.png', '.jpg', '.jpeg', '.gif'):
+                    shutil.copy(wf, images_dir / wf.name)
+        else:
+            m = yaml.load(f.read_text(), Loader=yaml.SafeLoader)
+            readme = f"# {m['meta']['title']}\n\n"
+            (f.parent / 'README.md').write_text(readme)

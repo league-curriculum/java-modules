@@ -15,12 +15,35 @@ module: Module0
 resources:
 - /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0PDE/Module0/src/_99_extra/z_UnicornsOnARainbow/unicorn.png
 - /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0PDE/Module0/src/_99_extra/z_UnicornsOnARainbow/rainbow_.jpg
-text: "\n <div id=\"recipeLeftColumn\">\n  # Unicorns on a Rainbow\n  <hr/>\n  <img\
-  \ alt=\"unicorn rainbow image\" src=\"./unicornOnRainbow.png\"/>\n  <div id=\"recipeGoal\"\
-  >\n   ## Goal:\n   Draw a rainbow, then put a unicorn on it.\n  </div>\n </div>\n\
-  \ <div id=\"recipeRightColumn\">\n  <div id=\"recipeSteps\">\n   ## Steps:\n   <ol\
-  \ id=\"stepList\">\n    <li>\n     Find the Unicorns on a Rainbow recipe program\
-  \ ( z_UnicornsOnARainbow.pde ) and open it using Processing.\n    </li>\n    <li>\n\
-  \     Follow the instructions in the program to help you draw a rainbow and put\
-  \ a unicorn on it.\n    </li>\n    <li>\n     Make sure you SAVE YOUR CODE when\
-  \ you are done.\n    </li>\n   </ol>\n  </div>\n </div>\n\n"
+text: '
+
+
+  # Unicorns on a Rainbow
+
+
+  <hr/>
+
+  <img alt="unicorn rainbow image" src="./images/unicornOnRainbow.png"/>
+
+
+  ## Goal:
+
+
+  Draw a rainbow, then put a unicorn on it.
+
+
+  ## Steps:
+
+
+  1. Find the Unicorns on a Rainbow recipe program ( z_UnicornsOnARainbow.pde ) and
+  open it using Processing.
+
+  2. Follow the instructions in the program to help you draw a rainbow and put a unicorn
+  on it.
+
+  3. Make sure you SAVE YOUR CODE when you are done.
+
+
+
+
+  '

@@ -13,8 +13,21 @@ meta:
   title: 06 Calculator
 module: Module4
 resources: []
-text: "\n <div id=\"moduleIndex\">\n  # Calculator\n  1. In a Calculator class, create\
-  \ methods for add, multiply, subtract, and divide.\n\n2. Create a CalculatorRunner\
-  \ class to test the above methods.\n\n3. Add a Swing UI to the Calculator (see example\
-  \ below), with 2 fields to input numbers, and buttons for each math operation.\n\
-  \ </div>\n\n"
+text: '
+
+
+  # Calculator
+
+
+  1. In a Calculator class, create methods for add, multiply, subtract, and divide.
+
+
+  2. Create a CalculatorRunner class to test the above methods.
+
+
+  3. Add a Swing UI to the Calculator (see example below), with 2 fields to input
+  numbers, and buttons for each math operation.
+
+
+
+  '

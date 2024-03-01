@@ -13,13 +13,36 @@ meta:
   title: 03 Print And Popups 2 Madlibs
 module: Module0
 resources: []
-text: "\n <div id=\"recipeLeftColumn\">\n  # Madlibs\n  <hr/>\n  <img alt=\"madlibs\
-  \ image\" src=\"./madlibs.png\"/>\n  <div id=\"recipeGoal\">\n   ## Goal:\n   Have\
-  \ you ever played Madlibs? You will get to use input and message dialogs to join\
-  \ Strings and build your own Madlib story.\n  </div>\n </div>\n <div id=\"recipeRightColumn\"\
-  >\n  <div id=\"recipeSteps\">\n   ## Steps:\n   <ol id=\"stepList\">\n    <li>\n\
-  \     Find the Madlibs ecipe program ( MadlibsOfTheAmazon.java ) and open it using\
-  \ Eclipse.\n    </li>\n    <li>\n     Follow the instructions in the program to\
-  \ help you make a hilarious story about crossing a piranha-infested river.\n   \
-  \ </li>\n    <li>\n     You can invent your own madlib story too!\n    </li>\n \
-  \  </ol>\n  </div>\n </div>\n\n"
+text: '
+
+
+  # Madlibs
+
+
+  <hr/>
+
+  <img alt="madlibs image" src="./images/madlibs.png"/>
+
+
+  ## Goal:
+
+
+  Have you ever played Madlibs? You will get to use input and message dialogs to join
+  Strings and build your own Madlib story.
+
+
+  ## Steps:
+
+
+  1. Find the Madlibs ecipe program ( MadlibsOfTheAmazon.java ) and open it using
+  Eclipse.
+
+  2. Follow the instructions in the program to help you make a hilarious story about
+  crossing a piranha-infested river.
+
+  3. You can invent your own madlib story too!
+
+
+
+
+  '

@@ -13,20 +13,18 @@ meta:
   title: 99 Extra 04 Gridworld
 module: Module3
 resources: []
-text: "\n <div id=\"moduleIndex\">\n  # Gridworld\n  In this exercise we\u2019ll use\
-  \ OBJECTS and METHODS to make a world that contains bugs and flowers.\n  Before\
-  \ you start, you need to make sure that the gridworld.jar is in the build path of\
-  \ your Java project as follows:\n\n    Right click your Java project (ask your teacher\
-  \ if you do not know how to find this), then click Build Path. Configure Build Path,\
-  \ and make sure  gridworld.jar is under the Libraries tab\n\n\t If you cannot find\
-  \ it, ask your teacher to help you get it into your Java project.\n  First create\
-  \ a runner class for your program called Gridworld.\n  Now use this chart to help\
-  \ you complete the following challenges:\n\n\_\_\_\_1.  Figure out how to get a\
-  \ World to show.\n\n\_\_\_\_2.  Figure out how to add a Bug to the world (clue:\
-  \ you will need the Bug and Location objects)\n\n\_\_\_\_3.  Add another bug at\
-  \ a random location in the world.\n\n\_\_\_\_4.  Change the color of that bug to\
-  \ blue.\n\n     \_\_\_\_5.  Make the bug face to the right.\n\n     \_\_\_\_6. \
-  \ Add flowers to the left and right of the bug.\n\n     \_\_\_\_7.  Fill the whole\
-  \ world with flowers!\n\n\_\_\_\_8.  [Optional] Color the flowers in rows like the\
-  \ American flag (red &amp; white)\n\n     \_\_\_\_9.  [Optional] Use a new class\
-  \ to make an X out of bugs.\n </div>\n\n"
+text: "\n\n# Gridworld\n\nIn this exercise we\u2019ll use OBJECTS and METHODS to make\
+  \ a world that contains bugs and flowers.\nBefore you start, you need to make sure\
+  \ that the gridworld.jar is in the build path of your Java project as follows:\n\
+  \nRight click your Java project (ask your teacher if you do not know how to find\
+  \ this), then click Build Path. Configure Build Path, and make sure  gridworld.jar\
+  \ is under the Libraries tab\n\nIf you cannot find it, ask your teacher to help\
+  \ you get it into your Java project.\nFirst create a runner class for your program\
+  \ called Gridworld.\nNow use this chart to help you complete the following challenges:\n\
+  \n1.  Figure out how to get a World to show.\n\n2.  Figure out how to add a Bug\
+  \ to the world (clue: you will need the Bug and Location objects)\n\n3.  Add another\
+  \ bug at a random location in the world.\n\n4.  Change the color of that bug to\
+  \ blue.\n\n5.  Make the bug face to the right.\n\n6.  Add flowers to the left and\
+  \ right of the bug.\n\n7.  Fill the whole world with flowers!\n\n8.  [Optional]\
+  \ Color the flowers in rows like the American flag (red & white)\n\n9.  [Optional]\
+  \ Use a new class to make an X out of bugs.\n\n\n"

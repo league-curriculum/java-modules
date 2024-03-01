@@ -13,14 +13,37 @@ meta:
   title: 03 Char 2 String Methods
 module: Module4
 resources: []
-text: "\n <div id=\"recipeLeftColumn\">\n  # String Methods\n  <hr/>\n  charAt()length()\n\
-  \  <div id=\"recipeGoal\">\n   ## Goal:\n   Use charAt and length methods to access\
-  \ information in a String variable.\n  </div>\n </div>\n <div id=\"recipeRightColumn\"\
-  >\n  <div id=\"recipeSteps\">\n   ## Steps:\n   <ol id=\"stepList\">\n    <li>\n\
-  \     Create a String variable and initialize it with some characters (at least\
-  \ 3).\n    </li>\n    <li>\n     Use the charAt method to print the 3rd character\
-  \ in the String (remember, computers start counting at zero).\n    </li>\n    <li>\n\
-  \     Use the length method to print how many characters are in the String.\n  \
-  \  </li>\n    <li>\n     Use a for loop to examine each character in the String,\
-  \ and when you find one that matches the character you are looking for, print its\
-  \ index.\n    </li>\n   </ol>\n  </div>\n </div>\n\n"
+text: '
+
+
+  # String Methods
+
+
+  <hr/>
+
+  charAt()length()
+
+
+  ## Goal:
+
+
+  Use charAt and length methods to access information in a String variable.
+
+
+  ## Steps:
+
+
+  1. Create a String variable and initialize it with some characters (at least 3).
+
+  2. Use the charAt method to print the 3rd character in the String (remember, computers
+  start counting at zero).
+
+  3. Use the length method to print how many characters are in the String.
+
+  4. Use a for loop to examine each character in the String, and when you find one
+  that matches the character you are looking for, print its index.
+
+
+
+
+  '

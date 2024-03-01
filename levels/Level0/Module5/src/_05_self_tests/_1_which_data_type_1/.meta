@@ -13,10 +13,10 @@ meta:
   title: 05 Self Tests 1 Which Data Type 1
 module: Module5
 resources: []
-text: "\n # The League of Amazing Programmers\n ## Which Data Type?\n ### Fill in\
-  \ the blank with the correct data type.\n ```\n\n   x = 5; \n\n  \n   age = 12;\
-  \ \n\n  \n   name = \"Thadius\"; \n\n  \n   location = \"San Diego\"; \n\n  \n \
-  \  totalParties = 5400; \n\n  \n   value =  JOptionPane.showInputDialog(\"Enter\
+text: "\n\n# The League of Amazing Programmers\n\n\n## Which Data Type?\n\n\n### Fill\
+  \ in the blank with the correct data type.\n\n```\n\n   x = 5; \n\n  \n   age =\
+  \ 12; \n\n  \n   name = \"Thadius\"; \n\n  \n   location = \"San Diego\"; \n\n \
+  \ \n   totalParties = 5400; \n\n  \n   value =  JOptionPane.showInputDialog(\"Enter\
   \ some data\");\n\n  \n   input = JOptionPane.showInputDialog(\"Enter your age\"\
-  ); \n\n   inputAsInteger = Integer.parseInt(input); \n\n  \n\n\n\n\nSUBMIT YOUR\
-  \ ANSWERS\n\n  \n```\n <hr size=\"3\"/>\n\n"
+  ); \n\n   inputAsInteger = Integer.parseInt(input); \n\n  \n\nSUBMIT YOUR ANSWERS\n\
+  ```\n<hr size=\"3\"/>\n\n"

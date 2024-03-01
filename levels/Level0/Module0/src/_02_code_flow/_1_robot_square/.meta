@@ -13,11 +13,31 @@ meta:
   title: 02 Code Flow 1 Robot Square
 module: Module0
 resources: []
-text: "\n <div id=\"recipeLeftColumn\">\n  # Robot Square\n  <hr/>\n  <img alt=\"\
-  square image\" src=\"./robotSquare.png\"/>\n  <div id=\"recipeGoal\">\n   ## Goal:\n\
-  \   Use a loop to draw a square using a Robot\n  </div>\n </div>\n <div id=\"recipeRightColumn\"\
-  >\n  <div id=\"recipeSteps\">\n   ## Steps:\n   <ol id=\"stepList\">\n    <li>\n\
-  \     Find the RobotSquare recipe program ( RobotSquare.java ) and open it using\
-  \ Eclipse.\n    </li>\n    <li>\n     Follow the instructions in the program to\
-  \ help you make a Robot draw a square.\n    </li>\n   </ol>\n  </div>\n </div>\n\
-  \n"
+text: '
+
+
+  # Robot Square
+
+
+  <hr/>
+
+  <img alt="square image" src="./images/robotSquare.png"/>
+
+
+  ## Goal:
+
+
+  Use a loop to draw a square using a Robot
+
+
+  ## Steps:
+
+
+  1. Find the RobotSquare recipe program ( RobotSquare.java ) and open it using Eclipse.
+
+  2. Follow the instructions in the program to help you make a Robot draw a square.
+
+
+
+
+  '

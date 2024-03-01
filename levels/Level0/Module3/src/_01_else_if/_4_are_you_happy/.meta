@@ -13,10 +13,29 @@ meta:
   title: 01 Else If 4 Are You Happy
 module: Module3
 resources: []
-text: "\n <div id=\"recipeLeftColumn\">\n  # Are You Happy?\n  <hr/>\n  <img alt=\"\
-  Are You Happy? image\" src=\"./AreYouHappy.png\"/>\n  <div id=\"recipeGoal\">\n\
-  \   ## Goal:\n   Create a program that mimics the chart above using if and else\
-  \ if statements.\n  </div>\n </div>\n <div id=\"recipeRightColumn\">\n  <div id=\"\
-  recipeSteps\">\n   ## Steps:\n   <ol id=\"stepList\">\n    <li>\n     Use JOptionPanes\
-  \ and if / else if /else statements to recreate\n     [this chart](images/AreYouHappy.png)\n\
-  \     .\n    </li>\n   </ol>\n  </div>\n </div>\n\n"
+text: '
+
+
+  # Are You Happy?
+
+
+  <hr/>
+
+  <img alt="Are You Happy? image" src="./images/AreYouHappy.png"/>
+
+
+  ## Goal:
+
+
+  Create a program that mimics the chart above using if and else if statements.
+
+
+  ## Steps:
+
+
+  1. Use JOptionPanes and if / else if /else statements to recreate [this chart](images/AreYouHappy.png).
+
+
+
+
+  '

@@ -13,17 +13,14 @@ meta:
   title: 01 Methods 1 Houses
 module: Module0
 resources: []
-text: "\n <div id=\"moduleIndex\">\n  # Houses\n  1. Have a robot start on the left\
-  \ side of the window near the bottom.\n\n\n    2. Draw a flat-topped house of height\
-  \ 100 with grass after it (see picture).\n\n\n    3. Extract the piece of code that\
-  \ draws the house into a method. Draw 10 houses. \n\n\n    4. Change the method\
-  \ to take (int height) as a parameter. Draw 9 houses of different heights \n\n\n\
-  \    5. Make the method take a String instead of an int. \n\n\n    \_\_\_\_\_\_\_\
-  \_\u201Csmall\u201D \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_60\n\n\n    \_\_\_\_\_\_\_\_\
-  \u201Cmedium\u201D\n    \_\_\_\_\_\_\_\_\_\_\_\_120\n\n\_\_\_\_\_\_\_\_\u201Clarge\u201D\
-  \n    \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_250 \n\n\n    6. Make the method take a color\
-  \ as well as a height. The houses are drawn in that color.\n\n[optional] Set the\
-  \ scene to night by setting the background to black\n\n\n    7. Give the houses\
-  \ peaked roofs \n\n\n    8. Extract that roof code into a method \u201CdrawPointyRoof\u201D\
-  \ and create a new method: \u201CdrawFlatRoof\u201D.\n\n\n    9. Make large houses\
-  \ have flat roofs\n </div>\n\n"
+text: "\n\n# Houses\n\n1. Have a robot start on the left side of the window near the\
+  \ bottom.\n\n2. Draw a flat-topped house of height 100 with grass after it (see\
+  \ picture).\n\n3. Extract the piece of code that draws the house into a method.\
+  \ Draw 10 houses.\n\n4. Change the method to take (int height) as a parameter. Draw\
+  \ 9 houses of different heights\n\n5. Make the method take a String instead of an\
+  \ int.\n\n\u201Csmall\u201D                 60\n\n\u201Cmedium\u201D\n120\n\n\u201C\
+  large\u201D\n250\n\n6. Make the method take a color as well as a height. The houses\
+  \ are drawn in that color.\n\n[optional] Set the scene to night by setting the background\
+  \ to black\n\n7. Give the houses peaked roofs\n\n8. Extract that roof code into\
+  \ a method \u201CdrawPointyRoof\u201D and create a new method: \u201CdrawFlatRoof\u201D\
+  .\n\n9. Make large houses have flat roofs\n\n\n"

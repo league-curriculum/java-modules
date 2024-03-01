@@ -13,13 +13,36 @@ meta:
   title: 02 Nested Loops 2 Amazing Rings
 module: Module5
 resources: []
-text: "\n <div id=\"recipeLeftColumn\">\n  # Amazing Rings\n  <hr/>\n  <img alt=\"\
-  Amazing Rings image\" src=\"./amazingRings.png\"/>\n  <div id=\"recipeGoal\">\n\
-  \   ## Goal:\n   Use Processing to make this using for loops and if statements.\n\
-  \  </div>\n </div>\n <div id=\"recipeRightColumn\">\n  <div id=\"recipeSteps\">\n\
-  \   ## Steps:\n   <ol id=\"stepList\">\n    <li>\n     This recipe practices using\
-  \ for loops and if statements.\n    </li>\n    <li>\n     Find the Amazing Rings\
-  \ recipe program in Eclipse.\n    </li>\n    <li>\n     Follow the instructions\
-  \ in the code to make the rings move from side to side in the sketch.\n    </li>\n\
-  \    <li>\n     Make sure you SAVE YOUR CODE when you are done.\n    </li>\n   </ol>\n\
-  \  </div>\n </div>\n\n"
+text: '
+
+
+  # Amazing Rings
+
+
+  <hr/>
+
+  <img alt="Amazing Rings image" src="./images/amazingRings.png"/>
+
+
+  ## Goal:
+
+
+  Use Processing to make this using for loops and if statements.
+
+
+  ## Steps:
+
+
+  1. This recipe practices using for loops and if statements.
+
+  2. Find the Amazing Rings recipe program in Eclipse.
+
+  3. Follow the instructions in the code to make the rings move from side to side
+  in the sketch.
+
+  4. Make sure you SAVE YOUR CODE when you are done.
+
+
+
+
+  '

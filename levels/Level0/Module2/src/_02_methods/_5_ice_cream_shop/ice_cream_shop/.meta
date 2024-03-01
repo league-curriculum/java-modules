@@ -13,11 +13,34 @@ meta:
   title: 02 Methods 5 Ice Cream Shop
 module: Module2
 resources: []
-text: "\n <div id=\"recipeLeftColumn\">\n  # Ice Cream Shop\n  <hr/>\n  <img src=\"\
-  ./iceCreamShop.png\"/>\n  <div id=\"recipeGoal\">\n   ## Goal:\n   Make an ice cream\
-  \ cone!\n  </div>\n </div>\n <div id=\"recipeRightColumn\">\n  <div id=\"recipeSteps\"\
-  >\n   ## Steps:\n   <ol id=\"stepList\">\n    <li>\n     Find the Ice Cream Shop\
-  \ recipe program ( ice_cream_shop.pde ) and open it using Processing.\n    </li>\n\
-  \    <li>\n     Follow the instructions in the code to make a delicious ice cream\
-  \ cone with sprinkles.\n    </li>\n    <li>\n     Make sure you SAVE YOUR CODE when\
-  \ you are done.\n    </li>\n   </ol>\n  </div>\n </div>\n\n"
+text: '
+
+
+  # Ice Cream Shop
+
+
+  <hr/>
+
+  <img src="./images/iceCreamShop.png"/>
+
+
+  ## Goal:
+
+
+  Make an ice cream cone!
+
+
+  ## Steps:
+
+
+  1. Find the Ice Cream Shop recipe program ( ice_cream_shop.pde ) and open it using
+  Processing.
+
+  2. Follow the instructions in the code to make a delicious ice cream cone with sprinkles.
+
+  3. Make sure you SAVE YOUR CODE when you are done.
+
+
+
+
+  '

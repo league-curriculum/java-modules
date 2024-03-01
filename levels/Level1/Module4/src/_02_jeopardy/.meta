@@ -13,7 +13,21 @@ meta:
   title: 02 Jeopardy
 module: Module4
 resources: []
-text: "\n <div id=\"moduleIndex\">\n  # Jeopardy\n  We are going to make a Jeopardy\
-  \ game\n\n     This is what a \"real\" Jeopardy board looks like:\n  Sample output:\
-  \ Figure 1\n  Sample output: Figure 2 (first question answered correctly)\n </div>\n\
-  \n"
+text: '
+
+
+  # Jeopardy
+
+
+  We are going to make a Jeopardy game
+
+
+  This is what a "real" Jeopardy board looks like:
+
+  Sample output: Figure 1
+
+  Sample output: Figure 2 (first question answered correctly)
+
+
+
+  '

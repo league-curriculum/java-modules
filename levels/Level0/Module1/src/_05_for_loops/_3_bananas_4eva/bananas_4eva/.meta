@@ -13,11 +13,33 @@ meta:
   title: 05 For Loops 3 Bananas 4Eva
 module: Module1
 resources: []
-text: "\n <div id=\"recipeLeftColumn\">\n  # Bananas 4eva\n  <hr/>\n  <img alt=\"\
-  bananas\" src=\"./bananas.jpg\"/>\n  <div id=\"recipeGoal\">\n   ## Goal:\n   Practice\
-  \ using for loops!\n  </div>\n </div>\n <div id=\"recipeRightColumn\">\n  <div id=\"\
-  recipeSteps\">\n   ## Steps:\n   <ol id=\"stepList\">\n    <li>\n     Find the Bananas\
-  \ 4Eva recipe program ( bananas_4eva.pde ) and open it using Processing.\n    </li>\n\
-  \    <li>\n     Write a for loop that prints \"banana\" 1000 times.\n    </li>\n\
-  \    <li>\n     Make sure you SAVE YOUR CODE when you are done.\n    </li>\n   </ol>\n\
-  \  </div>\n </div>\n\n"
+text: '
+
+
+  # Bananas 4eva
+
+
+  <hr/>
+
+  <img alt="bananas" src="./images/bananas.jpg"/>
+
+
+  ## Goal:
+
+
+  Practice using for loops!
+
+
+  ## Steps:
+
+
+  1. Find the Bananas 4Eva recipe program ( bananas_4eva.pde ) and open it using Processing.
+
+  2. Write a for loop that prints "banana" 1000 times.
+
+  3. Make sure you SAVE YOUR CODE when you are done.
+
+
+
+
+  '

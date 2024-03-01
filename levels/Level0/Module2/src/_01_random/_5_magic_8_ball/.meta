@@ -13,12 +13,36 @@ meta:
   title: 01 Random 5 Magic 8 Ball
 module: Module2
 resources: []
-text: "\n <div id=\"recipeLeftColumn\">\n  # Magic 8 Ball\n  <hr/>\n  <img src=\"\
-  ./magic8ball.jpeg\"/>\n  <div id=\"recipeGoal\">\n   ## Goal:\n   Use a Random object\
-  \ to generate random integers so your code can generate random messages from the\
-  \ Magic 8 Ball.\n  </div>\n </div>\n <div id=\"recipeRightColumn\">\n  <div id=\"\
-  recipeSteps\">\n   ## Steps:\n   <ol id=\"stepList\">\n    <li>\n     Create a Random\
-  \ object.\n    </li>\n    <li>\n     Generate a random number between 0 and 3.\n\
-  \    </li>\n    <li>\n     Map each value (0-3) to a unique message.\n    </li>\n\
-  \    <li>\n     Test your code and receive some magic answers from the 8 ball.\n\
-  \    </li>\n   </ol>\n  </div>\n </div>\n\n"
+text: '
+
+
+  # Magic 8 Ball
+
+
+  <hr/>
+
+  <img src="./images/magic8ball.jpeg"/>
+
+
+  ## Goal:
+
+
+  Use a Random object to generate random integers so your code can generate random
+  messages from the Magic 8 Ball.
+
+
+  ## Steps:
+
+
+  1. Create a Random object.
+
+  2. Generate a random number between 0 and 3.
+
+  3. Map each value (0-3) to a unique message.
+
+  4. Test your code and receive some magic answers from the 8 ball.
+
+
+
+
+  '

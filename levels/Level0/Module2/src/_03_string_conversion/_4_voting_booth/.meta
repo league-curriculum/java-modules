@@ -13,11 +13,33 @@ meta:
   title: 03 String Conversion 4 Voting Booth
 module: Module2
 resources: []
-text: "\n <div id=\"recipeLeftColumn\">\n  # Voting Booth\n  <hr/>\n  <img src=\"\
-  ./vote.jpg\"/>\n  <div id=\"recipeGoal\">\n   ## Goal:\n   Check if a person is\
-  \ old enough to vote!\n  </div>\n </div>\n <div id=\"recipeRightColumn\">\n  <div\
-  \ id=\"recipeSteps\">\n   ## Steps:\n   <ol id=\"stepList\">\n    <li>\n     Ask\
-  \ the user how old they are (in years)\n    </li>\n    <li>\n     If they are over\
-  \ 18, ask them who the next president should be\n    </li>\n    <li>\n     If they\
-  \ are younger, tell them nobody cares what they think\n    </li>\n   </ol>\n  </div>\n\
-  \ </div>\n\n"
+text: '
+
+
+  # Voting Booth
+
+
+  <hr/>
+
+  <img src="./images/vote.jpg"/>
+
+
+  ## Goal:
+
+
+  Check if a person is old enough to vote!
+
+
+  ## Steps:
+
+
+  1. Ask the user how old they are (in years)
+
+  2. If they are over 18, ask them who the next president should be
+
+  3. If they are younger, tell them nobody cares what they think
+
+
+
+
+  '

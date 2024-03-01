@@ -13,13 +13,141 @@ meta:
   title: 05 Self Tests 6 Level0 Summary
 module: Module5
 resources: []
-text: "\n # Level 0 Summary\n <div id=\"overviewPage\">\n  <div class=\"module\">\n\
-  \   ## Module 0\n   ###\n   ### Robot\n   ### Strings\n   ### JOptionPane\n   ###\
-  \ print to console\n  </div>\n  <div class=\"module\">\n   ## Module 1\n   ###\n\
-  \   ### main method\n   ### color\n   ### if statements\n   ### int\n   ### increment\n\
-  \   ### for loop\n   ###\n  </div>\n  <div class=\"module\">\n   ## Module 2\n \
-  \  ###\n   ### Random\n   ### call methods\n   ### Integer.parseInt\n  </div>\n\
-  \  <div class=\"module\">\n   ## Module 3\n   ###\n   ### if / else if / else\n\
-  \   ### for loop variables\n   ### modulo\n   ###\n   ###\n  </div>\n  <div class=\"\
-  module\">\n   ## Module 4/5\n   ###\n   ### double,boolean,char\n   ### nested loops\n\
-  \   ### writing methods\n  </div>\n </div>\n\n"
+text: '
+
+
+  # Level 0 Summary
+
+
+
+  ## Module 0
+
+
+
+  ###
+
+
+
+  ### Robot
+
+
+
+  ### Strings
+
+
+
+  ### JOptionPane
+
+
+
+  ### print to console
+
+
+
+  ## Module 1
+
+
+
+  ###
+
+
+
+  ### main method
+
+
+
+  ### color
+
+
+
+  ### if statements
+
+
+
+  ### int
+
+
+
+  ### increment
+
+
+
+  ### for loop
+
+
+
+  ###
+
+
+
+  ## Module 2
+
+
+
+  ###
+
+
+
+  ### Random
+
+
+
+  ### call methods
+
+
+
+  ### Integer.parseInt
+
+
+
+  ## Module 3
+
+
+
+  ###
+
+
+
+  ### if / else if / else
+
+
+
+  ### for loop variables
+
+
+
+  ### modulo
+
+
+
+  ###
+
+
+
+  ###
+
+
+
+  ## Module 4/5
+
+
+
+  ###
+
+
+
+  ### double,boolean,char
+
+
+
+  ### nested loops
+
+
+
+  ### writing methods
+
+
+
+
+
+  '

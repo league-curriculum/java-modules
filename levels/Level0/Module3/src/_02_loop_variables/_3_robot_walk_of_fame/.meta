@@ -13,12 +13,34 @@ meta:
   title: 02 Loop Variables 3 Robot Walk Of Fame
 module: Module3
 resources: []
-text: "\n <div id=\"recipeLeftColumn\">\n  # Robot Walk of Fame\n  <hr/>\n  <img src=\"\
-  ./walkOfFame.png\"/>\n  <div id=\"recipeGoal\">\n   ## Goal:\n   Use a for loop\
-  \ to make a robot draw a line of stars.\n  </div>\n </div>\n <div id=\"recipeRightColumn\"\
-  >\n  <div id=\"recipeSteps\">\n   ## Steps:\n   <ol id=\"stepList\">\n    <li>\n\
-  \     Create a Robot and place it at the left of the window.\n    </li>\n    <li>\n\
-  \     Write code so the Robot draws a 5-point star (Hint: turn angle will be 144)\n\
-  \    </li>\n    <li>\n     Use a for loop to repeat the above code so a line of\
-  \ stars is drawn across the window (see image).\n    </li>\n   </ol>\n  </div>\n\
-  \ </div>\n\n"
+text: '
+
+
+  # Robot Walk of Fame
+
+
+  <hr/>
+
+  <img src="./images/walkOfFame.png"/>
+
+
+  ## Goal:
+
+
+  Use a for loop to make a robot draw a line of stars.
+
+
+  ## Steps:
+
+
+  1. Create a Robot and place it at the left of the window.
+
+  2. Write code so the Robot draws a 5-point star (Hint: turn angle will be 144)
+
+  3. Use a for loop to repeat the above code so a line of stars is drawn across the
+  window (see image).
+
+
+
+
+  '

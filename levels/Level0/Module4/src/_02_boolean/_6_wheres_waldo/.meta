@@ -13,13 +13,35 @@ meta:
   title: 02 Boolean 6 Wheres Waldo
 module: Module4
 resources: []
-text: "\n <div id=\"recipeLeftColumn\">\n  # Where's Waldo?\n  <hr/>\n  <img src=\"\
-  ./waldo.jpg\"/>\n  <div id=\"recipeGoal\">\n   ## Goal:\n   Make a program where\
-  \ the user has to find Waldo!\n  </div>\n </div>\n <div id=\"recipeRightColumn\"\
-  >\n  <div id=\"recipeSteps\">\n   ## Steps:\n   <ol id=\"stepList\">\n    <li>\n\
-  \     Find the Where's Waldo recipe program in Eclipse.\n    </li>\n    <li>\n \
-  \    Find a Where's Waldo picture and add it to the\n     <b>\n      /images\n \
-  \    </b>\n     folder.\n    </li>\n    <li>\n     Follow the instructions in the\
-  \ code to play a sound when the user finds Waldo!\n    </li>\n    <li>\n     Make\
-  \ sure you SAVE YOUR CODE when you are done.\n    </li>\n   </ol>\n  </div>\n </div>\n\
-  \n"
+text: '
+
+
+  # Where''s Waldo?
+
+
+  <hr/>
+
+  <img src="./images/waldo.jpg"/>
+
+
+  ## Goal:
+
+
+  Make a program where the user has to find Waldo!
+
+
+  ## Steps:
+
+
+  1. Find the Where''s Waldo recipe program in Eclipse.
+
+  2. Find a Where''s Waldo picture and add it to the /images folder.
+
+  3. Follow the instructions in the code to play a sound when the user finds Waldo!
+
+  4. Make sure you SAVE YOUR CODE when you are done.
+
+
+
+
+  '

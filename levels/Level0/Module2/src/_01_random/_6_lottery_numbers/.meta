@@ -13,14 +13,39 @@ meta:
   title: 01 Random 6 Lottery Numbers
 module: Module2
 resources: []
-text: "\n <div id=\"recipeLeftColumn\">\n  # Lottery Numbers\n  <hr/>\n  <img src=\"\
-  ./lottery.png\"/>\n  <div id=\"recipeGoal\">\n   ## Goal:\n   Use random numbers\
-  \ to make a lottery ticket!\n  </div>\n </div>\n <div id=\"recipeRightColumn\">\n\
-  \  <div id=\"recipeSteps\">\n   ## Steps:\n   <ol id=\"stepList\">\n    <li>\n \
-  \    Add a new class for the Lottery Numbers recipe.\n    </li>\n    <li>\n    \
-  \ Get 6 random numbers to put on your lottery ticket\n    </li>\n    <li>\n    \
-  \ Display the selected numbers to the user in a pop-up (see below)\n     (All 6\
-  \ random numbers must appear on the same pop-up [i.e. the user should not have to\
-  \ click \"ok\" 6 times])\n    </li>\n    <img src=\"./lotteryNumbers.png\"/>\n \
-  \   <li>\n     Bonus: set the title of the pop-up to show it is a lottery ticket.\n\
-  \    </li>\n   </ol>\n  </div>\n </div>\n\n"
+text: '
+
+
+  # Lottery Numbers
+
+
+  <hr/>
+
+  <img src="./images/lottery.png"/>
+
+
+  ## Goal:
+
+
+  Use random numbers to make a lottery ticket!
+
+
+  ## Steps:
+
+
+  1. Add a new class for the Lottery Numbers recipe.
+
+  2. Get 6 random numbers to put on your lottery ticket
+
+  3. Display the selected numbers to the user in a pop-up (see below)
+
+
+  (All 6 random numbers must appear on the same pop-up [i.e. the user should not have
+  to click "ok" 6 times])
+
+  4. Bonus: set the title of the pop-up to show it is a lottery ticket.
+
+
+
+
+  '

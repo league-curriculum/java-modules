@@ -13,14 +13,36 @@ meta:
   title: 99 Extra
 module: Module0
 resources: []
-text: "\n <div id=\"recipeLeftColumn\">\n  # Triangle Shell\n  <hr/>\n  <img alt=\"\
-  Star Show image\" src=\"./triangleShell.png\"/>\n  <div id=\"recipeGoal\">\n   ##\
-  \ Goal:\n   Use int variables and a loop to draw a pattern with triangles.\n  </div>\n\
-  \ </div>\n <div id=\"recipeRightColumn\">\n  <div id=\"recipeSteps\">\n   ## Steps:\n\
-  \   <ol id=\"stepList\">\n    <li>\n     Find the Triangle Shell recipe program\
-  \ ( TriangleShell.java ) and open it using Eclipse.\n    </li>\n    <li>\n     Follow\
-  \ the instructions in the program to draw the pattern.\n    </li>\n    <li>\n  \
-  \   The first time you run the program, it should look like this\n     <img src=\"\
-  ./triangle.png\"/>\n    </li>\n    <li>\n     After you add all the triangles, it\
-  \ should look something like this\n     <img src=\"./triangleShell.png\"/>\n   \
-  \ </li>\n   </ol>\n  </div>\n </div>\n\n"
+text: '
+
+
+  # Triangle Shell
+
+
+  <hr/>
+
+  <img alt="Star Show image" src="./images/triangleShell.png"/>
+
+
+  ## Goal:
+
+
+  Use int variables and a loop to draw a pattern with triangles.
+
+
+  ## Steps:
+
+
+  1. Find the Triangle Shell recipe program ( TriangleShell.java ) and open it using
+  Eclipse.
+
+  2. Follow the instructions in the program to draw the pattern.
+
+  3. The first time you run the program, it should look like this
+
+  4. After you add all the triangles, it should look something like this
+
+
+
+
+  '

@@ -13,5 +13,28 @@ meta:
   title: 04 Spot The Error
 module: Module2
 resources: []
-text: "\n <div id=\"linkPageBody\">\n  # Spot the Errors\n  <hr/>\n  ### Fix the Random\n\
-  \  ### How Many?\n  ### Method Call\n  <hr/>\n </div>\n\n"
+text: '
+
+
+  # Spot the Errors
+
+
+  <hr/>
+
+
+  ### Fix the Random
+
+
+
+  ### How Many?
+
+
+
+  ### Method Call
+
+
+  <hr/>
+
+
+
+  '

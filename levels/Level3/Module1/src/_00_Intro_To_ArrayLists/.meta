@@ -13,24 +13,22 @@ meta:
   title: 00 Intro To Arraylists
 module: Module1
 resources: []
-text: "\n # Array List\n Variables are used to hold a single value. For example:\n\
-  \ int age = 12; \nString name = \u201CSarah\u201D;\n However, what if a program\
-  \ needed a list of names? We don't want to declare multiple variables with meaningless\
+text: "\n\n# Array List\n\nVariables are used to hold a single value. For example:\n\
+  int age = 12;\nString name = \u201CSarah\u201D;\nHowever, what if a program needed\
+  \ a list of names? We don't want to declare multiple variables with meaningless\
   \ names like name1, name2, name3, etc.\nArrays allow us to store multiple values\
-  \ of the same type. E.g.\n String[] names = {\"Sarah\", \"Joe\",\"Ali\", \"Jose\"\
-  };\nString[] moreNames = new String[4];\n Unfortunately, we need to know exactly\
+  \ of the same type. E.g.\nString[] names = {\"Sarah\", \"Joe\",\"Ali\", \"Jose\"\
+  };\nString[] moreNames = new String[4];\nUnfortunately, we need to know exactly\
   \ how many elements we are going to get before we can declare the array, which limits\
-  \ their use in our programs.\n\n\n  This is where ArrayList comes in handy. \n\n\
-  ArrayLists grow and shrink according to how many elements are currently stored in\
-  \ them, i.e. they are \"dynamic\". In addition, you can add a mixture of object\
-  \ types in a single ArrayList.\n ArrayList namesList = new ArrayList();\n    namesList.add(\"\
-  Sarah\");\n\tnamesList.add(10);\n\tnamesList.add(3.14);\n However, if you want to\
-  \ limit an ArrayList to a specific type of object, you can declare its type when\
-  \ you create it:\n ArrayList&lt;String&gt; namesList = new ArrayList();\nnamesList.add(\"\
-  Sarah\");\n Things to find out before you finish this module:\n How to create and\
-  \ inititialize an ArrayList\nHow to add and remove items from an ArrayList\nHow\
-  \ to loop through all the elements of an ArrayList (advantages and disadvantages\
-  \ of different types of loop)\nAdvantages and disadvantages of ArrayLists\n <div\
-  \ style=\"float: left; width: 50%;\">\n  ## Sample Program\n  ArrayListDemo\n </div>\n\
-  \ <div style=\"float: left; width: 50%;\">\n  ## Student Recipes\n  IntroToArrayList\n\
-  \        GuestBook\n </div>\n\n"
+  \ their use in our programs.\n\nThis is where ArrayList comes in handy.\n\nArrayLists\
+  \ grow and shrink according to how many elements are currently stored in them, i.e.\
+  \ they are \"dynamic\". In addition, you can add a mixture of object types in a\
+  \ single ArrayList.\nArrayList namesList = new ArrayList();\nnamesList.add(\"Sarah\"\
+  );\nnamesList.add(10);\nnamesList.add(3.14);\nHowever, if you want to limit an ArrayList\
+  \ to a specific type of object, you can declare its type when you create it:\nArrayList<String>\
+  \ namesList = new ArrayList();\nnamesList.add(\"Sarah\");\nThings to find out before\
+  \ you finish this module:\nHow to create and inititialize an ArrayList\nHow to add\
+  \ and remove items from an ArrayList\nHow to loop through all the elements of an\
+  \ ArrayList (advantages and disadvantages of different types of loop)\nAdvantages\
+  \ and disadvantages of ArrayLists\n\n## Sample Program\n\nArrayListDemo\n\n## Student\
+  \ Recipes\n\nIntroToArrayList\nGuestBook\n\n\n"

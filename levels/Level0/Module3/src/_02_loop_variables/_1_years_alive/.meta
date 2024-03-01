@@ -13,10 +13,8 @@ meta:
   title: 02 Loop Variables 1 Years Alive
 module: Module3
 resources: []
-text: "\n <div id=\"recipeLeftColumn\">\n  # Years Alive\n  <hr/>\n  <img src=\"https://league-central.github.io/curriculum/img/leagueOversized.jpeg\"\
-  />\n  <div id=\"recipeGoal\">\n   ## Goal:\n   Print out all the years you have\
-  \ been alive (e.g. 2005, 2006, etc).\tUse a for loop and the for loop variable should\
-  \ be the year\n  </div>\n </div>\n <div id=\"recipeRightColumn\">\n  <div id=\"\
-  recipeSteps\">\n   ## Steps:\n   <ol id=\"stepList\">\n    <li>\n     Use a for\
-  \ loop to print out all of the years you have been alive. Use the for loop variable\
-  \ in your print statement.\n    </li>\n   </ol>\n  </div>\n </div>\n\n"
+text: "\n\n# Years Alive\n\n<hr/>\n<img src=\"https://league-central.github.io/curriculum/img/leagueOversized.jpeg\"\
+  />\n\n## Goal:\n\nPrint out all the years you have been alive (e.g. 2005, 2006,\
+  \ etc).\tUse a for loop and the for loop variable should be the year\n\n## Steps:\n\
+  \n1. Use a for loop to print out all of the years you have been alive. Use the for\
+  \ loop variable in your print statement.\n\n\n\n"

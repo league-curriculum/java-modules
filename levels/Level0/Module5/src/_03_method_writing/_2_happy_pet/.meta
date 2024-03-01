@@ -13,15 +13,37 @@ meta:
   title: 03 Method Writing 2 Happy Pet
 module: Module5
 resources: []
-text: "\n <div id=\"recipeLeftColumn\">\n  # Happy Pet\n  <hr/>\n  <img src=\"./happyPet.png\"\
-  />\n  <div id=\"recipeGoal\">\n   ## Goal:\n   Write methods to represent the activities\
-  \ that will make the user's pet happy.\n  </div>\n </div>\n <div id=\"recipeRightColumn\"\
-  >\n  <div id=\"recipeSteps\">\n   ## Steps:\n   <ol id=\"stepList\">\n    <li>\n\
-  \     Ask the user to enter the type of pet they want (give them a few choices).\n\
-  \    </li>\n    <li>\n     Use a loop (maybe a while loop?) to keep offering interactions\
-  \ with their pet until the desired pet happiness level has been reached. Examples\
-  \ of activities are:   Feed, Walk, Play\n    </li>\n    <li>\n     Write a method\
-  \ for each of the pet activities offered. Each activity should increase (or decrease)\
-  \ the pet's happiness level by a different amount, depending on the kind of pet\
-  \ they have. For example, a fish might not enjoy a walk!\n    </li>\n   </ol>\n\
-  \  </div>\n </div>\n\n"
+text: '
+
+
+  # Happy Pet
+
+
+  <hr/>
+
+  <img src="./images/happyPet.png"/>
+
+
+  ## Goal:
+
+
+  Write methods to represent the activities that will make the user''s pet happy.
+
+
+  ## Steps:
+
+
+  1. Ask the user to enter the type of pet they want (give them a few choices).
+
+  2. Use a loop (maybe a while loop?) to keep offering interactions with their pet
+  until the desired pet happiness level has been reached. Examples of activities are:   Feed,
+  Walk, Play
+
+  3. Write a method for each of the pet activities offered. Each activity should increase
+  (or decrease) the pet''s happiness level by a different amount, depending on the
+  kind of pet they have. For example, a fish might not enjoy a walk!
+
+
+
+
+  '

@@ -13,14 +13,38 @@ meta:
   title: 03 If Else 3 Secret Message Box
 module: Module1
 resources: []
-text: "\n <div id=\"recipeLeftColumn\">\n  # Secret Message Box\n  <hr/>\n  <img src=\"\
-  ./messageBox.jpg\"/>\n  <div id=\"recipeGoal\">\n   ## Goal:\n   Share a secret\
-  \ message!\n  </div>\n </div>\n <div id=\"recipeRightColumn\">\n  <div id=\"recipeSteps\"\
-  >\n   ## Steps:\n   <ol id=\"stepList\">\n    <li>\n     Create a password and store\
-  \ it in a String variable.\n    </li>\n    <li>\n     Using a pop-up, ask the first\
-  \ person for a secret message and store it in a variable.\n    </li>\n    <li>\n\
-  \     Now use a pop-up to tell the NEXT user that they can only see the secret message\
-  \ if they can guess the passcode.\n    </li>\n    <li>\n     If their guess matches\
-  \ the password, show them the secret message.\n    </li>\n    <li>\n     If the\
-  \ password does not match, pop-up \"INTRUDER!!\"\n    </li>\n   </ol>\n  </div>\n\
-  \ </div>\n\n"
+text: '
+
+
+  # Secret Message Box
+
+
+  <hr/>
+
+  <img src="./images/messageBox.jpg"/>
+
+
+  ## Goal:
+
+
+  Share a secret message!
+
+
+  ## Steps:
+
+
+  1. Create a password and store it in a String variable.
+
+  2. Using a pop-up, ask the first person for a secret message and store it in a variable.
+
+  3. Now use a pop-up to tell the NEXT user that they can only see the secret message
+  if they can guess the passcode.
+
+  4. If their guess matches the password, show them the secret message.
+
+  5. If the password does not match, pop-up "INTRUDER!!"
+
+
+
+
+  '

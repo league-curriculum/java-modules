@@ -13,20 +13,20 @@ meta:
   title: 03 Hangman
 module: Module4
 resources: []
-text: "<html>\n <font color=\"orange\">\n  ## You're going to create a program that\
-  \ plays Hang Man!\n </font>\n <center>\n  Run hangman.jar to play the finished product.\n\
-  \ </center>\n ```\n\nStep 1: When the program starts, it will ask the user for a\
-  \ number (up to the total words in the file). Then the \n        program will read\
-  \ that many words from the \"dictionary.txt\" file and push them to a Stack. \n\
-  \        Use the readRandomLineFromFile method in the Utilities class. The words\
-  \ should be selected randomly so \n        not every game is played with the same\
-  \ set of words. You can use the Stack's contains() method to make sure\n       \
-  \ there are no duplicate words.\n\n\n\nStep 2: Pop the word off the top of the stack\
-  \ and use a JLabel to display a blank line for all the characters in the word. \n\
-  \        Collect key inputs from the user. If the user guesses a letter, fill in\
-  \ the blank space. Otherwise, take off a life.\n\n\n\t\t\nStep 3: When a word has\
-  \ been solved, pop the next one off the stack and start a new round. It is up to\
-  \ you if you want to \n        reset the lives.\n\n\n\nStep 4: If they run out of\
-  \ lives, give them a game over message.\n\n\n\nStep 5: Don't end the program on\
-  \ game over. Ask the user if they would like to play again and run the game again\
-  \ with new \n\t    words if they choose yes.\n\n\n\t    \n```\n</html>\n"
+text: "<html>\n<font color=\"orange\">\n\n## You're going to create a program that\
+  \ plays Hang Man!\n\n</font>\n<center>\nRun hangman.jar to play the finished product.\n\
+  </center>\n```\n\nStep 1: When the program starts, it will ask the user for a number\
+  \ (up to the total words in the file). Then the \n        program will read that\
+  \ many words from the \"dictionary.txt\" file and push them to a Stack. \n     \
+  \   Use the readRandomLineFromFile method in the Utilities class. The words should\
+  \ be selected randomly so \n        not every game is played with the same set of\
+  \ words. You can use the Stack's contains() method to make sure\n        there are\
+  \ no duplicate words.\n\nStep 2: Pop the word off the top of the stack and use a\
+  \ JLabel to display a blank line for all the characters in the word. \n        Collect\
+  \ key inputs from the user. If the user guesses a letter, fill in the blank space.\
+  \ Otherwise, take off a life.\n\n\t\t\nStep 3: When a word has been solved, pop\
+  \ the next one off the stack and start a new round. It is up to you if you want\
+  \ to \n        reset the lives.\n\nStep 4: If they run out of lives, give them a\
+  \ game over message.\n\nStep 5: Don't end the program on game over. Ask the user\
+  \ if they would like to play again and run the game again with new \n\t    words\
+  \ if they choose yes.\n```\n</html>\n"

@@ -16,43 +16,56 @@ resources:
 - /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module1/src/_03_if_else/_5_pizza/pizza/pepperoni.png
 - /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module1/src/_03_if_else/_5_pizza/pizza/mushroom.png
 - /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module1/src/_03_if_else/_5_pizza/pizza/olive.png
-text: "\n <div id=\"recipeLeftColumn\">\n  # Pizza\n  <hr/>\n  <img src=\"./pizza.jpeg\"\
-  />\n  <div id=\"recipeGoal\">\n   ## Goal:\n   Make a pizza with whatever toppings\
-  \ you can imagine!\n  </div>\n </div>\n <div id=\"recipeRightColumn\">\n  <div id=\"\
-  recipeSteps\">\n   ## Steps:\n   <ol id=\"stepList\">\n    <li>\n     Find the Pizza\
-  \ recipe program ( pizza.pde ) and open it using Processing.\n    </li>\n    <li>\n\
-  \     Set your canvas size in the setup method.\n     ```\n\nsize(width, height);\n\
-  \n```\n    </li>\n    <li>\n     Draw a biscuit colored ellipse for the pizza base,\
-  \ a red ellipse for sauce and a yellow ellipse inside (for the cheese).\n      \
-  \                              Do this in the setup method. You can use R,G,B values\
-  \ or the Processing Color Selector Tool to help you find the right colors.\n   \
-  \  ```\n\nfill(color);\nellipse(x, y, width, height);\n\n```\n    </li>\n    <li>\n\
-  \     Get some topping images for your pizza. Some examples are provided for you,\
-  \ but if you want to choose your own toppings you can.\n     <ul>\n      <li>\n\
-  \       Make a PImage variable for each type of topping at the top of the sketch:\n\
-  \       ```\nPImage pepperoni;\n```\n      </li>\n      <li>\n       Drag and drop\
-  \ the topping image file onto your sketch.\n      </li>\n      <li>\n       Load\
-  \ the topping image (in the setup method):\n       ```\npepperoni = loadImage(\"\
-  pepperoni.png\");\n```\n      </li>\n      <li>\n       In the draw method, use\
-  \ the image command to draw the topping somewhere on your pizza:\n       ```\nimage(pepperoni,200,200);\n\
-  ```\n      </li>\n      <li>\n       If your topping is too big for the pizza, resize\
-  \ the topping image. Do this in the setup method.\n       ```\npepperoni.resize(30,\
-  \ 30);\n```\n      </li>\n      <li>\n       Repeat the above steps for more toppings.\n\
-  \      </li>\n     </ul>\n     <li>\n      Add more code so that the toppings are\
-  \ only drawn when the user clicks the mouse (in draw method).\n     </li>\n    \
-  \ <li>\n      Make sure you SAVE YOUR CODE when you are done.\n     </li>\n    \
-  \ <li>\n      OPTIONAL Add a different topping with the right mouse click.\n   \
-  \   ```\n\nif (mousePressed &amp;&amp; (mouseButton == RIGHT)) {}\n\n```\n     </li>\n\
-  \     <li>\n      OPTIONAL Use a background image to put the pizza in a box.\n \
-  \     ```\n\nPImage pizzaBox = loadImage(\"box.jpg\");     //in setup method\npizzaBox.resize(width,\
+text: "\n\n# Pizza\n\n<hr/>\n<img src=\"./images/pizza.jpeg\"/>\n\n## Goal:\n\nMake\
+  \ a pizza with whatever toppings you can imagine!\n\n## Steps:\n\n1. Find the Pizza\
+  \ recipe program ( pizza.pde ) and open it using Processing.\n2. Set your canvas\
+  \ size in the setup method.\n```\n\nsize(width, height);\n```\n3. Draw a biscuit\
+  \ colored ellipse for the pizza base, a red ellipse for sauce and a yellow ellipse\
+  \ inside (for the cheese).\nDo this in the setup method. You can use R,G,B values\
+  \ or the Processing Color Selector Tool to help you find the right colors.\n```\n\
+  \nfill(color);\nellipse(x, y, width, height);\n```\n4. Get some topping images for\
+  \ your pizza. Some examples are provided for you, but if you want to choose your\
+  \ own toppings you can.\n\n\nMake a PImage variable for each type of topping at\
+  \ the top of the sketch:\n```\nPImage pepperoni;\n```\nDrag and drop the topping\
+  \ image file onto your sketch.\nLoad the topping image (in the setup method):```\n\
+  pepperoni = loadImage(\"pepperoni.png\");\n```\nIn the draw method, use the image\
+  \ command to draw the topping somewhere on your pizza:\n```\nimage(pepperoni,200,200);\n\
+  ```\nIf your topping is too big for the pizza, resize the topping image. Do this\
+  \ in the setup method.\n```\npepperoni.resize(30, 30);\n```\n\nRepeat the above\
+  \ steps for more toppings.\n\nAdd more code so that the toppings are only drawn\
+  \ when the user clicks the mouse (in draw method).\nMake sure you SAVE YOUR CODE\
+  \ when you are done. \n                                \nOPTIONAL Add a different\
+  \ topping with the right mouse click.\n```\n\nif (mousePressed && (mouseButton ==\
+  \ RIGHT)) {}\n```\n\nOPTIONAL Use a background image to put the pizza in a box.\n\
+  ```\n\nPImage pizzaBox = loadImage(\"box.jpg\");     //in setup method\npizzaBox.resize(width,\
   \ height);      //to match your canvas size\nbackground(pizzaBox);       //in setup\
-  \ method\n\n```\n     </li>\n     <li>\n      OPTIONAL: To play a sound when you\
-  \ add a topping....\n                                    First download a sound\
-  \ from freesound.org and drop it onto your sketch\n\n                          \
-  \          Import the minim library Pocessing &gt; tools &gt; add tools &gt; libraries\
-  \ (search minim)\n      ```\n\nimport ddf.minim.*;     //at the top of the sketch\n\
-  Minim minim;     //at the top of the sketch\nAudioPlayer sound;    //at the top\
-  \ of the sketch\n\nminim = new Minim(this);      //in the setup method\nsound =\
-  \ minim.loadFile(\"ding.wav\");      //in the setup method\n\n// Put next 2 lines\
-  \ where you want the sound to play\nsound.play();\nsound.rewind();\n\n```\n    \
-  \ </li>\n    </li>\n   </ol>\n  </div>\n </div>\n\n"
+  \ method\n```\n\nOPTIONAL: To play a sound when you add a topping....\n        \
+  \                            First download a sound from freesound.org and drop\
+  \ it onto your sketch\n\n                                    Import the minim library\
+  \ Pocessing > tools > add tools > libraries (search minim)\n```\n\nimport ddf.minim.*;\
+  \     //at the top of the sketch\nMinim minim;     //at the top of the sketch\n\
+  AudioPlayer sound;    //at the top of the sketch\n\nminim = new Minim(this);   \
+  \   //in the setup method\nsound = minim.loadFile(\"ding.wav\");      //in the setup\
+  \ method\n\n// Put next 2 lines where you want the sound to play\nsound.play();\n\
+  sound.rewind();\n```\n5. Make a PImage variable for each type of topping at the\
+  \ top of the sketch:\n```\nPImage pepperoni;\n```\n6. Drag and drop the topping\
+  \ image file onto your sketch.\n7. Load the topping image (in the setup method):```\n\
+  pepperoni = loadImage(\"pepperoni.png\");\n```\n8. In the draw method, use the image\
+  \ command to draw the topping somewhere on your pizza:\n```\nimage(pepperoni,200,200);\n\
+  ```\n9. If your topping is too big for the pizza, resize the topping image. Do this\
+  \ in the setup method.\n```\npepperoni.resize(30, 30);\n```\n10. Repeat the above\
+  \ steps for more toppings.\n11. Add more code so that the toppings are only drawn\
+  \ when the user clicks the mouse (in draw method).\n12. Make sure you SAVE YOUR\
+  \ CODE when you are done.\n13. OPTIONAL Add a different topping with the right mouse\
+  \ click.\n```\n\nif (mousePressed && (mouseButton == RIGHT)) {}\n```\n14. OPTIONAL\
+  \ Use a background image to put the pizza in a box.\n```\n\nPImage pizzaBox = loadImage(\"\
+  box.jpg\");     //in setup method\npizzaBox.resize(width, height);      //to match\
+  \ your canvas size\nbackground(pizzaBox);       //in setup method\n```\n15. OPTIONAL:\
+  \ To play a sound when you add a topping....\nFirst download a sound from freesound.org\
+  \ and drop it onto your sketch\n\nImport the minim library Pocessing > tools > add\
+  \ tools > libraries (search minim)\n```\n\nimport ddf.minim.*;     //at the top\
+  \ of the sketch\nMinim minim;     //at the top of the sketch\nAudioPlayer sound;\
+  \    //at the top of the sketch\n\nminim = new Minim(this);      //in the setup\
+  \ method\nsound = minim.loadFile(\"ding.wav\");      //in the setup method\n\n//\
+  \ Put next 2 lines where you want the sound to play\nsound.play();\nsound.rewind();\n\
+  ```\n\n\n\n"

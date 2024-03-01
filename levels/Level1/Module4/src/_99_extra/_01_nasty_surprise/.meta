@@ -13,13 +13,13 @@ meta:
   title: 99 Extra 01 Nasty Surprise
 module: Module4
 resources: []
-text: "\n <div id=\"moduleIndex\">\n  # Nasty Surprise\n  1. Make a user interface\
-  \ that has 2 buttons. One says \u201CTrick\u201D the other says \u201CTreat\u201D\
-  . \n\n2. When the user clicks on the Trick button, show them a picture of a cute\
-  \ puppy. \n\n3. When they click Treat, show them a scary image.\n\nTo show the pictures,\
-  \ use the showPictureFromTheInternet() method below.\n  ```\nprivate void showPictureFromTheInternet(String\
-  \ imageUrl) {\n    try {\n        URL url = new URL(imageUrl);\n        Icon icon\
-  \ = new ImageIcon(url);\n        JLabel imageLabel = new JLabel(icon);\n       \
-  \ JFrame frame = new JFrame();\n        frame.add(imageLabel);\n        frame.setVisible(true);\n\
-  \        frame.pack();\n    } catch (MalformedURLException e) {\n        e.printStackTrace();\n\
-  \    }\n}\n```\n </div>\n\n"
+text: "\n\n# Nasty Surprise\n\n1. Make a user interface that has 2 buttons. One says\
+  \ \u201CTrick\u201D the other says \u201CTreat\u201D.\n\n2. When the user clicks\
+  \ on the Trick button, show them a picture of a cute puppy.\n\n3. When they click\
+  \ Treat, show them a scary image.\n\nTo show the pictures, use the showPictureFromTheInternet()\
+  \ method below.\n```\nprivate void showPictureFromTheInternet(String imageUrl) {\n\
+  \    try {\n        URL url = new URL(imageUrl);\n        Icon icon = new ImageIcon(url);\n\
+  \        JLabel imageLabel = new JLabel(icon);\n        JFrame frame = new JFrame();\n\
+  \        frame.add(imageLabel);\n        frame.setVisible(true);\n        frame.pack();\n\
+  \    } catch (MalformedURLException e) {\n        e.printStackTrace();\n    }\n\
+  }\n```\n\n\n"

@@ -13,25 +13,23 @@ meta:
   title: 01 Methods 3 Rain Game
 module: Module0
 resources: []
-text: "\n <div id=\"moduleIndex\">\n  # Rain Game\n  1. Start a new sketch with draw,\
-  \ setup, and settings methods.\n\n2. Set your canvas size in the settings() method\n\
-  \  ```\n    size(width, height)\n```\n  and your background color in the draw method\n\
-  \  ```\n    background(red, green, blue)\n```\n  3. Draw a raindrop at the top of\
-  \ the screen in the draw() method.\n  ```\n\n    fill(red, green, blue);\n    stroke(red,\
-  \ green, blue);\n    ellipse(x, y, width, height);\n```\n  4. Make the rain fall\
-  \ down the screen.\n   \_\_\_\_\_ Hint: make a variable for the raindrop's Y position\
-  \ and change it in the draw method.\n  5. When the rain falls off the bottom of\
-  \ the canvas, start a new rain drop falling from the top.\n  6.  Make the rain start\
-  \ at a random position (X position) at the top. This code will give you a random\
-  \ number between 0 and the width of your sketch.\n  ```\n      int randomNumber\
-  \ = (int) random(width);\n```\n  7. Draw a bucket at the bottom of the screen.\n\
-  \  ```\n        rect(int x, int y, int width, int height);\n```\n  8. Make the bucket\
-  \ move over and back with the mouse. Hint: mouseX\n  9. Add an int variable to hold\
-  \ the score (above the setup method). If the rain falls in the bucket increase the\
-  \ score by 1. If it doesn\u2019t, decrease the score by 1, but don\u2019t let the\
-  \ score go negative. Figure it out by yourself or use this method\u2026\n\n    void\
-  \ checkCatch(int x){\n         if (x &gt; mouseX &amp;&amp; x &lt; mouseX+100)\n\
-  \            score++;\n         else if (score &gt; 0) \n            score--;\n\
-  \        println(\"Your score is now: \" + score);\n    }\n\n  10. Print the score\
-  \ on the screen.\n\n    fill(0, 0, 0);\n    textSize(16);\n    text(\"Score: \"\
-  \ + score, 20, 20);\n </div>\n\n"
+text: "\n\n# Rain Game\n\n1. Start a new sketch with draw, setup, and settings methods.\n\
+  \n2. Set your canvas size in the settings() method\n```\n    size(width, height)\n\
+  ```\nand your background color in the draw method\n```\n    background(red, green,\
+  \ blue)\n```\n3. Draw a raindrop at the top of the screen in the draw() method.\n\
+  ```\n\n    fill(red, green, blue);\n    stroke(red, green, blue);\n    ellipse(x,\
+  \ y, width, height);\n```\n4. Make the rain fall down the screen.\nHint: make a\
+  \ variable for the raindrop's Y position and change it in the draw method.\n5. When\
+  \ the rain falls off the bottom of the canvas, start a new rain drop falling from\
+  \ the top.\n6.  Make the rain start at a random position (X position) at the top.\
+  \ This code will give you a random number between 0 and the width of your sketch.\n\
+  ```\n      int randomNumber = (int) random(width);\n```\n7. Draw a bucket at the\
+  \ bottom of the screen.\n```\n        rect(int x, int y, int width, int height);\n\
+  ```\n8. Make the bucket move over and back with the mouse. Hint: mouseX\n9. Add\
+  \ an int variable to hold the score (above the setup method). If the rain falls\
+  \ in the bucket increase the score by 1. If it doesn\u2019t, decrease the score\
+  \ by 1, but don\u2019t let the score go negative. Figure it out by yourself or use\
+  \ this method\u2026\n\nvoid checkCatch(int x){\nif (x > mouseX && x < mouseX+100)\n\
+  score++;\nelse if (score > 0)\nscore--;\nprintln(\"Your score is now: \" + score);\n\
+  }\n\n10. Print the score on the screen.\n\nfill(0, 0, 0);\ntextSize(16);\ntext(\"\
+  Score: \" + score, 20, 20);\n\n\n"

@@ -13,12 +13,36 @@ meta:
   title: 01 Random 1 Intro To Random
 module: Module2
 resources: []
-text: "\n <div id=\"recipeLeftColumn\">\n  # Intro to Random\n  <hr/>\n  <img src=\"\
-  ./random.jpg\"/>\n  <div id=\"recipeGoal\">\n   ## Goal:\n   Learn how to use a\
-  \ Random object to generate random integers within specified number ranges.\n  </div>\n\
-  \ </div>\n <div id=\"recipeRightColumn\">\n  <div id=\"recipeSteps\">\n   ## Steps:\n\
-  \   <ol id=\"stepList\">\n    <li>\n     Generate a random integer without limits.\n\
-  \    </li>\n    <li>\n     Generate a random positive integer with an upper limit.\n\
-  \    </li>\n    <li>\n     Generate a random integer with an upper and lower (positive)\
-  \ limit.\n    </li>\n    <li>\n     Generate a random integer with an upper and\
-  \ lower (negative) limit\n    </li>\n   </ol>\n  </div>\n </div>\n\n"
+text: '
+
+
+  # Intro to Random
+
+
+  <hr/>
+
+  <img src="./images/random.jpg"/>
+
+
+  ## Goal:
+
+
+  Learn how to use a Random object to generate random integers within specified number
+  ranges.
+
+
+  ## Steps:
+
+
+  1. Generate a random integer without limits.
+
+  2. Generate a random positive integer with an upper limit.
+
+  3. Generate a random integer with an upper and lower (positive) limit.
+
+  4. Generate a random integer with an upper and lower (negative) limit
+
+
+
+
+  '

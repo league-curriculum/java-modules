@@ -13,14 +13,37 @@ meta:
   title: 04 Int 4 Rocket Ship
 module: Module1
 resources: []
-text: "\n <div id=\"recipeLeftColumn\">\n  # Rock Ship Blastoff\n  <hr/>\n  <img alt=\"\
-  Rock Ship Blastoff image\" src=\"http://level0.jointheleague.org/modules/Mod1Recipes/images/rocketship.png\
-  \ \"/>\n  <div id=\"recipeGoal\">\n   ## Goal:\n   The goal is to make the Rocketship\
-  \ blast off and move from the bottom of the screen to the top of the screen.\n \
-  \ </div>\n </div>\n <div id=\"recipeRightColumn\">\n  <div id=\"recipeSteps\">\n\
-  \   ## Steps:\n   <ol id=\"stepList\">\n    <li>\n     Find the Rocket Ship recipe\
-  \ program ( rocket_ship.pde ) and open it using Processing.\n    </li>\n    <li>\n\
-  \     Change the code to make the rocket ship take off.\n    </li>\n    <li>\n \
-  \    Optional: Add a moon and stars to the sky (see picture)\n    </li>\n    <li>\n\
-  \     Make sure you SAVE YOUR CODE when you are done.\n    </li>\n   </ol>\n  </div>\n\
-  \ </div>\n\n"
+text: '
+
+
+  # Rock Ship Blastoff
+
+
+  <hr/>
+
+  <img alt="Rock Ship Blastoff image" src="http://level0.jointheleague.org/modules/Mod1Recipes/images/rocketship.png
+  "/>
+
+
+  ## Goal:
+
+
+  The goal is to make the Rocketship blast off and move from the bottom of the screen
+  to the top of the screen.
+
+
+  ## Steps:
+
+
+  1. Find the Rocket Ship recipe program ( rocket_ship.pde ) and open it using Processing.
+
+  2. Change the code to make the rocket ship take off.
+
+  3. Optional: Add a moon and stars to the sky (see picture)
+
+  4. Make sure you SAVE YOUR CODE when you are done.
+
+
+
+
+  '

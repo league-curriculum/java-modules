@@ -13,38 +13,36 @@ meta:
   title: 03 Typing Tutor
 module: Module4
 resources: []
-text: "\n <div id=\"moduleIndex\">\n  # Typing Tutor\n  We are going to make a Typing\
-  \ Tutor.\n  <img alt=\"\" src=\"./typing.jpg\" style=\"width: 444.00px; height:\
-  \ 163.00px; margin-left: 100.00px; margin-top: 0.00px; transform: rotate(0.00rad)\
-  \ translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);\" title=\"\
-  \"/>\n  1.  Make a TypingTutor class with a setup() method and a Runner class with\
-  \ a main method. Create a JFrame, JPanel, and currentLetter as member variables\
-  \ \n\t     Make sure the JFrame is visible and set the default close operation.\n\
-  \nJFrame frame = new JFrame();\nJPanel panel = new JPanel();\nchar currentLetter;\n\
-  \nvoid setup(){\n\tframe.setVisible(true);\n\tframe.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);\n\
-  }\n  2. Paste the following method after the main method.  \n char generateRandomLetter()\
-  \ {\n    Random r = new Random();\n    return (char) (r.nextInt(26) + 'a');\n}\n\
-  \  3. Initialize currentLetter in the setup method as shown below:\n  ```\ncurrentLetter\
-  \ = generateRandomLetter();\n\n```\n  4.Create a JLabel and set the text of the\
-  \ label to the currentLetter in the setup method.\n  5. Format the letter so that\
-  \ it is nice and big. Here are some hints\u2026.\n  ```\n\nlabel.setFont(label.getFont().deriveFont(28.0f));\n\
-  label.setHorizontalAlignment(JLabel.CENTER);\n```\n  6. Add a key listener to the\
-  \ frame in setup method. Add label to the panel and panel to the frame. Then pack\
-  \ the frame.\n  7. Create object/instance of typingTutor class in main method. Using\
-  \ the object/instance call the setup method as shown below.\n        public static\
-  \ void main(String[] args){\n\ttypingTutor tutor = new typingTutor();\n\ttutor.setup();\
-  \ \n}\n  8. Make the letter change every time a key is pressed.  To do that, in\
-  \ the keyReleased method:\n\_\_\_\_\_\_i) Reset currentLetter with generateRandomLetter().\n\
-  \_\_\_\_\_\_ii) Set the text of your JLabel to the new currentLetter.\n  9. In the\
-  \ keyPressed method, print out the character that the user typed.\n  10. If they\
-  \ typed the currentLetter, print \u201Ccorrect\u201D.\n\n    11. If they typed the\
-  \ correct letter, set the panel background to green. Otherwise set it to red.\n\n\
-  \npanel.setBackground(Color.GREEN);\n\n        12.  [optional] After a certain number\
-  \ of characters, show the users\u2019 typing speed.\n  ```\nDate timeAtStart = new\
-  \ Date();\n     \nprivate void showTypingSpeed(int numberOfCorrectCharactersTyped)\
-  \ {\n    Date timeAtEnd = new Date();\n    long gameDuration = timeAtEnd.getTime()\
-  \ - timeAtStart.getTime();\n    long gameInSeconds = (gameDuration / 1000) % 60;\n\
-  \    double charactersPerSecond = ((double) numberOfCorrectCharactersTyped / (double)\
-  \ gameInSeconds);\n    int charactersPerMinute = (int) (charactersPerSecond * 60);\n\
-  \    JOptionPane.showMessageDialog(null, \"Your typing speed is \" + charactersPerMinute\
-  \ + \" characters per minute.\");\n} \n```\n </div>\n\n"
+text: "\n\n# Typing Tutor\n\nWe are going to make a Typing Tutor.\n<img alt=\"\" src=\"\
+  ./images/typing.jpg\" style=\"width: 444.00px; height: 163.00px; margin-left: 100.00px;\
+  \ margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform:\
+  \ rotate(0.00rad) translateZ(0px);\" title=\"\"/>\n1.  Make a TypingTutor class\
+  \ with a setup() method and a Runner class with a main method. Create a JFrame,\
+  \ JPanel, and currentLetter as member variables\nMake sure the JFrame is visible\
+  \ and set the default close operation.\n\nJFrame frame = new JFrame();\nJPanel panel\
+  \ = new JPanel();\nchar currentLetter;\n\nvoid setup(){\nframe.setVisible(true);\n\
+  frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);\n}\n2. Paste the following\
+  \ method after the main method.\nchar generateRandomLetter() {\nRandom r = new Random();\n\
+  return (char) (r.nextInt(26) + 'a');\n}\n3. Initialize currentLetter in the setup\
+  \ method as shown below:\n```\ncurrentLetter = generateRandomLetter();\n```\n4.Create\
+  \ a JLabel and set the text of the label to the currentLetter in the setup method.\n\
+  5. Format the letter so that it is nice and big. Here are some hints\u2026.\n```\n\
+  \nlabel.setFont(label.getFont().deriveFont(28.0f));\nlabel.setHorizontalAlignment(JLabel.CENTER);\n\
+  ```\n6. Add a key listener to the frame in setup method. Add label to the panel\
+  \ and panel to the frame. Then pack the frame.\n7. Create object/instance of typingTutor\
+  \ class in main method. Using the object/instance call the setup method as shown\
+  \ below.\npublic static void main(String[] args){\ntypingTutor tutor = new typingTutor();\n\
+  tutor.setup();\n}\n8. Make the letter change every time a key is pressed.  To do\
+  \ that, in the keyReleased method:\ni) Reset currentLetter with generateRandomLetter().\n\
+  ii) Set the text of your JLabel to the new currentLetter.\n9. In the keyPressed\
+  \ method, print out the character that the user typed.\n10. If they typed the currentLetter,\
+  \ print \u201Ccorrect\u201D.\n\n11. If they typed the correct letter, set the panel\
+  \ background to green. Otherwise set it to red.\n\npanel.setBackground(Color.GREEN);\n\
+  \n12.  [optional] After a certain number of characters, show the users\u2019 typing\
+  \ speed.\n```\nDate timeAtStart = new Date();\n     \nprivate void showTypingSpeed(int\
+  \ numberOfCorrectCharactersTyped) {\n    Date timeAtEnd = new Date();\n    long\
+  \ gameDuration = timeAtEnd.getTime() - timeAtStart.getTime();\n    long gameInSeconds\
+  \ = (gameDuration / 1000) % 60;\n    double charactersPerSecond = ((double) numberOfCorrectCharactersTyped\
+  \ / (double) gameInSeconds);\n    int charactersPerMinute = (int) (charactersPerSecond\
+  \ * 60);\n    JOptionPane.showMessageDialog(null, \"Your typing speed is \" + charactersPerMinute\
+  \ + \" characters per minute.\");\n} \n```\n\n\n"
