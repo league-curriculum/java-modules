@@ -114,10 +114,11 @@ def proc_web(cts, root):
 
             images_dir.mkdir(parents=True, exist_ok=True)
 
-            for wf in f.glob('*'):
-                if wf.suffix in ('png', 'jpg', 'jpeg', 'gif'):
-                   shutil.copy(wf, images_dir / wf.name)
 
+            for wf in f.glob('**/*'):
+                if wf.suffix in ('.png', '.jpg', '.jpeg', '.gif'):
+                    print("!!!!", wf.name)
+                    shutil.copy(wf, images_dir / wf.name)
 
 @task
 def walka(ctx, root):
