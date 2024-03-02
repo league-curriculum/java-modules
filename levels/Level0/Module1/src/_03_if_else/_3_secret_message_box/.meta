@@ -1,0 +1,45 @@
+assignment: 03_if_else_3_secret_message_box
+dir: Level0/Module1/src/_03_if_else/_3_secret_message_box
+lesson: 03_if_else
+level: Level0
+module: Module1
+oassignment: 3_secret_message_box
+opath: Level0/Module1/src/_03_if_else/_3_secret_message_box
+resources:
+- Level0/Module1/src/_03_if_else/_3_secret_message_box/.web/messageBox.jpg
+text: '
+
+
+  # Secret Message Box
+
+
+  <hr/>
+
+  <img src="./images/messageBox.jpg"/>
+
+
+  ## Goal:
+
+
+  Share a secret message!
+
+
+  ## Steps:
+
+
+  1. Create a password and store it in a String variable.
+
+  2. Using a pop-up, ask the first person for a secret message and store it in a variable.
+
+  3. Now use a pop-up to tell the NEXT user that they can only see the secret message
+  if they can guess the passcode.
+
+  4. If their guess matches the password, show them the secret message.
+
+  5. If the password does not match, pop-up "INTRUDER!!"
+
+
+
+
+  '
+title: 03 If Else 3 Secret Message Box

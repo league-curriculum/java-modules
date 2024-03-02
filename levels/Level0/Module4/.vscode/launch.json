@@ -1,0 +1,65 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "ChangeCalculator",
+            "request": "launch",
+            "mainClass": "_01_double._1_change_calculator.ChangeCalculator"
+        },
+        {
+            "type": "java",
+            "name": "DontForgetTheLyrics",
+            "request": "launch",
+            "mainClass": "_99_extra.DontForgetTheLyrics"
+        },
+        {
+            "type": "java",
+            "name": "FruitQuiz",
+            "request": "launch",
+            "mainClass": "_99_extra.FruitQuiz"
+        },
+        {
+            "type": "java",
+            "name": "GameOver",
+            "request": "launch",
+            "mainClass": "_02_boolean._3_game_over.GameOver"
+        },
+        {
+            "type": "java",
+            "name": "RedSquare",
+            "request": "launch",
+            "mainClass": "_02_boolean._4_red_square.RedSquare"
+        },
+        {
+            "type": "java",
+            "name": "SimpleCalculator",
+            "request": "launch",
+            "mainClass": "_99_extra.SimpleCalculator"
+        },
+        {
+            "type": "java",
+            "name": "SleepyHead",
+            "request": "launch",
+            "mainClass": "_02_boolean._1_sleepy_head.SleepyHead"
+        },
+        {
+            "type": "java",
+            "name": "StarStudent",
+            "request": "launch",
+            "mainClass": "_02_boolean._2_star_student.StarStudent"
+        },
+        {
+            "type": "java",
+            "name": "StringMethods",
+            "request": "launch",
+            "mainClass": "_03_char._2_string_methods.StringMethods"
+        },
+        {
+            "type": "java",
+            "name": "StringMethods2",
+            "request": "launch",
+            "mainClass": "_99_extra.StringMethods2"
+        }
+    ]
+}

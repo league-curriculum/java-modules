@@ -1,0 +1,27 @@
+assignment: 04_gui_from_scratch_1_fortune_cookie
+dir: Level1/Module0/src/_04_gui_from_scratch/_1_fortune_cookie
+lesson: 04_gui_from_scratch
+level: Level1
+module: Module0
+oassignment: 1_fortune_cookie
+opath: Level1/Module0/src/_04_gui_from_scratch/_1_fortune_cookie
+resources: []
+text: "\n\n# Fortune Cookie\n\nGoal: Make a Swing program from scratch.\nThe program\
+  \ will have a window (frame) with a button that gives one of five random fortunes\
+  \ when clicked.\n1. Make a FortuneCookie class, with a showButton() method like\
+  \ the one below:\n\npublic class FortuneCookie {\npublic void showButton() {\nSystem.out.println(\"\
+  Button clicked\");\n}\n}\n\n2. Now make a runner class to run the code above, like\
+  \ the one below:\n\npublic class FortuneCookieRunner {\npublic static void main(String[]\
+  \ args) {\nnew FortuneCookie().showButton();\n}\n}\n\n3. Now change the showButton()\
+  \ method in Step 1, to make a JFrame and get it to show up when you run the program.\
+  \ Hint:\nframe.setVisible(true);\n\n4. Make a JButton and add it to the JFrame.\n\
+  JButton button = new JButton();\nframe.add(button);\nframe.pack();\n\n5. The next\
+  \ 4 steps make a pop-up appear that says, \u201CWoohoo\u201D when the button is\
+  \ clicked\n\na. Add an action listener to the button:\nbutton.addActionListener(this);\n\
+  \nb. Have your class implement ActionListener [use Eclipse quick fix]\n\nc. Add\
+  \ the unimplemented methods [use Eclipse quick fix]\n\nd. Put a JOptionPane pop-up\
+  \ inside the actionPerformed() method that says \"Woohoo\".\n\n6. Generate a random\
+  \ number between 0 and 4:\nint rand = new Random().nextInt(5);\n7. Depending on\
+  \ which random number, show one of the five fortunes.\n\n[optional] 8. Run other\
+  \ student's programs to receive fortunes from them.\n\n\n"
+title: 04 Gui From Scratch 1 Fortune Cookie

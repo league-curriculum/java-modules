@@ -1,0 +1,42 @@
+assignment: 02_boolean_6_wheres_waldo
+dir: Level0/Module4/src/_02_boolean/_6_wheres_waldo
+lesson: 02_boolean
+level: Level0
+module: Module4
+oassignment: 6_wheres_waldo
+opath: Level0/Module4/src/_02_boolean/_6_wheres_waldo
+resources:
+- Level0/Module4/src/_02_boolean/_6_wheres_waldo/.web/waldo.jpg
+text: '
+
+
+  # Where''s Waldo?
+
+
+  <hr/>
+
+  <img src="./images/waldo.jpg"/>
+
+
+  ## Goal:
+
+
+  Make a program where the user has to find Waldo!
+
+
+  ## Steps:
+
+
+  1. Find the Where''s Waldo recipe program in Eclipse.
+
+  2. Find a Where''s Waldo picture and add it to the /images folder.
+
+  3. Follow the instructions in the code to play a sound when the user finds Waldo!
+
+  4. Make sure you SAVE YOUR CODE when you are done.
+
+
+
+
+  '
+title: 02 Boolean 6 Wheres Waldo

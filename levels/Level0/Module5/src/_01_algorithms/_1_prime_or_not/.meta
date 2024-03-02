@@ -1,0 +1,43 @@
+assignment: 01_algorithms_1_prime_or_not
+dir: Level0/Module5/src/_01_algorithms/_1_prime_or_not
+lesson: 01_algorithms
+level: Level0
+module: Module5
+oassignment: 1_prime_or_not
+opath: Level0/Module5/src/_01_algorithms/_1_prime_or_not
+resources:
+- Level0/Module5/src/_01_algorithms/_1_prime_or_not/.web/prime.png
+text: '
+
+
+  # Prime or Not
+
+
+  <hr/>
+
+  <img src="./images/prime.png"/>
+
+
+  ## Goal:
+
+
+  Ask the user for a number, then tell them if the number is prime!
+
+  A prime number is a number that is only divisible by 1 and itself.
+
+
+  ## Steps:
+
+
+  1. Ask the user for a number (JOptionPane).
+
+  2. Use a for loop, if statement, and modulo to find if the number is prime.
+
+  3. If the number is divisible by any number other than 1 or itself, the number is
+  not prime.
+
+
+
+
+  '
+title: 01 Algorithms 1 Prime Or Not

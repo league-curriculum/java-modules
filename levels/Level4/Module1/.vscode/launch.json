@@ -1,0 +1,35 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CustomButtonOptionPanes",
+            "request": "launch",
+            "mainClass": "_03_Switch_Statement_Practice.CustomButtonOptionPanes"
+        },
+        {
+            "type": "java",
+            "name": "IntroToEnums",
+            "request": "launch",
+            "mainClass": "_04_Intro_To_Enums.IntroToEnums"
+        },
+        {
+            "type": "java",
+            "name": "IntroToGenerics",
+            "request": "launch",
+            "mainClass": "_00_Intro_To_Generics.IntroToGenerics"
+        },
+        {
+            "type": "java",
+            "name": "SwitchStatementDemo",
+            "request": "launch",
+            "mainClass": "_02_Intro_to_Switch_Statements.SwitchStatementDemo"
+        },
+        {
+            "type": "java",
+            "name": "_00_SnakeGame",
+            "request": "launch",
+            "mainClass": "_06_Snake._00_SnakeGame"
+        }
+    ]
+}

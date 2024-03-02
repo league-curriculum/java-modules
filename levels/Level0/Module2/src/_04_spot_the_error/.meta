@@ -1,0 +1,35 @@
+assignment: 04_spot_the_error
+dir: Level0/Module2/src/_04_spot_the_error
+lesson: 04_spot_the_error
+level: Level0
+module: Module2
+oassignment: 04_spot_the_error
+opath: Level0/Module2/src/_04_spot_the_error
+resources:
+- Level0/Module2/src/_04_spot_the_error/.web/bug.jpg
+text: '
+
+
+  # Spot the Errors
+
+
+  <hr/>
+
+
+  ### Fix the Random
+
+
+
+  ### How Many?
+
+
+
+  ### Method Call
+
+
+  <hr/>
+
+
+
+  '
+title: 04 Spot The Error

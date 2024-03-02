@@ -1,0 +1,78 @@
+assignment: 05_Retro_Sun
+dir: Level3/Module1/src/_05_Retro_Sun
+lesson: 05_Retro_Sun
+level: Level3
+module: Module1
+oassignment: 05_Retro_Sun
+opath: Level3/Module1/src/_05_Retro_Sun
+resources:
+- Level3/Module1/src/_05_Retro_Sun/.web/2_gradient.png
+- Level3/Module1/src/_05_Retro_Sun/.web/retro_sun.gif
+- Level3/Module1/src/_05_Retro_Sun/.web/3_missing_sun_section.png
+- Level3/Module1/src/_05_Retro_Sun/.web/6_retro_sun_extras.gif
+- Level3/Module1/src/_05_Retro_Sun/.web/5_multiple_sections.gif
+- Level3/Module1/src/_05_Retro_Sun/.web/4b_resizing_section.gif
+- Level3/Module1/src/_05_Retro_Sun/.web/1_sun.png
+text: "\n\n# Retro Sun (Processing)\n\n\n### Part 1: Drawing the Sun\n\n\n<img alt=\"\
+  \" src=\"./images/1_sun.png\" style=\"width: 400px; height: 330px;\"/>\nOpen the\
+  \ starter code in Processing.\nDraw and fill a solid color ellipse to be the sun.\n\
+  \n### Part 2: Drawing a color gradient on the sun\n\n\n<img alt=\"\" src=\"./images/2_gradient.png\"\
+  \ style=\"width: 400px; height: 180px;\"/>\nChange the sun-colored pixels in your\
+  \ sketch make the sun have gradually different colors from the top to bottom.\n\n\
+  Use the interpolateColor() method to find which color to change the pixel.\n```\n\
+  \n// Input variable 'step' is a value from 0.0 to 1.0, where\n// 0.0 is the top\
+  \ of the sun and 1.0 is the bottom\ninterpolateColor(color[] arr, float step)\n\
+  ```\n\n### Part 3: Drawing the missing sections at the bottom of the sun\n\n\n<img\
+  \ alt=\"\" src=\"./images/3_missing_sun_section.png\" style=\"width: 400px; height:\
+  \ 180px;\"/>\nThe missing parts of the sun are created by drawing rectangles over\
+  \ the sun with the same color as the background.\n\n### Part 4: Moving the missing\
+  \ sun sections\n\n\n<img alt=\"\" src=\"./images/4b_resizing_section.gif\" style=\"\
+  width: 400px; height: 330px;\"/>\nTo move a section upwards each rectangle's y value\
+  \ needs to decrease.\nTo make the section get smaller, its height value needs to\
+  \ also decrease.\n\n### Part 5: Managing the missing sun sections\n\n\n<img alt=\"\
+  \" src=\"./images/5_multiple_sections.gif\" style=\"width: 400px; height: 225px;\"\
+  />\nUsing a List to manage moving multiple missing sun sections\n\n### Part 6: Adding\
+  \ reflections, stars, and other extras\n\n\n<img alt=\"\" src=\"./images/6_retro_sun_extras.gif\"\
+  \ style=\"width: 400px; height: 225px;\"/>\nIf you want to make your retro sun look\
+  \ more unique, try adding reflections and stars. You may use the example classes\
+  \ below.\n```\n\nclass Star {\n  int x;\n  int y;\n  color starColor;\n  float startAlpha;\n\
+  \  float alpha;\n  float diameter;\n\n  Star(int x, int y, color col) {\n    this.x\
+  \ = x;\n    this.y = y;\n    starColor = col;\n    this.diameter = random(0.1, 3);\n\
+  \    this.startAlpha = random(1, 200);\n    this.alpha = startAlpha;\n  }\n  \n\
+  \  void setAlpha(int alpha){\n    this.alpha = constrain(alpha, startAlpha, 255);\n\
+  \  }\n\n  void draw() {\n    noStroke();\n    fill(starColor, alpha);\n    float\
+  \ blink = random(0, 0.8);\n    ellipse(x, y, diameter + blink, diameter + blink);\n\
+  \  }\n```\n```\n\nclass Reflection {\n/*\n  // HSB colors\n  color[] barColors =\
+  \ {\n    color(285, 96.6, 23.1), \n    color(312, 100, 42.7), \n    color(340, 66.9,\
+  \ 60.4), \n    color(11, 60.8, 62), \n    color(340, 66.9, 60.4), \n    color(312,\
+  \ 100, 42.7), \n    color(285, 96.6, 23.1)\n  };\n*/\n  // RGB colors\n  color[]\
+  \ barColors = {\n    color(45, 2, 59), \n    color(109, 0, 88), \n    color(154,\
+  \ 51, 86), \n    color(158, 79, 62), \n    color(154, 51, 86), \n    color(109,\
+  \ 0, 88), \n    color(45, 2, 59)\n  };\n\n  int sunRadius;\n  int numReflectionBars;\n\
+  \  int topX;\n  int topY;\n  int topWidth;\n  int bottomY;\n  int maxHeight;\n \
+  \ float speed;\n  ArrayList lowerBars;\n  \n  Reflection(int sunRadius, int numBars,\
+  \ int topX, int topY, float speed){\n    this.sunRadius = sunRadius;\n    this.topX\
+  \ = topX;\n    this.topY = topY;\n    this.speed = speed;\n\n    initialize(numBars);\n\
+  \  }\n  \n  void initialize(int numBars){\n    this.numReflectionBars = numBars;\n\
+  \    \n    topWidth = 2 * (sunRadius + sunRadius/3);\n    maxHeight = 10;\n    bottomY\
+  \ = topY + (numBars * 2 * maxHeight);\n    lowerBars = new ArrayList();\n    \n\
+  \    // Setup bottom relection bars\n    int x = topX;\n    int y = topY;\n    int\
+  \ w = topWidth;\n    int h = maxHeight;\n    for ( int i = 0; i < numReflectionBars;\
+  \ i++ ) {   \n      y += (bottomY - topY) / numBars;\n      x += sunRadius / 16;\n\
+  \      w -= 2 * (sunRadius / 16);\n\n      Rectangle r = new Rectangle(x, y, w,\
+  \ h);\n      lowerBars.add(r);\n    }\n  }\n  \n  void draw(){\n    strokeWeight(1);\n\
+  \    \n    for ( Rectangle bar : lowerBars ) {\n      for ( int i = (int)bar.x;\
+  \ i < bar.x + bar.w; i++ ) {\n        float alphaMax = -255 - (bar.y - topY);\n\
+  \        float alphaMin =  255 + (bar.y - topY);\n        float alpha = map(i, bar.x,\
+  \ bar.x + bar.w, alphaMin, alphaMax);\n        float step = map(i, bar.x, bar.x\
+  \ + bar.w, 0, 1);\n        color lc = interpolateColor(barColors, step);\n    \n\
+  \        stroke(lc, 255 - abs(alpha));\n        line(i, bar.y, i, bar.y + bar.h);\n\
+  \      }\n      \n      bar.y += speed;\n      bar.x += speed;\n      bar.w -= 2\
+  \ * speed;\n\n      if( bar.y > bottomY ) {\n        // Bar at bottom, reset to\
+  \ top\n        \n        bar.x = topX;\n        bar.y = topY + maxHeight;\n    \
+  \    bar.w = topWidth;\n        bar.h = 1;\n      } else if( bar.y > bottomY - maxHeight\
+  \ ) {\n        // Bar near bottom\n        \n        bar.h -= speed;\n      } else\
+  \ if( bar.h < maxHeight ) {\n        // Bar height just reset and at top\n     \
+  \   \n        bar.y -= speed;\n        bar.h += speed;\n      }\n    }\n  }\n}\n\
+  ```\n\n\n\n\n\n\n\n\n"
+title: 05 Retro Sun

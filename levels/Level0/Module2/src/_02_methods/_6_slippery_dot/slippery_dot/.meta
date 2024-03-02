@@ -1,0 +1,41 @@
+assignment: 02_methods_6_slippery_dot
+dir: Level0/Module2/src/_02_methods/_6_slippery_dot/slippery_dot
+lesson: 02_methods
+level: Level0
+module: Module2
+oassignment: 6_slippery_dot
+opath: Level0/Module2/src/_02_methods/_6_slippery_dot/slippery_dot
+resources:
+- Level0/Module2/src/_02_methods/_6_slippery_dot/slippery_dot/.web/slipperyDot.png
+text: '
+
+
+  # Slippery Dot
+
+
+  <hr/>
+
+  <img src="./images/slipperyDot.png"/>
+
+
+  ## Goal:
+
+
+  Make a slippery dot!
+
+
+  ## Steps:
+
+
+  1. Find the Slippery Dot recipe program ( slippery_dot.pde ) and open it using Processing.
+
+  2. Follow the instructions in the code to make a dot slide away each time you click
+  on it.
+
+  3. Make sure you SAVE YOUR CODE when you are done.
+
+
+
+
+  '
+title: 02 Methods 6 Slippery Dot

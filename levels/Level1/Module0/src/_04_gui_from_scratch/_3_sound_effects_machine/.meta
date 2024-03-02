@@ -1,0 +1,26 @@
+assignment: 04_gui_from_scratch_3_sound_effects_machine
+dir: Level1/Module0/src/_04_gui_from_scratch/_3_sound_effects_machine
+lesson: 04_gui_from_scratch
+level: Level1
+module: Module0
+oassignment: 3_sound_effects_machine
+opath: Level1/Module0/src/_04_gui_from_scratch/_3_sound_effects_machine
+resources: []
+text: "\n\n# Sound Effects Machine\n\n1.  Create a GUI for a sound effects machine\
+  \ that will play different sounds when the buttons are pressed.\nIf you need help,\
+  \ take a look at the instructions for the Fortune Cookie recipe.\n\nNOTE: because\
+  \ this GUI has more than one button, you must add a JPanel to your JFrame and put\
+  \ the buttons on the panel!\n\n2. Gather sound bites. They must be .wav files. Free\
+  \ sound effects can be found here. The League also has an account at freesound.\
+  \ Ask your teacher for our login.\nThe .wav files must be placed into your recipe\
+  \ package(_3_sound_effects_machine) (drag and drop).\n\n3. Call this playSound()\
+  \ method when they click on a button. You will need to import java.applet.AudioClip\n\
+  ```\n\n\tprivate void playSound(String soundFile) {\n\t\tString path = \"src/_03_gui_from_scratch/_3_sound_effects_machine/\"\
+  ;\n\t\t\tFile sound = new File(path+soundFile);\n\t\t\tif (sound.exists()) {\n\t\
+  \t\t\tnew Thread(() -> {\n\t\t\t\ttry {\n\t\t\t\t\tClip clip = AudioSystem.getClip();\n\
+  \t\t\t\t\tclip.open(AudioSystem.getAudioInputStream(sound));\n\t\t\t\t\tclip.start();\n\
+  \t\t\t\t\tThread.sleep(clip.getMicrosecondLength()/1000);\n\t\t\t\t}\n\t\t\t\tcatch\
+  \ (Exception e) {\n\t\t\t\t\tSystem.out.println(\"Could not play this sound\");\n\
+  \t\t\t\t}}).start();\n\t \t\t}\n\t\t\telse {\n\t\t\t\tSystem.out.println(\"File\
+  \ does not exist\");\n\t\t\t}\n\t\t\n\t}\n```\n\n\n"
+title: 04 Gui From Scratch 3 Sound Effects Machine

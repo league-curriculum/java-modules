@@ -1,0 +1,35 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "MIDIKeyboard",
+            "request": "launch",
+            "mainClass": "extra.MIDIKeyboard"
+        },
+        {
+            "type": "java",
+            "name": "SwingReviewRunner",
+            "request": "launch",
+            "mainClass": "extra.SwingReviewRunner"
+        },
+        {
+            "type": "java",
+            "name": "_00_ArrayCheatSheet",
+            "request": "launch",
+            "mainClass": "arrays._00_ArrayCheatSheet"
+        },
+        {
+            "type": "java",
+            "name": "_02_FindTheHiddenButton",
+            "request": "launch",
+            "mainClass": "arrays._02_FindTheHiddenButton"
+        },
+        {
+            "type": "java",
+            "name": "_03_VanGogh",
+            "request": "launch",
+            "mainClass": "arrays._03_VanGogh"
+        }
+    ]
+}

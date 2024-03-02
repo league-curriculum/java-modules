@@ -1,0 +1,40 @@
+assignment: 99_extra_hide_the_creeper
+dir: Level0/Module4/src/_99_extra/hide_the_creeper
+lesson: 99_extra
+level: Level0
+module: Module4
+oassignment: hide_the_creeper
+opath: Level0/Module4/src/_99_extra/hide_the_creeper
+resources:
+- Level0/Module4/src/_99_extra/hide_the_creeper/.web/creeper.jpg
+text: "\n\n# Hide The Creeper\n\n<hr/>\n<img src=\"./images/creeper.jpg\"/>\n\n##\
+  \ Goal:\n\nFind the Creeper!\n\n## Steps:\n\n1. Find the Hide the Creeper recipe\
+  \ program in Eclipse.\n2. Set your canvas size\n```\n\nsize(width, height) //in\
+  \ settings method\n```\n3. Download a background image. Something with green where\
+  \ creeper can hide.\n\nSave the image.\nDrop the file into the /images folder.\n\
+  Load it as the background (it must be same size as your canvas)\n```\n\nPImage minecraft\
+  \ = loadImage(\"minecraft.png\");     //in setup method\nminecraft.resize(width,\
+  \ height);          //in setup method\nbackground(minecraft);          //in setup\
+  \ method\n```\n4. Save the image.\n5. Drop the file into the /images folder.\n6.\
+  \ Load it as the background (it must be same size as your canvas)\n7. Load the creeper\
+  \ image into your sketch\n\nDownload a Creeper image\nDrop the image onto your sketch\n\
+  Use the code below to draw the image (make sure you put the code in the right place)\n\
+  ```\n\nPImage creeper;     //at the top of your program\ncreeper=loadImage(\"creeper.png\"\
+  );     //in setup method\nimage(creeper, mouseX, mouseY);     //in draw method\n\
+  ```\n8. Download a Creeper image\n9. Drop the image onto your sketch\n10. Use the\
+  \ code below to draw the image (make sure you put the code in the right place)\n\
+  11. Right after it\u2019s loaded, resize the creeper image so that it is small and\
+  \ can hide.\n```\n\ncreeper.resize(width, height);     //in setup method\n```\n\
+  12. Pick a place to hide your creeper.\n\nUse two variables to store the location\
+  \ (x and y) of the creeper, and initialize them (at the top of your sketch).\nChange\
+  \ your code so that the creeper image is drawn at this location.\n13. Use two variables\
+  \ to store the location (x and y) of the creeper, and initialize them (at the top\
+  \ of your sketch).\n14. Change your code so that the creeper image is drawn at this\
+  \ location.\n15. In the draw method, draw a small red ellipse where the mouse clicks.\n\
+  16. If mouseX and mouseY are near the location of your creeper, make the circle\
+  \ green.\nNote: you will need to check the x and y values separately if you use\
+  \ the code below.\n```\n\nboolean isNear(int a, int b) {\nif (abs(a - b) < 10)\n\
+  \     return true;\nelse\n     return false;\n}\n```\n17. Let the user know that\
+  \ they found the creeper.\n18. Option: Add more creepers, or move the creeper after\
+  \ they find it.\n\n\n\n"
+title: 99 Extra Hide The Creeper

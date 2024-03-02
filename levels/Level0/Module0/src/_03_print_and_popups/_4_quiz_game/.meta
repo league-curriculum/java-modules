@@ -1,0 +1,38 @@
+assignment: 03_print_and_popups_4_quiz_game
+dir: Level0/Module0/src/_03_print_and_popups/_4_quiz_game
+lesson: 03_print_and_popups
+level: Level0
+module: Module0
+oassignment: 4_quiz_game
+opath: Level0/Module0/src/_03_print_and_popups/_4_quiz_game
+resources:
+- Level0/Module0/src/_03_print_and_popups/_4_quiz_game/.web/quiz.png
+text: '
+
+
+  # Quiz Game
+
+
+  <hr/>
+
+  <img alt="quiz image" src="./images/quiz.png"/>
+
+
+  ## Goal:
+
+
+  Use pop-ups to ask the user "quiz" questions. Use if / else to check their answers.
+
+
+  ## Steps:
+
+
+  1. Find the Quiz Game recipe program ( QuizGame.java ) and open it using Eclipse.
+
+  2. Follow the instructions in the program to code this game.
+
+
+
+
+  '
+title: 03 Print And Popups 4 Quiz Game

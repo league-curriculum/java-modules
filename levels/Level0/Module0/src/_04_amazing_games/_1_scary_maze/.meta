@@ -1,0 +1,38 @@
+assignment: 04_amazing_games_1_scary_maze
+dir: Level0/Module0/src/_04_amazing_games/_1_scary_maze
+lesson: 04_amazing_games
+level: Level0
+module: Module0
+oassignment: 1_scary_maze
+opath: Level0/Module0/src/_04_amazing_games/_1_scary_maze
+resources:
+- Level0/Module0/src/_04_amazing_games/_1_scary_maze/.web/standardMaze.png
+text: '
+
+
+  # Scary Maze
+
+
+  <hr/>
+
+  <img alt="maze image" src="./images/standardMaze.png"/>
+
+
+  ## Goal:
+
+
+  Design and build a maze game
+
+
+  ## Steps:
+
+
+  1. Find the Scary Maze recipe program ( ScaryMaze.java ) and open it using Eclipse.
+
+  2. Follow the instructions in the program to help you design and build a maze game.
+
+
+
+
+  '
+title: 04 Amazing Games 1 Scary Maze

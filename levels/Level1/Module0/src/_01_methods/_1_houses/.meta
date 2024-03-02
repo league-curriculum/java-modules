@@ -1,0 +1,21 @@
+assignment: 01_methods_1_houses
+dir: Level1/Module0/src/_01_methods/_1_houses
+lesson: 01_methods
+level: Level1
+module: Module0
+oassignment: 1_houses
+opath: Level1/Module0/src/_01_methods/_1_houses
+resources:
+- Level1/Module0/src/_01_methods/_1_houses/.web/houses.jpg
+text: "\n\n# Houses\n\n1. Have a robot start on the left side of the window near the\
+  \ bottom.\n\n2. Draw a flat-topped house of height 100 with grass after it (see\
+  \ picture).\n\n3. Extract the piece of code that draws the house into a method.\
+  \ Draw 10 houses.\n\n4. Change the method to take (int height) as a parameter. Draw\
+  \ 9 houses of different heights\n\n5. Make the method take a String instead of an\
+  \ int.\n\n\u201Csmall\u201D                 60\n\n\u201Cmedium\u201D\n120\n\n\u201C\
+  large\u201D\n250\n\n6. Make the method take a color as well as a height. The houses\
+  \ are drawn in that color.\n\n[optional] Set the scene to night by setting the background\
+  \ to black\n\n7. Give the houses peaked roofs\n\n8. Extract that roof code into\
+  \ a method \u201CdrawPointyRoof\u201D and create a new method: \u201CdrawFlatRoof\u201D\
+  .\n\n9. Make large houses have flat roofs\n\n\n"
+title: 01 Methods 1 Houses

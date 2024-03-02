@@ -1,0 +1,86 @@
+assignment: 12_online_practice_quiz
+dir: Level1/Module4/src/_12_online_practice_quiz
+lesson: 12_online_practice_quiz
+level: Level1
+module: Module4
+oassignment: 12_online_practice_quiz
+opath: Level1/Module4/src/_12_online_practice_quiz
+resources: []
+text: '<html>
+
+  <head>
+
+  <title>
+
+  League Level 1 - Quiz
+
+  </title>
+
+  <meta charset="utf-8"/>
+
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+
+  <link href="https://league-central.github.io/curriculum/style/style.css" rel="stylesheet"/>
+
+  <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet"/>
+
+  <style>
+
+
+  #quiz {
+
+
+  margin-left:50px;
+
+  }
+
+
+  #nav {
+
+
+  margin-left:50px;
+
+  position: relative;
+
+  }
+
+
+  #footer {
+
+
+  position: absolute;
+
+  bottom: -100;
+
+  width: 100%;
+
+  }
+
+  button {background-color:yellow; border-radius: 3px; font-size: 125%;
+
+  }
+
+  code {font-size: 125%; color: forestgreen}
+
+  pre{
+
+  margin: 10 auto;
+
+  width: 90%;
+
+  }
+
+  </style>
+
+  </head>
+
+
+  #
+
+
+  Level 1 Self-Test Quiz
+
+  </html>
+
+  '
+title: 12 Online Practice Quiz

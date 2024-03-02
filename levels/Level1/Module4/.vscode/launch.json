@@ -1,0 +1,47 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "AdvancedBinaryConverter",
+            "request": "launch",
+            "mainClass": "_99_extra.AdvancedBinaryConverter"
+        },
+        {
+            "type": "java",
+            "name": "BookOfIllusionsRunner",
+            "request": "launch",
+            "mainClass": "_04_book_of_illusions.BookOfIllusionsRunner"
+        },
+        {
+            "type": "java",
+            "name": "FortuneTellerRunner",
+            "request": "launch",
+            "mainClass": "_05_fortune_teller.FortuneTellerRunner"
+        },
+        {
+            "type": "java",
+            "name": "JeopardyRunner",
+            "request": "launch",
+            "mainClass": "_02_jeopardy.JeopardyRunner"
+        },
+        {
+            "type": "java",
+            "name": "LightsOutRunner",
+            "request": "launch",
+            "mainClass": "_11_lights_out.LightsOutRunner"
+        },
+        {
+            "type": "java",
+            "name": "SimonSaysRunner",
+            "request": "launch",
+            "mainClass": "_99_extra._02_simon_says.SimonSaysRunner"
+        },
+        {
+            "type": "java",
+            "name": "TVShowEpisodeInfoRunner",
+            "request": "launch",
+            "mainClass": "_07_tv_show_episode_info.TVShowEpisodeInfoRunner"
+        }
+    ]
+}

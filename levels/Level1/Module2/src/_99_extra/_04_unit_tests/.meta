@@ -1,0 +1,28 @@
+assignment: 99_extra_04_unit_tests
+dir: Level1/Module2/src/_99_extra/_04_unit_tests
+lesson: 99_extra
+level: Level1
+module: Module2
+oassignment: 04_unit_tests
+opath: Level1/Module2/src/_99_extra/_04_unit_tests
+resources: []
+text: "\n\n# Intro to Unit Tests\n\nAn important part of coding is testing to see\
+  \ if your code is working correctly. Instead of asking a person to run the program\
+  \ each time it is changed to make sure it still runs properly, we can make much\
+  \ more reliable automated tests to check it out. These are known as unit tests.\n\
+  Test-driven development (TDD) is a way of developing code where you write the tests\
+  \ before you even start writing the program.  It\u2019s a way to think through what\
+  \ your code must be able to do before your write it.\n\n### JUnit Tests\n\nJUnit\
+  \ is an open source framework designed for the purpose of writing and running tests\
+  \ for java programs.\n\nTests can be written that specify the expected return value\
+  \ from running some code.\nThe syntax for the tests looks like this:\nassertEquals(expected,\
+  \ actual)\nIf the \"expected\" value matches the \"actual\" value, the results bar\
+  \ displayed after running the tests will be green. If they are different (or there\
+  \ are errors), the results bar will be red.\n\nFor example, in the context of the\
+  \ \"real world\"\nassertEquals(true, Is water wet?)       results bar will be green\n\
+  \nassertEquals(true, Are zombies  real?)       results bar will be red\n\nassertEquals(false,\
+  \ Is coding lame?)       results bar will be green\nNow for some real code. Will\
+  \ the results bar be green or red for these asserts?\nassertEquals(4, add(2,2));\n\
+  \nassertEquals(\u201Cbrains\u201D, getZombieFood());\n\nassertEquals(2, getLargest(3,2));\n\
+  \n\n"
+title: 99 Extra 04 Unit Tests

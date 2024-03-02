@@ -1,0 +1,35 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "ConwaysGameOfLife",
+            "request": "launch",
+            "mainClass": "_03_Conways_Game_of_Life.ConwaysGameOfLife"
+        },
+        {
+            "type": "java",
+            "name": "CrazyDigitalPainting",
+            "request": "launch",
+            "mainClass": "_01_Crazy_Digital_Painting.CrazyDigitalPainting"
+        },
+        {
+            "type": "java",
+            "name": "MazeDisplay",
+            "request": "launch",
+            "mainClass": "_04_Maze_Maker.MazeDisplay"
+        },
+        {
+            "type": "java",
+            "name": "PixelArtMaker",
+            "request": "launch",
+            "mainClass": "_02_Pixel_Art.PixelArtMaker"
+        },
+        {
+            "type": "java",
+            "name": "_00_2DArrayDemo",
+            "request": "launch",
+            "mainClass": "_00_Intro_To_2D_Arrays._00_2DArrayDemo"
+        }
+    ]
+}

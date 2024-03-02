@@ -1,0 +1,36 @@
+assignment: 01_else_if_4_are_you_happy
+dir: Level0/Module3/src/_01_else_if/_4_are_you_happy
+lesson: 01_else_if
+level: Level0
+module: Module3
+oassignment: 4_are_you_happy
+opath: Level0/Module3/src/_01_else_if/_4_are_you_happy
+resources:
+- Level0/Module3/src/_01_else_if/_4_are_you_happy/.web/AreYouHappy.png
+text: '
+
+
+  # Are You Happy?
+
+
+  <hr/>
+
+  <img alt="Are You Happy? image" src="./images/AreYouHappy.png"/>
+
+
+  ## Goal:
+
+
+  Create a program that mimics the chart above using if and else if statements.
+
+
+  ## Steps:
+
+
+  1. Use JOptionPanes and if / else if /else statements to recreate [this chart](images/AreYouHappy.png).
+
+
+
+
+  '
+title: 01 Else If 4 Are You Happy

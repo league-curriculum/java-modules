@@ -1,0 +1,32 @@
+assignment: 03_string_conversion_1_intro
+dir: Level0/Module2/src/_03_string_conversion/_1_intro
+lesson: 03_string_conversion
+level: Level0
+module: Module2
+oassignment: 1_intro
+opath: Level0/Module2/src/_03_string_conversion/_1_intro
+resources:
+- Level0/Module2/src/_03_string_conversion/_1_intro/.web/parseInt3.png
+- Level0/Module2/src/_03_string_conversion/_1_intro/.web/parseInt2.png
+- Level0/Module2/src/_03_string_conversion/_1_intro/.web/paresInt1.png
+text: '
+
+
+  # Converting a String to an int
+
+
+  <img alt="images/paresInt1.png" src="./images/paresInt1.png" style="width: 964.00px;
+  height: 477.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad)
+  translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""/>
+
+  <img alt="images/parseInt2.png" src="./images/parseInt2.png" style="width: 962.00px;
+  height: 473.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad)
+  translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""/>
+
+  <img alt="images/parseInt3.png" src="./images/parseInt3.png" style="width: 958.00px;
+  height: 470.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad)
+  translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""/>
+
+
+  '
+title: 03 String Conversion 1 Intro

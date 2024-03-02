@@ -1,0 +1,45 @@
+assignment: 01_random_4_validation
+dir: Level0/Module2/src/_01_random/_4_validation
+lesson: 01_random
+level: Level0
+module: Module2
+oassignment: 4_validation
+opath: Level0/Module2/src/_01_random/_4_validation
+resources:
+- Level0/Module2/src/_01_random/_4_validation/.web/validation.png
+text: '
+
+
+  # Validation
+
+
+  <hr/>
+
+  <img src="./images/validation.png"/>
+
+
+  ## Goal:
+
+
+  Use a Random object to generate random integers so your code can generate random
+  compliments.
+
+
+  ## Steps:
+
+
+  1. Create a Random object.
+
+  2. Generate a random number between 0 and 4.
+
+  3. Map each value (0-4) to a unique compliment.
+
+  4. Print a random compliment 10 times (using a loop)
+
+  5. Test your code and receive some compliments.
+
+
+
+
+  '
+title: 01 Random 4 Validation

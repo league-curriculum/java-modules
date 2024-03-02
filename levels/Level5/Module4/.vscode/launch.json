@@ -1,0 +1,53 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "LightSwitchesRunner",
+            "request": "launch",
+            "mainClass": "_04_Light_Switches.LightSwitchesRunner"
+        },
+        {
+            "type": "java",
+            "name": "_01_BinaryPrinter",
+            "request": "launch",
+            "mainClass": "_03_Printing_Binary._01_BinaryPrinter"
+        },
+        {
+            "type": "java",
+            "name": "_01_IntroToAndOrXorNot",
+            "request": "launch",
+            "mainClass": "_02_AND_OR_and_XOR._01_IntroToAndOrXorNot"
+        },
+        {
+            "type": "java",
+            "name": "_01_IntroToBinary",
+            "request": "launch",
+            "mainClass": "_00_Binary_Conversion._01_IntroToBinary"
+        },
+        {
+            "type": "java",
+            "name": "_01_IntroToBitShifting",
+            "request": "launch",
+            "mainClass": "_01_Bit_Shifting._01_IntroToBitShifting"
+        },
+        {
+            "type": "java",
+            "name": "_02_HexadecimalPrinter",
+            "request": "launch",
+            "mainClass": "_03_Printing_Binary._02_HexadecimalPrinter"
+        },
+        {
+            "type": "java",
+            "name": "_03_DecimalToBinary",
+            "request": "launch",
+            "mainClass": "_00_Binary_Conversion._03_DecimalToBinary"
+        },
+        {
+            "type": "java",
+            "name": "_04_NegativeBinaryNumbers",
+            "request": "launch",
+            "mainClass": "_00_Binary_Conversion._04_NegativeBinaryNumbers"
+        }
+    ]
+}

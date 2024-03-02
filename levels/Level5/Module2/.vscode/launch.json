@@ -1,0 +1,41 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Mandelbrot",
+            "request": "launch",
+            "mainClass": "_04_Thread_Pool.tests.Mandelbrot"
+        },
+        {
+            "type": "java",
+            "name": "SynchedSplitLoops",
+            "request": "launch",
+            "mainClass": "_06_Wait_and_Notify.Practice.SynchedSplitLoops"
+        },
+        {
+            "type": "java",
+            "name": "SynchronizedSwimming",
+            "request": "launch",
+            "mainClass": "_05_Synchronized_Swimming.SynchronizedSwimming"
+        },
+        {
+            "type": "java",
+            "name": "ThreadDemo",
+            "request": "launch",
+            "mainClass": "_00_Thread_Demo.ThreadDemo"
+        },
+        {
+            "type": "java",
+            "name": "ThreadedGreeting",
+            "request": "launch",
+            "mainClass": "_03_Threaded_Greeting.ThreadedGreeting"
+        },
+        {
+            "type": "java",
+            "name": "WaitAndNotifyExample",
+            "request": "launch",
+            "mainClass": "_06_Wait_and_Notify.Example.WaitAndNotifyExample"
+        }
+    ]
+}

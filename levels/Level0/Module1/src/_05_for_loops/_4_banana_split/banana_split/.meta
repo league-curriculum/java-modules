@@ -1,0 +1,17 @@
+assignment: 05_for_loops_4_banana_split
+dir: Level0/Module1/src/_05_for_loops/_4_banana_split/banana_split
+lesson: 05_for_loops
+level: Level0
+module: Module1
+oassignment: 4_banana_split
+opath: Level0/Module1/src/_05_for_loops/_4_banana_split/banana_split
+resources:
+- Level0/Module1/src/_05_for_loops/_4_banana_split/banana_split/.web/splitOutput.png
+text: "\n\n# Banana Split\n\n<hr/>\n<img alt=\"Banana Split image\" src=\"http://level0.jointheleague.org/modules/Mod1Recipes/images/splitOutput.png\"\
+  />\n\n## Goal:\n\nUse for loops to recreate the image above!\n\n## Steps:\n\n1.\
+  \ Find the Banana Split recipe program ( banana_split.pde ) and open it using Processing.\n\
+  2. Use the code below to help you print \u201Cice cream ice cream ice cream banana\u201D\
+  \ on the sketch.  However, you can only use the words \"ice cream\" once in your\
+  \ code so you'll need a loop.\n```\n\ntext(\"word\", xPos, yPos);\n```\n3. Make\
+  \ sure you SAVE YOUR CODE when you are done.\n\n\n\n"
+title: 05 For Loops 4 Banana Split

@@ -1,0 +1,40 @@
+assignment: 02_methods_3_dot_race
+dir: Level0/Module2/src/_02_methods/_3_dot_race/dot_race
+lesson: 02_methods
+level: Level0
+module: Module2
+oassignment: 3_dot_race
+opath: Level0/Module2/src/_02_methods/_3_dot_race/dot_race
+resources:
+- Level0/Module2/src/_02_methods/_3_dot_race/dot_race/.web/dotRace.png
+text: '
+
+
+  # Dot Race
+
+
+  <hr/>
+
+  <img src="./images/dotRace.png"/>
+
+
+  ## Goal:
+
+
+  Make the dot move across the screen when you press the mouse.
+
+
+  ## Steps:
+
+
+  1. Find the Dot Race recipe program ( dot_race.pde ) and open it using Processing.
+
+  2. Follow the instructions in the code to make a dot race across the screen.
+
+  3. Make sure you SAVE YOUR CODE when you are done.
+
+
+
+
+  '
+title: 02 Methods 3 Dot Race

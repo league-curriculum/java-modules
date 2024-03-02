@@ -1,0 +1,35 @@
+assignment: 06_spot_the_error
+dir: Level0/Module1/src/_06_spot_the_error
+lesson: 06_spot_the_error
+level: Level0
+module: Module1
+oassignment: 06_spot_the_error
+opath: Level0/Module1/src/_06_spot_the_error
+resources:
+- Level0/Module1/src/_06_spot_the_error/.web/bug.jpg
+text: '
+
+
+  # Spot the Errors
+
+
+  <hr/>
+
+
+  ### Fix the Print
+
+
+
+  ### Hello Bob
+
+
+
+  ### Make It Count
+
+
+  <hr/>
+
+
+
+  '
+title: 06 Spot The Error

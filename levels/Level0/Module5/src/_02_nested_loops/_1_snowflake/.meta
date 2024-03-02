@@ -1,0 +1,41 @@
+assignment: 02_nested_loops_1_snowflake
+dir: Level0/Module5/src/_02_nested_loops/_1_snowflake
+lesson: 02_nested_loops
+level: Level0
+module: Module5
+oassignment: 1_snowflake
+opath: Level0/Module5/src/_02_nested_loops/_1_snowflake
+resources:
+- Level0/Module5/src/_02_nested_loops/_1_snowflake/.web/snowflake.png
+text: '
+
+
+  # Snowflake
+
+
+  <hr/>
+
+  <img src="./images/snowflake.png"/>
+
+
+  ## Goal:
+
+
+  Use nested for loops to draw a multi-colored snowflake.
+
+
+  ## Steps:
+
+
+  1. This recipe introduces using nested for loops (where one for loop is inside another
+  for loop).
+
+  2. Follow the instructions in the code to complete this recipe.
+
+  3. When complete the Robot should draw the pattern shown here.
+
+
+
+
+  '
+title: 02 Nested Loops 1 Snowflake

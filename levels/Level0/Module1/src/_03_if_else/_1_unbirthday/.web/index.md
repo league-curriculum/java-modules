@@ -1,0 +1,22 @@
+
+
+# Unbirthday
+
+<hr/>
+<img src="./images/unbirthday.jpg"/>
+
+## Goal:
+
+Find out if today is the user's birthday!
+
+## Steps:
+
+1. Ask the user for their birthday (mm/dd), e.g. 06/09
+2. If it matches today's date, wish them a happy birthday
+3. otherwise, wish them a very merry UNbirthday
+
+
+Optional: Watch [this video](https://www.youtube.com/watch?v=iL2Wm-PcfPo).
+
+
+

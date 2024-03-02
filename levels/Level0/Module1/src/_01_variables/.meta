@@ -1,0 +1,23 @@
+assignment: 01_variables
+dir: Level0/Module1/src/_01_variables
+lesson: 01_variables
+level: Level0
+module: Module1
+oassignment: 01_variables
+opath: Level0/Module1/src/_01_variables
+resources:
+- Level0/Module1/src/_01_variables/.web/Variables1.png
+- Level0/Module1/src/_01_variables/.web/Variables2.png
+text: '
+
+  <img alt="images/Variables1.png" src="./images/Variables1.png" style="width: 960.00px;
+  height: 540.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad)
+  translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""/>
+
+  <img alt="images/Variables2.png" src="./images/Variables2.png" style="width: 960.00px;
+  height: 540.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad)
+  translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""/>
+
+
+  '
+title: 01 Variables

@@ -1,0 +1,89 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "DragonFight",
+            "request": "launch",
+            "mainClass": "_04_amazing_games._2_dragon_fight.DragonFight"
+        },
+        {
+            "type": "java",
+            "name": "FlamingNinjaStar",
+            "request": "launch",
+            "mainClass": "_02_code_flow._4_flaming_ninja_star.FlamingNinjaStar"
+        },
+        {
+            "type": "java",
+            "name": "FourSquare",
+            "request": "launch",
+            "mainClass": "_99_extra.FourSquare"
+        },
+        {
+            "type": "java",
+            "name": "MadlibsOfTheAmazon",
+            "request": "launch",
+            "mainClass": "_03_print_and_popups._2_madlibs.MadlibsOfTheAmazon"
+        },
+        {
+            "type": "java",
+            "name": "PentagonCrazy",
+            "request": "launch",
+            "mainClass": "_02_code_flow._3_pentagon_crazy.PentagonCrazy"
+        },
+        {
+            "type": "java",
+            "name": "QuizGame",
+            "request": "launch",
+            "mainClass": "_03_print_and_popups._4_quiz_game.QuizGame"
+        },
+        {
+            "type": "java",
+            "name": "RobotDemo",
+            "request": "launch",
+            "mainClass": "_01_demo.RobotDemo"
+        },
+        {
+            "type": "java",
+            "name": "RobotSpiral",
+            "request": "launch",
+            "mainClass": "_02_code_flow._2_robot_spiral.RobotSpiral"
+        },
+        {
+            "type": "java",
+            "name": "RobotSquare",
+            "request": "launch",
+            "mainClass": "_02_code_flow._1_robot_square.RobotSquare"
+        },
+        {
+            "type": "java",
+            "name": "ScaryMaze",
+            "request": "launch",
+            "mainClass": "_04_amazing_games._1_scary_maze.ScaryMaze"
+        },
+        {
+            "type": "java",
+            "name": "SmartShapes",
+            "request": "launch",
+            "mainClass": "_99_extra.SmartShapes"
+        },
+        {
+            "type": "java",
+            "name": "StarShow",
+            "request": "launch",
+            "mainClass": "_99_extra.StarShow"
+        },
+        {
+            "type": "java",
+            "name": "TriangleShell",
+            "request": "launch",
+            "mainClass": "_99_extra.TriangleShell"
+        },
+        {
+            "type": "java",
+            "name": "WorldDomination",
+            "request": "launch",
+            "mainClass": "_03_print_and_popups._3_world_domination.WorldDomination"
+        }
+    ]
+}

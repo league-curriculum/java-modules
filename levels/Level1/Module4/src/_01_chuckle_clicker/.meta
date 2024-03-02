@@ -1,0 +1,23 @@
+assignment: 01_chuckle_clicker
+dir: Level1/Module4/src/_01_chuckle_clicker
+lesson: 01_chuckle_clicker
+level: Level1
+module: Module4
+oassignment: 01_chuckle_clicker
+opath: Level1/Module4/src/_01_chuckle_clicker
+resources:
+- Level1/Module4/src/_01_chuckle_clicker/.web/chuckle.png
+text: "\n\n# Chuckle Clicker\n\nWe are going to tell the user jokes that have punchlines.\n\
+  1. Make a ChuckleClicker class with a main method and a makeButtons() method.\n\
+  Open a pop-up that shows the message \"Make Buttons\" in the makeButtons method,\
+  \ to prove that it is working.\n(You will need to instantiate your class before\
+  \ you can call the method).\n\n2. Now change the makeButtons() method, to make a\
+  \ JFrame and get it to show.\n\n3.Add a JPanel and two JButtons to the frame, so\
+  \ it looks a lot like this:\n\n4. *[Optional] Customize your GUI with setText, setSize,\
+  \ etc.\n5. Make a pop-up that says \u201Chi\u201D when either of the buttons are\
+  \ pressed. You will need to add listeners to the buttons for this to work.\n\n6.\
+  \ Check if the ActionEvent came from the joke button or the punchline button.\n\
+  if(event.getSource() == jokeButton)\nHint: You might need to move the declaration\
+  \ of your buttons outside of the makeButtons() method.\n7. Use JOptionPane to print\
+  \ the joke or the punchline depending on which button was clicked.\n\n\n"
+title: 01 Chuckle Clicker

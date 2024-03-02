@@ -1,0 +1,19 @@
+assignment: 05_for_loops_2_badgers
+dir: Level0/Module1/src/_05_for_loops/_2_badgers
+lesson: 05_for_loops
+level: Level0
+module: Module1
+oassignment: 2_badgers
+opath: Level0/Module1/src/_05_for_loops/_2_badgers
+resources:
+- Level0/Module1/src/_05_for_loops/_2_badgers/.web/badgers.png
+text: "\n\n# Badgers\n\n<hr/>\n<img src=\"./images/badgers.png\"/>\n\n## Goal:\n\n\
+  Print the lyrics to the\nBadgers song!\n\n## Steps:\n\n1. Use for loops (you will\
+  \ need more than one) to print the following lyrics from the Badger Song.  You can\
+  \ only use the words \u201CBadger\u201D, \u201CMushroom\u201D and \u201CSnake\u201D\
+  \ once each in your code.\n\n\nPrint 2 verses of the song as follows:\n\n\nBadger,\
+  \ Badger, Badger, Badger, Badger, Badger, Badger,Badger, Badger,Badger, Badger,\
+  \ Badger\n\nMushroom, Mushroom\n\nBadger, Badger, Badger,Badger, Badger, Badger,\
+  \ Badger,Badger, Badger, Badger, Badger, Badger\n\nMushroom, Mushroom\n\nA Snake!!!\n\
+  \n\n\n"
+title: 05 For Loops 2 Badgers

@@ -1,0 +1,47 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "FixThePrint",
+            "request": "launch",
+            "mainClass": "_06_spot_the_error.FixThePrint"
+        },
+        {
+            "type": "java",
+            "name": "HelloBob",
+            "request": "launch",
+            "mainClass": "_06_spot_the_error.HelloBob"
+        },
+        {
+            "type": "java",
+            "name": "MakeItCount",
+            "request": "launch",
+            "mainClass": "_06_spot_the_error.MakeItCount"
+        },
+        {
+            "type": "java",
+            "name": "MyAges",
+            "request": "launch",
+            "mainClass": "_05_for_loops._1_my_ages.MyAges"
+        },
+        {
+            "type": "java",
+            "name": "Remarkable",
+            "request": "launch",
+            "mainClass": "_03_if_else._2_remarkable.Remarkable"
+        },
+        {
+            "type": "java",
+            "name": "RobotInSpace",
+            "request": "launch",
+            "mainClass": "_04_int._2_robot_in_space.RobotInSpace"
+        },
+        {
+            "type": "java",
+            "name": "TheRiddler",
+            "request": "launch",
+            "mainClass": "_04_int._1_riddler.TheRiddler"
+        }
+    ]
+}

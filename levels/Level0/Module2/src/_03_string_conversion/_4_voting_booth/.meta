@@ -1,0 +1,40 @@
+assignment: 03_string_conversion_4_voting_booth
+dir: Level0/Module2/src/_03_string_conversion/_4_voting_booth
+lesson: 03_string_conversion
+level: Level0
+module: Module2
+oassignment: 4_voting_booth
+opath: Level0/Module2/src/_03_string_conversion/_4_voting_booth
+resources:
+- Level0/Module2/src/_03_string_conversion/_4_voting_booth/.web/vote.jpg
+text: '
+
+
+  # Voting Booth
+
+
+  <hr/>
+
+  <img src="./images/vote.jpg"/>
+
+
+  ## Goal:
+
+
+  Check if a person is old enough to vote!
+
+
+  ## Steps:
+
+
+  1. Ask the user how old they are (in years)
+
+  2. If they are over 18, ask them who the next president should be
+
+  3. If they are younger, tell them nobody cares what they think
+
+
+
+
+  '
+title: 03 String Conversion 4 Voting Booth

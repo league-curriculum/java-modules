@@ -1,0 +1,28 @@
+assignment: 06_calculator
+dir: Level1/Module4/src/_06_calculator
+lesson: 06_calculator
+level: Level1
+module: Module4
+oassignment: 06_calculator
+opath: Level1/Module4/src/_06_calculator
+resources:
+- Level1/Module4/src/_06_calculator/.web/calculator.png
+text: '
+
+
+  # Calculator
+
+
+  1. In a Calculator class, create methods for add, multiply, subtract, and divide.
+
+
+  2. Create a CalculatorRunner class to test the above methods.
+
+
+  3. Add a Swing UI to the Calculator (see example below), with 2 fields to input
+  numbers, and buttons for each math operation.
+
+
+
+  '
+title: 06 Calculator

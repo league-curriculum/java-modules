@@ -1,0 +1,23 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CowTimerRunner",
+            "request": "launch",
+            "mainClass": "_05_cow_timer.CowTimerRunner"
+        },
+        {
+            "type": "java",
+            "name": "SmileyBluesRunner",
+            "request": "launch",
+            "mainClass": "_02_static_smiley_blues.SmileyBluesRunner"
+        },
+        {
+            "type": "java",
+            "name": "StaticKeywordDemoRunner",
+            "request": "launch",
+            "mainClass": "_01_intro_to_static.StaticKeywordDemoRunner"
+        }
+    ]
+}

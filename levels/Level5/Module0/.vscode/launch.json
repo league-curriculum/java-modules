@@ -1,0 +1,35 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "IntroToLambdas",
+            "request": "launch",
+            "mainClass": "_00_JButtons_with_Lambdas.IntroToLambdas"
+        },
+        {
+            "type": "java",
+            "name": "IntroToStreams",
+            "request": "launch",
+            "mainClass": "_02_Intro_To_Streams.IntroToStreams"
+        },
+        {
+            "type": "java",
+            "name": "LambdaButtons",
+            "request": "launch",
+            "mainClass": "_00_JButtons_with_Lambdas.LambdaButtons"
+        },
+        {
+            "type": "java",
+            "name": "LambdaMethods",
+            "request": "launch",
+            "mainClass": "_01_Lambda_Methods.LambdaMethods"
+        },
+        {
+            "type": "java",
+            "name": "Minesweeper",
+            "request": "launch",
+            "mainClass": "_05_Minesweeper.Minesweeper"
+        }
+    ]
+}

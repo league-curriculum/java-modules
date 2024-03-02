@@ -1,0 +1,17 @@
+assignment: 05_self_tests_4_missing_mustaches
+dir: Level0/Module5/src/_05_self_tests/_4_missing_mustaches
+lesson: 05_self_tests
+level: Level0
+module: Module5
+oassignment: 4_missing_mustaches
+opath: Level0/Module5/src/_05_self_tests/_4_missing_mustaches
+resources: []
+text: "\n\n# The League of Amazing Programmers\n\n\n## Moustaches\n\n\n### Put the\
+  \ moustaches where they belong\n\n```\n\n  \npublic class Moustache2\n\n      public\
+  \ static void main(String[] args) \n\n          \tfor (int j = 0; j < 10; j++) \n\
+  \n                  if (input.equals(\"are cool\"))\n\n                      for\
+  \ (int i = 0; i < 50; i++) \n\n                            System.out.println(\"\
+  {}\");\n\n                  else \n\n                        System.out.println(\"\
+  you don't like moustaches... no soup for you\");\n\n \n\n  \n  \n\nSUBMIT YOUR ANSWER\n\
+  ```\n<hr size=\"3\"/>\n\n"
+title: 05 Self Tests 4 Missing Mustaches

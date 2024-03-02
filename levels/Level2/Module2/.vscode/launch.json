@@ -1,0 +1,47 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "AnimalRunner",
+            "request": "launch",
+            "mainClass": "_03_animals_original.AnimalRunner"
+        },
+        {
+            "type": "java",
+            "name": "AnimalRunner",
+            "request": "launch",
+            "mainClass": "_04_animals_inheritance.AnimalRunner"
+        },
+        {
+            "type": "java",
+            "name": "IntroToTimers",
+            "request": "launch",
+            "mainClass": "_07_timers.IntroToTimers"
+        },
+        {
+            "type": "java",
+            "name": "LeagueOptionPaneRunner",
+            "request": "launch",
+            "mainClass": "_06_overloading.LeagueOptionPaneRunner"
+        },
+        {
+            "type": "java",
+            "name": "PizzaRunner",
+            "request": "launch",
+            "mainClass": "_05_overriding.PizzaRunner"
+        },
+        {
+            "type": "java",
+            "name": "ShapeRunner",
+            "request": "launch",
+            "mainClass": "_02_shapes_inheritance.ShapeRunner"
+        },
+        {
+            "type": "java",
+            "name": "ShapeRunner",
+            "request": "launch",
+            "mainClass": "_01_shapes_original.ShapeRunner"
+        }
+    ]
+}

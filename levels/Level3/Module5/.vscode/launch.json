@@ -1,0 +1,17 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "_00_IntroToRecursion",
+            "request": "launch",
+            "mainClass": "_00_Intro_To_Recursion._00_IntroToRecursion"
+        },
+        {
+            "type": "java",
+            "name": "_01_Factorial",
+            "request": "launch",
+            "mainClass": "_00_Intro_To_Recursion._01_Factorial"
+        }
+    ]
+}

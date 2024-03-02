@@ -1,0 +1,60 @@
+assignment: 05_self_tests_3_whats_the_output
+dir: Level0/Module5/src/_05_self_tests/_3_whats_the_output
+lesson: 05_self_tests
+level: Level0
+module: Module5
+oassignment: 3_whats_the_output
+opath: Level0/Module5/src/_05_self_tests/_3_whats_the_output
+resources: []
+text: "\n\n# The League of Amazing Programmers\n\n\n## What's the Output?\n\n\n###\
+  \ Each number is a complete Java program. If you were to run this program, what\
+  \ output would show up on the screen?\n\nType your answers in the box. Read each\
+  \ question carefully. Your answers must be exact.\n```\n\n1.\nclass MyJavaProgram{\n\
+  \tpublic static void main(String[] args){\n\t\tSystem.out.println(\"Tacos\");\n\t\
+  }\n}\n\n2.\nclass MyJavaProgram{\n\tpublic static void main(String[] args){\n\t\t\
+  String book = \"Cat in the Hat\";\n\t\tSystem.out.println(book);\n\t}\n}\n\n3.\n\
+  class MyJavaProgram{\n\tpublic static void main(String[] args){\n\t\tString book\
+  \ = \"Frankenstein\";\n\t\tSystem.out.println(book + \" \" + book);\n\t}\n}\n\n\
+  4.\nclass MyJavaProgram{\n\tpublic static void main(String[] args){\n\t\tString\
+  \ book = \"Tale of Two Cities\";\n\t\tSystem.out.println(\"book\");\n\t}\n}\n\n\
+  5.\nclass MyJavaProgram{\n\tpublic static void main(String[] args){\n\t\tint i =\
+  \ 5;\n\t\tSystem.out.println(i);\n\t}\n}\n\n6.\nclass MyJavaProgram{\n\tpublic static\
+  \ void main(String[] args){\n\t\tint x = -3;\n\t\tint y = 6;\n\t\tSystem.out.println(x\
+  \ + y);\n\t}\n}\n\n7.\nclass MyJavaProgram{\n\tpublic static void main(String[]\
+  \ args){\n\t\tint s = 4;\n\n\t\tif(s == 4){\n\t\t\tSystem.out.println(\"FOUR\");\n\
+  \t\t} \n\t\telse {\n\t\t\tSystem.out.println(\"FIVE\");\n\t\t}\n\t}\n}\n\n8.\nclass\
+  \ MyJavaProgram{\n\tpublic static void main(String[] args){\n\t\tint j = 1;\n\n\t\
+  \tif(j > 0){\n\t\t\tSystem.out.println(\"CLICK\");\n\t\t} \n\t\telse if ( j == 2){\n\
+  \t\t\tSystem.out.println(\"CLICK\");\n\t\t}\n\n\t\tSystem.out.println(\"CLICK\"\
+  );\n\n\t}\n}\n\n9.\nclass MyJavaProgram{\n\tpublic static void main(String[] args){\n\
+  \t\tint j = 1;\n\t\tint k = 2;\n\n\t\tif(j != k){\n\t\t\tSystem.out.println(\"1\"\
+  );\n\t\t} \n\t\telse if (k != j){\n\t\t\tSystem.out.println(\"2\");\n\t\t}\n\t\t\
+  else{\n\t\t\tSystem.out.println(\"3\");\n\n\t\t}\n\n\t\tSystem.out.println(\"4\"\
+  );\n\n\t}\n}\n\n10.\nclass MyJavaProgram{\n\tpublic static void main(String[] args){\n\
+  \t\tint i = 0;\n\t\tint j = 1;\n\t\tint k = 2;\n\n\t\tif(i == 0){\n\t\t\tSystem.out.println(i);\n\
+  \t\t}\n\t\tif(j == 1){\n\t\t\tSystem.out.println(j);\n\t\t}\n\t\tif(k == 2){\n\t\
+  \t\tSystem.out.println(k);\n\t\t}\n\t}\n}\n\n11.\nclass MyJavaProgram{\n\tpublic\
+  \ static void main(String[] args){\n\t\tString x = \"X\";\n\t\tString y = \"Y\"\
+  ;\n\n\t\tSystem.out.print(x);\n\t\tSystem.out.print(y);\n\t}\n}\n\n12.\nclass MyJavaProgram{\n\
+  \tpublic static void main(String[] args){\n\t\tString a = \"A\";\n\t\tString b =\
+  \ \"B\";\n\t\tString c = \"C\";\n\n\t\tSystem.out.print(c + a + b);\n\t}\n}\n\n\
+  13.\nclass MyJavaProgram{\n\tpublic static void main(String[] args){\n\t\tString\
+  \ a = \"C\";\n\t\tString b = \"B\";\n\t\tString c = \"A\";\n\n\t\tSystem.out.print(c\
+  \ + a + b);\n\t}\n}\n\n14.\nclass MyJavaProgram{\n\tpublic static void main(String[]\
+  \ args){\n\t\tfor(int i = 0; i < 5; i++){\n\t\t\tSystem.out.print(i);\n\t\t}\n\t\
+  }\n}\n\n15.\nclass MyJavaProgram{\n\tpublic static void main(String[] args){\n\t\
+  \tfor(int i = 5; i >= 0; i--){\n\t\t\tSystem.out.println(i);\n\t\t}\n\t}\n}\n\n\
+  16.\nclass MyJavaProgram{\n\tpublic static void main(String[] args){\n\t\tString\
+  \ h = \"horse\";\n\t\tfor(int i = 5; i >= 0; i--){\n\t\t\tSystem.out.println(h);\n\
+  \t\t}\n\t}\n}\n\n17.\nclass MyJavaProgram{\n\tpublic static void main(String[] args){\n\
+  \t\tString d = \"dynomite\";\n\t\tfor(int i = 5; i >= 0; i--){\n\t\t\tSystem.out.println(i);\n\
+  \t\t}\n\t\tSystem.out.println(d);\n\t}\n}\n\n18.\nclass MyJavaProgram{\n\tpublic\
+  \ static void main(String[] args){\n\t\tfor(int i = 0; i < 20; i++){\n\t\t\tif(i\
+  \ % 2 == 0){\n\t\t\t\tSystem.out.print(i + \", \");\n\t\t\t}\n\t\t}\n\t}\n}\n\n\
+  19.\nclass MyJavaProgram{\n\tpublic static void main(String[] args){\n\t\tString\
+  \ count = \"\";\n\t\tfor(int i = 5; i >= 0; i--){\n\t\t\tcount += \"count\" + i\
+  \ + \" \";\n\t\t}\n\t\tSystem.out.println(count);\n\t}\n}\n\n20.\nclass MyJavaProgram{\n\
+  \tpublic static void main(String[] args){\n\t\tint x = 7;\n\n\t\tfor(int i = 0;\
+  \ i < 22; i++){\n\t\t\tif(i % x == 0){\n\t\t\t\tSystem.out.print(i + \", \");\n\t\
+  \t\t}\n\t\t}\n\t}\n}\n\nSUBMIT YOUR ANSWERS\n```\n<hr size=\"3\"/>\n\n"
+title: 05 Self Tests 3 Whats The Output

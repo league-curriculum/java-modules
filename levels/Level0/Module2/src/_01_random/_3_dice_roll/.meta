@@ -1,0 +1,44 @@
+assignment: 01_random_3_dice_roll
+dir: Level0/Module2/src/_01_random/_3_dice_roll
+lesson: 01_random
+level: Level0
+module: Module2
+oassignment: 3_dice_roll
+opath: Level0/Module2/src/_01_random/_3_dice_roll
+resources:
+- Level0/Module2/src/_01_random/_3_dice_roll/.web/dice.png
+text: '
+
+
+  # Dice Roll
+
+
+  <hr/>
+
+  <img src="./images/dice.png"/>
+
+
+  ## Goal:
+
+
+  Use a Random object to generate random integers so your code can roll different
+  numbers on a dice.
+
+
+  ## Steps:
+
+
+  1. Create a Random object.
+
+  2. Generate a random number between 1 and 6.
+
+  3. Change the code to display the dice image to match the number each time the "CLICK
+  HERE TO ROLL" button is pressed.
+
+  4. Test your code to make sure all 6 sides are displayed.
+
+
+
+
+  '
+title: 01 Random 3 Dice Roll

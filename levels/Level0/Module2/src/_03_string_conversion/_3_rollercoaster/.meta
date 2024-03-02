@@ -1,0 +1,42 @@
+assignment: 03_string_conversion_3_rollercoaster
+dir: Level0/Module2/src/_03_string_conversion/_3_rollercoaster
+lesson: 03_string_conversion
+level: Level0
+module: Module2
+oassignment: 3_rollercoaster
+opath: Level0/Module2/src/_03_string_conversion/_3_rollercoaster
+resources: []
+text: '
+
+
+  # Roller Coaster
+
+
+  <hr/>
+
+  <img src="./images/rollercoaster.jpeg"/>
+
+
+  ## Goal:
+
+
+  Check if a person is tall enough to ride the roller coaster!
+
+
+  ## Steps:
+
+
+  1. Ask the user what height they are (in inches)
+
+  2. If they are 48" or taller, tell them they can go on the coaster alone.
+
+  3. If they are between 42" and 47" tall, tell them they need to ride with someone
+  else.
+
+  4. If they are less than 42" tall, tell them they need to grow more.
+
+
+
+
+  '
+title: 03 String Conversion 3 Rollercoaster

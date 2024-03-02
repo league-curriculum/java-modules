@@ -1,0 +1,38 @@
+assignment: 02_code_flow_1_robot_square
+dir: Level0/Module0/src/_02_code_flow/_1_robot_square
+lesson: 02_code_flow
+level: Level0
+module: Module0
+oassignment: 1_robot_square
+opath: Level0/Module0/src/_02_code_flow/_1_robot_square
+resources:
+- Level0/Module0/src/_02_code_flow/_1_robot_square/.web/robotSquare.png
+text: '
+
+
+  # Robot Square
+
+
+  <hr/>
+
+  <img alt="square image" src="./images/robotSquare.png"/>
+
+
+  ## Goal:
+
+
+  Use a loop to draw a square using a Robot
+
+
+  ## Steps:
+
+
+  1. Find the RobotSquare recipe program ( RobotSquare.java ) and open it using Eclipse.
+
+  2. Follow the instructions in the program to help you make a Robot draw a square.
+
+
+
+
+  '
+title: 02 Code Flow 1 Robot Square

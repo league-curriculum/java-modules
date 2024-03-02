@@ -1,0 +1,39 @@
+assignment: 02_code_flow_2_robot_spiral
+dir: Level0/Module0/src/_02_code_flow/_2_robot_spiral
+lesson: 02_code_flow
+level: Level0
+module: Module0
+oassignment: 2_robot_spiral
+opath: Level0/Module0/src/_02_code_flow/_2_robot_spiral
+resources:
+- Level0/Module0/src/_02_code_flow/_2_robot_spiral/.web/spiral.png
+text: '
+
+
+  # Robot Spiral
+
+
+  <hr/>
+
+  <img alt="spiral image" src="./images/spiral.png"/>
+
+
+  ## Goal:
+
+
+  Use a loop to draw a spiral pattern using a Robot
+
+
+  ## Steps:
+
+
+  1. Find the RobotSpiral recipe program ( RobotSpiral.java ) and open it using Eclipse.
+
+  2. Follow the instructions in the program to help you make a Robot draw a spiral
+  pattern.
+
+
+
+
+  '
+title: 02 Code Flow 2 Robot Spiral

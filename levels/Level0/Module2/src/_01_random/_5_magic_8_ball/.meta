@@ -1,0 +1,42 @@
+assignment: 01_random_5_magic_8_ball
+dir: Level0/Module2/src/_01_random/_5_magic_8_ball
+lesson: 01_random
+level: Level0
+module: Module2
+oassignment: 5_magic_8_ball
+opath: Level0/Module2/src/_01_random/_5_magic_8_ball
+resources: []
+text: '
+
+
+  # Magic 8 Ball
+
+
+  <hr/>
+
+  <img src="./images/magic8ball.jpeg"/>
+
+
+  ## Goal:
+
+
+  Use a Random object to generate random integers so your code can generate random
+  messages from the Magic 8 Ball.
+
+
+  ## Steps:
+
+
+  1. Create a Random object.
+
+  2. Generate a random number between 0 and 3.
+
+  3. Map each value (0-3) to a unique message.
+
+  4. Test your code and receive some magic answers from the 8 ball.
+
+
+
+
+  '
+title: 01 Random 5 Magic 8 Ball

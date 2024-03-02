@@ -1,0 +1,29 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "AsteroidsRunner",
+            "request": "launch",
+            "mainClass": "_01_asteroids.AsteroidsRunner"
+        },
+        {
+            "type": "java",
+            "name": "HungryHungryHipposRunner",
+            "request": "launch",
+            "mainClass": "_09_HungryHungryHippos.HungryHungryHipposRunner"
+        },
+        {
+            "type": "java",
+            "name": "RaceCarRunner",
+            "request": "launch",
+            "mainClass": "_02_race_car.RaceCarRunner"
+        },
+        {
+            "type": "java",
+            "name": "SolarSystemRunner",
+            "request": "launch",
+            "mainClass": "_08_SolarSystem.SolarSystemRunner"
+        }
+    ]
+}

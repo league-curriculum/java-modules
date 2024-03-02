@@ -1,0 +1,43 @@
+assignment: 03_remainder_3_bumble_bee
+dir: Level0/Module3/src/_03_remainder/_3_bumble_bee/bumble_bee
+lesson: 03_remainder
+level: Level0
+module: Module3
+oassignment: 3_bumble_bee
+opath: Level0/Module3/src/_03_remainder/_3_bumble_bee/bumble_bee
+resources:
+- Level0/Module3/src/_03_remainder/_3_bumble_bee/bumble_bee/.web/bumbleBee.png
+text: '
+
+
+  # Bumblebee
+
+
+  <hr/>
+
+  <img alt="Bumblebee image" src="./images/bumbleBee.png"/>
+
+
+  ## Goal:
+
+
+  Draw the bumblebee using a for loop and remainder
+
+
+  ## Steps:
+
+
+  1. This recipe practices using remainder and calling methods that use parameters.
+
+  2. Find the Bumble Bee recipe program ( bumble_bee.pde ) and open it using Processing.
+
+  3. Follow the instructions in the code to make a long stripy bumble bee like the
+  one in the picture.
+
+  4. Make sure you SAVE YOUR CODE when you are done.
+
+
+
+
+  '
+title: 03 Remainder 3 Bumble Bee

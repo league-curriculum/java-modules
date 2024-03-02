@@ -1,0 +1,41 @@
+assignment: 02_methods_4_moles_in_holes
+dir: Level0/Module2/src/_02_methods/_4_moles_in_holes/moles_in_holes
+lesson: 02_methods
+level: Level0
+module: Module2
+oassignment: 4_moles_in_holes
+opath: Level0/Module2/src/_02_methods/_4_moles_in_holes/moles_in_holes
+resources:
+- Level0/Module2/src/_02_methods/_4_moles_in_holes/moles_in_holes/.web/molesInHoles.png
+text: '
+
+
+  # Moles in Holes
+
+
+  <hr/>
+
+  <img alt="Moles in Holes image" src="./images/molesInHoles.png"/>
+
+
+  ## Goal:
+
+
+  Put the moles in their holes!
+
+
+  ## Steps:
+
+
+  1. Find the Moles In Holes recipe program ( moles_in_holes.pde ) and open it using
+  Processing.
+
+  2. Follow the instructions in the code to put moles in the holes.
+
+  3. Make sure you SAVE YOUR CODE when you are done.
+
+
+
+
+  '
+title: 02 Methods 4 Moles In Holes

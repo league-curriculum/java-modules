@@ -1,0 +1,60 @@
+assignment: 05_self_tests_7_study_guide
+dir: Level0/Module5/src/_05_self_tests/_7_study_guide
+lesson: 05_self_tests
+level: Level0
+module: Module5
+oassignment: 7_study_guide
+opath: Level0/Module5/src/_05_self_tests/_7_study_guide
+resources: []
+text: "\n\n# Level 0 Study Guide\n\n\n###\n\nVariables\n\u2018Declare and initialize\
+  \ a variable\u2019 means make a variable and give it a value.\nint age = 12;\nString\
+  \ name = \u201CSarah\u201D;\nRemember, String is capitalized and the value always\
+  \ has quotes around it.\nEvery time you want to hold a new piece of information\
+  \ you need to declare the variable and initialize it, by setting it equal to something.\n\
+  If you want to generate a random number you do it like this.\nint x = new Random().nextInt(10);\n\
+  The number in parenthesis limits the value of the random number you will get. In\
+  \ this case, x will be a number between 0 and 9.\n\n###\n\nif Statements\nif (condition){\n\
+  \n}\nelse if (next condition){\n\n}\nelse{\n\n}\nThe question looks like this for\
+  \ a String\n(name .equals (\u201CSarah\u201D))\nYou use .equals to compare a String.\
+  \ The String value is in parenthesis and in quotes.\nThe question looks like this\
+  \ for an int\n(age == 12)\nRemember you use == for a comparison.\nIt is a good idea\
+  \ to use an else with an if statement to catch any options you didn\u2019t think\
+  \ of.\n\n###\n\nfor loop\nfor ( int i = 0; i<10; i++){\n\n}\n<font color=\"green\"\
+  >\nint i = 0;\n</font>\nThis is the starting point of the loop. You must declare\
+  \ the int.\n<font color=\"green\">\ni<10;\n</font>\nThis is the finishing point\
+  \ for the loop. The loop will continue as long as i is less than 10.\ni++ This is\
+  \ how much the loop counter changes by each time. In this case it increments (goes\
+  \ up) by 1.\nfor ( int i = 10; i>0; i-=2){\n\n}\nThis loop counts down in 2s starting\
+  \ at 10.\n10, 8 , 6, 4, 2.  It doesn\u2019t go to 0 because it must be greater than\
+  \ 0.\nNotice that you have to change from less than (<) to greater than (>) when\
+  \ you count down.\n\n###\n\nJOptionPane\nIf you want a pop up to give the user a\
+  \ message use\nJOptionPane.showMessageDialog(null, \u201CHello \u201D+ name);\n\
+  Don\u2019t forget the\n<b>\nnull\n</b>\n, or that any text needs to be in quotes.\n\
+  If you want to get an answer from the user, use:\nString ageString = JOptionPane.showInputDialog(\u201C\
+  How old are you?\u201D);\nRemember you must catch the user\u2019s answer in a String,\
+  \ otherwise you can\u2019t use it.\nBecause the answer is always a String, you sometimes\
+  \ want to convert it to a number so you can do a calculation. This is how you do\
+  \ it.\nint age = Integer.parseInt(ageString);\nIf you want to write something to\
+  \ the console, instead of using a pop-up\nSystem.out.println(age);\n\n### Methods\n\
+  \nYou must have a\n<b>\nmain method\n</b>\nin order to start your class running.\n\
+  public static void main(String[] args){\n\n}\nOther methods looks like this\nvoid\
+  \ drawSquare(){\nfor (int i= 0; i<4; i++){\nTortoise.move(100);\nTortoise.turn(90);\n\
+  }\n}\n<font color=\"green\">\nvoid\n</font>\nThis tells you what the method will\
+  \ return - in this case nothing.\n<font color=\"green\">\ndrawSquare\n</font>\n\
+  This is the name of the method, that you use to call it.\n<font color=\"green\"\
+  >\n(  )\n</font>\nThis tells you what parameters the method needs. In this case\
+  \ it doesn\u2019t need any.\nYou call the method like this:\ndrawSquare();\nLook\
+  \ at this method:\nint sevenTimes(int number){\nreturn number * 7;\n}\n<font color=\"\
+  green\">\nint\n</font>\nThis method is going to a return an int so you need to create\
+  \ an int variable to store it. In the example below, the variable is named \"answer\"\
+  .\n<font color=\"green\">\nsevenTimes\n</font>\nThis is the name of the method,\
+  \ that you use when you call it.\n<font color=\"green\">\n(int number)\n</font>\n\
+  This tells you what parameters the method needs. In this case it needs you to give\
+  \ an int. In the example below, the int is the number 2.\nint answer = sevenTimes(2);\n\
+  The value of answer will be 14.\n\n###\n\nModulo\n\nModulo means remainder.\nThe\
+  \ value of 11%5 is 1, because 5 goes into 11, 2 times (5x2=10) with a remainder\
+  \ of 1.\n\nIt is useful to use modulo to alternate between options. e.g.\n\nfor\
+  \ (int i = 0; i<1000;i+=10){\nif (i%3==0){\nfill(255,0,0);\n}\nelse if (i%3==1){\n\
+  fill(0,255,0);\n}\nelse if (i%3==2){\nfill(0,0,255);\n}\nellipse(i,i,10,10);\n}\n\
+  \nThis code will draw a line of circles alternating in red, green and blue.\n\n"
+title: 05 Self Tests 7 Study Guide

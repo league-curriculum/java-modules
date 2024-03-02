@@ -1,0 +1,40 @@
+assignment: 02_code_flow_3_pentagon_crazy
+dir: Level0/Module0/src/_02_code_flow/_3_pentagon_crazy
+lesson: 02_code_flow
+level: Level0
+module: Module0
+oassignment: 3_pentagon_crazy
+opath: Level0/Module0/src/_02_code_flow/_3_pentagon_crazy
+resources:
+- Level0/Module0/src/_02_code_flow/_3_pentagon_crazy/.web/pentagonCrazy.png
+text: '
+
+
+  # Pentagon Crazy
+
+
+  <hr/>
+
+  <img alt="pentagon image" src="./images/pentagonCrazy.png"/>
+
+
+  ## Goal:
+
+
+  Use int variables in a loop to draw a pentagonal pattern using a Robot
+
+
+  ## Steps:
+
+
+  1. Find the Pentagon Crazy recipe program ( PentagonCrazy.java ) and open it using
+  Eclipse.
+
+  2. Follow the instructions in the program to help you make a Robot draw a pentagonal
+  pattern.
+
+
+
+
+  '
+title: 02 Code Flow 3 Pentagon Crazy

@@ -1,0 +1,45 @@
+assignment: 03_remainder_4_fizz_buzz
+dir: Level0/Module3/src/_03_remainder/_4_fizz_buzz
+lesson: 03_remainder
+level: Level0
+module: Module3
+oassignment: 4_fizz_buzz
+opath: Level0/Module3/src/_03_remainder/_4_fizz_buzz
+resources: []
+text: '
+
+
+  # Fizz Buzz
+
+
+  <hr/>
+
+  1, 2, fizz, 4, buzz, ...
+
+
+  ## Goal:
+
+
+  Use a for loop and remainder (%) to build FizzBuzz - a children''s counting game.
+
+
+  ## Steps:
+
+
+  1. Write a loop to print all the numbers between 1 and 20.
+
+  2. Now modify the  program so that any time a number is divisible by 3, print "fizz"
+  in place of the number. And instead of printing numbers that are divisible by 5,
+  print "buzz". For numbers that are divisible by both 3 and 5, print "fizzbuzz".
+
+  3. If your code is correct, the program will now print:
+
+
+  1, 2, fizz, 4, buzz, fizz, 7, 8, fizz, buzz, 11, fizz, 13, 14, fizzbuzz, 16, 17,
+  fizz, 19, buzz
+
+
+
+
+  '
+title: 03 Remainder 4 Fizz Buzz

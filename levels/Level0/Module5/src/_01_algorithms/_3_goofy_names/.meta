@@ -1,0 +1,46 @@
+assignment: 01_algorithms_3_goofy_names
+dir: Level0/Module5/src/_01_algorithms/_3_goofy_names
+lesson: 01_algorithms
+level: Level0
+module: Module5
+oassignment: 3_goofy_names
+opath: Level0/Module5/src/_01_algorithms/_3_goofy_names
+resources: []
+text: '
+
+
+  # Goofy Names
+
+
+  <hr/>
+
+  GoOfY NaMeS
+
+
+  ## Goal:
+
+
+  Write an algorithm to change a String into a "goofy" version.
+
+
+  ## Steps:
+
+
+  1. Ask the user to enter their name.
+
+  2. Use a loop to alternately modify each character of the name into uppercase and
+  lowercase letters until a new "goofy" representation of their name has been constructed.
+
+
+  For example, if they enter their name as Alexander Hamilton
+
+
+  their goofy name will be AlExAnDeR HaMiLtOn
+
+  3. Show the user the goofy version of their name in a pop-up.
+
+
+
+
+  '
+title: 01 Algorithms 3 Goofy Names

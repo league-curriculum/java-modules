@@ -1,0 +1,65 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Calculator",
+            "request": "launch",
+            "mainClass": "_03_method_writing._4_calculator.Calculator"
+        },
+        {
+            "type": "java",
+            "name": "EvilPolygonsChallenge",
+            "request": "launch",
+            "mainClass": "_99_extra.EvilPolygonsChallenge"
+        },
+        {
+            "type": "java",
+            "name": "GoofyNames",
+            "request": "launch",
+            "mainClass": "_01_algorithms._3_goofy_names.GoofyNames"
+        },
+        {
+            "type": "java",
+            "name": "HappyPet",
+            "request": "launch",
+            "mainClass": "_03_method_writing._2_happy_pet.HappyPet"
+        },
+        {
+            "type": "java",
+            "name": "IntroToMethods",
+            "request": "launch",
+            "mainClass": "_03_method_writing._1_intro_to_methods.IntroToMethods"
+        },
+        {
+            "type": "java",
+            "name": "ListOfGoals",
+            "request": "launch",
+            "mainClass": "_99_extra.ListOfGoals"
+        },
+        {
+            "type": "java",
+            "name": "ReturnTypesAdvanced",
+            "request": "launch",
+            "mainClass": "_99_extra.ReturnTypesAdvanced"
+        },
+        {
+            "type": "java",
+            "name": "ReturnTypesPractice",
+            "request": "launch",
+            "mainClass": "_99_extra.ReturnTypesPractice"
+        },
+        {
+            "type": "java",
+            "name": "ReturnTypesRobot",
+            "request": "launch",
+            "mainClass": "_99_extra.ReturnTypesRobot"
+        },
+        {
+            "type": "java",
+            "name": "Snowflake",
+            "request": "launch",
+            "mainClass": "_02_nested_loops._1_snowflake.Snowflake"
+        }
+    ]
+}

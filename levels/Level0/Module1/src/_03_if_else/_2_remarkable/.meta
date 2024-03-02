@@ -1,0 +1,42 @@
+assignment: 03_if_else_2_remarkable
+dir: Level0/Module1/src/_03_if_else/_2_remarkable
+lesson: 03_if_else
+level: Level0
+module: Module1
+oassignment: 2_remarkable
+opath: Level0/Module1/src/_03_if_else/_2_remarkable
+resources:
+- Level0/Module1/src/_03_if_else/_2_remarkable/.web/wow.jpg
+text: '
+
+
+  # Remarkable
+
+
+  <hr/>
+
+  <img src="./images/wow.jpg"/>
+
+
+  ## Goal:
+
+
+  Find out something remarkable about the people in your class. When the user enters
+  a name into your program, they will learn something remarkable about that person.
+
+
+  ## Steps:
+
+
+  1. Write the names of all the students on the white board
+
+  2. Depending on which user types their name, tell them something remarkable about
+  themselves
+
+  3. Have students walk round and try each other''s programs
+
+
+
+
+  '
+title: 03 If Else 2 Remarkable

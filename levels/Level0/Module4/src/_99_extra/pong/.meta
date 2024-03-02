@@ -1,0 +1,32 @@
+assignment: 99_extra_pong
+dir: Level0/Module4/src/_99_extra/pong
+lesson: 99_extra
+level: Level0
+module: Module4
+oassignment: pong
+opath: Level0/Module4/src/_99_extra/pong
+resources:
+- Level0/Module4/src/_99_extra/pong/.web/pong.png
+text: "\n\n# Pong\n\n<hr/>\n<img src=\"./images/pong.png\"/>\n\n## Goal:\n\nMake a\
+  \ Pong game using Processing!\n\n## Steps:\n\n1. Draw a ball on the screen.\n```\n\
+  \nellipse(x, y, width, height) //in draw method\nfill(red, green, blue) //in draw\
+  \ method\nstroke(red, green, blue) //in draw method\n```\n2. Make the ball move\
+  \ across the screen (left to right).\n...make a variable for the ball's X position\
+  \ and change it in the draw method.\n3. Change the speed of the ball.\n\nmake a\
+  \ variable for the speed of the ball in the X direction (from left to right).\n\
+  changing this variable should change the speed of your ball\n4. make a variable\
+  \ for the speed of the ball in the X direction (from left to right).\n5. changing\
+  \ this variable should change the speed of your ball\n6. Make the ball bounce off\
+  \ of the walls.\n```\n\nif(x > width){\n    xSpeed = -xSpeed;\n}\n```\n7. Do the\
+  \ same in the Y (up and down) direction.\n(hint) height\n8. Add a background image\
+  \ for your game.\n```\n\nPImage backgroundImage; //at the top of your sketch\nbackgroundImage\
+  \ = loadImage(\"image.jpg\"); //in the setup method\nimage(backgroundImage, 0, 0);\
+  \ //in draw method\nimage(backgroundImage, 0, 0, width, height); //if you want to\
+  \ resize\n```\n9. Draw a paddle at the bottom of the screen\n```\n\nrect(x, y, width,\
+  \ height);\n```\n10. Use mouseX to make the paddle move over and back with the mouse.\n\
+  11. Make the ball change Y direction when it hits the paddle. Figure it out by yourself,\
+  \ or use this\nmethod:\n```\n\nboolean intersects(int ballX, int ballY, int paddleX,\
+  \ int paddleY,\nint paddleLength) {\n    if (ballY > paddleY && ballX > paddleX\
+  \ && ballX < paddleX + paddleLength)\n        return true;\n    else\n        return\
+  \ false;\n}\n```\n12. Make sure you SAVE YOUR CODE when you are done.\n\n\n\n"
+title: 99 Extra Pong
