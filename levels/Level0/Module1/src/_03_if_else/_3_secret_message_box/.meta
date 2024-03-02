@@ -1,12 +1,12 @@
 assignment: 03_if_else_3_secret_message_box
-dir: levels/Level0/Module1/src/_03_if_else/_3_secret_message_box
+dir: Level0/Module1/src/_03_if_else/_3_secret_message_box
 lesson: 03_if_else
 level: Level0
 module: Module1
 oassignment: 3_secret_message_box
 opath: Level0/Module1/src/_03_if_else/_3_secret_message_box
 resources:
-- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module1/src/_03_if_else/_3_secret_message_box/.web/messageBox.jpg
+- Level0/Module1/src/_03_if_else/_3_secret_message_box/.web/messageBox.jpg
 text: '
 
 

@@ -1,12 +1,12 @@
 assignment: 01_double_2_test_scores
-dir: levels/Level0/Module4/src/_01_double/_2_test_scores
+dir: Level0/Module4/src/_01_double/_2_test_scores
 lesson: 01_double
 level: Level0
 module: Module4
 oassignment: 2_test_scores
 opath: Level0/Module4/src/_01_double/_2_test_scores
 resources:
-- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module4/src/_01_double/_2_test_scores/.web/testScore.png
+- Level0/Module4/src/_01_double/_2_test_scores/.web/testScore.png
 text: '
 
 

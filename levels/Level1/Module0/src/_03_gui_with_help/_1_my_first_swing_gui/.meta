@@ -1,12 +1,12 @@
 assignment: 03_gui_with_help_1_my_first_swing_gui
-dir: levels/Level1/Module0/src/_03_gui_with_help/_1_my_first_swing_gui
+dir: Level1/Module0/src/_03_gui_with_help/_1_my_first_swing_gui
 lesson: 03_gui_with_help
 level: Level1
 module: Module0
 oassignment: 1_my_first_swing_gui
 opath: Level1/Module0/src/_03_gui_with_help/_1_my_first_swing_gui
 resources:
-- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level1/Module0/src/_03_gui_with_help/_1_my_first_swing_gui/.web/myFirstSwingGui.png
+- Level1/Module0/src/_03_gui_with_help/_1_my_first_swing_gui/.web/myFirstSwingGui.png
 text: '
 
 

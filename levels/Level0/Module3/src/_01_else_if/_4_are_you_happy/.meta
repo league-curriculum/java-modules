@@ -1,12 +1,12 @@
 assignment: 01_else_if_4_are_you_happy
-dir: levels/Level0/Module3/src/_01_else_if/_4_are_you_happy
+dir: Level0/Module3/src/_01_else_if/_4_are_you_happy
 lesson: 01_else_if
 level: Level0
 module: Module3
 oassignment: 4_are_you_happy
 opath: Level0/Module3/src/_01_else_if/_4_are_you_happy
 resources:
-- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module3/src/_01_else_if/_4_are_you_happy/.web/AreYouHappy.png
+- Level0/Module3/src/_01_else_if/_4_are_you_happy/.web/AreYouHappy.png
 text: '
 
 

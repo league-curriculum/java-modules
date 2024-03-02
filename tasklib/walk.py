@@ -142,7 +142,7 @@ def process_dir(root, f):
 
     r = {
         'title': title,
-        'dir': str(f),
+        'dir': str(f.relative_to(root)),
         'opath': str(f.relative_to(root)),
         'level': l,
         'module': m,
@@ -157,7 +157,7 @@ def process_dir(root, f):
     if web_dir.exists():
         for e in web_dir.iterdir():
             if e.is_file() and e.suffix in ('.png', '.gif', '.jpg'):
-                resources.append(str(e.absolute()))
+                resources.append(str(e.relative_to(root)))
 
     r['resources'] = resources
 

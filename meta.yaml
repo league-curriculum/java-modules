@@ -1,5 +1,5 @@
 - assignment: 01_demo
-  dir: levels/Level0/Module0/src/_01_demo
+  dir: Level0/Module0/src/_01_demo
   lesson: 01_demo
   level: Level0
   module: Module0
@@ -12,14 +12,14 @@
     '
   title: 01 Demo
 - assignment: 02_code_flow_1_robot_square
-  dir: levels/Level0/Module0/src/_02_code_flow/_1_robot_square
+  dir: Level0/Module0/src/_02_code_flow/_1_robot_square
   lesson: 02_code_flow
   level: Level0
   module: Module0
   oassignment: 1_robot_square
   opath: Level0/Module0/src/_02_code_flow/_1_robot_square
   resources:
-  - /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module0/src/_02_code_flow/_1_robot_square/.web/robotSquare.png
+  - Level0/Module0/src/_02_code_flow/_1_robot_square/.web/robotSquare.png
   text: '
 
 
@@ -51,14 +51,14 @@
     '
   title: 02 Code Flow 1 Robot Square
 - assignment: 02_code_flow_2_robot_spiral
-  dir: levels/Level0/Module0/src/_02_code_flow/_2_robot_spiral
+  dir: Level0/Module0/src/_02_code_flow/_2_robot_spiral
   lesson: 02_code_flow
   level: Level0
   module: Module0
   oassignment: 2_robot_spiral
   opath: Level0/Module0/src/_02_code_flow/_2_robot_spiral
   resources:
-  - /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module0/src/_02_code_flow/_2_robot_spiral/.web/spiral.png
+  - Level0/Module0/src/_02_code_flow/_2_robot_spiral/.web/spiral.png
   text: '
 
 
@@ -91,14 +91,14 @@
     '
   title: 02 Code Flow 2 Robot Spiral
 - assignment: 02_code_flow_3_pentagon_crazy
-  dir: levels/Level0/Module0/src/_02_code_flow/_3_pentagon_crazy
+  dir: Level0/Module0/src/_02_code_flow/_3_pentagon_crazy
   lesson: 02_code_flow
   level: Level0
   module: Module0
   oassignment: 3_pentagon_crazy
   opath: Level0/Module0/src/_02_code_flow/_3_pentagon_crazy
   resources:
-  - /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module0/src/_02_code_flow/_3_pentagon_crazy/.web/pentagonCrazy.png
+  - Level0/Module0/src/_02_code_flow/_3_pentagon_crazy/.web/pentagonCrazy.png
   text: '
 
 
@@ -131,16 +131,16 @@
     '
   title: 02 Code Flow 3 Pentagon Crazy
 - assignment: 02_code_flow_4_flaming_ninja_star
-  dir: levels/Level0/Module0/src/_02_code_flow/_4_flaming_ninja_star
+  dir: Level0/Module0/src/_02_code_flow/_4_flaming_ninja_star
   lesson: 02_code_flow
   level: Level0
   module: Module0
   oassignment: 4_flaming_ninja_star
   opath: Level0/Module0/src/_02_code_flow/_4_flaming_ninja_star
   resources:
-  - /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module0/src/_02_code_flow/_4_flaming_ninja_star/.web/flamingNinja1.png
-  - /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module0/src/_02_code_flow/_4_flaming_ninja_star/.web/flamingNinja2.png
-  - /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module0/src/_02_code_flow/_4_flaming_ninja_star/.web/flamingNinja3.png
+  - Level0/Module0/src/_02_code_flow/_4_flaming_ninja_star/.web/flamingNinja1.png
+  - Level0/Module0/src/_02_code_flow/_4_flaming_ninja_star/.web/flamingNinja2.png
+  - Level0/Module0/src/_02_code_flow/_4_flaming_ninja_star/.web/flamingNinja3.png
   text: '
 
 
@@ -178,14 +178,14 @@
     '
   title: 02 Code Flow 4 Flaming Ninja Star
 - assignment: 03_print_and_popups_1_greeter
-  dir: levels/Level0/Module0/src/_03_print_and_popups/_1_greeter
+  dir: Level0/Module0/src/_03_print_and_popups/_1_greeter
   lesson: 03_print_and_popups
   level: Level0
   module: Module0
   oassignment: 1_greeter
   opath: Level0/Module0/src/_03_print_and_popups/_1_greeter
   resources:
-  - /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module0/src/_03_print_and_popups/_1_greeter/.web/greeter.png
+  - Level0/Module0/src/_03_print_and_popups/_1_greeter/.web/greeter.png
   text: '
 
 
@@ -237,14 +237,14 @@
     '
   title: 03 Print And Popups 1 Greeter
 - assignment: 03_print_and_popups_2_madlibs
-  dir: levels/Level0/Module0/src/_03_print_and_popups/_2_madlibs
+  dir: Level0/Module0/src/_03_print_and_popups/_2_madlibs
   lesson: 03_print_and_popups
   level: Level0
   module: Module0
   oassignment: 2_madlibs
   opath: Level0/Module0/src/_03_print_and_popups/_2_madlibs
   resources:
-  - /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module0/src/_03_print_and_popups/_2_madlibs/.web/madlibs.png
+  - Level0/Module0/src/_03_print_and_popups/_2_madlibs/.web/madlibs.png
   text: '
 
 
@@ -280,14 +280,14 @@
     '
   title: 03 Print And Popups 2 Madlibs
 - assignment: 03_print_and_popups_3_world_domination
-  dir: levels/Level0/Module0/src/_03_print_and_popups/_3_world_domination
+  dir: Level0/Module0/src/_03_print_and_popups/_3_world_domination
   lesson: 03_print_and_popups
   level: Level0
   module: Module0
   oassignment: 3_world_domination
   opath: Level0/Module0/src/_03_print_and_popups/_3_world_domination
   resources:
-  - /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module0/src/_03_print_and_popups/_3_world_domination/.web/worldDomination.jpg
+  - Level0/Module0/src/_03_print_and_popups/_3_world_domination/.web/worldDomination.jpg
   text: '
 
 
@@ -321,14 +321,14 @@
     '
   title: 03 Print And Popups 3 World Domination
 - assignment: 03_print_and_popups_4_quiz_game
-  dir: levels/Level0/Module0/src/_03_print_and_popups/_4_quiz_game
+  dir: Level0/Module0/src/_03_print_and_popups/_4_quiz_game
   lesson: 03_print_and_popups
   level: Level0
   module: Module0
   oassignment: 4_quiz_game
   opath: Level0/Module0/src/_03_print_and_popups/_4_quiz_game
   resources:
-  - /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module0/src/_03_print_and_popups/_4_quiz_game/.web/quiz.png
+  - Level0/Module0/src/_03_print_and_popups/_4_quiz_game/.web/quiz.png
   text: '
 
 
@@ -359,14 +359,14 @@
     '
   title: 03 Print And Popups 4 Quiz Game
 - assignment: 03_print_and_popups_5_awesome_or_not
-  dir: levels/Level0/Module0/src/_03_print_and_popups/_5_awesome_or_not
+  dir: Level0/Module0/src/_03_print_and_popups/_5_awesome_or_not
   lesson: 03_print_and_popups
   level: Level0
   module: Module0
   oassignment: 5_awesome_or_not
   opath: Level0/Module0/src/_03_print_and_popups/_5_awesome_or_not
   resources:
-  - /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module0/src/_03_print_and_popups/_5_awesome_or_not/.web/awesome.jpg
+  - Level0/Module0/src/_03_print_and_popups/_5_awesome_or_not/.web/awesome.jpg
   text: '
 
 
@@ -398,14 +398,14 @@
     '
   title: 03 Print And Popups 5 Awesome Or Not
 - assignment: 04_amazing_games_1_scary_maze
-  dir: levels/Level0/Module0/src/_04_amazing_games/_1_scary_maze
+  dir: Level0/Module0/src/_04_amazing_games/_1_scary_maze
   lesson: 04_amazing_games
   level: Level0
   module: Module0
   oassignment: 1_scary_maze
   opath: Level0/Module0/src/_04_amazing_games/_1_scary_maze
   resources:
-  - /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module0/src/_04_amazing_games/_1_scary_maze/.web/standardMaze.png
+  - Level0/Module0/src/_04_amazing_games/_1_scary_maze/.web/standardMaze.png
   text: '
 
 
@@ -437,14 +437,14 @@
     '
   title: 04 Amazing Games 1 Scary Maze
 - assignment: 04_amazing_games_2_dragon_fight
-  dir: levels/Level0/Module0/src/_04_amazing_games/_2_dragon_fight
+  dir: Level0/Module0/src/_04_amazing_games/_2_dragon_fight
   lesson: 04_amazing_games
   level: Level0
   module: Module0
   oassignment: 2_dragon_fight
   opath: Level0/Module0/src/_04_amazing_games/_2_dragon_fight
   resources:
-  - /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module0/src/_04_amazing_games/_2_dragon_fight/.web/dragonPicture.jpg
+  - Level0/Module0/src/_04_amazing_games/_2_dragon_fight/.web/dragonPicture.jpg
   text: '
 
 
@@ -476,19 +476,19 @@
     '
   title: 04 Amazing Games 2 Dragon Fight
 - assignment: 99_extra
-  dir: levels/Level0/Module0/src/_99_extra
+  dir: Level0/Module0/src/_99_extra
   lesson: 99_extra
   level: Level0
   module: Module0
   oassignment: 99_extra
   opath: Level0/Module0/src/_99_extra
   resources:
-  - /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module0/src/_99_extra/.web/triangle.png
-  - /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module0/src/_99_extra/.web/decagon.png
-  - /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module0/src/_99_extra/.web/oneStar.png
-  - /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module0/src/_99_extra/.web/triangleShell.png
-  - /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module0/src/_99_extra/.web/starShow.png
-  - /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module0/src/_99_extra/.web/square.png
+  - Level0/Module0/src/_99_extra/.web/triangle.png
+  - Level0/Module0/src/_99_extra/.web/decagon.png
+  - Level0/Module0/src/_99_extra/.web/oneStar.png
+  - Level0/Module0/src/_99_extra/.web/triangleShell.png
+  - Level0/Module0/src/_99_extra/.web/starShow.png
+  - Level0/Module0/src/_99_extra/.web/square.png
   text: '
 
 
@@ -524,15 +524,15 @@
     '
   title: 99 Extra
 - assignment: 01_variables
-  dir: levels/Level0/Module1/src/_01_variables
+  dir: Level0/Module1/src/_01_variables
   lesson: 01_variables
   level: Level0
   module: Module1
   oassignment: 01_variables
   opath: Level0/Module1/src/_01_variables
   resources:
-  - /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module1/src/_01_variables/.web/Variables1.png
-  - /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module1/src/_01_variables/.web/Variables2.png
+  - Level0/Module1/src/_01_variables/.web/Variables1.png
+  - Level0/Module1/src/_01_variables/.web/Variables2.png
   text: '
 
     <img alt="images/Variables1.png" src="./images/Variables1.png" style="width: 960.00px;
@@ -547,17 +547,17 @@
     '
   title: 01 Variables
 - assignment: 02_colors_VennDiagram
-  dir: levels/Level0/Module1/src/_02_colors/VennDiagram
+  dir: Level0/Module1/src/_02_colors/VennDiagram
   lesson: 02_colors
   level: Level0
   module: Module1
   oassignment: VennDiagram
   opath: Level0/Module1/src/_02_colors/VennDiagram
   resources:
-  - /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module1/src/_02_colors/VennDiagram/.web/whiteCircles.png
-  - /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module1/src/_02_colors/VennDiagram/.web/colorfulCircles.png
-  - /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module1/src/_02_colors/VennDiagram/.web/redCircles.png
-  - /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module1/src/_02_colors/VennDiagram/.web/vennDiagram.png
+  - Level0/Module1/src/_02_colors/VennDiagram/.web/whiteCircles.png
+  - Level0/Module1/src/_02_colors/VennDiagram/.web/colorfulCircles.png
+  - Level0/Module1/src/_02_colors/VennDiagram/.web/redCircles.png
+  - Level0/Module1/src/_02_colors/VennDiagram/.web/vennDiagram.png
   text: '
 
 
@@ -729,14 +729,14 @@
     '
   title: 02 Colors Venndiagram
 - assignment: 03_if_else_1_unbirthday
-  dir: levels/Level0/Module1/src/_03_if_else/_1_unbirthday
+  dir: Level0/Module1/src/_03_if_else/_1_unbirthday
   lesson: 03_if_else
   level: Level0
   module: Module1
   oassignment: 1_unbirthday
   opath: Level0/Module1/src/_03_if_else/_1_unbirthday
   resources:
-  - /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module1/src/_03_if_else/_1_unbirthday/.web/unbirthday.jpg
+  - Level0/Module1/src/_03_if_else/_1_unbirthday/.web/unbirthday.jpg
   text: '
 
 
@@ -773,14 +773,14 @@
     '
   title: 03 If Else 1 Unbirthday
 - assignment: 03_if_else_2_remarkable
-  dir: levels/Level0/Module1/src/_03_if_else/_2_remarkable
+  dir: Level0/Module1/src/_03_if_else/_2_remarkable
   lesson: 03_if_else
   level: Level0
   module: Module1
   oassignment: 2_remarkable
   opath: Level0/Module1/src/_03_if_else/_2_remarkable
   resources:
-  - /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module1/src/_03_if_else/_2_remarkable/.web/wow.jpg
+  - Level0/Module1/src/_03_if_else/_2_remarkable/.web/wow.jpg
   text: '
 
 
@@ -815,14 +815,14 @@
     '
   title: 03 If Else 2 Remarkable
 - assignment: 03_if_else_3_secret_message_box
-  dir: levels/Level0/Module1/src/_03_if_else/_3_secret_message_box
+  dir: Level0/Module1/src/_03_if_else/_3_secret_message_box
   lesson: 03_if_else
   level: Level0
   module: Module1
   oassignment: 3_secret_message_box
   opath: Level0/Module1/src/_03_if_else/_3_secret_message_box
   resources:
-  - /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module1/src/_03_if_else/_3_secret_message_box/.web/messageBox.jpg
+  - Level0/Module1/src/_03_if_else/_3_secret_message_box/.web/messageBox.jpg
   text: '
 
 
@@ -861,14 +861,14 @@
     '
   title: 03 If Else 3 Secret Message Box
 - assignment: 03_if_else_4_tasty_tomato
-  dir: levels/Level0/Module1/src/_03_if_else/_4_tasty_tomato/tasty_tomato
+  dir: Level0/Module1/src/_03_if_else/_4_tasty_tomato/tasty_tomato
   lesson: 03_if_else
   level: Level0
   module: Module1
   oassignment: 4_tasty_tomato
   opath: Level0/Module1/src/_03_if_else/_4_tasty_tomato/tasty_tomato
   resources:
-  - /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module1/src/_03_if_else/_4_tasty_tomato/tasty_tomato/.web/tomato.png
+  - Level0/Module1/src/_03_if_else/_4_tasty_tomato/tasty_tomato/.web/tomato.png
   text: '
 
 
@@ -908,7 +908,7 @@
     '
   title: 03 If Else 4 Tasty Tomato
 - assignment: 03_if_else_5_pizza
-  dir: levels/Level0/Module1/src/_03_if_else/_5_pizza/pizza
+  dir: Level0/Module1/src/_03_if_else/_5_pizza/pizza
   lesson: 03_if_else
   level: Level0
   module: Module1
@@ -971,14 +971,14 @@
     \ the sound to play\nsound.play();\nsound.rewind();\n```\n\n\n\n"
   title: 03 If Else 5 Pizza
 - assignment: 04_int_1_riddler
-  dir: levels/Level0/Module1/src/_04_int/_1_riddler
+  dir: Level0/Module1/src/_04_int/_1_riddler
   lesson: 04_int
   level: Level0
   module: Module1
   oassignment: 1_riddler
   opath: Level0/Module1/src/_04_int/_1_riddler
   resources:
-  - /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module1/src/_04_int/_1_riddler/.web/riddler.jpg
+  - Level0/Module1/src/_04_int/_1_riddler/.web/riddler.jpg
   text: '
 
 
@@ -1030,7 +1030,7 @@
     '
   title: 04 Int 1 Riddler
 - assignment: 04_int_2_robot_in_space
-  dir: levels/Level0/Module1/src/_04_int/_2_robot_in_space
+  dir: Level0/Module1/src/_04_int/_2_robot_in_space
   lesson: 04_int
   level: Level0
   module: Module1
@@ -1043,7 +1043,7 @@
     '
   title: 04 Int 2 Robot In Space
 - assignment: 04_int_3_zombie_eyes
-  dir: levels/Level0/Module1/src/_04_int/_3_zombie_eyes/zombie_eyes
+  dir: Level0/Module1/src/_04_int/_3_zombie_eyes/zombie_eyes
   lesson: 04_int
   level: Level0
   module: Module1
@@ -1135,7 +1135,7 @@
     '
   title: 04 Int 3 Zombie Eyes
 - assignment: 04_int_4_rocket_ship
-  dir: levels/Level0/Module1/src/_04_int/_4_rocket_ship/rocket_ship
+  dir: Level0/Module1/src/_04_int/_4_rocket_ship/rocket_ship
   lesson: 04_int
   level: Level0
   module: Module1
@@ -1178,7 +1178,7 @@
     '
   title: 04 Int 4 Rocket Ship
 - assignment: 05_for_loops_1_my_ages
-  dir: levels/Level0/Module1/src/_05_for_loops/_1_my_ages
+  dir: Level0/Module1/src/_05_for_loops/_1_my_ages
   lesson: 05_for_loops
   level: Level0
   module: Module1
@@ -1214,14 +1214,14 @@
     '
   title: 05 For Loops 1 My Ages
 - assignment: 05_for_loops_2_badgers
-  dir: levels/Level0/Module1/src/_05_for_loops/_2_badgers
+  dir: Level0/Module1/src/_05_for_loops/_2_badgers
   lesson: 05_for_loops
   level: Level0
   module: Module1
   oassignment: 2_badgers
   opath: Level0/Module1/src/_05_for_loops/_2_badgers
   resources:
-  - /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module1/src/_05_for_loops/_2_badgers/.web/badgers.png
+  - Level0/Module1/src/_05_for_loops/_2_badgers/.web/badgers.png
   text: "\n\n# Badgers\n\n<hr/>\n<img src=\"./images/badgers.png\"/>\n\n## Goal:\n\
     \nPrint the lyrics to the\nBadgers song!\n\n## Steps:\n\n1. Use for loops (you\
     \ will need more than one) to print the following lyrics from the Badger Song.\
@@ -1233,14 +1233,14 @@
     \nA Snake!!!\n\n\n\n"
   title: 05 For Loops 2 Badgers
 - assignment: 05_for_loops_3_bananas_4eva
-  dir: levels/Level0/Module1/src/_05_for_loops/_3_bananas_4eva/bananas_4eva
+  dir: Level0/Module1/src/_05_for_loops/_3_bananas_4eva/bananas_4eva
   lesson: 05_for_loops
   level: Level0
   module: Module1
   oassignment: 3_bananas_4eva
   opath: Level0/Module1/src/_05_for_loops/_3_bananas_4eva/bananas_4eva
   resources:
-  - /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module1/src/_05_for_loops/_3_bananas_4eva/bananas_4eva/.web/bananas.jpg
+  - Level0/Module1/src/_05_for_loops/_3_bananas_4eva/bananas_4eva/.web/bananas.jpg
   text: '
 
 
@@ -1274,14 +1274,14 @@
     '
   title: 05 For Loops 3 Bananas 4Eva
 - assignment: 05_for_loops_4_banana_split
-  dir: levels/Level0/Module1/src/_05_for_loops/_4_banana_split/banana_split
+  dir: Level0/Module1/src/_05_for_loops/_4_banana_split/banana_split
   lesson: 05_for_loops
   level: Level0
   module: Module1
   oassignment: 4_banana_split
   opath: Level0/Module1/src/_05_for_loops/_4_banana_split/banana_split
   resources:
-  - /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module1/src/_05_for_loops/_4_banana_split/banana_split/.web/splitOutput.png
+  - Level0/Module1/src/_05_for_loops/_4_banana_split/banana_split/.web/splitOutput.png
   text: "\n\n# Banana Split\n\n<hr/>\n<img alt=\"Banana Split image\" src=\"http://level0.jointheleague.org/modules/Mod1Recipes/images/splitOutput.png\"\
     />\n\n## Goal:\n\nUse for loops to recreate the image above!\n\n## Steps:\n\n\
     1. Find the Banana Split recipe program ( banana_split.pde ) and open it using\
@@ -1291,14 +1291,14 @@
     \ yPos);\n```\n3. Make sure you SAVE YOUR CODE when you are done.\n\n\n\n"
   title: 05 For Loops 4 Banana Split
 - assignment: 06_spot_the_error
-  dir: levels/Level0/Module1/src/_06_spot_the_error
+  dir: Level0/Module1/src/_06_spot_the_error
   lesson: 06_spot_the_error
   level: Level0
   module: Module1
   oassignment: 06_spot_the_error
   opath: Level0/Module1/src/_06_spot_the_error
   resources:
-  - /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module1/src/_06_spot_the_error/.web/bug.jpg
+  - Level0/Module1/src/_06_spot_the_error/.web/bug.jpg
   text: '
 
 
@@ -1326,14 +1326,14 @@
     '
   title: 06 Spot The Error
 - assignment: 01_random_1_intro_to_random
-  dir: levels/Level0/Module2/src/_01_random/_1_intro_to_random
+  dir: Level0/Module2/src/_01_random/_1_intro_to_random
   lesson: 01_random
   level: Level0
   module: Module2
   oassignment: 1_intro_to_random
   opath: Level0/Module2/src/_01_random/_1_intro_to_random
   resources:
-  - /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module2/src/_01_random/_1_intro_to_random/.web/random.jpg
+  - Level0/Module2/src/_01_random/_1_intro_to_random/.web/random.jpg
   text: '
 
 
@@ -1369,14 +1369,14 @@
     '
   title: 01 Random 1 Intro To Random
 - assignment: 01_random_2_rock_paper_scissors
-  dir: levels/Level0/Module2/src/_01_random/_2_rock_paper_scissors
+  dir: Level0/Module2/src/_01_random/_2_rock_paper_scissors
   lesson: 01_random
   level: Level0
   module: Module2
   oassignment: 2_rock_paper_scissors
   opath: Level0/Module2/src/_01_random/_2_rock_paper_scissors
   resources:
-  - /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module2/src/_01_random/_2_rock_paper_scissors/.web/rock.png
+  - Level0/Module2/src/_01_random/_2_rock_paper_scissors/.web/rock.png
   text: '
 
 
@@ -1414,14 +1414,14 @@
     '
   title: 01 Random 2 Rock Paper Scissors
 - assignment: 01_random_3_dice_roll
-  dir: levels/Level0/Module2/src/_01_random/_3_dice_roll
+  dir: Level0/Module2/src/_01_random/_3_dice_roll
   lesson: 01_random
   level: Level0
   module: Module2
   oassignment: 3_dice_roll
   opath: Level0/Module2/src/_01_random/_3_dice_roll
   resources:
-  - /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module2/src/_01_random/_3_dice_roll/.web/dice.png
+  - Level0/Module2/src/_01_random/_3_dice_roll/.web/dice.png
   text: '
 
 
@@ -1458,14 +1458,14 @@
     '
   title: 01 Random 3 Dice Roll
 - assignment: 01_random_4_validation
-  dir: levels/Level0/Module2/src/_01_random/_4_validation
+  dir: Level0/Module2/src/_01_random/_4_validation
   lesson: 01_random
   level: Level0
   module: Module2
   oassignment: 4_validation
   opath: Level0/Module2/src/_01_random/_4_validation
   resources:
-  - /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module2/src/_01_random/_4_validation/.web/validation.png
+  - Level0/Module2/src/_01_random/_4_validation/.web/validation.png
   text: '
 
 
@@ -1503,7 +1503,7 @@
     '
   title: 01 Random 4 Validation
 - assignment: 01_random_5_magic_8_ball
-  dir: levels/Level0/Module2/src/_01_random/_5_magic_8_ball
+  dir: Level0/Module2/src/_01_random/_5_magic_8_ball
   lesson: 01_random
   level: Level0
   module: Module2
@@ -1545,15 +1545,15 @@
     '
   title: 01 Random 5 Magic 8 Ball
 - assignment: 01_random_6_lottery_numbers
-  dir: levels/Level0/Module2/src/_01_random/_6_lottery_numbers
+  dir: Level0/Module2/src/_01_random/_6_lottery_numbers
   lesson: 01_random
   level: Level0
   module: Module2
   oassignment: 6_lottery_numbers
   opath: Level0/Module2/src/_01_random/_6_lottery_numbers
   resources:
-  - /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module2/src/_01_random/_6_lottery_numbers/.web/lottery.png
-  - /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module2/src/_01_random/_6_lottery_numbers/.web/lotteryNumbers.png
+  - Level0/Module2/src/_01_random/_6_lottery_numbers/.web/lottery.png
+  - Level0/Module2/src/_01_random/_6_lottery_numbers/.web/lotteryNumbers.png
   text: '
 
 
@@ -1592,14 +1592,14 @@
     '
   title: 01 Random 6 Lottery Numbers
 - assignment: 02_methods_1_animal_farm
-  dir: levels/Level0/Module2/src/_02_methods/_1_animal_farm
+  dir: Level0/Module2/src/_02_methods/_1_animal_farm
   lesson: 02_methods
   level: Level0
   module: Module2
   oassignment: 1_animal_farm
   opath: Level0/Module2/src/_02_methods/_1_animal_farm
   resources:
-  - /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module2/src/_02_methods/_1_animal_farm/.web/animalFarm.jpg
+  - Level0/Module2/src/_02_methods/_1_animal_farm/.web/animalFarm.jpg
   text: '
 
 
@@ -1637,14 +1637,14 @@
     '
   title: 02 Methods 1 Animal Farm
 - assignment: 02_methods_2_safe_cracker
-  dir: levels/Level0/Module2/src/_02_methods/_2_safe_cracker
+  dir: Level0/Module2/src/_02_methods/_2_safe_cracker
   lesson: 02_methods
   level: Level0
   module: Module2
   oassignment: 2_safe_cracker
   opath: Level0/Module2/src/_02_methods/_2_safe_cracker
   resources:
-  - /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module2/src/_02_methods/_2_safe_cracker/.web/safeCracker.jpg
+  - Level0/Module2/src/_02_methods/_2_safe_cracker/.web/safeCracker.jpg
   text: '
 
 
@@ -1683,14 +1683,14 @@
     '
   title: 02 Methods 2 Safe Cracker
 - assignment: 02_methods_3_dot_race
-  dir: levels/Level0/Module2/src/_02_methods/_3_dot_race/dot_race
+  dir: Level0/Module2/src/_02_methods/_3_dot_race/dot_race
   lesson: 02_methods
   level: Level0
   module: Module2
   oassignment: 3_dot_race
   opath: Level0/Module2/src/_02_methods/_3_dot_race/dot_race
   resources:
-  - /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module2/src/_02_methods/_3_dot_race/dot_race/.web/dotRace.png
+  - Level0/Module2/src/_02_methods/_3_dot_race/dot_race/.web/dotRace.png
   text: '
 
 
@@ -1723,14 +1723,14 @@
     '
   title: 02 Methods 3 Dot Race
 - assignment: 02_methods_4_moles_in_holes
-  dir: levels/Level0/Module2/src/_02_methods/_4_moles_in_holes/moles_in_holes
+  dir: Level0/Module2/src/_02_methods/_4_moles_in_holes/moles_in_holes
   lesson: 02_methods
   level: Level0
   module: Module2
   oassignment: 4_moles_in_holes
   opath: Level0/Module2/src/_02_methods/_4_moles_in_holes/moles_in_holes
   resources:
-  - /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module2/src/_02_methods/_4_moles_in_holes/moles_in_holes/.web/molesInHoles.png
+  - Level0/Module2/src/_02_methods/_4_moles_in_holes/moles_in_holes/.web/molesInHoles.png
   text: '
 
 
@@ -1764,14 +1764,14 @@
     '
   title: 02 Methods 4 Moles In Holes
 - assignment: 02_methods_5_ice_cream_shop
-  dir: levels/Level0/Module2/src/_02_methods/_5_ice_cream_shop/ice_cream_shop
+  dir: Level0/Module2/src/_02_methods/_5_ice_cream_shop/ice_cream_shop
   lesson: 02_methods
   level: Level0
   module: Module2
   oassignment: 5_ice_cream_shop
   opath: Level0/Module2/src/_02_methods/_5_ice_cream_shop/ice_cream_shop
   resources:
-  - /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module2/src/_02_methods/_5_ice_cream_shop/ice_cream_shop/.web/iceCreamShop.png
+  - Level0/Module2/src/_02_methods/_5_ice_cream_shop/ice_cream_shop/.web/iceCreamShop.png
   text: '
 
 
@@ -1806,14 +1806,14 @@
     '
   title: 02 Methods 5 Ice Cream Shop
 - assignment: 02_methods_6_slippery_dot
-  dir: levels/Level0/Module2/src/_02_methods/_6_slippery_dot/slippery_dot
+  dir: Level0/Module2/src/_02_methods/_6_slippery_dot/slippery_dot
   lesson: 02_methods
   level: Level0
   module: Module2
   oassignment: 6_slippery_dot
   opath: Level0/Module2/src/_02_methods/_6_slippery_dot/slippery_dot
   resources:
-  - /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module2/src/_02_methods/_6_slippery_dot/slippery_dot/.web/slipperyDot.png
+  - Level0/Module2/src/_02_methods/_6_slippery_dot/slippery_dot/.web/slipperyDot.png
   text: '
 
 
@@ -1848,16 +1848,16 @@
     '
   title: 02 Methods 6 Slippery Dot
 - assignment: 03_string_conversion_1_intro
-  dir: levels/Level0/Module2/src/_03_string_conversion/_1_intro
+  dir: Level0/Module2/src/_03_string_conversion/_1_intro
   lesson: 03_string_conversion
   level: Level0
   module: Module2
   oassignment: 1_intro
   opath: Level0/Module2/src/_03_string_conversion/_1_intro
   resources:
-  - /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module2/src/_03_string_conversion/_1_intro/.web/parseInt3.png
-  - /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module2/src/_03_string_conversion/_1_intro/.web/parseInt2.png
-  - /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module2/src/_03_string_conversion/_1_intro/.web/paresInt1.png
+  - Level0/Module2/src/_03_string_conversion/_1_intro/.web/parseInt3.png
+  - Level0/Module2/src/_03_string_conversion/_1_intro/.web/parseInt2.png
+  - Level0/Module2/src/_03_string_conversion/_1_intro/.web/paresInt1.png
   text: '
 
 
@@ -1880,14 +1880,14 @@
     '
   title: 03 String Conversion 1 Intro
 - assignment: 03_string_conversion_2_strings_cannot_add
-  dir: levels/Level0/Module2/src/_03_string_conversion/_2_strings_cannot_add
+  dir: Level0/Module2/src/_03_string_conversion/_2_strings_cannot_add
   lesson: 03_string_conversion
   level: Level0
   module: Module2
   oassignment: 2_strings_cannot_add
   opath: Level0/Module2/src/_03_string_conversion/_2_strings_cannot_add
   resources:
-  - /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module2/src/_03_string_conversion/_2_strings_cannot_add/.web/stringsCannotAdd.jpg
+  - Level0/Module2/src/_03_string_conversion/_2_strings_cannot_add/.web/stringsCannotAdd.jpg
   text: '
 
 
@@ -1923,7 +1923,7 @@
     '
   title: 03 String Conversion 2 Strings Cannot Add
 - assignment: 03_string_conversion_3_rollercoaster
-  dir: levels/Level0/Module2/src/_03_string_conversion/_3_rollercoaster
+  dir: Level0/Module2/src/_03_string_conversion/_3_rollercoaster
   lesson: 03_string_conversion
   level: Level0
   module: Module2
@@ -1965,14 +1965,14 @@
     '
   title: 03 String Conversion 3 Rollercoaster
 - assignment: 03_string_conversion_4_voting_booth
-  dir: levels/Level0/Module2/src/_03_string_conversion/_4_voting_booth
+  dir: Level0/Module2/src/_03_string_conversion/_4_voting_booth
   lesson: 03_string_conversion
   level: Level0
   module: Module2
   oassignment: 4_voting_booth
   opath: Level0/Module2/src/_03_string_conversion/_4_voting_booth
   resources:
-  - /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module2/src/_03_string_conversion/_4_voting_booth/.web/vote.jpg
+  - Level0/Module2/src/_03_string_conversion/_4_voting_booth/.web/vote.jpg
   text: '
 
 
@@ -2005,14 +2005,14 @@
     '
   title: 03 String Conversion 4 Voting Booth
 - assignment: 04_spot_the_error
-  dir: levels/Level0/Module2/src/_04_spot_the_error
+  dir: Level0/Module2/src/_04_spot_the_error
   lesson: 04_spot_the_error
   level: Level0
   module: Module2
   oassignment: 04_spot_the_error
   opath: Level0/Module2/src/_04_spot_the_error
   resources:
-  - /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module2/src/_04_spot_the_error/.web/bug.jpg
+  - Level0/Module2/src/_04_spot_the_error/.web/bug.jpg
   text: '
 
 
@@ -2040,7 +2040,7 @@
     '
   title: 04 Spot The Error
 - assignment: 99_extra
-  dir: levels/Level0/Module2/src/_99_extra
+  dir: Level0/Module2/src/_99_extra
   lesson: 99_extra
   level: Level0
   module: Module2
@@ -2053,14 +2053,14 @@
     '
   title: 99 Extra
 - assignment: 01_else_if_1_robot_color_chooser
-  dir: levels/Level0/Module3/src/_01_else_if/_1_robot_color_chooser
+  dir: Level0/Module3/src/_01_else_if/_1_robot_color_chooser
   lesson: 01_else_if
   level: Level0
   module: Module3
   oassignment: 1_robot_color_chooser
   opath: Level0/Module3/src/_01_else_if/_1_robot_color_chooser
   resources:
-  - /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module3/src/_01_else_if/_1_robot_color_chooser/.web/robotColorChooser.png
+  - Level0/Module3/src/_01_else_if/_1_robot_color_chooser/.web/robotColorChooser.png
   text: '
 
 
@@ -2099,14 +2099,14 @@
     '
   title: 01 Else If 1 Robot Color Chooser
 - assignment: 01_else_if_2_crazy_cat_lady
-  dir: levels/Level0/Module3/src/_01_else_if/_2_crazy_cat_lady
+  dir: Level0/Module3/src/_01_else_if/_2_crazy_cat_lady
   lesson: 01_else_if
   level: Level0
   module: Module3
   oassignment: 2_crazy_cat_lady
   opath: Level0/Module3/src/_01_else_if/_2_crazy_cat_lady
   resources:
-  - /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module3/src/_01_else_if/_2_crazy_cat_lady/.web/crazyCatLady.jpg
+  - Level0/Module3/src/_01_else_if/_2_crazy_cat_lady/.web/crazyCatLady.jpg
   text: '
 
 
@@ -2144,14 +2144,14 @@
     '
   title: 01 Else If 2 Crazy Cat Lady
 - assignment: 01_else_if_3_high_low
-  dir: levels/Level0/Module3/src/_01_else_if/_3_high_low
+  dir: Level0/Module3/src/_01_else_if/_3_high_low
   lesson: 01_else_if
   level: Level0
   module: Module3
   oassignment: 3_high_low
   opath: Level0/Module3/src/_01_else_if/_3_high_low
   resources:
-  - /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module3/src/_01_else_if/_3_high_low/.web/highLowGame.jpg
+  - Level0/Module3/src/_01_else_if/_3_high_low/.web/highLowGame.jpg
   text: '
 
 
@@ -2192,14 +2192,14 @@
     '
   title: 01 Else If 3 High Low
 - assignment: 01_else_if_4_are_you_happy
-  dir: levels/Level0/Module3/src/_01_else_if/_4_are_you_happy
+  dir: Level0/Module3/src/_01_else_if/_4_are_you_happy
   lesson: 01_else_if
   level: Level0
   module: Module3
   oassignment: 4_are_you_happy
   opath: Level0/Module3/src/_01_else_if/_4_are_you_happy
   resources:
-  - /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module3/src/_01_else_if/_4_are_you_happy/.web/AreYouHappy.png
+  - Level0/Module3/src/_01_else_if/_4_are_you_happy/.web/AreYouHappy.png
   text: '
 
 
@@ -2228,7 +2228,7 @@
     '
   title: 01 Else If 4 Are You Happy
 - assignment: 01_else_if_5_own_adventure
-  dir: levels/Level0/Module3/src/_01_else_if/_5_own_adventure
+  dir: Level0/Module3/src/_01_else_if/_5_own_adventure
   lesson: 01_else_if
   level: Level0
   module: Module3
@@ -2265,7 +2265,7 @@
     '
   title: 01 Else If 5 Own Adventure
 - assignment: 02_loop_variables_1_years_alive
-  dir: levels/Level0/Module3/src/_02_loop_variables/_1_years_alive
+  dir: Level0/Module3/src/_02_loop_variables/_1_years_alive
   lesson: 02_loop_variables
   level: Level0
   module: Module3
@@ -2279,14 +2279,14 @@
     \ for loop variable in your print statement.\n\n\n\n"
   title: 02 Loop Variables 1 Years Alive
 - assignment: 02_loop_variables_2_shiny_objects
-  dir: levels/Level0/Module3/src/_02_loop_variables/_2_shiny_objects
+  dir: Level0/Module3/src/_02_loop_variables/_2_shiny_objects
   lesson: 02_loop_variables
   level: Level0
   module: Module3
   oassignment: 2_shiny_objects
   opath: Level0/Module3/src/_02_loop_variables/_2_shiny_objects
   resources:
-  - /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module3/src/_02_loop_variables/_2_shiny_objects/.web/shinyObjets.png
+  - Level0/Module3/src/_02_loop_variables/_2_shiny_objects/.web/shinyObjets.png
   text: '
 
 
@@ -2319,14 +2319,14 @@
     '
   title: 02 Loop Variables 2 Shiny Objects
 - assignment: 02_loop_variables_3_robot_walk_of_fame
-  dir: levels/Level0/Module3/src/_02_loop_variables/_3_robot_walk_of_fame
+  dir: Level0/Module3/src/_02_loop_variables/_3_robot_walk_of_fame
   lesson: 02_loop_variables
   level: Level0
   module: Module3
   oassignment: 3_robot_walk_of_fame
   opath: Level0/Module3/src/_02_loop_variables/_3_robot_walk_of_fame
   resources:
-  - /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module3/src/_02_loop_variables/_3_robot_walk_of_fame/.web/walkOfFame.png
+  - Level0/Module3/src/_02_loop_variables/_3_robot_walk_of_fame/.web/walkOfFame.png
   text: '
 
 
@@ -2360,7 +2360,7 @@
     '
   title: 02 Loop Variables 3 Robot Walk Of Fame
 - assignment: 02_loop_variables_4_99_bottles
-  dir: levels/Level0/Module3/src/_02_loop_variables/_4_99_bottles/bottles
+  dir: Level0/Module3/src/_02_loop_variables/_4_99_bottles/bottles
   lesson: 02_loop_variables
   level: Level0
   module: Module3
@@ -2424,7 +2424,7 @@
     '
   title: 02 Loop Variables 4 99 Bottles
 - assignment: 03_remainder_1_intro_to_remainder
-  dir: levels/Level0/Module3/src/_03_remainder/_1_intro_to_remainder
+  dir: Level0/Module3/src/_03_remainder/_1_intro_to_remainder
   lesson: 03_remainder
   level: Level0
   module: Module3
@@ -2445,14 +2445,14 @@
     \n## Processing Recipes\n\nBullseye\nBumble Bee\n\n\n"
   title: 03 Remainder 1 Intro To Remainder
 - assignment: 03_remainder_2_bullseye
-  dir: levels/Level0/Module3/src/_03_remainder/_2_bullseye/bullseye
+  dir: Level0/Module3/src/_03_remainder/_2_bullseye/bullseye
   lesson: 03_remainder
   level: Level0
   module: Module3
   oassignment: 2_bullseye
   opath: Level0/Module3/src/_03_remainder/_2_bullseye/bullseye
   resources:
-  - /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module3/src/_03_remainder/_2_bullseye/bullseye/.web/bullseye.png
+  - Level0/Module3/src/_03_remainder/_2_bullseye/bullseye/.web/bullseye.png
   text: '
 
 
@@ -2488,14 +2488,14 @@
     '
   title: 03 Remainder 2 Bullseye
 - assignment: 03_remainder_3_bumble_bee
-  dir: levels/Level0/Module3/src/_03_remainder/_3_bumble_bee/bumble_bee
+  dir: Level0/Module3/src/_03_remainder/_3_bumble_bee/bumble_bee
   lesson: 03_remainder
   level: Level0
   module: Module3
   oassignment: 3_bumble_bee
   opath: Level0/Module3/src/_03_remainder/_3_bumble_bee/bumble_bee
   resources:
-  - /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module3/src/_03_remainder/_3_bumble_bee/bumble_bee/.web/bumbleBee.png
+  - Level0/Module3/src/_03_remainder/_3_bumble_bee/bumble_bee/.web/bumbleBee.png
   text: '
 
 
@@ -2531,7 +2531,7 @@
     '
   title: 03 Remainder 3 Bumble Bee
 - assignment: 03_remainder_4_fizz_buzz
-  dir: levels/Level0/Module3/src/_03_remainder/_4_fizz_buzz
+  dir: Level0/Module3/src/_03_remainder/_4_fizz_buzz
   lesson: 03_remainder
   level: Level0
   module: Module3
@@ -2576,7 +2576,7 @@
     '
   title: 03 Remainder 4 Fizz Buzz
 - assignment: 99_extra
-  dir: levels/Level0/Module3/src/_99_extra
+  dir: Level0/Module3/src/_99_extra
   lesson: 99_extra
   level: Level0
   module: Module3
@@ -2589,14 +2589,14 @@
     '
   title: 99 Extra
 - assignment: 01_double_1_change_calculator
-  dir: levels/Level0/Module4/src/_01_double/_1_change_calculator
+  dir: Level0/Module4/src/_01_double/_1_change_calculator
   lesson: 01_double
   level: Level0
   module: Module4
   oassignment: 1_change_calculator
   opath: Level0/Module4/src/_01_double/_1_change_calculator
   resources:
-  - /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module4/src/_01_double/_1_change_calculator/.web/changeCalculator.jpg
+  - Level0/Module4/src/_01_double/_1_change_calculator/.web/changeCalculator.jpg
   text: '
 
 
@@ -2635,14 +2635,14 @@
     '
   title: 01 Double 1 Change Calculator
 - assignment: 01_double_2_test_scores
-  dir: levels/Level0/Module4/src/_01_double/_2_test_scores
+  dir: Level0/Module4/src/_01_double/_2_test_scores
   lesson: 01_double
   level: Level0
   module: Module4
   oassignment: 2_test_scores
   opath: Level0/Module4/src/_01_double/_2_test_scores
   resources:
-  - /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module4/src/_01_double/_2_test_scores/.web/testScore.png
+  - Level0/Module4/src/_01_double/_2_test_scores/.web/testScore.png
   text: '
 
 
@@ -2684,7 +2684,7 @@
     '
   title: 01 Double 2 Test Scores
 - assignment: 02_boolean_1_sleepy_head
-  dir: levels/Level0/Module4/src/_02_boolean/_1_sleepy_head
+  dir: Level0/Module4/src/_02_boolean/_1_sleepy_head
   lesson: 02_boolean
   level: Level0
   module: Module4
@@ -2697,7 +2697,7 @@
     '
   title: 02 Boolean 1 Sleepy Head
 - assignment: 02_boolean_2_star_student
-  dir: levels/Level0/Module4/src/_02_boolean/_2_star_student
+  dir: Level0/Module4/src/_02_boolean/_2_star_student
   lesson: 02_boolean
   level: Level0
   module: Module4
@@ -2710,7 +2710,7 @@
     '
   title: 02 Boolean 2 Star Student
 - assignment: 02_boolean_3_game_over
-  dir: levels/Level0/Module4/src/_02_boolean/_3_game_over
+  dir: Level0/Module4/src/_02_boolean/_3_game_over
   lesson: 02_boolean
   level: Level0
   module: Module4
@@ -2723,7 +2723,7 @@
     '
   title: 02 Boolean 3 Game Over
 - assignment: 02_boolean_4_red_square
-  dir: levels/Level0/Module4/src/_02_boolean/_4_red_square
+  dir: Level0/Module4/src/_02_boolean/_4_red_square
   lesson: 02_boolean
   level: Level0
   module: Module4
@@ -2736,14 +2736,14 @@
     '
   title: 02 Boolean 4 Red Square
 - assignment: 02_boolean_5_googly_eyes
-  dir: levels/Level0/Module4/src/_02_boolean/_5_googly_eyes
+  dir: Level0/Module4/src/_02_boolean/_5_googly_eyes
   lesson: 02_boolean
   level: Level0
   module: Module4
   oassignment: 5_googly_eyes
   opath: Level0/Module4/src/_02_boolean/_5_googly_eyes
   resources:
-  - /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module4/src/_02_boolean/_5_googly_eyes/.web/googlyEyes.png
+  - Level0/Module4/src/_02_boolean/_5_googly_eyes/.web/googlyEyes.png
   text: "\n\n# Googly Eyes\n\n<hr/>\n<img alt=\"Googly image\" src=\"./images/googlyEyes.png\"\
     />\n\n## Goal:\n\nYou\u2019re going to draw a face with eyes that will follow\
     \ the mouse!\n\n## Steps:\n\n1. Find the Googly Eyes recipe program in Eclipse.\n\
@@ -2769,14 +2769,14 @@
     \ are done.\n\n\n\n"
   title: 02 Boolean 5 Googly Eyes
 - assignment: 02_boolean_6_wheres_waldo
-  dir: levels/Level0/Module4/src/_02_boolean/_6_wheres_waldo
+  dir: Level0/Module4/src/_02_boolean/_6_wheres_waldo
   lesson: 02_boolean
   level: Level0
   module: Module4
   oassignment: 6_wheres_waldo
   opath: Level0/Module4/src/_02_boolean/_6_wheres_waldo
   resources:
-  - /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module4/src/_02_boolean/_6_wheres_waldo/.web/waldo.jpg
+  - Level0/Module4/src/_02_boolean/_6_wheres_waldo/.web/waldo.jpg
   text: '
 
 
@@ -2811,7 +2811,7 @@
     '
   title: 02 Boolean 6 Wheres Waldo
 - assignment: 03_char_2_string_methods
-  dir: levels/Level0/Module4/src/_03_char/_2_string_methods
+  dir: Level0/Module4/src/_03_char/_2_string_methods
   lesson: 03_char
   level: Level0
   module: Module4
@@ -2854,14 +2854,14 @@
     '
   title: 03 Char 2 String Methods
 - assignment: 03_char_3_pi_aloud
-  dir: levels/Level0/Module4/src/_03_char/_3_pi_aloud
+  dir: Level0/Module4/src/_03_char/_3_pi_aloud
   lesson: 03_char
   level: Level0
   module: Module4
   oassignment: 3_pi_aloud
   opath: Level0/Module4/src/_03_char/_3_pi_aloud
   resources:
-  - /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module4/src/_03_char/_3_pi_aloud/.web/piAloud.png
+  - Level0/Module4/src/_03_char/_3_pi_aloud/.web/piAloud.png
   text: '
 
 
@@ -2909,7 +2909,7 @@
     '
   title: 03 Char 3 Pi Aloud
 - assignment: 04_variables_check
-  dir: levels/Level0/Module4/src/_04_variables_check
+  dir: Level0/Module4/src/_04_variables_check
   lesson: 04_variables_check
   level: Level0
   module: Module4
@@ -2995,15 +2995,15 @@
     '
   title: 04 Variables Check
 - assignment: 99_extra
-  dir: levels/Level0/Module4/src/_99_extra
+  dir: Level0/Module4/src/_99_extra
   lesson: 99_extra
   level: Level0
   module: Module4
   oassignment: 99_extra
   opath: Level0/Module4/src/_99_extra
   resources:
-  - /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module4/src/_99_extra/.web/PinTheTail.png
-  - /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module4/src/_99_extra/.web/creeper.jpg
+  - Level0/Module4/src/_99_extra/.web/PinTheTail.png
+  - Level0/Module4/src/_99_extra/.web/creeper.jpg
   text: "\n\n# Hide The Creeper\n\n<hr/>\n<img src=\"./images/creeper.jpg\"/>\n\n\
     ## Goal:\n\nFind the Creeper!\n\n## Steps:\n\n1. Find the Hide the Creeper recipe\
     \ program in Eclipse.\n2. Set your canvas size\n```\n\nsize(width, height) //in\
@@ -3036,14 +3036,14 @@
     18. Option: Add more creepers, or move the creeper after they find it.\n\n\n\n"
   title: 99 Extra
 - assignment: 99_extra_hide_the_creeper
-  dir: levels/Level0/Module4/src/_99_extra/hide_the_creeper
+  dir: Level0/Module4/src/_99_extra/hide_the_creeper
   lesson: 99_extra
   level: Level0
   module: Module4
   oassignment: hide_the_creeper
   opath: Level0/Module4/src/_99_extra/hide_the_creeper
   resources:
-  - /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module4/src/_99_extra/hide_the_creeper/.web/creeper.jpg
+  - Level0/Module4/src/_99_extra/hide_the_creeper/.web/creeper.jpg
   text: "\n\n# Hide The Creeper\n\n<hr/>\n<img src=\"./images/creeper.jpg\"/>\n\n\
     ## Goal:\n\nFind the Creeper!\n\n## Steps:\n\n1. Find the Hide the Creeper recipe\
     \ program in Eclipse.\n2. Set your canvas size\n```\n\nsize(width, height) //in\
@@ -3076,14 +3076,14 @@
     18. Option: Add more creepers, or move the creeper after they find it.\n\n\n\n"
   title: 99 Extra Hide The Creeper
 - assignment: 99_extra_pin_the_tail
-  dir: levels/Level0/Module4/src/_99_extra/pin_the_tail
+  dir: Level0/Module4/src/_99_extra/pin_the_tail
   lesson: 99_extra
   level: Level0
   module: Module4
   oassignment: pin_the_tail
   opath: Level0/Module4/src/_99_extra/pin_the_tail
   resources:
-  - /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module4/src/_99_extra/pin_the_tail/.web/PinTheTail.png
+  - Level0/Module4/src/_99_extra/pin_the_tail/.web/PinTheTail.png
   text: "\n\n# Pin the Tail on the Donkey\n\n<hr/>\n<img src=\"./images/PinTheTail.png\"\
     />\n\n## Goal:\n\nThe player of the game has to click the mouse where the donkey's\
     \ tail will go. The problem is, the picture keeps disappearing!\n\n## Steps:\n\
@@ -3148,14 +3148,14 @@
     \ the game.\n```\n\ntextSize(24);\ntext(\"Message\",100,20);\n```\n\n\n\n"
   title: 99 Extra Pin The Tail
 - assignment: 99_extra_pong
-  dir: levels/Level0/Module4/src/_99_extra/pong
+  dir: Level0/Module4/src/_99_extra/pong
   lesson: 99_extra
   level: Level0
   module: Module4
   oassignment: pong
   opath: Level0/Module4/src/_99_extra/pong
   resources:
-  - /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module4/src/_99_extra/pong/.web/pong.png
+  - Level0/Module4/src/_99_extra/pong/.web/pong.png
   text: "\n\n# Pong\n\n<hr/>\n<img src=\"./images/pong.png\"/>\n\n## Goal:\n\nMake\
     \ a Pong game using Processing!\n\n## Steps:\n\n1. Draw a ball on the screen.\n\
     ```\n\nellipse(x, y, width, height) //in draw method\nfill(red, green, blue) //in\
@@ -3181,14 +3181,14 @@
     \ CODE when you are done.\n\n\n\n"
   title: 99 Extra Pong
 - assignment: 01_algorithms_1_prime_or_not
-  dir: levels/Level0/Module5/src/_01_algorithms/_1_prime_or_not
+  dir: Level0/Module5/src/_01_algorithms/_1_prime_or_not
   lesson: 01_algorithms
   level: Level0
   module: Module5
   oassignment: 1_prime_or_not
   opath: Level0/Module5/src/_01_algorithms/_1_prime_or_not
   resources:
-  - /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module5/src/_01_algorithms/_1_prime_or_not/.web/prime.png
+  - Level0/Module5/src/_01_algorithms/_1_prime_or_not/.web/prime.png
   text: '
 
 
@@ -3224,14 +3224,14 @@
     '
   title: 01 Algorithms 1 Prime Or Not
 - assignment: 01_algorithms_2_fibonacci
-  dir: levels/Level0/Module5/src/_01_algorithms/_2_fibonacci
+  dir: Level0/Module5/src/_01_algorithms/_2_fibonacci
   lesson: 01_algorithms
   level: Level0
   module: Module5
   oassignment: 2_fibonacci
   opath: Level0/Module5/src/_01_algorithms/_2_fibonacci
   resources:
-  - /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module5/src/_01_algorithms/_2_fibonacci/.web/fibonacci.png
+  - Level0/Module5/src/_01_algorithms/_2_fibonacci/.web/fibonacci.png
   text: '
 
 
@@ -3272,7 +3272,7 @@
     '
   title: 01 Algorithms 2 Fibonacci
 - assignment: 01_algorithms_3_goofy_names
-  dir: levels/Level0/Module5/src/_01_algorithms/_3_goofy_names
+  dir: Level0/Module5/src/_01_algorithms/_3_goofy_names
   lesson: 01_algorithms
   level: Level0
   module: Module5
@@ -3319,14 +3319,14 @@
     '
   title: 01 Algorithms 3 Goofy Names
 - assignment: 02_nested_loops_1_snowflake
-  dir: levels/Level0/Module5/src/_02_nested_loops/_1_snowflake
+  dir: Level0/Module5/src/_02_nested_loops/_1_snowflake
   lesson: 02_nested_loops
   level: Level0
   module: Module5
   oassignment: 1_snowflake
   opath: Level0/Module5/src/_02_nested_loops/_1_snowflake
   resources:
-  - /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module5/src/_02_nested_loops/_1_snowflake/.web/snowflake.png
+  - Level0/Module5/src/_02_nested_loops/_1_snowflake/.web/snowflake.png
   text: '
 
 
@@ -3360,14 +3360,14 @@
     '
   title: 02 Nested Loops 1 Snowflake
 - assignment: 02_nested_loops_2_amazing_rings
-  dir: levels/Level0/Module5/src/_02_nested_loops/_2_amazing_rings
+  dir: Level0/Module5/src/_02_nested_loops/_2_amazing_rings
   lesson: 02_nested_loops
   level: Level0
   module: Module5
   oassignment: 2_amazing_rings
   opath: Level0/Module5/src/_02_nested_loops/_2_amazing_rings
   resources:
-  - /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module5/src/_02_nested_loops/_2_amazing_rings/.web/amazingRings.png
+  - Level0/Module5/src/_02_nested_loops/_2_amazing_rings/.web/amazingRings.png
   text: '
 
 
@@ -3403,7 +3403,7 @@
     '
   title: 02 Nested Loops 2 Amazing Rings
 - assignment: 02_nested_loops_3_for_loop_gauntlet
-  dir: levels/Level0/Module5/src/_02_nested_loops/_3_for_loop_gauntlet
+  dir: Level0/Module5/src/_02_nested_loops/_3_for_loop_gauntlet
   lesson: 02_nested_loops
   level: Level0
   module: Module5
@@ -3432,7 +3432,7 @@
     \ with for(int i = 0;  and you may NOT have any code ABOVE your for loop.\n\n"
   title: 02 Nested Loops 3 For Loop Gauntlet
 - assignment: 03_method_writing_1_intro_to_methods
-  dir: levels/Level0/Module5/src/_03_method_writing/_1_intro_to_methods
+  dir: Level0/Module5/src/_03_method_writing/_1_intro_to_methods
   lesson: 03_method_writing
   level: Level0
   module: Module5
@@ -3445,14 +3445,14 @@
     '
   title: 03 Method Writing 1 Intro To Methods
 - assignment: 03_method_writing_1_obedient_robot
-  dir: levels/Level0/Module5/src/_03_method_writing/_1_obedient_robot
+  dir: Level0/Module5/src/_03_method_writing/_1_obedient_robot
   lesson: 03_method_writing
   level: Level0
   module: Module5
   oassignment: 1_obedient_robot
   opath: Level0/Module5/src/_03_method_writing/_1_obedient_robot
   resources:
-  - /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module5/src/_03_method_writing/_1_obedient_robot/.web/robot.png
+  - Level0/Module5/src/_03_method_writing/_1_obedient_robot/.web/robot.png
   text: '
 
 
@@ -3501,14 +3501,14 @@
     '
   title: 03 Method Writing 1 Obedient Robot
 - assignment: 03_method_writing_2_happy_pet
-  dir: levels/Level0/Module5/src/_03_method_writing/_2_happy_pet
+  dir: Level0/Module5/src/_03_method_writing/_2_happy_pet
   lesson: 03_method_writing
   level: Level0
   module: Module5
   oassignment: 2_happy_pet
   opath: Level0/Module5/src/_03_method_writing/_2_happy_pet
   resources:
-  - /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module5/src/_03_method_writing/_2_happy_pet/.web/happyPet.png
+  - Level0/Module5/src/_03_method_writing/_2_happy_pet/.web/happyPet.png
   text: '
 
 
@@ -3545,7 +3545,7 @@
     '
   title: 03 Method Writing 2 Happy Pet
 - assignment: 03_method_writing_4_calculator
-  dir: levels/Level0/Module5/src/_03_method_writing/_4_calculator
+  dir: Level0/Module5/src/_03_method_writing/_4_calculator
   lesson: 03_method_writing
   level: Level0
   module: Module5
@@ -3558,7 +3558,7 @@
     '
   title: 03 Method Writing 4 Calculator
 - assignment: 04_practice_1_skill_practice
-  dir: levels/Level0/Module5/src/_04_practice/_1_skill_practice
+  dir: Level0/Module5/src/_04_practice/_1_skill_practice
   lesson: 04_practice
   level: Level0
   module: Module5
@@ -3681,7 +3681,7 @@
     '
   title: 04 Practice 1 Skill Practice
 - assignment: 04_practice_2_code_4_life
-  dir: levels/Level0/Module5/src/_04_practice/_2_code_4_life
+  dir: Level0/Module5/src/_04_practice/_2_code_4_life
   lesson: 04_practice
   level: Level0
   module: Module5
@@ -3694,7 +3694,7 @@
     '
   title: 04 Practice 2 Code 4 Life
 - assignment: 05_self_tests_1_which_data_type_1
-  dir: levels/Level0/Module5/src/_05_self_tests/_1_which_data_type_1
+  dir: Level0/Module5/src/_05_self_tests/_1_which_data_type_1
   lesson: 05_self_tests
   level: Level0
   module: Module5
@@ -3710,7 +3710,7 @@
     \ ANSWERS\n```\n<hr size=\"3\"/>\n\n"
   title: 05 Self Tests 1 Which Data Type 1
 - assignment: 05_self_tests_2_which_data_type_2
-  dir: levels/Level0/Module5/src/_05_self_tests/_2_which_data_type_2
+  dir: Level0/Module5/src/_05_self_tests/_2_which_data_type_2
   lesson: 05_self_tests
   level: Level0
   module: Module5
@@ -3726,7 +3726,7 @@
     \ ANSWERS\n```\n<hr size=\"3\"/>\n\n"
   title: 05 Self Tests 2 Which Data Type 2
 - assignment: 05_self_tests_3_whats_the_output
-  dir: levels/Level0/Module5/src/_05_self_tests/_3_whats_the_output
+  dir: Level0/Module5/src/_05_self_tests/_3_whats_the_output
   lesson: 05_self_tests
   level: Level0
   module: Module5
@@ -3787,7 +3787,7 @@
     ```\n<hr size=\"3\"/>\n\n"
   title: 05 Self Tests 3 Whats The Output
 - assignment: 05_self_tests_4_missing_mustaches
-  dir: levels/Level0/Module5/src/_05_self_tests/_4_missing_mustaches
+  dir: Level0/Module5/src/_05_self_tests/_4_missing_mustaches
   lesson: 05_self_tests
   level: Level0
   module: Module5
@@ -3804,7 +3804,7 @@
     \ ANSWER\n```\n<hr size=\"3\"/>\n\n"
   title: 05 Self Tests 4 Missing Mustaches
 - assignment: 05_self_tests_5_for_loop_onslaught
-  dir: levels/Level0/Module5/src/_05_self_tests/_5_for_loop_onslaught
+  dir: Level0/Module5/src/_05_self_tests/_5_for_loop_onslaught
   lesson: 05_self_tests
   level: Level0
   module: Module5
@@ -3861,7 +3861,7 @@
     '
   title: 05 Self Tests 5 For Loop Onslaught
 - assignment: 05_self_tests_6_level0_summary
-  dir: levels/Level0/Module5/src/_05_self_tests/_6_level0_summary
+  dir: Level0/Module5/src/_05_self_tests/_6_level0_summary
   lesson: 05_self_tests
   level: Level0
   module: Module5
@@ -4008,7 +4008,7 @@
     '
   title: 05 Self Tests 6 Level0 Summary
 - assignment: 05_self_tests_7_study_guide
-  dir: levels/Level0/Module5/src/_05_self_tests/_7_study_guide
+  dir: Level0/Module5/src/_05_self_tests/_7_study_guide
   lesson: 05_self_tests
   level: Level0
   module: Module5
@@ -4070,7 +4070,7 @@
     \n"
   title: 05 Self Tests 7 Study Guide
 - assignment: 05_self_tests_8_online_practice_test1
-  dir: levels/Level0/Module5/src/_05_self_tests/_8_online_practice_test1
+  dir: Level0/Module5/src/_05_self_tests/_8_online_practice_test1
   lesson: 05_self_tests
   level: Level0
   module: Module5
@@ -4087,7 +4087,7 @@
     '
   title: 05 Self Tests 8 Online Practice Test1
 - assignment: 05_self_tests_9_online_practice_test2
-  dir: levels/Level0/Module5/src/_05_self_tests/_9_online_practice_test2
+  dir: Level0/Module5/src/_05_self_tests/_9_online_practice_test2
   lesson: 05_self_tests
   level: Level0
   module: Module5
@@ -4104,7 +4104,7 @@
     '
   title: 05 Self Tests 9 Online Practice Test2
 - assignment: 99_extra
-  dir: levels/Level0/Module5/src/_99_extra
+  dir: Level0/Module5/src/_99_extra
   lesson: 99_extra
   level: Level0
   module: Module5
@@ -4117,14 +4117,14 @@
     '
   title: 99 Extra
 - assignment: 99_extra_z_UnicornsOnARainbow
-  dir: levels/Level0PDE/Module0/src/_99_extra/z_UnicornsOnARainbow
+  dir: Level0PDE/Module0/src/_99_extra/z_UnicornsOnARainbow
   lesson: 99_extra
   level: Level0PDE
   module: Module0
   oassignment: z_UnicornsOnARainbow
   opath: Level0PDE/Module0/src/_99_extra/z_UnicornsOnARainbow
   resources:
-  - /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0PDE/Module0/src/_99_extra/z_UnicornsOnARainbow/.web/unicornOnRainbow.png
+  - Level0PDE/Module0/src/_99_extra/z_UnicornsOnARainbow/.web/unicornOnRainbow.png
   text: '
 
 
@@ -4159,14 +4159,14 @@
     '
   title: 99 Extra Z Unicornsonarainbow
 - assignment: 01_methods_1_houses
-  dir: levels/Level1/Module0/src/_01_methods/_1_houses
+  dir: Level1/Module0/src/_01_methods/_1_houses
   lesson: 01_methods
   level: Level1
   module: Module0
   oassignment: 1_houses
   opath: Level1/Module0/src/_01_methods/_1_houses
   resources:
-  - /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level1/Module0/src/_01_methods/_1_houses/.web/houses.jpg
+  - Level1/Module0/src/_01_methods/_1_houses/.web/houses.jpg
   text: "\n\n# Houses\n\n1. Have a robot start on the left side of the window near\
     \ the bottom.\n\n2. Draw a flat-topped house of height 100 with grass after it\
     \ (see picture).\n\n3. Extract the piece of code that draws the house into a method.\
@@ -4180,14 +4180,14 @@
     \ \u201CdrawFlatRoof\u201D.\n\n9. Make large houses have flat roofs\n\n\n"
   title: 01 Methods 1 Houses
 - assignment: 01_methods_2_spinning_record
-  dir: levels/Level1/Module0/src/_01_methods/_2_spinning_record
+  dir: Level1/Module0/src/_01_methods/_2_spinning_record
   lesson: 01_methods
   level: Level1
   module: Module0
   oassignment: 2_spinning_record
   opath: Level1/Module0/src/_01_methods/_2_spinning_record
   resources:
-  - /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level1/Module0/src/_01_methods/_2_spinning_record/.web/spinningRecord.png
+  - Level1/Module0/src/_01_methods/_2_spinning_record/.web/spinningRecord.png
   text: "\n\n# Spinning Record\n\n<img align=\"left\" alt=\"\" src=\"./images/spinningRecord.png\"\
     \ style=\"width: 200.00px; height: 207.00px;  margin: 0px 20px\" title=\"\"/>\n\
     We are going to make a virtual record player that spins and plays your song when\
@@ -4213,7 +4213,7 @@
     \ the record spin as fast as possible\n\n\n"
   title: 01 Methods 2 Spinning Record
 - assignment: 01_methods_3_rain_game
-  dir: levels/Level1/Module0/src/_01_methods/_3_rain_game
+  dir: Level1/Module0/src/_01_methods/_3_rain_game
   lesson: 01_methods
   level: Level1
   module: Module0
@@ -4242,14 +4242,14 @@
     Score: \" + score, 20, 20);\n\n\n"
   title: 01 Methods 3 Rain Game
 - assignment: 01_methods_4_magic_worms
-  dir: levels/Level1/Module0/src/_01_methods/_4_magic_worms
+  dir: Level1/Module0/src/_01_methods/_4_magic_worms
   lesson: 01_methods
   level: Level1
   module: Module0
   oassignment: 4_magic_worms
   opath: Level1/Module0/src/_01_methods/_4_magic_worms
   resources:
-  - /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level1/Module0/src/_01_methods/_4_magic_worms/.web/magicWorms.png
+  - Level1/Module0/src/_01_methods/_4_magic_worms/.web/magicWorms.png
   text: "\n\n# Magic Worms\n\n1. Start a new sketch with draw, setup, and settings\
     \ methods.\n\n2. Set your canvas size and background color in the settings() method\n\
     ```\n    size(width, height\n    background(red, green, blue)\n```\n3. In your\
@@ -4277,14 +4277,14 @@
     \ clicks the mouse.\n\n\n"
   title: 01 Methods 4 Magic Worms
 - assignment: 01_methods_5_FlappyBird
-  dir: levels/Level1/Module0/src/_01_methods/_5_FlappyBird
+  dir: Level1/Module0/src/_01_methods/_5_FlappyBird
   lesson: 01_methods
   level: Level1
   module: Module0
   oassignment: 5_FlappyBird
   opath: Level1/Module0/src/_01_methods/_5_FlappyBird
   resources:
-  - /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level1/Module0/src/_01_methods/_5_FlappyBird/.web/FlappyBirdScreenShot.png
+  - Level1/Module0/src/_01_methods/_5_FlappyBird/.web/FlappyBirdScreenShot.png
   text: "\n\n# Flappy Bird\n\n1. Start a new sketch with draw and setup methods.\n\
     \n2. Set your canvas size in the setup method\nsize(width, height)\n3. In your\
     \ draw method, set a background, and draw a ball (bird) on the screen.\n```\n\
@@ -4332,7 +4332,7 @@
     image (bird, 250, 300);\n}\n\n\n"
   title: 01 Methods 5 Flappybird
 - assignment: 02_return_types_1_finish_line
-  dir: levels/Level1/Module0/src/_02_return_types/_1_finish_line
+  dir: Level1/Module0/src/_02_return_types/_1_finish_line
   lesson: 02_return_types
   level: Level1
   module: Module0
@@ -4345,7 +4345,7 @@
     '
   title: 02 Return Types 1 Finish Line
 - assignment: 02_return_types_2_list_of_goals
-  dir: levels/Level1/Module0/src/_02_return_types/_2_list_of_goals
+  dir: Level1/Module0/src/_02_return_types/_2_list_of_goals
   lesson: 02_return_types
   level: Level1
   module: Module0
@@ -4358,7 +4358,7 @@
     '
   title: 02 Return Types 2 List Of Goals
 - assignment: 02_return_types_3_too_many_shapes
-  dir: levels/Level1/Module0/src/_02_return_types/_3_too_many_shapes
+  dir: Level1/Module0/src/_02_return_types/_3_too_many_shapes
   lesson: 02_return_types
   level: Level1
   module: Module0
@@ -4371,14 +4371,14 @@
     '
   title: 02 Return Types 3 Too Many Shapes
 - assignment: 03_gui_with_help_1_my_first_swing_gui
-  dir: levels/Level1/Module0/src/_03_gui_with_help/_1_my_first_swing_gui
+  dir: Level1/Module0/src/_03_gui_with_help/_1_my_first_swing_gui
   lesson: 03_gui_with_help
   level: Level1
   module: Module0
   oassignment: 1_my_first_swing_gui
   opath: Level1/Module0/src/_03_gui_with_help/_1_my_first_swing_gui
   resources:
-  - /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level1/Module0/src/_03_gui_with_help/_1_my_first_swing_gui/.web/myFirstSwingGui.png
+  - Level1/Module0/src/_03_gui_with_help/_1_my_first_swing_gui/.web/myFirstSwingGui.png
   text: '
 
 
@@ -4425,14 +4425,14 @@
     '
   title: 03 Gui With Help 1 My First Swing Gui
 - assignment: 03_gui_with_help_2_photo_quiz
-  dir: levels/Level1/Module0/src/_03_gui_with_help/_2_photo_quiz
+  dir: Level1/Module0/src/_03_gui_with_help/_2_photo_quiz
   lesson: 03_gui_with_help
   level: Level1
   module: Module0
   oassignment: 2_photo_quiz
   opath: Level1/Module0/src/_03_gui_with_help/_2_photo_quiz
   resources:
-  - /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level1/Module0/src/_03_gui_with_help/_2_photo_quiz/.web/photoQuiz.png
+  - Level1/Module0/src/_03_gui_with_help/_2_photo_quiz/.web/photoQuiz.png
   text: '
 
 
@@ -4479,15 +4479,15 @@
     '
   title: 03 Gui With Help 2 Photo Quiz
 - assignment: 03_gui_with_help_3_drum_kit
-  dir: levels/Level1/Module0/src/_03_gui_with_help/_3_drum_kit
+  dir: Level1/Module0/src/_03_gui_with_help/_3_drum_kit
   lesson: 03_gui_with_help
   level: Level1
   module: Module0
   oassignment: 3_drum_kit
   opath: Level1/Module0/src/_03_gui_with_help/_3_drum_kit
   resources:
-  - /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level1/Module0/src/_03_gui_with_help/_3_drum_kit/.web/drumKit.png
-  - /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level1/Module0/src/_03_gui_with_help/_3_drum_kit/.web/drum.png
+  - Level1/Module0/src/_03_gui_with_help/_3_drum_kit/.web/drumKit.png
+  - Level1/Module0/src/_03_gui_with_help/_3_drum_kit/.web/drum.png
   text: '
 
 
@@ -4548,14 +4548,14 @@
     '
   title: 03 Gui With Help 3 Drum Kit
 - assignment: 03_gui_with_help_4_body_part_quiz
-  dir: levels/Level1/Module0/src/_03_gui_with_help/_4_body_part_quiz
+  dir: Level1/Module0/src/_03_gui_with_help/_4_body_part_quiz
   lesson: 03_gui_with_help
   level: Level1
   module: Module0
   oassignment: 4_body_part_quiz
   opath: Level1/Module0/src/_03_gui_with_help/_4_body_part_quiz
   resources:
-  - /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level1/Module0/src/_03_gui_with_help/_4_body_part_quiz/.web/bodyPart.png
+  - Level1/Module0/src/_03_gui_with_help/_4_body_part_quiz/.web/bodyPart.png
   text: '
 
 
@@ -4599,15 +4599,15 @@
     '
   title: 03 Gui With Help 4 Body Part Quiz
 - assignment: 03_gui_with_help_5_duelling_buttons
-  dir: levels/Level1/Module0/src/_03_gui_with_help/_5_duelling_buttons
+  dir: Level1/Module0/src/_03_gui_with_help/_5_duelling_buttons
   lesson: 03_gui_with_help
   level: Level1
   module: Module0
   oassignment: 5_duelling_buttons
   opath: Level1/Module0/src/_03_gui_with_help/_5_duelling_buttons
   resources:
-  - /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level1/Module0/src/_03_gui_with_help/_5_duelling_buttons/.web/duellingButtons.png
-  - /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level1/Module0/src/_03_gui_with_help/_5_duelling_buttons/.web/sameSizeButtons.png
+  - Level1/Module0/src/_03_gui_with_help/_5_duelling_buttons/.web/duellingButtons.png
+  - Level1/Module0/src/_03_gui_with_help/_5_duelling_buttons/.web/sameSizeButtons.png
   text: '
 
 
@@ -4644,7 +4644,7 @@
     '
   title: 03 Gui With Help 5 Duelling Buttons
 - assignment: 04_gui_from_scratch_1_fortune_cookie
-  dir: levels/Level1/Module0/src/_04_gui_from_scratch/_1_fortune_cookie
+  dir: Level1/Module0/src/_04_gui_from_scratch/_1_fortune_cookie
   lesson: 04_gui_from_scratch
   level: Level1
   module: Module0
@@ -4672,7 +4672,7 @@
     \ fortunes from them.\n\n\n"
   title: 04 Gui From Scratch 1 Fortune Cookie
 - assignment: 04_gui_from_scratch_2_jack_in_the_box
-  dir: levels/Level1/Module0/src/_04_gui_from_scratch/_2_jack_in_the_box
+  dir: Level1/Module0/src/_04_gui_from_scratch/_2_jack_in_the_box
   lesson: 04_gui_from_scratch
   level: Level1
   module: Module0
@@ -4777,7 +4777,7 @@
     '
   title: 04 Gui From Scratch 2 Jack In The Box
 - assignment: 04_gui_from_scratch_3_sound_effects_machine
-  dir: levels/Level1/Module0/src/_04_gui_from_scratch/_3_sound_effects_machine
+  dir: Level1/Module0/src/_04_gui_from_scratch/_3_sound_effects_machine
   lesson: 04_gui_from_scratch
   level: Level1
   module: Module0
@@ -4803,7 +4803,7 @@
     File does not exist\");\n\t\t\t}\n\t\t\n\t}\n```\n\n\n"
   title: 04 Gui From Scratch 3 Sound Effects Machine
 - assignment: 04_gui_from_scratch_4_cuteness_tv
-  dir: levels/Level1/Module0/src/_04_gui_from_scratch/_4_cuteness_tv
+  dir: Level1/Module0/src/_04_gui_from_scratch/_4_cuteness_tv
   lesson: 04_gui_from_scratch
   level: Level1
   module: Module0
@@ -4892,7 +4892,7 @@
     '
   title: 04 Gui From Scratch 4 Cuteness Tv
 - assignment: 01_asteroids
-  dir: levels/Level1/Module1/src/_01_asteroids
+  dir: Level1/Module1/src/_01_asteroids
   lesson: 01_asteroids
   level: Level1
   module: Module1
@@ -4905,7 +4905,7 @@
     '
   title: 01 Asteroids
 - assignment: 02_race_car
-  dir: levels/Level1/Module1/src/_02_race_car
+  dir: Level1/Module1/src/_02_race_car
   lesson: 02_race_car
   level: Level1
   module: Module1
@@ -4918,7 +4918,7 @@
     '
   title: 02 Race Car
 - assignment: 03_cat
-  dir: levels/Level1/Module1/src/_03_cat
+  dir: Level1/Module1/src/_03_cat
   lesson: 03_cat
   level: Level1
   module: Module1
@@ -4931,7 +4931,7 @@
     '
   title: 03 Cat
 - assignment: 04_harry_potter
-  dir: levels/Level1/Module1/src/_04_harry_potter
+  dir: Level1/Module1/src/_04_harry_potter
   lesson: 04_harry_potter
   level: Level1
   module: Module1
@@ -4944,7 +4944,7 @@
     '
   title: 04 Harry Potter
 - assignment: 05_popcorn
-  dir: levels/Level1/Module1/src/_05_popcorn
+  dir: Level1/Module1/src/_05_popcorn
   lesson: 05_popcorn
   level: Level1
   module: Module1
@@ -4957,7 +4957,7 @@
     '
   title: 05 Popcorn
 - assignment: 06_vault
-  dir: levels/Level1/Module1/src/_06_vault
+  dir: Level1/Module1/src/_06_vault
   lesson: 06_vault
   level: Level1
   module: Module1
@@ -4999,14 +4999,14 @@
     '
   title: 06 Vault
 - assignment: 07_duck
-  dir: levels/Level1/Module1/src/_07_duck
+  dir: Level1/Module1/src/_07_duck
   lesson: 07_duck
   level: Level1
   module: Module1
   oassignment: 07_duck
   opath: Level1/Module1/src/_07_duck
   resources:
-  - /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level1/Module1/src/_07_duck/.web/duck.png
+  - Level1/Module1/src/_07_duck/.web/duck.png
   text: '
 
 
@@ -5060,7 +5060,7 @@
     '
   title: 07 Duck
 - assignment: 08_SolarSystem
-  dir: levels/Level1/Module1/src/_08_SolarSystem
+  dir: Level1/Module1/src/_08_SolarSystem
   lesson: 08_SolarSystem
   level: Level1
   module: Module1
@@ -5073,7 +5073,7 @@
     '
   title: 08 Solarsystem
 - assignment: 09_HungryHungryHippos
-  dir: levels/Level1/Module1/src/_09_HungryHungryHippos
+  dir: Level1/Module1/src/_09_HungryHungryHippos
   lesson: 09_HungryHungryHippos
   level: Level1
   module: Module1
@@ -5086,7 +5086,7 @@
     '
   title: 09 Hungryhungryhippos
 - assignment: 10_turf_war
-  dir: levels/Level1/Module1/src/_10_turf_war
+  dir: Level1/Module1/src/_10_turf_war
   lesson: 10_turf_war
   level: Level1
   module: Module1
@@ -5099,14 +5099,14 @@
     '
   title: 10 Turf War
 - assignment: 11_binary_converter
-  dir: levels/Level1/Module1/src/_11_binary_converter
+  dir: Level1/Module1/src/_11_binary_converter
   lesson: 11_binary_converter
   level: Level1
   module: Module1
   oassignment: 11_binary_converter
   opath: Level1/Module1/src/_11_binary_converter
   resources:
-  - /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level1/Module1/src/_11_binary_converter/.web/FlappyBirdScreenShot.png
+  - Level1/Module1/src/_11_binary_converter/.web/FlappyBirdScreenShot.png
   text: "\n\n# Flappy Bird\n\n1. Start a new sketch with draw and setup methods.\n\
     \n2. Set your canvas size in the setup method\nsize(width, height)\n3. In your\
     \ draw method, set a background, and draw a ball (bird) on the screen.\n```\n\
@@ -5154,7 +5154,7 @@
     image (bird, 250, 300);\n}\n\n\n"
   title: 11 Binary Converter
 - assignment: 01_sea_creature
-  dir: levels/Level1/Module2/src/_01_sea_creature
+  dir: Level1/Module2/src/_01_sea_creature
   lesson: 01_sea_creature
   level: Level1
   module: Module2
@@ -5167,7 +5167,7 @@
     '
   title: 01 Sea Creature
 - assignment: 02_smurf
-  dir: levels/Level1/Module2/src/_02_smurf
+  dir: Level1/Module2/src/_02_smurf
   lesson: 02_smurf
   level: Level1
   module: Module2
@@ -5180,7 +5180,7 @@
     '
   title: 02 Smurf
 - assignment: 03_tea_maker
-  dir: levels/Level1/Module2/src/_03_tea_maker
+  dir: Level1/Module2/src/_03_tea_maker
   lesson: 03_tea_maker
   level: Level1
   module: Module2
@@ -5193,7 +5193,7 @@
     '
   title: 03 Tea Maker
 - assignment: 04_backpack
-  dir: levels/Level1/Module2/src/_04_backpack
+  dir: Level1/Module2/src/_04_backpack
   lesson: 04_backpack
   level: Level1
   module: Module2
@@ -5206,7 +5206,7 @@
     '
   title: 04 Backpack
 - assignment: 99_extra
-  dir: levels/Level1/Module2/src/_99_extra
+  dir: Level1/Module2/src/_99_extra
   lesson: 99_extra
   level: Level1
   module: Module2
@@ -5219,7 +5219,7 @@
     '
   title: 99 Extra
 - assignment: 99_extra_04_tea_party
-  dir: levels/Level1/Module2/src/_99_extra/_04_tea_party
+  dir: Level1/Module2/src/_99_extra/_04_tea_party
   lesson: 99_extra
   level: Level1
   module: Module2
@@ -5253,7 +5253,7 @@
     \t}\n\n}\n```\n\n\n"
   title: 99 Extra 04 Tea Party
 - assignment: 99_extra_04_unit_tests
-  dir: levels/Level1/Module2/src/_99_extra/_04_unit_tests
+  dir: Level1/Module2/src/_99_extra/_04_unit_tests
   lesson: 99_extra
   level: Level1
   module: Module2
@@ -5281,7 +5281,7 @@
     \nassertEquals(2, getLargest(3,2));\n\n\n"
   title: 99 Extra 04 Unit Tests
 - assignment: 99_extra_05_minion
-  dir: levels/Level1/Module2/src/_99_extra/_05_minion
+  dir: Level1/Module2/src/_99_extra/_05_minion
   lesson: 99_extra
   level: Level1
   module: Module2
@@ -5294,7 +5294,7 @@
     '
   title: 99 Extra 05 Minion
 - assignment: 01_intro_to_static
-  dir: levels/Level1/Module3/src/_01_intro_to_static
+  dir: Level1/Module3/src/_01_intro_to_static
   lesson: 01_intro_to_static
   level: Level1
   module: Module3
@@ -5347,7 +5347,7 @@
     \n"
   title: 01 Intro To Static
 - assignment: 02_static_smiley_blues
-  dir: levels/Level1/Module3/src/_02_static_smiley_blues
+  dir: Level1/Module3/src/_02_static_smiley_blues
   lesson: 02_static_smiley_blues
   level: Level1
   module: Module3
@@ -5360,7 +5360,7 @@
     '
   title: 02 Static Smiley Blues
 - assignment: 04_netflix
-  dir: levels/Level1/Module3/src/_04_netflix
+  dir: Level1/Module3/src/_04_netflix
   lesson: 04_netflix
   level: Level1
   module: Module3
@@ -5401,7 +5401,7 @@
     '
   title: 04 Netflix
 - assignment: 05_cow_timer
-  dir: levels/Level1/Module3/src/_05_cow_timer
+  dir: Level1/Module3/src/_05_cow_timer
   lesson: 05_cow_timer
   level: Level1
   module: Module3
@@ -5414,14 +5414,14 @@
     '
   title: 05 Cow Timer
 - assignment: 06_frogger
-  dir: levels/Level1/Module3/src/_06_frogger
+  dir: Level1/Module3/src/_06_frogger
   lesson: 06_frogger
   level: Level1
   module: Module3
   oassignment: 06_frogger
   opath: Level1/Module3/src/_06_frogger
   resources:
-  - /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level1/Module3/src/_06_frogger/.web/FroggerScreenShot.png
+  - Level1/Module3/src/_06_frogger/.web/FroggerScreenShot.png
   text: "\n\n# Frogger\n\n1. Start a new sketch with draw, setup, and settings methods.\
     \ Ask your teacher if you do not know how to do this.\n\n2.  In the settings method,\
     \ set your canvas of size 800x600 for your game\nsize(width, height);\nIn the\
@@ -5473,7 +5473,7 @@
     \  image (frog, 300, 530);\n    }\n```\n\n\n"
   title: 06 Frogger
 - assignment: 99_extra_04_gridworld
-  dir: levels/Level1/Module3/src/_99_extra/_04_gridworld
+  dir: Level1/Module3/src/_99_extra/_04_gridworld
   lesson: 99_extra
   level: Level1
   module: Module3
@@ -5498,14 +5498,14 @@
     \n\n"
   title: 99 Extra 04 Gridworld
 - assignment: 01_chuckle_clicker
-  dir: levels/Level1/Module4/src/_01_chuckle_clicker
+  dir: Level1/Module4/src/_01_chuckle_clicker
   lesson: 01_chuckle_clicker
   level: Level1
   module: Module4
   oassignment: 01_chuckle_clicker
   opath: Level1/Module4/src/_01_chuckle_clicker
   resources:
-  - /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level1/Module4/src/_01_chuckle_clicker/.web/chuckle.png
+  - Level1/Module4/src/_01_chuckle_clicker/.web/chuckle.png
   text: "\n\n# Chuckle Clicker\n\nWe are going to tell the user jokes that have punchlines.\n\
     1. Make a ChuckleClicker class with a main method and a makeButtons() method.\n\
     Open a pop-up that shows the message \"Make Buttons\" in the makeButtons method,\
@@ -5522,16 +5522,16 @@
     \n"
   title: 01 Chuckle Clicker
 - assignment: 02_jeopardy
-  dir: levels/Level1/Module4/src/_02_jeopardy
+  dir: Level1/Module4/src/_02_jeopardy
   lesson: 02_jeopardy
   level: Level1
   module: Module4
   oassignment: 02_jeopardy
   opath: Level1/Module4/src/_02_jeopardy
   resources:
-  - /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level1/Module4/src/_02_jeopardy/.web/jeopardy1.png
-  - /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level1/Module4/src/_02_jeopardy/.web/jeopardy2.png
-  - /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level1/Module4/src/_02_jeopardy/.web/jeopardy3.png
+  - Level1/Module4/src/_02_jeopardy/.web/jeopardy1.png
+  - Level1/Module4/src/_02_jeopardy/.web/jeopardy2.png
+  - Level1/Module4/src/_02_jeopardy/.web/jeopardy3.png
   text: '
 
 
@@ -5552,15 +5552,15 @@
     '
   title: 02 Jeopardy
 - assignment: 03_typing_tutor
-  dir: levels/Level1/Module4/src/_03_typing_tutor
+  dir: Level1/Module4/src/_03_typing_tutor
   lesson: 03_typing_tutor
   level: Level1
   module: Module4
   oassignment: 03_typing_tutor
   opath: Level1/Module4/src/_03_typing_tutor
   resources:
-  - /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level1/Module4/src/_03_typing_tutor/.web/typing.jpg
-  - /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level1/Module4/src/_03_typing_tutor/.web/typingTutor1.png
+  - Level1/Module4/src/_03_typing_tutor/.web/typing.jpg
+  - Level1/Module4/src/_03_typing_tutor/.web/typingTutor1.png
   text: "\n\n# Typing Tutor\n\nWe are going to make a Typing Tutor.\n<img alt=\"\"\
     \ src=\"./images/typing.jpg\" style=\"width: 444.00px; height: 163.00px; margin-left:\
     \ 100.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform:\
@@ -5596,7 +5596,7 @@
     \ charactersPerMinute + \" characters per minute.\");\n} \n```\n\n\n"
   title: 03 Typing Tutor
 - assignment: 04_book_of_illusions
-  dir: levels/Level1/Module4/src/_04_book_of_illusions
+  dir: Level1/Module4/src/_04_book_of_illusions
   lesson: 04_book_of_illusions
   level: Level1
   module: Module4
@@ -5609,7 +5609,7 @@
     '
   title: 04 Book Of Illusions
 - assignment: 05_fortune_teller
-  dir: levels/Level1/Module4/src/_05_fortune_teller
+  dir: Level1/Module4/src/_05_fortune_teller
   lesson: 05_fortune_teller
   level: Level1
   module: Module4
@@ -5622,14 +5622,14 @@
     '
   title: 05 Fortune Teller
 - assignment: 06_calculator
-  dir: levels/Level1/Module4/src/_06_calculator
+  dir: Level1/Module4/src/_06_calculator
   lesson: 06_calculator
   level: Level1
   module: Module4
   oassignment: 06_calculator
   opath: Level1/Module4/src/_06_calculator
   resources:
-  - /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level1/Module4/src/_06_calculator/.web/calculator.png
+  - Level1/Module4/src/_06_calculator/.web/calculator.png
   text: '
 
 
@@ -5650,7 +5650,7 @@
     '
   title: 06 Calculator
 - assignment: 07_tv_show_episode_info
-  dir: levels/Level1/Module4/src/_07_tv_show_episode_info
+  dir: Level1/Module4/src/_07_tv_show_episode_info
   lesson: 07_tv_show_episode_info
   level: Level1
   module: Module4
@@ -5663,14 +5663,14 @@
     '
   title: 07 Tv Show Episode Info
 - assignment: 08_pig_latin
-  dir: levels/Level1/Module4/src/_08_pig_latin
+  dir: Level1/Module4/src/_08_pig_latin
   lesson: 08_pig_latin
   level: Level1
   module: Module4
   oassignment: 08_pig_latin
   opath: Level1/Module4/src/_08_pig_latin
   resources:
-  - /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level1/Module4/src/_08_pig_latin/.web/PigLatin2.png
+  - Level1/Module4/src/_08_pig_latin/.web/PigLatin2.png
   text: '
 
 
@@ -5697,14 +5697,14 @@
     '
   title: 08 Pig Latin
 - assignment: 09_whack_a_mole
-  dir: levels/Level1/Module4/src/_09_whack_a_mole
+  dir: Level1/Module4/src/_09_whack_a_mole
   lesson: 09_whack_a_mole
   level: Level1
   module: Module4
   oassignment: 09_whack_a_mole
   opath: Level1/Module4/src/_09_whack_a_mole
   resources:
-  - /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level1/Module4/src/_09_whack_a_mole/.web/whackAmole.png
+  - Level1/Module4/src/_09_whack_a_mole/.web/whackAmole.png
   text: "\n\n# Whack-a-Mole\n\nWe are going to make a game where the user has to click\
     \ on a \"mole\". The game is timed so the user can get their \"whack rate\".\n\
     1. Start building a basic Swing GUI to hold the game shown below (JFrame, JPanel,\
@@ -5736,14 +5736,14 @@
     \    sound.play();\n}\n```\n\n\n"
   title: 09 Whack A Mole
 - assignment: 10_slot_machine
-  dir: levels/Level1/Module4/src/_10_slot_machine
+  dir: Level1/Module4/src/_10_slot_machine
   lesson: 10_slot_machine
   level: Level1
   module: Module4
   oassignment: 10_slot_machine
   opath: Level1/Module4/src/_10_slot_machine
   resources:
-  - /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level1/Module4/src/_10_slot_machine/.web/slotMachine.png
+  - Level1/Module4/src/_10_slot_machine/.web/slotMachine.png
   text: '
 
 
@@ -5800,7 +5800,7 @@
     '
   title: 10 Slot Machine
 - assignment: 11_lights_out
-  dir: levels/Level1/Module4/src/_11_lights_out
+  dir: Level1/Module4/src/_11_lights_out
   lesson: 11_lights_out
   level: Level1
   module: Module4
@@ -5813,7 +5813,7 @@
     '
   title: 11 Lights Out
 - assignment: 12_online_practice_quiz
-  dir: levels/Level1/Module4/src/_12_online_practice_quiz
+  dir: Level1/Module4/src/_12_online_practice_quiz
   lesson: 12_online_practice_quiz
   level: Level1
   module: Module4
@@ -5899,7 +5899,7 @@
     '
   title: 12 Online Practice Quiz
 - assignment: 99_extra
-  dir: levels/Level1/Module4/src/_99_extra
+  dir: Level1/Module4/src/_99_extra
   lesson: 99_extra
   level: Level1
   module: Module4
@@ -5912,7 +5912,7 @@
     '
   title: 99 Extra
 - assignment: 99_extra_01_nasty_surprise
-  dir: levels/Level1/Module4/src/_99_extra/_01_nasty_surprise
+  dir: Level1/Module4/src/_99_extra/_01_nasty_surprise
   lesson: 99_extra
   level: Level1
   module: Module4
@@ -5931,7 +5931,7 @@
     \    }\n}\n```\n\n\n"
   title: 99 Extra 01 Nasty Surprise
 - assignment: 99_extra_02_simon_says
-  dir: levels/Level1/Module4/src/_99_extra/_02_simon_says
+  dir: Level1/Module4/src/_99_extra/_02_simon_says
   lesson: 99_extra
   level: Level1
   module: Module4
@@ -5944,7 +5944,7 @@
     '
   title: 99 Extra 02 Simon Says
 - assignment: arrays
-  dir: levels/Level2/Module0/src/arrays
+  dir: Level2/Module0/src/arrays
   lesson: arrays
   level: Level2
   module: Module0
@@ -5957,7 +5957,7 @@
     '
   title: Arrays
 - assignment: extra
-  dir: levels/Level2/Module0/src/extra
+  dir: Level2/Module0/src/extra
   lesson: extra
   level: Level2
   module: Module0
@@ -5970,7 +5970,7 @@
     '
   title: Extra
 - assignment: 00_intro_to_array_lists
-  dir: levels/Level2/Module1/src/_00_intro_to_array_lists
+  dir: Level2/Module1/src/_00_intro_to_array_lists
   lesson: 00_intro_to_array_lists
   level: Level2
   module: Module1
@@ -5983,7 +5983,7 @@
     '
   title: 00 Intro To Array Lists
 - assignment: 01_array_list_visualizer
-  dir: levels/Level2/Module1/src/_01_array_list_visualizer
+  dir: Level2/Module1/src/_01_array_list_visualizer
   lesson: 01_array_list_visualizer
   level: Level2
   module: Module1
@@ -5996,7 +5996,7 @@
     '
   title: 01 Array List Visualizer
 - assignment: 01_array_list_visualizer_data
-  dir: levels/Level2/Module1/src/_01_array_list_visualizer/data
+  dir: Level2/Module1/src/_01_array_list_visualizer/data
   lesson: 01_array_list_visualizer
   level: Level2
   module: Module1
@@ -6009,7 +6009,7 @@
     '
   title: 01 Array List Visualizer Data
 - assignment: 02_array_list_guestbook
-  dir: levels/Level2/Module1/src/_02_array_list_guestbook
+  dir: Level2/Module1/src/_02_array_list_guestbook
   lesson: 02_array_list_guestbook
   level: Level2
   module: Module1
@@ -6022,7 +6022,7 @@
     '
   title: 02 Array List Guestbook
 - assignment: 01_shapes_original
-  dir: levels/Level2/Module2/src/_01_shapes_original
+  dir: Level2/Module2/src/_01_shapes_original
   lesson: 01_shapes_original
   level: Level2
   module: Module2
@@ -6035,7 +6035,7 @@
     '
   title: 01 Shapes Original
 - assignment: 02_shapes_inheritance
-  dir: levels/Level2/Module2/src/_02_shapes_inheritance
+  dir: Level2/Module2/src/_02_shapes_inheritance
   lesson: 02_shapes_inheritance
   level: Level2
   module: Module2
@@ -6048,7 +6048,7 @@
     '
   title: 02 Shapes Inheritance
 - assignment: 03_animals_original
-  dir: levels/Level2/Module2/src/_03_animals_original
+  dir: Level2/Module2/src/_03_animals_original
   lesson: 03_animals_original
   level: Level2
   module: Module2
@@ -6061,7 +6061,7 @@
     '
   title: 03 Animals Original
 - assignment: 04_animals_inheritance
-  dir: levels/Level2/Module2/src/_04_animals_inheritance
+  dir: Level2/Module2/src/_04_animals_inheritance
   lesson: 04_animals_inheritance
   level: Level2
   module: Module2
@@ -6074,7 +6074,7 @@
     '
   title: 04 Animals Inheritance
 - assignment: 05_overriding
-  dir: levels/Level2/Module2/src/_05_overriding
+  dir: Level2/Module2/src/_05_overriding
   lesson: 05_overriding
   level: Level2
   module: Module2
@@ -6087,7 +6087,7 @@
     '
   title: 05 Overriding
 - assignment: 06_overloading
-  dir: levels/Level2/Module2/src/_06_overloading
+  dir: Level2/Module2/src/_06_overloading
   lesson: 06_overloading
   level: Level2
   module: Module2
@@ -6100,7 +6100,7 @@
     '
   title: 06 Overloading
 - assignment: 07_timers
-  dir: levels/Level2/Module2/src/_07_timers
+  dir: Level2/Module2/src/_07_timers
   lesson: 07_timers
   level: Level2
   module: Module2
@@ -6113,15 +6113,15 @@
     '
   title: 07 Timers
 - assignment: 08_LeagueSnake
-  dir: levels/Level2/Module2/src/_08_LeagueSnake
+  dir: Level2/Module2/src/_08_LeagueSnake
   lesson: 08_LeagueSnake
   level: Level2
   module: Module2
   oassignment: 08_LeagueSnake
   opath: Level2/Module2/src/_08_LeagueSnake
   resources:
-  - /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level2/Module2/src/_08_LeagueSnake/.web/SnakePart1.png
-  - /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level2/Module2/src/_08_LeagueSnake/.web/SnakePart3.png
+  - Level2/Module2/src/_08_LeagueSnake/.web/SnakePart1.png
+  - Level2/Module2/src/_08_LeagueSnake/.web/SnakePart3.png
   text: '
 
 
@@ -6183,7 +6183,7 @@
     '
   title: 08 Leaguesnake
 - assignment: 00_Intro_To_Arrays
-  dir: levels/Level3/Module0/src/_00_Intro_To_Arrays
+  dir: Level3/Module0/src/_00_Intro_To_Arrays
   lesson: 00_Intro_To_Arrays
   level: Level3
   module: Module0
@@ -6196,7 +6196,7 @@
     '
   title: 00 Intro To Arrays
 - assignment: 01_Simple_Array_Algorithms
-  dir: levels/Level3/Module0/src/_01_Simple_Array_Algorithms
+  dir: Level3/Module0/src/_01_Simple_Array_Algorithms
   lesson: 01_Simple_Array_Algorithms
   level: Level3
   module: Module0
@@ -6246,7 +6246,7 @@
     '
   title: 01 Simple Array Algorithms
 - assignment: 02_Firework_Display
-  dir: levels/Level3/Module0/src/_02_Firework_Display
+  dir: Level3/Module0/src/_02_Firework_Display
   lesson: 02_Firework_Display
   level: Level3
   module: Module0
@@ -6259,7 +6259,7 @@
     '
   title: 02 Firework Display
 - assignment: 03_Intro_to_2D_Arrays
-  dir: levels/Level3/Module0/src/_03_Intro_to_2D_Arrays
+  dir: Level3/Module0/src/_03_Intro_to_2D_Arrays
   lesson: 03_Intro_to_2D_Arrays
   level: Level3
   module: Module0
@@ -6272,7 +6272,7 @@
     '
   title: 03 Intro To 2D Arrays
 - assignment: 04_Crazy_Digital_Painting
-  dir: levels/Level3/Module0/src/_04_Crazy_Digital_Painting
+  dir: Level3/Module0/src/_04_Crazy_Digital_Painting
   lesson: 04_Crazy_Digital_Painting
   level: Level3
   module: Module0
@@ -6285,7 +6285,7 @@
     '
   title: 04 Crazy Digital Painting
 - assignment: 05_Pixel_Art
-  dir: levels/Level3/Module0/src/_05_Pixel_Art
+  dir: Level3/Module0/src/_05_Pixel_Art
   lesson: 05_Pixel_Art
   level: Level3
   module: Module0
@@ -6298,7 +6298,7 @@
     '
   title: 05 Pixel Art
 - assignment: 06_Conways_Game_of_Life
-  dir: levels/Level3/Module0/src/_06_Conways_Game_of_Life
+  dir: Level3/Module0/src/_06_Conways_Game_of_Life
   lesson: 06_Conways_Game_of_Life
   level: Level3
   module: Module0
@@ -6311,7 +6311,7 @@
     '
   title: 06 Conways Game Of Life
 - assignment: 07_The_Wrong_Way_Cow
-  dir: levels/Level3/Module0/src/_07_The_Wrong_Way_Cow
+  dir: Level3/Module0/src/_07_The_Wrong_Way_Cow
   lesson: 07_The_Wrong_Way_Cow
   level: Level3
   module: Module0
@@ -6324,16 +6324,16 @@
     '
   title: 07 The Wrong Way Cow
 - assignment: 00_Intro_To_ArrayLists
-  dir: levels/Level3/Module1/src/_00_Intro_To_ArrayLists
+  dir: Level3/Module1/src/_00_Intro_To_ArrayLists
   lesson: 00_Intro_To_ArrayLists
   level: Level3
   module: Module1
   oassignment: 00_Intro_To_ArrayLists
   opath: Level3/Module1/src/_00_Intro_To_ArrayLists
   resources:
-  - /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level3/Module1/src/_00_Intro_To_ArrayLists/.web/GuestBookButtons.png
-  - /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level3/Module1/src/_00_Intro_To_ArrayLists/.web/ViewNamesDialog.png
-  - /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level3/Module1/src/_00_Intro_To_ArrayLists/.web/AddNameDialog.png
+  - Level3/Module1/src/_00_Intro_To_ArrayLists/.web/GuestBookButtons.png
+  - Level3/Module1/src/_00_Intro_To_ArrayLists/.web/ViewNamesDialog.png
+  - Level3/Module1/src/_00_Intro_To_ArrayLists/.web/AddNameDialog.png
   text: "\n\n# Array List\n\nVariables are used to hold a single value. For example:\n\
     int age = 12;\nString name = \u201CSarah\u201D;\nHowever, what if a program needed\
     \ a list of names? We don't want to declare multiple variables with meaningless\
@@ -6356,7 +6356,7 @@
     GuestBook\n\n\n"
   title: 00 Intro To Arraylists
 - assignment: 01_MurderOfCrows
-  dir: levels/Level3/Module1/src/_01_MurderOfCrows
+  dir: Level3/Module1/src/_01_MurderOfCrows
   lesson: 01_MurderOfCrows
   level: Level3
   module: Module1
@@ -6369,7 +6369,7 @@
     '
   title: 01 Murderofcrows
 - assignment: 02_LongChipCompetition
-  dir: levels/Level3/Module1/src/_02_LongChipCompetition
+  dir: Level3/Module1/src/_02_LongChipCompetition
   lesson: 02_LongChipCompetition
   level: Level3
   module: Module1
@@ -6382,7 +6382,7 @@
     '
   title: 02 Longchipcompetition
 - assignment: 03_RemovingStuffFromArrayLists
-  dir: levels/Level3/Module1/src/_03_RemovingStuffFromArrayLists
+  dir: Level3/Module1/src/_03_RemovingStuffFromArrayLists
   lesson: 03_RemovingStuffFromArrayLists
   level: Level3
   module: Module1
@@ -6395,7 +6395,7 @@
     '
   title: 03 Removingstufffromarraylists
 - assignment: 04_Memory_Match
-  dir: levels/Level3/Module1/src/_04_Memory_Match
+  dir: Level3/Module1/src/_04_Memory_Match
   lesson: 04_Memory_Match
   level: Level3
   module: Module1
@@ -6408,20 +6408,20 @@
     '
   title: 04 Memory Match
 - assignment: 05_Retro_Sun
-  dir: levels/Level3/Module1/src/_05_Retro_Sun
+  dir: Level3/Module1/src/_05_Retro_Sun
   lesson: 05_Retro_Sun
   level: Level3
   module: Module1
   oassignment: 05_Retro_Sun
   opath: Level3/Module1/src/_05_Retro_Sun
   resources:
-  - /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level3/Module1/src/_05_Retro_Sun/.web/2_gradient.png
-  - /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level3/Module1/src/_05_Retro_Sun/.web/retro_sun.gif
-  - /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level3/Module1/src/_05_Retro_Sun/.web/3_missing_sun_section.png
-  - /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level3/Module1/src/_05_Retro_Sun/.web/6_retro_sun_extras.gif
-  - /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level3/Module1/src/_05_Retro_Sun/.web/5_multiple_sections.gif
-  - /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level3/Module1/src/_05_Retro_Sun/.web/4b_resizing_section.gif
-  - /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level3/Module1/src/_05_Retro_Sun/.web/1_sun.png
+  - Level3/Module1/src/_05_Retro_Sun/.web/2_gradient.png
+  - Level3/Module1/src/_05_Retro_Sun/.web/retro_sun.gif
+  - Level3/Module1/src/_05_Retro_Sun/.web/3_missing_sun_section.png
+  - Level3/Module1/src/_05_Retro_Sun/.web/6_retro_sun_extras.gif
+  - Level3/Module1/src/_05_Retro_Sun/.web/5_multiple_sections.gif
+  - Level3/Module1/src/_05_Retro_Sun/.web/4b_resizing_section.gif
+  - Level3/Module1/src/_05_Retro_Sun/.web/1_sun.png
   text: "\n\n# Retro Sun (Processing)\n\n\n### Part 1: Drawing the Sun\n\n\n<img alt=\"\
     \" src=\"./images/1_sun.png\" style=\"width: 400px; height: 330px;\"/>\nOpen the\
     \ starter code in Processing.\nDraw and fill a solid color ellipse to be the sun.\n\
@@ -6487,7 +6487,7 @@
     \      }\n    }\n  }\n}\n```\n\n\n\n\n\n\n\n\n"
   title: 05 Retro Sun
 - assignment: 06_Intro_To_Hash_Maps
-  dir: levels/Level3/Module1/src/_06_Intro_To_Hash_Maps
+  dir: Level3/Module1/src/_06_Intro_To_Hash_Maps
   lesson: 06_Intro_To_Hash_Maps
   level: Level3
   module: Module1
@@ -6500,7 +6500,7 @@
     '
   title: 06 Intro To Hash Maps
 - assignment: 07_Meeting_Scheduler
-  dir: levels/Level3/Module1/src/_07_Meeting_Scheduler
+  dir: Level3/Module1/src/_07_Meeting_Scheduler
   lesson: 07_Meeting_Scheduler
   level: Level3
   module: Module1
@@ -6513,7 +6513,7 @@
     '
   title: 07 Meeting Scheduler
 - assignment: 08_California_Weather
-  dir: levels/Level3/Module1/src/_08_California_Weather
+  dir: Level3/Module1/src/_08_California_Weather
   lesson: 08_California_Weather
   level: Level3
   module: Module1
@@ -6526,7 +6526,7 @@
     '
   title: 08 California Weather
 - assignment: 09_World_Clocks
-  dir: levels/Level3/Module1/src/_09_World_Clocks
+  dir: Level3/Module1/src/_09_World_Clocks
   lesson: 09_World_Clocks
   level: Level3
   module: Module1
@@ -6539,7 +6539,7 @@
     '
   title: 09 World Clocks
 - assignment: 00_Intro_to_Sorting_Algorithms
-  dir: levels/Level3/Module2/src/_00_Intro_to_Sorting_Algorithms
+  dir: Level3/Module2/src/_00_Intro_to_Sorting_Algorithms
   lesson: 00_Intro_to_Sorting_Algorithms
   level: Level3
   module: Module2
@@ -6552,7 +6552,7 @@
     '
   title: 00 Intro To Sorting Algorithms
 - assignment: 01_Sorting_Algorithms
-  dir: levels/Level3/Module2/src/_01_Sorting_Algorithms
+  dir: Level3/Module2/src/_01_Sorting_Algorithms
   lesson: 01_Sorting_Algorithms
   level: Level3
   module: Module2
@@ -6565,7 +6565,7 @@
     '
   title: 01 Sorting Algorithms
 - assignment: 02_Intro_To_Searching_Algorithms
-  dir: levels/Level3/Module2/src/_02_Intro_To_Searching_Algorithms
+  dir: Level3/Module2/src/_02_Intro_To_Searching_Algorithms
   lesson: 02_Intro_To_Searching_Algorithms
   level: Level3
   module: Module2
@@ -6578,7 +6578,7 @@
     '
   title: 02 Intro To Searching Algorithms
 - assignment: 03_More_Algorithms
-  dir: levels/Level3/Module2/src/_03_More_Algorithms
+  dir: Level3/Module2/src/_03_More_Algorithms
   lesson: 03_More_Algorithms
   level: Level3
   module: Module2
@@ -6591,7 +6591,7 @@
     '
   title: 03 More Algorithms
 - assignment: 04_JavaClassSearchAndSort
-  dir: levels/Level3/Module2/src/_04_JavaClassSearchAndSort
+  dir: Level3/Module2/src/_04_JavaClassSearchAndSort
   lesson: 04_JavaClassSearchAndSort
   level: Level3
   module: Module2
@@ -6604,7 +6604,7 @@
     '
   title: 04 Javaclasssearchandsort
 - assignment: 00_Intro_To_String_Methods
-  dir: levels/Level3/Module3/src/_00_Intro_To_String_Methods
+  dir: Level3/Module3/src/_00_Intro_To_String_Methods
   lesson: 00_Intro_To_String_Methods
   level: Level3
   module: Module3
@@ -6617,7 +6617,7 @@
     '
   title: 00 Intro To String Methods
 - assignment: 01_StringBuilder
-  dir: levels/Level3/Module3/src/_01_StringBuilder
+  dir: Level3/Module3/src/_01_StringBuilder
   lesson: 01_StringBuilder
   level: Level3
   module: Module3
@@ -6630,7 +6630,7 @@
     '
   title: 01 Stringbuilder
 - assignment: 02_The_Wave
-  dir: levels/Level3/Module3/src/_02_The_Wave
+  dir: Level3/Module3/src/_02_The_Wave
   lesson: 02_The_Wave
   level: Level3
   module: Module3
@@ -6643,7 +6643,7 @@
     '
   title: 02 The Wave
 - assignment: 03_Intro_To_Regular_Expressions
-  dir: levels/Level3/Module3/src/_03_Intro_To_Regular_Expressions
+  dir: Level3/Module3/src/_03_Intro_To_Regular_Expressions
   lesson: 03_Intro_To_Regular_Expressions
   level: Level3
   module: Module3
@@ -6656,7 +6656,7 @@
     '
   title: 03 Intro To Regular Expressions
 - assignment: 00_IntroToStacks
-  dir: levels/Level3/Module4/src/_00_IntroToStacks
+  dir: Level3/Module4/src/_00_IntroToStacks
   lesson: 00_IntroToStacks
   level: Level3
   module: Module4
@@ -6669,7 +6669,7 @@
     '
   title: 00 Introtostacks
 - assignment: 01_TestMatchingBrackets
-  dir: levels/Level3/Module4/src/_01_TestMatchingBrackets
+  dir: Level3/Module4/src/_01_TestMatchingBrackets
   lesson: 01_TestMatchingBrackets
   level: Level3
   module: Module4
@@ -6682,7 +6682,7 @@
     '
   title: 01 Testmatchingbrackets
 - assignment: 02_IntroToQueues
-  dir: levels/Level3/Module4/src/_02_IntroToQueues
+  dir: Level3/Module4/src/_02_IntroToQueues
   lesson: 02_IntroToQueues
   level: Level3
   module: Module4
@@ -6695,7 +6695,7 @@
     '
   title: 02 Introtoqueues
 - assignment: 03_Hangman
-  dir: levels/Level3/Module4/src/_03_Hangman
+  dir: Level3/Module4/src/_03_Hangman
   lesson: 03_Hangman
   level: Level3
   module: Module4
@@ -6721,16 +6721,16 @@
     \ run the game again with new \n\t    words if they choose yes.\n```\n</html>\n"
   title: 03 Hangman
 - assignment: 04_Maze_Maker
-  dir: levels/Level3/Module4/src/_04_Maze_Maker
+  dir: Level3/Module4/src/_04_Maze_Maker
   lesson: 04_Maze_Maker
   level: Level3
   module: Module4
   oassignment: 04_Maze_Maker
   opath: Level3/Module4/src/_04_Maze_Maker
   resources:
-  - /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level3/Module4/src/_04_Maze_Maker/.web/maze_incomplete.png
-  - /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level3/Module4/src/_04_Maze_Maker/.web/maze_complete.png
-  - /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level3/Module4/src/_04_Maze_Maker/.web/maze_with_exit.png
+  - Level3/Module4/src/_04_Maze_Maker/.web/maze_incomplete.png
+  - Level3/Module4/src/_04_Maze_Maker/.web/maze_complete.png
+  - Level3/Module4/src/_04_Maze_Maker/.web/maze_with_exit.png
   text: '<html>
 
 
@@ -6801,7 +6801,7 @@
     '
   title: 04 Maze Maker
 - assignment: 00_Intro_To_Recursion
-  dir: levels/Level3/Module5/src/_00_Intro_To_Recursion
+  dir: Level3/Module5/src/_00_Intro_To_Recursion
   lesson: 00_Intro_To_Recursion
   level: Level3
   module: Module5
@@ -6814,7 +6814,7 @@
     '
   title: 00 Intro To Recursion
 - assignment: 01_StringTrimmer
-  dir: levels/Level3/Module5/src/_01_StringTrimmer
+  dir: Level3/Module5/src/_01_StringTrimmer
   lesson: 01_StringTrimmer
   level: Level3
   module: Module5
@@ -6827,7 +6827,7 @@
     '
   title: 01 Stringtrimmer
 - assignment: 02_RecursionMath
-  dir: levels/Level3/Module5/src/_02_RecursionMath
+  dir: Level3/Module5/src/_02_RecursionMath
   lesson: 02_RecursionMath
   level: Level3
   module: Module5
@@ -6840,7 +6840,7 @@
     '
   title: 02 Recursionmath
 - assignment: 00_Intro_To_2D_Arrays
-  dir: levels/Level4/Module0/src/_00_Intro_To_2D_Arrays
+  dir: Level4/Module0/src/_00_Intro_To_2D_Arrays
   lesson: 00_Intro_To_2D_Arrays
   level: Level4
   module: Module0
@@ -6853,7 +6853,7 @@
     '
   title: 00 Intro To 2D Arrays
 - assignment: 01_Crazy_Digital_Painting
-  dir: levels/Level4/Module0/src/_01_Crazy_Digital_Painting
+  dir: Level4/Module0/src/_01_Crazy_Digital_Painting
   lesson: 01_Crazy_Digital_Painting
   level: Level4
   module: Module0
@@ -6866,7 +6866,7 @@
     '
   title: 01 Crazy Digital Painting
 - assignment: 02_Pixel_Art
-  dir: levels/Level4/Module0/src/_02_Pixel_Art
+  dir: Level4/Module0/src/_02_Pixel_Art
   lesson: 02_Pixel_Art
   level: Level4
   module: Module0
@@ -6879,7 +6879,7 @@
     '
   title: 02 Pixel Art
 - assignment: 03_Conways_Game_of_Life
-  dir: levels/Level4/Module0/src/_03_Conways_Game_of_Life
+  dir: Level4/Module0/src/_03_Conways_Game_of_Life
   lesson: 03_Conways_Game_of_Life
   level: Level4
   module: Module0
@@ -6892,16 +6892,16 @@
     '
   title: 03 Conways Game Of Life
 - assignment: 04_Maze_Maker
-  dir: levels/Level4/Module0/src/_04_Maze_Maker
+  dir: Level4/Module0/src/_04_Maze_Maker
   lesson: 04_Maze_Maker
   level: Level4
   module: Module0
   oassignment: 04_Maze_Maker
   opath: Level4/Module0/src/_04_Maze_Maker
   resources:
-  - /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level4/Module0/src/_04_Maze_Maker/.web/maze_incomplete.png
-  - /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level4/Module0/src/_04_Maze_Maker/.web/maze_complete.png
-  - /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level4/Module0/src/_04_Maze_Maker/.web/maze_with_exit.png
+  - Level4/Module0/src/_04_Maze_Maker/.web/maze_incomplete.png
+  - Level4/Module0/src/_04_Maze_Maker/.web/maze_complete.png
+  - Level4/Module0/src/_04_Maze_Maker/.web/maze_with_exit.png
   text: '<html>
 
 
@@ -6972,7 +6972,7 @@
     '
   title: 04 Maze Maker
 - assignment: extras_the_wrong_way_cow
-  dir: levels/Level4/Module0/src/extras/the_wrong_way_cow
+  dir: Level4/Module0/src/extras/the_wrong_way_cow
   lesson: extras
   level: Level4
   module: Module0
@@ -6985,7 +6985,7 @@
     '
   title: Extras The Wrong Way Cow
 - assignment: 00_Intro_To_Generics
-  dir: levels/Level4/Module1/src/_00_Intro_To_Generics
+  dir: Level4/Module1/src/_00_Intro_To_Generics
   lesson: 00_Intro_To_Generics
   level: Level4
   module: Module1
@@ -6998,7 +6998,7 @@
     '
   title: 00 Intro To Generics
 - assignment: 01_Custom_ArrayList
-  dir: levels/Level4/Module1/src/_01_Custom_ArrayList
+  dir: Level4/Module1/src/_01_Custom_ArrayList
   lesson: 01_Custom_ArrayList
   level: Level4
   module: Module1
@@ -7011,7 +7011,7 @@
     '
   title: 01 Custom Arraylist
 - assignment: 02_Intro_to_Switch_Statements
-  dir: levels/Level4/Module1/src/_02_Intro_to_Switch_Statements
+  dir: Level4/Module1/src/_02_Intro_to_Switch_Statements
   lesson: 02_Intro_to_Switch_Statements
   level: Level4
   module: Module1
@@ -7024,7 +7024,7 @@
     '
   title: 02 Intro To Switch Statements
 - assignment: 03_Switch_Statement_Practice
-  dir: levels/Level4/Module1/src/_03_Switch_Statement_Practice
+  dir: Level4/Module1/src/_03_Switch_Statement_Practice
   lesson: 03_Switch_Statement_Practice
   level: Level4
   module: Module1
@@ -7037,7 +7037,7 @@
     '
   title: 03 Switch Statement Practice
 - assignment: 04_Intro_To_Enums
-  dir: levels/Level4/Module1/src/_04_Intro_To_Enums
+  dir: Level4/Module1/src/_04_Intro_To_Enums
   lesson: 04_Intro_To_Enums
   level: Level4
   module: Module1
@@ -7050,7 +7050,7 @@
     '
   title: 04 Intro To Enums
 - assignment: 05_Enum_Stuff
-  dir: levels/Level4/Module1/src/_05_Enum_Stuff
+  dir: Level4/Module1/src/_05_Enum_Stuff
   lesson: 05_Enum_Stuff
   level: Level4
   module: Module1
@@ -7063,7 +7063,7 @@
     '
   title: 05 Enum Stuff
 - assignment: 06_Snake
-  dir: levels/Level4/Module1/src/_06_Snake
+  dir: Level4/Module1/src/_06_Snake
   lesson: 06_Snake
   level: Level4
   module: Module1
@@ -7076,7 +7076,7 @@
     '
   title: 06 Snake
 - assignment: StringMethods
-  dir: levels/Level4/Module2/src/StringMethods
+  dir: Level4/Module2/src/StringMethods
   lesson: StringMethods
   level: Level4
   module: Module2
@@ -7089,7 +7089,7 @@
     '
   title: Stringmethods
 - assignment: 01_introduction
-  dir: levels/Level4/Module3/src/_01_introduction
+  dir: Level4/Module3/src/_01_introduction
   lesson: 01_introduction
   level: Level4
   module: Module3
@@ -7102,7 +7102,7 @@
     '
   title: 01 Introduction
 - assignment: 02_gotta_catchem_all
-  dir: levels/Level4/Module3/src/_02_gotta_catchem_all
+  dir: Level4/Module3/src/_02_gotta_catchem_all
   lesson: 02_gotta_catchem_all
   level: Level4
   module: Module3
@@ -7115,7 +7115,7 @@
     '
   title: 02 Gotta Catchem All
 - assignment: 01_introduction_to_encapsulation
-  dir: levels/Level4/Module4/src/_01_introduction_to_encapsulation
+  dir: Level4/Module4/src/_01_introduction_to_encapsulation
   lesson: 01_introduction_to_encapsulation
   level: Level4
   module: Module4
@@ -7128,7 +7128,7 @@
     '
   title: 01 Introduction To Encapsulation
 - assignment: 02_introduction_to_polymorphism
-  dir: levels/Level4/Module4/src/_02_introduction_to_polymorphism
+  dir: Level4/Module4/src/_02_introduction_to_polymorphism
   lesson: 02_introduction_to_polymorphism
   level: Level4
   module: Module4
@@ -7141,7 +7141,7 @@
     '
   title: 02 Introduction To Polymorphism
 - assignment: 03_polymorphs
-  dir: levels/Level4/Module4/src/_03_polymorphs
+  dir: Level4/Module4/src/_03_polymorphs
   lesson: 03_polymorphs
   level: Level4
   module: Module4
@@ -7154,7 +7154,7 @@
     '
   title: 03 Polymorphs
 - assignment: 04_hospital
-  dir: levels/Level4/Module4/src/_04_hospital
+  dir: Level4/Module4/src/_04_hospital
   lesson: 04_hospital
   level: Level4
   module: Module4
@@ -7167,7 +7167,7 @@
     '
   title: 04 Hospital
 - assignment: 00_intro_to_Linked_Lists_EMPTY
-  dir: levels/Level4/Module5/src/_00_intro_to_Linked_Lists_EMPTY
+  dir: Level4/Module5/src/_00_intro_to_Linked_Lists_EMPTY
   lesson: 00_intro_to_Linked_Lists_EMPTY
   level: Level4
   module: Module5
@@ -7180,7 +7180,7 @@
     '
   title: 00 Intro To Linked Lists Empty
 - assignment: 01_intro_to_binary_trees_EMPTY
-  dir: levels/Level4/Module5/src/_01_intro_to_binary_trees_EMPTY
+  dir: Level4/Module5/src/_01_intro_to_binary_trees_EMPTY
   lesson: 01_intro_to_binary_trees_EMPTY
   level: Level4
   module: Module5
@@ -7193,7 +7193,7 @@
     '
   title: 01 Intro To Binary Trees Empty
 - assignment: 00_JButtons_with_Lambdas
-  dir: levels/Level5/Module0/src/_00_JButtons_with_Lambdas
+  dir: Level5/Module0/src/_00_JButtons_with_Lambdas
   lesson: 00_JButtons_with_Lambdas
   level: Level5
   module: Module0
@@ -7206,7 +7206,7 @@
     '
   title: 00 Jbuttons With Lambdas
 - assignment: 00_JButtons_with_Lambdas_interfaces
-  dir: levels/Level5/Module0/src/_00_JButtons_with_Lambdas/interfaces
+  dir: Level5/Module0/src/_00_JButtons_with_Lambdas/interfaces
   lesson: 00_JButtons_with_Lambdas
   level: Level5
   module: Module0
@@ -7219,7 +7219,7 @@
     '
   title: 00 Jbuttons With Lambdas Interfaces
 - assignment: 01_Lambda_Methods
-  dir: levels/Level5/Module0/src/_01_Lambda_Methods
+  dir: Level5/Module0/src/_01_Lambda_Methods
   lesson: 01_Lambda_Methods
   level: Level5
   module: Module0
@@ -7232,7 +7232,7 @@
     '
   title: 01 Lambda Methods
 - assignment: 02_Intro_To_Streams
-  dir: levels/Level5/Module0/src/_02_Intro_To_Streams
+  dir: Level5/Module0/src/_02_Intro_To_Streams
   lesson: 02_Intro_To_Streams
   level: Level5
   module: Module0
@@ -7245,7 +7245,7 @@
     '
   title: 02 Intro To Streams
 - assignment: 03_Sorting_With_Streams
-  dir: levels/Level5/Module0/src/_03_Sorting_With_Streams
+  dir: Level5/Module0/src/_03_Sorting_With_Streams
   lesson: 03_Sorting_With_Streams
   level: Level5
   module: Module0
@@ -7258,7 +7258,7 @@
     '
   title: 03 Sorting With Streams
 - assignment: 04_Searching_With_Streams
-  dir: levels/Level5/Module0/src/_04_Searching_With_Streams
+  dir: Level5/Module0/src/_04_Searching_With_Streams
   lesson: 04_Searching_With_Streams
   level: Level5
   module: Module0
@@ -7271,7 +7271,7 @@
     '
   title: 04 Searching With Streams
 - assignment: 05_Minesweeper
-  dir: levels/Level5/Module0/src/_05_Minesweeper
+  dir: Level5/Module0/src/_05_Minesweeper
   lesson: 05_Minesweeper
   level: Level5
   module: Module0
@@ -7284,7 +7284,7 @@
     '
   title: 05 Minesweeper
 - assignment: 00_Intro_To_File_Input_and_Output
-  dir: levels/Level5/Module1/src/_00_Intro_To_File_Input_and_Output
+  dir: Level5/Module1/src/_00_Intro_To_File_Input_and_Output
   lesson: 00_Intro_To_File_Input_and_Output
   level: Level5
   module: Module1
@@ -7297,7 +7297,7 @@
     '
   title: 00 Intro To File Input And Output
 - assignment: 01_File_Recorder
-  dir: levels/Level5/Module1/src/_01_File_Recorder
+  dir: Level5/Module1/src/_01_File_Recorder
   lesson: 01_File_Recorder
   level: Level5
   module: Module1
@@ -7310,7 +7310,7 @@
     '
   title: 01 File Recorder
 - assignment: 02_File_Encrypt_Decrypt
-  dir: levels/Level5/Module1/src/_02_File_Encrypt_Decrypt
+  dir: Level5/Module1/src/_02_File_Encrypt_Decrypt
   lesson: 02_File_Encrypt_Decrypt
   level: Level5
   module: Module1
@@ -7323,7 +7323,7 @@
     '
   title: 02 File Encrypt Decrypt
 - assignment: 03_To_Do_List
-  dir: levels/Level5/Module1/src/_03_To_Do_List
+  dir: Level5/Module1/src/_03_To_Do_List
   lesson: 03_To_Do_List
   level: Level5
   module: Module1
@@ -7336,7 +7336,7 @@
     '
   title: 03 To Do List
 - assignment: 04_Directory_Iteration
-  dir: levels/Level5/Module1/src/_04_Directory_Iteration
+  dir: Level5/Module1/src/_04_Directory_Iteration
   lesson: 04_Directory_Iteration
   level: Level5
   module: Module1
@@ -7349,7 +7349,7 @@
     '
   title: 04 Directory Iteration
 - assignment: 99_extras_Pixel_Art_Save_State
-  dir: levels/Level5/Module1/src/_99_extras/Pixel_Art_Save_State
+  dir: Level5/Module1/src/_99_extras/Pixel_Art_Save_State
   lesson: 99_extras
   level: Level5
   module: Module1
@@ -7377,7 +7377,7 @@
     '
   title: 99 Extras Pixel Art Save State
 - assignment: 99_extras_Serialization
-  dir: levels/Level5/Module1/src/_99_extras/Serialization
+  dir: Level5/Module1/src/_99_extras/Serialization
   lesson: 99_extras
   level: Level5
   module: Module1
@@ -7390,7 +7390,7 @@
     '
   title: 99 Extras Serialization
 - assignment: 00_Thread_Demo
-  dir: levels/Level5/Module2/src/_00_Thread_Demo
+  dir: Level5/Module2/src/_00_Thread_Demo
   lesson: 00_Thread_Demo
   level: Level5
   module: Module2
@@ -7403,7 +7403,7 @@
     '
   title: 00 Thread Demo
 - assignment: 01_Olympic_Rings
-  dir: levels/Level5/Module2/src/_01_Olympic_Rings
+  dir: Level5/Module2/src/_01_Olympic_Rings
   lesson: 01_Olympic_Rings
   level: Level5
   module: Module2
@@ -7416,7 +7416,7 @@
     '
   title: 01 Olympic Rings
 - assignment: 02_Advanced_Robot_Race
-  dir: levels/Level5/Module2/src/_02_Advanced_Robot_Race
+  dir: Level5/Module2/src/_02_Advanced_Robot_Race
   lesson: 02_Advanced_Robot_Race
   level: Level5
   module: Module2
@@ -7429,7 +7429,7 @@
     '
   title: 02 Advanced Robot Race
 - assignment: 03_Threaded_Greeting
-  dir: levels/Level5/Module2/src/_03_Threaded_Greeting
+  dir: Level5/Module2/src/_03_Threaded_Greeting
   lesson: 03_Threaded_Greeting
   level: Level5
   module: Module2
@@ -7442,7 +7442,7 @@
     '
   title: 03 Threaded Greeting
 - assignment: 04_Thread_Pool
-  dir: levels/Level5/Module2/src/_04_Thread_Pool
+  dir: Level5/Module2/src/_04_Thread_Pool
   lesson: 04_Thread_Pool
   level: Level5
   module: Module2
@@ -7455,7 +7455,7 @@
     '
   title: 04 Thread Pool
 - assignment: 05_Synchronized_Swimming
-  dir: levels/Level5/Module2/src/_05_Synchronized_Swimming
+  dir: Level5/Module2/src/_05_Synchronized_Swimming
   lesson: 05_Synchronized_Swimming
   level: Level5
   module: Module2
@@ -7468,7 +7468,7 @@
     '
   title: 05 Synchronized Swimming
 - assignment: 06_Wait_and_Notify_Example
-  dir: levels/Level5/Module2/src/_06_Wait_and_Notify/Example
+  dir: Level5/Module2/src/_06_Wait_and_Notify/Example
   lesson: 06_Wait_and_Notify
   level: Level5
   module: Module2
@@ -7481,7 +7481,7 @@
     '
   title: 06 Wait And Notify Example
 - assignment: 06_Wait_and_Notify_Practice
-  dir: levels/Level5/Module2/src/_06_Wait_and_Notify/Practice
+  dir: Level5/Module2/src/_06_Wait_and_Notify/Practice
   lesson: 06_Wait_and_Notify
   level: Level5
   module: Module2
@@ -7494,7 +7494,7 @@
     '
   title: 06 Wait And Notify Practice
 - assignment: 00_Click_Chat_gui
-  dir: levels/Level5/Module3/src/_00_Click_Chat/gui
+  dir: Level5/Module3/src/_00_Click_Chat/gui
   lesson: 00_Click_Chat
   level: Level5
   module: Module3
@@ -7507,7 +7507,7 @@
     '
   title: 00 Click Chat Gui
 - assignment: 00_Click_Chat_networking
-  dir: levels/Level5/Module3/src/_00_Click_Chat/networking
+  dir: Level5/Module3/src/_00_Click_Chat/networking
   lesson: 00_Click_Chat
   level: Level5
   module: Module3
@@ -7520,7 +7520,7 @@
     '
   title: 00 Click Chat Networking
 - assignment: 01_Intro_To_Sockets_client
-  dir: levels/Level5/Module3/src/_01_Intro_To_Sockets/client
+  dir: Level5/Module3/src/_01_Intro_To_Sockets/client
   lesson: 01_Intro_To_Sockets
   level: Level5
   module: Module3
@@ -7533,7 +7533,7 @@
     '
   title: 01 Intro To Sockets Client
 - assignment: 01_Intro_To_Sockets_server
-  dir: levels/Level5/Module3/src/_01_Intro_To_Sockets/server
+  dir: Level5/Module3/src/_01_Intro_To_Sockets/server
   lesson: 01_Intro_To_Sockets
   level: Level5
   module: Module3
@@ -7546,7 +7546,7 @@
     '
   title: 01 Intro To Sockets Server
 - assignment: 02_Chat_Application
-  dir: levels/Level5/Module3/src/_02_Chat_Application
+  dir: Level5/Module3/src/_02_Chat_Application
   lesson: 02_Chat_Application
   level: Level5
   module: Module3
@@ -7559,7 +7559,7 @@
     '
   title: 02 Chat Application
 - assignment: 00_Binary_Conversion
-  dir: levels/Level5/Module4/src/_00_Binary_Conversion
+  dir: Level5/Module4/src/_00_Binary_Conversion
   lesson: 00_Binary_Conversion
   level: Level5
   module: Module4
@@ -7572,7 +7572,7 @@
     '
   title: 00 Binary Conversion
 - assignment: 01_Bit_Shifting
-  dir: levels/Level5/Module4/src/_01_Bit_Shifting
+  dir: Level5/Module4/src/_01_Bit_Shifting
   lesson: 01_Bit_Shifting
   level: Level5
   module: Module4
@@ -7585,7 +7585,7 @@
     '
   title: 01 Bit Shifting
 - assignment: 02_AND_OR_and_XOR
-  dir: levels/Level5/Module4/src/_02_AND_OR_and_XOR
+  dir: Level5/Module4/src/_02_AND_OR_and_XOR
   lesson: 02_AND_OR_and_XOR
   level: Level5
   module: Module4
@@ -7598,7 +7598,7 @@
     '
   title: 02 And Or And Xor
 - assignment: 03_Printing_Binary
-  dir: levels/Level5/Module4/src/_03_Printing_Binary
+  dir: Level5/Module4/src/_03_Printing_Binary
   lesson: 03_Printing_Binary
   level: Level5
   module: Module4
@@ -7611,7 +7611,7 @@
     '
   title: 03 Printing Binary
 - assignment: 04_Light_Switches
-  dir: levels/Level5/Module4/src/_04_Light_Switches
+  dir: Level5/Module4/src/_04_Light_Switches
   lesson: 04_Light_Switches
   level: Level5
   module: Module4
@@ -7624,7 +7624,7 @@
     '
   title: 04 Light Switches
 - assignment: 05_Base64_Decoder
-  dir: levels/Level5/Module4/src/_05_Base64_Decoder
+  dir: Level5/Module4/src/_05_Base64_Decoder
   lesson: 05_Base64_Decoder
   level: Level5
   module: Module4

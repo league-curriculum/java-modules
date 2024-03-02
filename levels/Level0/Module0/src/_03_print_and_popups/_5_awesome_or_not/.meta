@@ -1,12 +1,12 @@
 assignment: 03_print_and_popups_5_awesome_or_not
-dir: levels/Level0/Module0/src/_03_print_and_popups/_5_awesome_or_not
+dir: Level0/Module0/src/_03_print_and_popups/_5_awesome_or_not
 lesson: 03_print_and_popups
 level: Level0
 module: Module0
 oassignment: 5_awesome_or_not
 opath: Level0/Module0/src/_03_print_and_popups/_5_awesome_or_not
 resources:
-- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module0/src/_03_print_and_popups/_5_awesome_or_not/.web/awesome.jpg
+- Level0/Module0/src/_03_print_and_popups/_5_awesome_or_not/.web/awesome.jpg
 text: '
 
 

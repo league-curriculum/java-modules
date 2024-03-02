@@ -1,13 +1,13 @@
 assignment: 03_gui_with_help_3_drum_kit
-dir: levels/Level1/Module0/src/_03_gui_with_help/_3_drum_kit
+dir: Level1/Module0/src/_03_gui_with_help/_3_drum_kit
 lesson: 03_gui_with_help
 level: Level1
 module: Module0
 oassignment: 3_drum_kit
 opath: Level1/Module0/src/_03_gui_with_help/_3_drum_kit
 resources:
-- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level1/Module0/src/_03_gui_with_help/_3_drum_kit/.web/drumKit.png
-- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level1/Module0/src/_03_gui_with_help/_3_drum_kit/.web/drum.png
+- Level1/Module0/src/_03_gui_with_help/_3_drum_kit/.web/drumKit.png
+- Level1/Module0/src/_03_gui_with_help/_3_drum_kit/.web/drum.png
 text: '
 
 

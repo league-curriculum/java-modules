@@ -1,12 +1,12 @@
 assignment: 01_methods_4_magic_worms
-dir: levels/Level1/Module0/src/_01_methods/_4_magic_worms
+dir: Level1/Module0/src/_01_methods/_4_magic_worms
 lesson: 01_methods
 level: Level1
 module: Module0
 oassignment: 4_magic_worms
 opath: Level1/Module0/src/_01_methods/_4_magic_worms
 resources:
-- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level1/Module0/src/_01_methods/_4_magic_worms/.web/magicWorms.png
+- Level1/Module0/src/_01_methods/_4_magic_worms/.web/magicWorms.png
 text: "\n\n# Magic Worms\n\n1. Start a new sketch with draw, setup, and settings methods.\n\
   \n2. Set your canvas size and background color in the settings() method\n```\n \
   \   size(width, height\n    background(red, green, blue)\n```\n3. In your draw method,\

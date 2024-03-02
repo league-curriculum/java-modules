@@ -1,12 +1,12 @@
 assignment: 06_frogger
-dir: levels/Level1/Module3/src/_06_frogger
+dir: Level1/Module3/src/_06_frogger
 lesson: 06_frogger
 level: Level1
 module: Module3
 oassignment: 06_frogger
 opath: Level1/Module3/src/_06_frogger
 resources:
-- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level1/Module3/src/_06_frogger/.web/FroggerScreenShot.png
+- Level1/Module3/src/_06_frogger/.web/FroggerScreenShot.png
 text: "\n\n# Frogger\n\n1. Start a new sketch with draw, setup, and settings methods.\
   \ Ask your teacher if you do not know how to do this.\n\n2.  In the settings method,\
   \ set your canvas of size 800x600 for your game\nsize(width, height);\nIn the draw\

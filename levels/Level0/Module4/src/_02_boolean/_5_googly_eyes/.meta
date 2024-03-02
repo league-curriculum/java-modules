@@ -1,12 +1,12 @@
 assignment: 02_boolean_5_googly_eyes
-dir: levels/Level0/Module4/src/_02_boolean/_5_googly_eyes
+dir: Level0/Module4/src/_02_boolean/_5_googly_eyes
 lesson: 02_boolean
 level: Level0
 module: Module4
 oassignment: 5_googly_eyes
 opath: Level0/Module4/src/_02_boolean/_5_googly_eyes
 resources:
-- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module4/src/_02_boolean/_5_googly_eyes/.web/googlyEyes.png
+- Level0/Module4/src/_02_boolean/_5_googly_eyes/.web/googlyEyes.png
 text: "\n\n# Googly Eyes\n\n<hr/>\n<img alt=\"Googly image\" src=\"./images/googlyEyes.png\"\
   />\n\n## Goal:\n\nYou\u2019re going to draw a face with eyes that will follow the\
   \ mouse!\n\n## Steps:\n\n1. Find the Googly Eyes recipe program in Eclipse.\n2.\

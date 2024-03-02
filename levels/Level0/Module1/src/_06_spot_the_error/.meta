@@ -1,12 +1,12 @@
 assignment: 06_spot_the_error
-dir: levels/Level0/Module1/src/_06_spot_the_error
+dir: Level0/Module1/src/_06_spot_the_error
 lesson: 06_spot_the_error
 level: Level0
 module: Module1
 oassignment: 06_spot_the_error
 opath: Level0/Module1/src/_06_spot_the_error
 resources:
-- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module1/src/_06_spot_the_error/.web/bug.jpg
+- Level0/Module1/src/_06_spot_the_error/.web/bug.jpg
 text: '
 
 

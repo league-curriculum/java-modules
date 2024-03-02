@@ -1,12 +1,12 @@
 assignment: 03_remainder_2_bullseye
-dir: levels/Level0/Module3/src/_03_remainder/_2_bullseye/bullseye
+dir: Level0/Module3/src/_03_remainder/_2_bullseye/bullseye
 lesson: 03_remainder
 level: Level0
 module: Module3
 oassignment: 2_bullseye
 opath: Level0/Module3/src/_03_remainder/_2_bullseye/bullseye
 resources:
-- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module3/src/_03_remainder/_2_bullseye/bullseye/.web/bullseye.png
+- Level0/Module3/src/_03_remainder/_2_bullseye/bullseye/.web/bullseye.png
 text: '
 
 

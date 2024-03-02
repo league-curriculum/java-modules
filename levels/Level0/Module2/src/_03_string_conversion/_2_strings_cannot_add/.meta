@@ -1,12 +1,12 @@
 assignment: 03_string_conversion_2_strings_cannot_add
-dir: levels/Level0/Module2/src/_03_string_conversion/_2_strings_cannot_add
+dir: Level0/Module2/src/_03_string_conversion/_2_strings_cannot_add
 lesson: 03_string_conversion
 level: Level0
 module: Module2
 oassignment: 2_strings_cannot_add
 opath: Level0/Module2/src/_03_string_conversion/_2_strings_cannot_add
 resources:
-- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module2/src/_03_string_conversion/_2_strings_cannot_add/.web/stringsCannotAdd.jpg
+- Level0/Module2/src/_03_string_conversion/_2_strings_cannot_add/.web/stringsCannotAdd.jpg
 text: '
 
 

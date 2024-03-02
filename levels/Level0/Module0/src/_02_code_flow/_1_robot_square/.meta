@@ -1,12 +1,12 @@
 assignment: 02_code_flow_1_robot_square
-dir: levels/Level0/Module0/src/_02_code_flow/_1_robot_square
+dir: Level0/Module0/src/_02_code_flow/_1_robot_square
 lesson: 02_code_flow
 level: Level0
 module: Module0
 oassignment: 1_robot_square
 opath: Level0/Module0/src/_02_code_flow/_1_robot_square
 resources:
-- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module0/src/_02_code_flow/_1_robot_square/.web/robotSquare.png
+- Level0/Module0/src/_02_code_flow/_1_robot_square/.web/robotSquare.png
 text: '
 
 

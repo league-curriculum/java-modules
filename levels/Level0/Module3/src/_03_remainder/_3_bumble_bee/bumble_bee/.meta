@@ -1,12 +1,12 @@
 assignment: 03_remainder_3_bumble_bee
-dir: levels/Level0/Module3/src/_03_remainder/_3_bumble_bee/bumble_bee
+dir: Level0/Module3/src/_03_remainder/_3_bumble_bee/bumble_bee
 lesson: 03_remainder
 level: Level0
 module: Module3
 oassignment: 3_bumble_bee
 opath: Level0/Module3/src/_03_remainder/_3_bumble_bee/bumble_bee
 resources:
-- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module3/src/_03_remainder/_3_bumble_bee/bumble_bee/.web/bumbleBee.png
+- Level0/Module3/src/_03_remainder/_3_bumble_bee/bumble_bee/.web/bumbleBee.png
 text: '
 
 

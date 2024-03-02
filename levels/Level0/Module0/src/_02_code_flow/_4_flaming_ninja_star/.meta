@@ -1,14 +1,14 @@
 assignment: 02_code_flow_4_flaming_ninja_star
-dir: levels/Level0/Module0/src/_02_code_flow/_4_flaming_ninja_star
+dir: Level0/Module0/src/_02_code_flow/_4_flaming_ninja_star
 lesson: 02_code_flow
 level: Level0
 module: Module0
 oassignment: 4_flaming_ninja_star
 opath: Level0/Module0/src/_02_code_flow/_4_flaming_ninja_star
 resources:
-- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module0/src/_02_code_flow/_4_flaming_ninja_star/.web/flamingNinja1.png
-- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module0/src/_02_code_flow/_4_flaming_ninja_star/.web/flamingNinja2.png
-- /Users/eric/proj/league-projects/curriculum/java-modules/levels/Level0/Module0/src/_02_code_flow/_4_flaming_ninja_star/.web/flamingNinja3.png
+- Level0/Module0/src/_02_code_flow/_4_flaming_ninja_star/.web/flamingNinja1.png
+- Level0/Module0/src/_02_code_flow/_4_flaming_ninja_star/.web/flamingNinja2.png
+- Level0/Module0/src/_02_code_flow/_4_flaming_ninja_star/.web/flamingNinja3.png
 text: '
 
 

@@ -2,8 +2,6 @@
 // README at: https://github.com/devcontainers/templates/tree/main/src/java
 {
 	"name": "Java",
-	// Or use a Dockerfile or Docker Compose file. More info: https://containers.dev/guide/dockerfile
-	//"image": "mcr.microsoft.com/devcontainers/java:1-${templateOption:imageVariant}",
 	"image": "ghcr.io/league-infrastructure/jtljava:latest",
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
@@ -20,6 +18,7 @@
 
 	// Use 'postCreateCommand' to run commands after the container is created.
 	// "postCreateCommand": "java -version",
+	"postCreateCommand": "rm -rf .eclipse",
 
 	// Configure tool-specific properties.
 	"customizations": {
