@@ -12,14 +12,6 @@
 
 5. Make the method take a String instead of an int.
 
-“small”                 60
-
-“medium”
-120
-
-“large”
-250
-
 6. Make the method take a color as well as a height. The houses are drawn in that color.
 
 [optional] Set the scene to night by setting the background to black
