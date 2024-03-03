@@ -1,53 +1,29 @@
-<a href="https://central.jointheleague.org">
-    <img src="header.png?raw=true" />
-  </a>
+# Java Modules
 
-#  ⭐ The League of Amazing Programmers JAVA ⭐
+This repository contains ( well, should  contain ) all of the leveled modules
+for the league Java curriculum. These levels, in the `levels` directory, 
+are pushed to the [League-Java](https://github.com/League-Java) repos with 
 
-Future Level structure
-Level | Title
------------- | -------------
-⚫ 0 | Loops and Logic
-🟤 1 | Classes, Objects, and Methods
-🔴 2 | Building Games with Java
-🟠 3 | Data Structures & Algorithms
-🟡 4 | Object Oriented Programming Fundamentals
-🟢 5 | Lambdas, Streams, and IO
-🔵 6 | Java SE 8 Programmer Associate
-🟣 7 | Collaborative Coding Principles
-🔘 8 | Full Stack Development
-⚪ 9 | Capstone Project for Social Good
 
-# Changelog
+## Development
 
-## Latest Changes
+First, instlal the lesson-builder program using `pipx`
 
-### Fixed
-- Level 3
-  - Cities instructions
-  - divide by 0 bug in interpolation search
-- Level 4
-  - Threaded Reverse Greeting instructions
-- Level 5
-  - ToDoList instructions
-  
-### Changes
-- moved hide the creeper to extras
-- moved pin the tail to extras
+```bash 
+pip install git+https://github.com/league-infrastructure/lesson-builder.git
+```
 
-## [1.0.1] - 2020-01-13
-### Added 
-- Changelog to keep track and report changes to teachers and volunteers.
-- New Level 0 Module 5 recipes added in '99_extra'
-  - HiddenTypes recipe
-  - ListOfGoals recipes
-  - ReturnTypesAdvanced recipe 
-  - ReturnTypesPractice recipe
-  - ReturnTypesRobot recipe
+### Pushing modules
 
-### Changed
-- moved ObedientRobot from level0 mod3 to level0 mod5
+To push modules to the repos where students will acess them: 
 
-### Fixed
-- R2D2 typo in robots in space
+```bash
+jtl  java push --level_dir levels
+```
+
+You can also push only a subset of levels, 
+
+```bash
+jtl  java push --level_dir levels/Level0/Module0
+```
 
