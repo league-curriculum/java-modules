@@ -1,10 +1,10 @@
 assignment: 01_demo
-dir: Level0/Module0/src/_01_demo
+dir: levels/Level0/Module0/src/_01_demo
 lesson: 01_demo
 level: Level0
 module: Module0
 oassignment: 01_demo
-opath: Level0/Module0/src/_01_demo
+opath: levels/Level0/Module0/src/_01_demo
 resources: []
 text: '# 01 Demo
 

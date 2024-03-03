@@ -1,10 +1,10 @@
 assignment: 02_loop_variables_4_99_bottles
-dir: Level0/Module3/src/_02_loop_variables/_4_99_bottles/bottles
+dir: levels/Level0/Module3/src/_02_loop_variables/_4_99_bottles/bottles
 lesson: 02_loop_variables
 level: Level0
 module: Module3
 oassignment: 4_99_bottles
-opath: Level0/Module3/src/_02_loop_variables/_4_99_bottles/bottles
+opath: levels/Level0/Module3/src/_02_loop_variables/_4_99_bottles/bottles
 resources: []
 text: '
 

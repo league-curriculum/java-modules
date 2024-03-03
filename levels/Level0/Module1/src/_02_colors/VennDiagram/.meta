@@ -1,15 +1,15 @@
 assignment: 02_colors_VennDiagram
-dir: Level0/Module1/src/_02_colors/VennDiagram
+dir: levels/Level0/Module1/src/_02_colors/VennDiagram
 lesson: 02_colors
 level: Level0
 module: Module1
 oassignment: VennDiagram
-opath: Level0/Module1/src/_02_colors/VennDiagram
+opath: levels/Level0/Module1/src/_02_colors/VennDiagram
 resources:
-- Level0/Module1/src/_02_colors/VennDiagram/.web/whiteCircles.png
-- Level0/Module1/src/_02_colors/VennDiagram/.web/colorfulCircles.png
-- Level0/Module1/src/_02_colors/VennDiagram/.web/redCircles.png
-- Level0/Module1/src/_02_colors/VennDiagram/.web/vennDiagram.png
+- levels/Level0/Module1/src/_02_colors/VennDiagram/.web/whiteCircles.png
+- levels/Level0/Module1/src/_02_colors/VennDiagram/.web/colorfulCircles.png
+- levels/Level0/Module1/src/_02_colors/VennDiagram/.web/redCircles.png
+- levels/Level0/Module1/src/_02_colors/VennDiagram/.web/vennDiagram.png
 text: '
 
 

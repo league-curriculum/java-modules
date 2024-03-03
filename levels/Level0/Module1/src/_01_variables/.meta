@@ -1,13 +1,13 @@
 assignment: 01_variables
-dir: Level0/Module1/src/_01_variables
+dir: levels/Level0/Module1/src/_01_variables
 lesson: 01_variables
 level: Level0
 module: Module1
 oassignment: 01_variables
-opath: Level0/Module1/src/_01_variables
+opath: levels/Level0/Module1/src/_01_variables
 resources:
-- Level0/Module1/src/_01_variables/.web/Variables1.png
-- Level0/Module1/src/_01_variables/.web/Variables2.png
+- levels/Level0/Module1/src/_01_variables/.web/Variables1.png
+- levels/Level0/Module1/src/_01_variables/.web/Variables2.png
 text: '
 
   <img alt="images/Variables1.png" src="./images/Variables1.png" style="width: 960.00px;

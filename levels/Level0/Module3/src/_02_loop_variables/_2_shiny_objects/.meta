@@ -1,12 +1,12 @@
 assignment: 02_loop_variables_2_shiny_objects
-dir: Level0/Module3/src/_02_loop_variables/_2_shiny_objects
+dir: levels/Level0/Module3/src/_02_loop_variables/_2_shiny_objects
 lesson: 02_loop_variables
 level: Level0
 module: Module3
 oassignment: 2_shiny_objects
-opath: Level0/Module3/src/_02_loop_variables/_2_shiny_objects
+opath: levels/Level0/Module3/src/_02_loop_variables/_2_shiny_objects
 resources:
-- Level0/Module3/src/_02_loop_variables/_2_shiny_objects/.web/shinyObjets.png
+- levels/Level0/Module3/src/_02_loop_variables/_2_shiny_objects/.web/shinyObjets.png
 text: '
 
 

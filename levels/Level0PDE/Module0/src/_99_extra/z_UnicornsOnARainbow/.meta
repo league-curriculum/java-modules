@@ -1,12 +1,12 @@
 assignment: 99_extra_z_UnicornsOnARainbow
-dir: Level0PDE/Module0/src/_99_extra/z_UnicornsOnARainbow
+dir: levels/Level0PDE/Module0/src/_99_extra/z_UnicornsOnARainbow
 lesson: 99_extra
 level: Level0PDE
 module: Module0
 oassignment: z_UnicornsOnARainbow
-opath: Level0PDE/Module0/src/_99_extra/z_UnicornsOnARainbow
+opath: levels/Level0PDE/Module0/src/_99_extra/z_UnicornsOnARainbow
 resources:
-- Level0PDE/Module0/src/_99_extra/z_UnicornsOnARainbow/.web/unicornOnRainbow.png
+- levels/Level0PDE/Module0/src/_99_extra/z_UnicornsOnARainbow/.web/unicornOnRainbow.png
 text: '
 
 

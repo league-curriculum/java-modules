@@ -1,12 +1,12 @@
 assignment: 02_methods_4_moles_in_holes
-dir: Level0/Module2/src/_02_methods/_4_moles_in_holes/moles_in_holes
+dir: levels/Level0/Module2/src/_02_methods/_4_moles_in_holes/moles_in_holes
 lesson: 02_methods
 level: Level0
 module: Module2
 oassignment: 4_moles_in_holes
-opath: Level0/Module2/src/_02_methods/_4_moles_in_holes/moles_in_holes
+opath: levels/Level0/Module2/src/_02_methods/_4_moles_in_holes/moles_in_holes
 resources:
-- Level0/Module2/src/_02_methods/_4_moles_in_holes/moles_in_holes/.web/molesInHoles.png
+- levels/Level0/Module2/src/_02_methods/_4_moles_in_holes/moles_in_holes/.web/molesInHoles.png
 text: '
 
 

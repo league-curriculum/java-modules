@@ -1,10 +1,10 @@
 assignment: 01_TestMatchingBrackets
-dir: Level3/Module4/src/_01_TestMatchingBrackets
+dir: levels/Level3/Module4/src/_01_TestMatchingBrackets
 lesson: 01_TestMatchingBrackets
 level: Level3
 module: Module4
 oassignment: 01_TestMatchingBrackets
-opath: Level3/Module4/src/_01_TestMatchingBrackets
+opath: levels/Level3/Module4/src/_01_TestMatchingBrackets
 resources: []
 text: '# 01 Testmatchingbrackets
 

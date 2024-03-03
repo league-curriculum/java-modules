@@ -1,12 +1,12 @@
 assignment: 04_amazing_games_1_scary_maze
-dir: Level0/Module0/src/_04_amazing_games/_1_scary_maze
+dir: levels/Level0/Module0/src/_04_amazing_games/_1_scary_maze
 lesson: 04_amazing_games
 level: Level0
 module: Module0
 oassignment: 1_scary_maze
-opath: Level0/Module0/src/_04_amazing_games/_1_scary_maze
+opath: levels/Level0/Module0/src/_04_amazing_games/_1_scary_maze
 resources:
-- Level0/Module0/src/_04_amazing_games/_1_scary_maze/.web/standardMaze.png
+- levels/Level0/Module0/src/_04_amazing_games/_1_scary_maze/.web/standardMaze.png
 text: '
 
 

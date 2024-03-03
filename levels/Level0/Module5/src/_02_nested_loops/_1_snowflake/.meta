@@ -1,12 +1,12 @@
 assignment: 02_nested_loops_1_snowflake
-dir: Level0/Module5/src/_02_nested_loops/_1_snowflake
+dir: levels/Level0/Module5/src/_02_nested_loops/_1_snowflake
 lesson: 02_nested_loops
 level: Level0
 module: Module5
 oassignment: 1_snowflake
-opath: Level0/Module5/src/_02_nested_loops/_1_snowflake
+opath: levels/Level0/Module5/src/_02_nested_loops/_1_snowflake
 resources:
-- Level0/Module5/src/_02_nested_loops/_1_snowflake/.web/snowflake.png
+- levels/Level0/Module5/src/_02_nested_loops/_1_snowflake/.web/snowflake.png
 text: '
 
 

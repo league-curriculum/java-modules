@@ -1,12 +1,12 @@
 assignment: 01_random_3_dice_roll
-dir: Level0/Module2/src/_01_random/_3_dice_roll
+dir: levels/Level0/Module2/src/_01_random/_3_dice_roll
 lesson: 01_random
 level: Level0
 module: Module2
 oassignment: 3_dice_roll
-opath: Level0/Module2/src/_01_random/_3_dice_roll
+opath: levels/Level0/Module2/src/_01_random/_3_dice_roll
 resources:
-- Level0/Module2/src/_01_random/_3_dice_roll/.web/dice.png
+- levels/Level0/Module2/src/_01_random/_3_dice_roll/.web/dice.png
 text: '
 
 

@@ -1,12 +1,12 @@
 assignment: 03_remainder_2_bullseye
-dir: Level0/Module3/src/_03_remainder/_2_bullseye/bullseye
+dir: levels/Level0/Module3/src/_03_remainder/_2_bullseye/bullseye
 lesson: 03_remainder
 level: Level0
 module: Module3
 oassignment: 2_bullseye
-opath: Level0/Module3/src/_03_remainder/_2_bullseye/bullseye
+opath: levels/Level0/Module3/src/_03_remainder/_2_bullseye/bullseye
 resources:
-- Level0/Module3/src/_03_remainder/_2_bullseye/bullseye/.web/bullseye.png
+- levels/Level0/Module3/src/_03_remainder/_2_bullseye/bullseye/.web/bullseye.png
 text: '
 
 

@@ -1,12 +1,12 @@
 assignment: 01_methods_2_spinning_record
-dir: Level1/Module0/src/_01_methods/_2_spinning_record
+dir: levels/Level1/Module0/src/_01_methods/_2_spinning_record
 lesson: 01_methods
 level: Level1
 module: Module0
 oassignment: 2_spinning_record
-opath: Level1/Module0/src/_01_methods/_2_spinning_record
+opath: levels/Level1/Module0/src/_01_methods/_2_spinning_record
 resources:
-- Level1/Module0/src/_01_methods/_2_spinning_record/.web/spinningRecord.png
+- levels/Level1/Module0/src/_01_methods/_2_spinning_record/.web/spinningRecord.png
 text: "\n\n# Spinning Record\n\n<img align=\"left\" alt=\"\" src=\"./images/spinningRecord.png\"\
   \ style=\"width: 200.00px; height: 207.00px;  margin: 0px 20px\" title=\"\"/>\n\
   We are going to make a virtual record player that spins and plays your song when\

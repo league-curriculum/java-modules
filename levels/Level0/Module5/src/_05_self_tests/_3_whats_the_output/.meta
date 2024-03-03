@@ -1,10 +1,10 @@
 assignment: 05_self_tests_3_whats_the_output
-dir: Level0/Module5/src/_05_self_tests/_3_whats_the_output
+dir: levels/Level0/Module5/src/_05_self_tests/_3_whats_the_output
 lesson: 05_self_tests
 level: Level0
 module: Module5
 oassignment: 3_whats_the_output
-opath: Level0/Module5/src/_05_self_tests/_3_whats_the_output
+opath: levels/Level0/Module5/src/_05_self_tests/_3_whats_the_output
 resources: []
 text: "\n\n# The League of Amazing Programmers\n\n\n## What's the Output?\n\n\n###\
   \ Each number is a complete Java program. If you were to run this program, what\

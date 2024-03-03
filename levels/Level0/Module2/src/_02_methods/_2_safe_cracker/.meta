@@ -1,12 +1,12 @@
 assignment: 02_methods_2_safe_cracker
-dir: Level0/Module2/src/_02_methods/_2_safe_cracker
+dir: levels/Level0/Module2/src/_02_methods/_2_safe_cracker
 lesson: 02_methods
 level: Level0
 module: Module2
 oassignment: 2_safe_cracker
-opath: Level0/Module2/src/_02_methods/_2_safe_cracker
+opath: levels/Level0/Module2/src/_02_methods/_2_safe_cracker
 resources:
-- Level0/Module2/src/_02_methods/_2_safe_cracker/.web/safeCracker.jpg
+- levels/Level0/Module2/src/_02_methods/_2_safe_cracker/.web/safeCracker.jpg
 text: '
 
 

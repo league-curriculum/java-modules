@@ -1,10 +1,10 @@
 assignment: 03_Printing_Binary
-dir: Level5/Module4/src/_03_Printing_Binary
+dir: levels/Level5/Module4/src/_03_Printing_Binary
 lesson: 03_Printing_Binary
 level: Level5
 module: Module4
 oassignment: 03_Printing_Binary
-opath: Level5/Module4/src/_03_Printing_Binary
+opath: levels/Level5/Module4/src/_03_Printing_Binary
 resources: []
 text: '# 03 Printing Binary
 

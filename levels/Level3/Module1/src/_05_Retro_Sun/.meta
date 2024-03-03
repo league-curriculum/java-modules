@@ -1,18 +1,18 @@
 assignment: 05_Retro_Sun
-dir: Level3/Module1/src/_05_Retro_Sun
+dir: levels/Level3/Module1/src/_05_Retro_Sun
 lesson: 05_Retro_Sun
 level: Level3
 module: Module1
 oassignment: 05_Retro_Sun
-opath: Level3/Module1/src/_05_Retro_Sun
+opath: levels/Level3/Module1/src/_05_Retro_Sun
 resources:
-- Level3/Module1/src/_05_Retro_Sun/.web/2_gradient.png
-- Level3/Module1/src/_05_Retro_Sun/.web/retro_sun.gif
-- Level3/Module1/src/_05_Retro_Sun/.web/3_missing_sun_section.png
-- Level3/Module1/src/_05_Retro_Sun/.web/6_retro_sun_extras.gif
-- Level3/Module1/src/_05_Retro_Sun/.web/5_multiple_sections.gif
-- Level3/Module1/src/_05_Retro_Sun/.web/4b_resizing_section.gif
-- Level3/Module1/src/_05_Retro_Sun/.web/1_sun.png
+- levels/Level3/Module1/src/_05_Retro_Sun/.web/2_gradient.png
+- levels/Level3/Module1/src/_05_Retro_Sun/.web/retro_sun.gif
+- levels/Level3/Module1/src/_05_Retro_Sun/.web/3_missing_sun_section.png
+- levels/Level3/Module1/src/_05_Retro_Sun/.web/6_retro_sun_extras.gif
+- levels/Level3/Module1/src/_05_Retro_Sun/.web/5_multiple_sections.gif
+- levels/Level3/Module1/src/_05_Retro_Sun/.web/4b_resizing_section.gif
+- levels/Level3/Module1/src/_05_Retro_Sun/.web/1_sun.png
 text: "\n\n# Retro Sun (Processing)\n\n\n### Part 1: Drawing the Sun\n\n\n<img alt=\"\
   \" src=\"./images/1_sun.png\" style=\"width: 400px; height: 330px;\"/>\nOpen the\
   \ starter code in Processing.\nDraw and fill a solid color ellipse to be the sun.\n\

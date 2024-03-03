@@ -1,12 +1,12 @@
 assignment: 03_method_writing_2_happy_pet
-dir: Level0/Module5/src/_03_method_writing/_2_happy_pet
+dir: levels/Level0/Module5/src/_03_method_writing/_2_happy_pet
 lesson: 03_method_writing
 level: Level0
 module: Module5
 oassignment: 2_happy_pet
-opath: Level0/Module5/src/_03_method_writing/_2_happy_pet
+opath: levels/Level0/Module5/src/_03_method_writing/_2_happy_pet
 resources:
-- Level0/Module5/src/_03_method_writing/_2_happy_pet/.web/happyPet.png
+- levels/Level0/Module5/src/_03_method_writing/_2_happy_pet/.web/happyPet.png
 text: '
 
 

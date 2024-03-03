@@ -1,10 +1,10 @@
 assignment: 01_sea_creature
-dir: Level1/Module2/src/_01_sea_creature
+dir: levels/Level1/Module2/src/_01_sea_creature
 lesson: 01_sea_creature
 level: Level1
 module: Module2
 oassignment: 01_sea_creature
-opath: Level1/Module2/src/_01_sea_creature
+opath: levels/Level1/Module2/src/_01_sea_creature
 resources: []
 text: '# 01 Sea Creature
 

@@ -1,10 +1,10 @@
 assignment: 99_extra_04_gridworld
-dir: Level1/Module3/src/_99_extra/_04_gridworld
+dir: levels/Level1/Module3/src/_99_extra/_04_gridworld
 lesson: 99_extra
 level: Level1
 module: Module3
 oassignment: 04_gridworld
-opath: Level1/Module3/src/_99_extra/_04_gridworld
+opath: levels/Level1/Module3/src/_99_extra/_04_gridworld
 resources: []
 text: "\n\n# Gridworld\n\nIn this exercise we\u2019ll use OBJECTS and METHODS to make\
   \ a world that contains bugs and flowers.\nBefore you start, you need to make sure\

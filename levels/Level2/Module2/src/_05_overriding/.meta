@@ -1,10 +1,10 @@
 assignment: 05_overriding
-dir: Level2/Module2/src/_05_overriding
+dir: levels/Level2/Module2/src/_05_overriding
 lesson: 05_overriding
 level: Level2
 module: Module2
 oassignment: 05_overriding
-opath: Level2/Module2/src/_05_overriding
+opath: levels/Level2/Module2/src/_05_overriding
 resources: []
 text: '# 05 Overriding
 

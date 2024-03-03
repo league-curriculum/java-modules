@@ -1,13 +1,13 @@
 assignment: 99_extra
-dir: Level0/Module4/src/_99_extra
+dir: levels/Level0/Module4/src/_99_extra
 lesson: 99_extra
 level: Level0
 module: Module4
 oassignment: 99_extra
-opath: Level0/Module4/src/_99_extra
+opath: levels/Level0/Module4/src/_99_extra
 resources:
-- Level0/Module4/src/_99_extra/.web/PinTheTail.png
-- Level0/Module4/src/_99_extra/.web/creeper.jpg
+- levels/Level0/Module4/src/_99_extra/.web/PinTheTail.png
+- levels/Level0/Module4/src/_99_extra/.web/creeper.jpg
 text: "\n\n# Hide The Creeper\n\n<hr/>\n<img src=\"./images/creeper.jpg\"/>\n\n##\
   \ Goal:\n\nFind the Creeper!\n\n## Steps:\n\n1. Find the Hide the Creeper recipe\
   \ program in Eclipse.\n2. Set your canvas size\n```\n\nsize(width, height) //in\

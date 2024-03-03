@@ -1,12 +1,12 @@
 assignment: 01_methods_5_FlappyBird
-dir: Level1/Module0/src/_01_methods/_5_FlappyBird
+dir: levels/Level1/Module0/src/_01_methods/_5_FlappyBird
 lesson: 01_methods
 level: Level1
 module: Module0
 oassignment: 5_FlappyBird
-opath: Level1/Module0/src/_01_methods/_5_FlappyBird
+opath: levels/Level1/Module0/src/_01_methods/_5_FlappyBird
 resources:
-- Level1/Module0/src/_01_methods/_5_FlappyBird/.web/FlappyBirdScreenShot.png
+- levels/Level1/Module0/src/_01_methods/_5_FlappyBird/.web/FlappyBirdScreenShot.png
 text: "\n\n# Flappy Bird\n\n1. Start a new sketch with draw and setup methods.\n\n\
   2. Set your canvas size in the setup method\nsize(width, height)\n3. In your draw\
   \ method, set a background, and draw a ball (bird) on the screen.\n```\nbackground(red,\

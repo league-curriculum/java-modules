@@ -1,13 +1,13 @@
 assignment: 03_gui_with_help_5_duelling_buttons
-dir: Level1/Module0/src/_03_gui_with_help/_5_duelling_buttons
+dir: levels/Level1/Module0/src/_03_gui_with_help/_5_duelling_buttons
 lesson: 03_gui_with_help
 level: Level1
 module: Module0
 oassignment: 5_duelling_buttons
-opath: Level1/Module0/src/_03_gui_with_help/_5_duelling_buttons
+opath: levels/Level1/Module0/src/_03_gui_with_help/_5_duelling_buttons
 resources:
-- Level1/Module0/src/_03_gui_with_help/_5_duelling_buttons/.web/duellingButtons.png
-- Level1/Module0/src/_03_gui_with_help/_5_duelling_buttons/.web/sameSizeButtons.png
+- levels/Level1/Module0/src/_03_gui_with_help/_5_duelling_buttons/.web/duellingButtons.png
+- levels/Level1/Module0/src/_03_gui_with_help/_5_duelling_buttons/.web/sameSizeButtons.png
 text: '
 
 

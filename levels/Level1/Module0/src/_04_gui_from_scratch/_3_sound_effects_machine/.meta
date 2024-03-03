@@ -1,10 +1,10 @@
 assignment: 04_gui_from_scratch_3_sound_effects_machine
-dir: Level1/Module0/src/_04_gui_from_scratch/_3_sound_effects_machine
+dir: levels/Level1/Module0/src/_04_gui_from_scratch/_3_sound_effects_machine
 lesson: 04_gui_from_scratch
 level: Level1
 module: Module0
 oassignment: 3_sound_effects_machine
-opath: Level1/Module0/src/_04_gui_from_scratch/_3_sound_effects_machine
+opath: levels/Level1/Module0/src/_04_gui_from_scratch/_3_sound_effects_machine
 resources: []
 text: "\n\n# Sound Effects Machine\n\n1.  Create a GUI for a sound effects machine\
   \ that will play different sounds when the buttons are pressed.\nIf you need help,\

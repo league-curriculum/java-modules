@@ -1,12 +1,12 @@
 assignment: 01_algorithms_1_prime_or_not
-dir: Level0/Module5/src/_01_algorithms/_1_prime_or_not
+dir: levels/Level0/Module5/src/_01_algorithms/_1_prime_or_not
 lesson: 01_algorithms
 level: Level0
 module: Module5
 oassignment: 1_prime_or_not
-opath: Level0/Module5/src/_01_algorithms/_1_prime_or_not
+opath: levels/Level0/Module5/src/_01_algorithms/_1_prime_or_not
 resources:
-- Level0/Module5/src/_01_algorithms/_1_prime_or_not/.web/prime.png
+- levels/Level0/Module5/src/_01_algorithms/_1_prime_or_not/.web/prime.png
 text: '
 
 

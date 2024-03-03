@@ -1,10 +1,10 @@
 assignment: 04_gui_from_scratch_1_fortune_cookie
-dir: Level1/Module0/src/_04_gui_from_scratch/_1_fortune_cookie
+dir: levels/Level1/Module0/src/_04_gui_from_scratch/_1_fortune_cookie
 lesson: 04_gui_from_scratch
 level: Level1
 module: Module0
 oassignment: 1_fortune_cookie
-opath: Level1/Module0/src/_04_gui_from_scratch/_1_fortune_cookie
+opath: levels/Level1/Module0/src/_04_gui_from_scratch/_1_fortune_cookie
 resources: []
 text: "\n\n# Fortune Cookie\n\nGoal: Make a Swing program from scratch.\nThe program\
   \ will have a window (frame) with a button that gives one of five random fortunes\

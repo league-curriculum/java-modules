@@ -1,10 +1,10 @@
 assignment: 11_lights_out
-dir: Level1/Module4/src/_11_lights_out
+dir: levels/Level1/Module4/src/_11_lights_out
 lesson: 11_lights_out
 level: Level1
 module: Module4
 oassignment: 11_lights_out
-opath: Level1/Module4/src/_11_lights_out
+opath: levels/Level1/Module4/src/_11_lights_out
 resources: []
 text: '# 11 Lights Out
 

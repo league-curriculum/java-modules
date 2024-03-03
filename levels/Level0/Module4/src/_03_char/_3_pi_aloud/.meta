@@ -1,12 +1,12 @@
 assignment: 03_char_3_pi_aloud
-dir: Level0/Module4/src/_03_char/_3_pi_aloud
+dir: levels/Level0/Module4/src/_03_char/_3_pi_aloud
 lesson: 03_char
 level: Level0
 module: Module4
 oassignment: 3_pi_aloud
-opath: Level0/Module4/src/_03_char/_3_pi_aloud
+opath: levels/Level0/Module4/src/_03_char/_3_pi_aloud
 resources:
-- Level0/Module4/src/_03_char/_3_pi_aloud/.web/piAloud.png
+- levels/Level0/Module4/src/_03_char/_3_pi_aloud/.web/piAloud.png
 text: '
 
 

@@ -1,10 +1,10 @@
 assignment: 05_self_tests_9_online_practice_test2
-dir: Level0/Module5/src/_05_self_tests/_9_online_practice_test2
+dir: levels/Level0/Module5/src/_05_self_tests/_9_online_practice_test2
 lesson: 05_self_tests
 level: Level0
 module: Module5
 oassignment: 9_online_practice_test2
-opath: Level0/Module5/src/_05_self_tests/_9_online_practice_test2
+opath: levels/Level0/Module5/src/_05_self_tests/_9_online_practice_test2
 resources: []
 text: '<body onload="startup()" style="background-color:#bbccdd;font-weight:bold;font-size:22px;">
 

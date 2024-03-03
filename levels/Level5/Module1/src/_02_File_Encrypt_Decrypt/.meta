@@ -1,10 +1,10 @@
 assignment: 02_File_Encrypt_Decrypt
-dir: Level5/Module1/src/_02_File_Encrypt_Decrypt
+dir: levels/Level5/Module1/src/_02_File_Encrypt_Decrypt
 lesson: 02_File_Encrypt_Decrypt
 level: Level5
 module: Module1
 oassignment: 02_File_Encrypt_Decrypt
-opath: Level5/Module1/src/_02_File_Encrypt_Decrypt
+opath: levels/Level5/Module1/src/_02_File_Encrypt_Decrypt
 resources: []
 text: '# 02 File Encrypt Decrypt
 

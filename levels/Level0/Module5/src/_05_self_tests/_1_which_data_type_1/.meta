@@ -1,10 +1,10 @@
 assignment: 05_self_tests_1_which_data_type_1
-dir: Level0/Module5/src/_05_self_tests/_1_which_data_type_1
+dir: levels/Level0/Module5/src/_05_self_tests/_1_which_data_type_1
 lesson: 05_self_tests
 level: Level0
 module: Module5
 oassignment: 1_which_data_type_1
-opath: Level0/Module5/src/_05_self_tests/_1_which_data_type_1
+opath: levels/Level0/Module5/src/_05_self_tests/_1_which_data_type_1
 resources: []
 text: "\n\n# The League of Amazing Programmers\n\n\n## Which Data Type?\n\n\n### Fill\
   \ in the blank with the correct data type.\n\n```\n\n   x = 5; \n\n  \n   age =\

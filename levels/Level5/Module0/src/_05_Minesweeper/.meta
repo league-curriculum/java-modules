@@ -1,10 +1,10 @@
 assignment: 05_Minesweeper
-dir: Level5/Module0/src/_05_Minesweeper
+dir: levels/Level5/Module0/src/_05_Minesweeper
 lesson: 05_Minesweeper
 level: Level5
 module: Module0
 oassignment: 05_Minesweeper
-opath: Level5/Module0/src/_05_Minesweeper
+opath: levels/Level5/Module0/src/_05_Minesweeper
 resources: []
 text: '# 05 Minesweeper
 

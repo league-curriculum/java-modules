@@ -1,10 +1,10 @@
 assignment: 02_LongChipCompetition
-dir: Level3/Module1/src/_02_LongChipCompetition
+dir: levels/Level3/Module1/src/_02_LongChipCompetition
 lesson: 02_LongChipCompetition
 level: Level3
 module: Module1
 oassignment: 02_LongChipCompetition
-opath: Level3/Module1/src/_02_LongChipCompetition
+opath: levels/Level3/Module1/src/_02_LongChipCompetition
 resources: []
 text: '# 02 Longchipcompetition
 

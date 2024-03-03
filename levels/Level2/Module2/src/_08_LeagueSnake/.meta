@@ -1,13 +1,13 @@
 assignment: 08_LeagueSnake
-dir: Level2/Module2/src/_08_LeagueSnake
+dir: levels/Level2/Module2/src/_08_LeagueSnake
 lesson: 08_LeagueSnake
 level: Level2
 module: Module2
 oassignment: 08_LeagueSnake
-opath: Level2/Module2/src/_08_LeagueSnake
+opath: levels/Level2/Module2/src/_08_LeagueSnake
 resources:
-- Level2/Module2/src/_08_LeagueSnake/.web/SnakePart1.png
-- Level2/Module2/src/_08_LeagueSnake/.web/SnakePart3.png
+- levels/Level2/Module2/src/_08_LeagueSnake/.web/SnakePart1.png
+- levels/Level2/Module2/src/_08_LeagueSnake/.web/SnakePart3.png
 text: '
 
 

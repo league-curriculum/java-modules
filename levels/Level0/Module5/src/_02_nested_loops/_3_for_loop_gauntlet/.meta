@@ -1,10 +1,10 @@
 assignment: 02_nested_loops_3_for_loop_gauntlet
-dir: Level0/Module5/src/_02_nested_loops/_3_for_loop_gauntlet
+dir: levels/Level0/Module5/src/_02_nested_loops/_3_for_loop_gauntlet
 lesson: 02_nested_loops
 level: Level0
 module: Module5
 oassignment: 3_for_loop_gauntlet
-opath: Level0/Module5/src/_02_nested_loops/_3_for_loop_gauntlet
+opath: levels/Level0/Module5/src/_02_nested_loops/_3_for_loop_gauntlet
 resources: []
 text: "\n\n# For Loop Gauntlet\n\nThe goal of this assignment is to make you a master\
   \ of utilizing for loops. Complete all the for loop challenges on the paper. Please\

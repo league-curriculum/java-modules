@@ -1,10 +1,10 @@
 assignment: 03_Conways_Game_of_Life
-dir: Level4/Module0/src/_03_Conways_Game_of_Life
+dir: levels/Level4/Module0/src/_03_Conways_Game_of_Life
 lesson: 03_Conways_Game_of_Life
 level: Level4
 module: Module0
 oassignment: 03_Conways_Game_of_Life
-opath: Level4/Module0/src/_03_Conways_Game_of_Life
+opath: levels/Level4/Module0/src/_03_Conways_Game_of_Life
 resources: []
 text: '# 03 Conways Game Of Life
 

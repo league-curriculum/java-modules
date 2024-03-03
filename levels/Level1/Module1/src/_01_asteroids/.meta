@@ -1,10 +1,10 @@
 assignment: 01_asteroids
-dir: Level1/Module1/src/_01_asteroids
+dir: levels/Level1/Module1/src/_01_asteroids
 lesson: 01_asteroids
 level: Level1
 module: Module1
 oassignment: 01_asteroids
-opath: Level1/Module1/src/_01_asteroids
+opath: levels/Level1/Module1/src/_01_asteroids
 resources: []
 text: '# 01 Asteroids
 

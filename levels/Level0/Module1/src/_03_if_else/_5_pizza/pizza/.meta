@@ -1,10 +1,10 @@
 assignment: 03_if_else_5_pizza
-dir: Level0/Module1/src/_03_if_else/_5_pizza/pizza
+dir: levels/Level0/Module1/src/_03_if_else/_5_pizza/pizza
 lesson: 03_if_else
 level: Level0
 module: Module1
 oassignment: 5_pizza
-opath: Level0/Module1/src/_03_if_else/_5_pizza/pizza
+opath: levels/Level0/Module1/src/_03_if_else/_5_pizza/pizza
 resources: []
 text: "\n\n# Pizza\n\n<hr/>\n<img src=\"./images/pizza.jpeg\"/>\n\n## Goal:\n\nMake\
   \ a pizza with whatever toppings you can imagine!\n\n## Steps:\n\n1. Find the Pizza\

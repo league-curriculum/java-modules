@@ -1,12 +1,12 @@
 assignment: 03_method_writing_1_obedient_robot
-dir: Level0/Module5/src/_03_method_writing/_1_obedient_robot
+dir: levels/Level0/Module5/src/_03_method_writing/_1_obedient_robot
 lesson: 03_method_writing
 level: Level0
 module: Module5
 oassignment: 1_obedient_robot
-opath: Level0/Module5/src/_03_method_writing/_1_obedient_robot
+opath: levels/Level0/Module5/src/_03_method_writing/_1_obedient_robot
 resources:
-- Level0/Module5/src/_03_method_writing/_1_obedient_robot/.web/robot.png
+- levels/Level0/Module5/src/_03_method_writing/_1_obedient_robot/.web/robot.png
 text: '
 
 

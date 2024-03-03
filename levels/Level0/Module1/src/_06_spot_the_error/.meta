@@ -1,12 +1,12 @@
 assignment: 06_spot_the_error
-dir: Level0/Module1/src/_06_spot_the_error
+dir: levels/Level0/Module1/src/_06_spot_the_error
 lesson: 06_spot_the_error
 level: Level0
 module: Module1
 oassignment: 06_spot_the_error
-opath: Level0/Module1/src/_06_spot_the_error
+opath: levels/Level0/Module1/src/_06_spot_the_error
 resources:
-- Level0/Module1/src/_06_spot_the_error/.web/bug.jpg
+- levels/Level0/Module1/src/_06_spot_the_error/.web/bug.jpg
 text: '
 
 

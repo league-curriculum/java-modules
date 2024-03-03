@@ -1,10 +1,10 @@
 assignment: 00_intro_to_Linked_Lists_EMPTY
-dir: Level4/Module5/src/_00_intro_to_Linked_Lists_EMPTY
+dir: levels/Level4/Module5/src/_00_intro_to_Linked_Lists_EMPTY
 lesson: 00_intro_to_Linked_Lists_EMPTY
 level: Level4
 module: Module5
 oassignment: 00_intro_to_Linked_Lists_EMPTY
-opath: Level4/Module5/src/_00_intro_to_Linked_Lists_EMPTY
+opath: levels/Level4/Module5/src/_00_intro_to_Linked_Lists_EMPTY
 resources: []
 text: '# 00 Intro To Linked Lists Empty
 

@@ -1,10 +1,10 @@
 assignment: extra
-dir: Level2/Module0/src/extra
+dir: levels/Level2/Module0/src/extra
 lesson: extra
 level: Level2
 module: Module0
 oassignment: extra
-opath: Level2/Module0/src/extra
+opath: levels/Level2/Module0/src/extra
 resources: []
 text: '# Extra
 

@@ -1,10 +1,10 @@
 assignment: 05_Synchronized_Swimming
-dir: Level5/Module2/src/_05_Synchronized_Swimming
+dir: levels/Level5/Module2/src/_05_Synchronized_Swimming
 lesson: 05_Synchronized_Swimming
 level: Level5
 module: Module2
 oassignment: 05_Synchronized_Swimming
-opath: Level5/Module2/src/_05_Synchronized_Swimming
+opath: levels/Level5/Module2/src/_05_Synchronized_Swimming
 resources: []
 text: '# 05 Synchronized Swimming
 

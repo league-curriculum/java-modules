@@ -1,10 +1,10 @@
 assignment: 03_Intro_to_2D_Arrays
-dir: Level3/Module0/src/_03_Intro_to_2D_Arrays
+dir: levels/Level3/Module0/src/_03_Intro_to_2D_Arrays
 lesson: 03_Intro_to_2D_Arrays
 level: Level3
 module: Module0
 oassignment: 03_Intro_to_2D_Arrays
-opath: Level3/Module0/src/_03_Intro_to_2D_Arrays
+opath: levels/Level3/Module0/src/_03_Intro_to_2D_Arrays
 resources: []
 text: '# 03 Intro To 2D Arrays
 

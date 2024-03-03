@@ -1,12 +1,12 @@
 assignment: 02_nested_loops_2_amazing_rings
-dir: Level0/Module5/src/_02_nested_loops/_2_amazing_rings
+dir: levels/Level0/Module5/src/_02_nested_loops/_2_amazing_rings
 lesson: 02_nested_loops
 level: Level0
 module: Module5
 oassignment: 2_amazing_rings
-opath: Level0/Module5/src/_02_nested_loops/_2_amazing_rings
+opath: levels/Level0/Module5/src/_02_nested_loops/_2_amazing_rings
 resources:
-- Level0/Module5/src/_02_nested_loops/_2_amazing_rings/.web/amazingRings.png
+- levels/Level0/Module5/src/_02_nested_loops/_2_amazing_rings/.web/amazingRings.png
 text: '
 
 

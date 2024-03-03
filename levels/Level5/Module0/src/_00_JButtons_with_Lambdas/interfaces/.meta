@@ -1,10 +1,10 @@
 assignment: 00_JButtons_with_Lambdas_interfaces
-dir: Level5/Module0/src/_00_JButtons_with_Lambdas/interfaces
+dir: levels/Level5/Module0/src/_00_JButtons_with_Lambdas/interfaces
 lesson: 00_JButtons_with_Lambdas
 level: Level5
 module: Module0
 oassignment: interfaces
-opath: Level5/Module0/src/_00_JButtons_with_Lambdas/interfaces
+opath: levels/Level5/Module0/src/_00_JButtons_with_Lambdas/interfaces
 resources: []
 text: '# 00 Jbuttons With Lambdas Interfaces
 

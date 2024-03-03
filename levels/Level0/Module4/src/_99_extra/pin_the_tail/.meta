@@ -1,12 +1,12 @@
 assignment: 99_extra_pin_the_tail
-dir: Level0/Module4/src/_99_extra/pin_the_tail
+dir: levels/Level0/Module4/src/_99_extra/pin_the_tail
 lesson: 99_extra
 level: Level0
 module: Module4
 oassignment: pin_the_tail
-opath: Level0/Module4/src/_99_extra/pin_the_tail
+opath: levels/Level0/Module4/src/_99_extra/pin_the_tail
 resources:
-- Level0/Module4/src/_99_extra/pin_the_tail/.web/PinTheTail.png
+- levels/Level0/Module4/src/_99_extra/pin_the_tail/.web/PinTheTail.png
 text: "\n\n# Pin the Tail on the Donkey\n\n<hr/>\n<img src=\"./images/PinTheTail.png\"\
   />\n\n## Goal:\n\nThe player of the game has to click the mouse where the donkey's\
   \ tail will go. The problem is, the picture keeps disappearing!\n\n## Steps:\n\n\

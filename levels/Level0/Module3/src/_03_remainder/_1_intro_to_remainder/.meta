@@ -1,10 +1,10 @@
 assignment: 03_remainder_1_intro_to_remainder
-dir: Level0/Module3/src/_03_remainder/_1_intro_to_remainder
+dir: levels/Level0/Module3/src/_03_remainder/_1_intro_to_remainder
 lesson: 03_remainder
 level: Level0
 module: Module3
 oassignment: 1_intro_to_remainder
-opath: Level0/Module3/src/_03_remainder/_1_intro_to_remainder
+opath: levels/Level0/Module3/src/_03_remainder/_1_intro_to_remainder
 resources: []
 text: "\n\n# Introduction to Remainder\n\nThe remainder operator is represented as\
   \ the percent sign %. This just means the remainder after division. You may also\

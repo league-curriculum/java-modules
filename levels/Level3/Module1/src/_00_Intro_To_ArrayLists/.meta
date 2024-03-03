@@ -1,14 +1,14 @@
 assignment: 00_Intro_To_ArrayLists
-dir: Level3/Module1/src/_00_Intro_To_ArrayLists
+dir: levels/Level3/Module1/src/_00_Intro_To_ArrayLists
 lesson: 00_Intro_To_ArrayLists
 level: Level3
 module: Module1
 oassignment: 00_Intro_To_ArrayLists
-opath: Level3/Module1/src/_00_Intro_To_ArrayLists
+opath: levels/Level3/Module1/src/_00_Intro_To_ArrayLists
 resources:
-- Level3/Module1/src/_00_Intro_To_ArrayLists/.web/GuestBookButtons.png
-- Level3/Module1/src/_00_Intro_To_ArrayLists/.web/ViewNamesDialog.png
-- Level3/Module1/src/_00_Intro_To_ArrayLists/.web/AddNameDialog.png
+- levels/Level3/Module1/src/_00_Intro_To_ArrayLists/.web/GuestBookButtons.png
+- levels/Level3/Module1/src/_00_Intro_To_ArrayLists/.web/ViewNamesDialog.png
+- levels/Level3/Module1/src/_00_Intro_To_ArrayLists/.web/AddNameDialog.png
 text: "\n\n# Array List\n\nVariables are used to hold a single value. For example:\n\
   int age = 12;\nString name = \u201CSarah\u201D;\nHowever, what if a program needed\
   \ a list of names? We don't want to declare multiple variables with meaningless\

@@ -1,12 +1,12 @@
 assignment: 02_boolean_6_wheres_waldo
-dir: Level0/Module4/src/_02_boolean/_6_wheres_waldo
+dir: levels/Level0/Module4/src/_02_boolean/_6_wheres_waldo
 lesson: 02_boolean
 level: Level0
 module: Module4
 oassignment: 6_wheres_waldo
-opath: Level0/Module4/src/_02_boolean/_6_wheres_waldo
+opath: levels/Level0/Module4/src/_02_boolean/_6_wheres_waldo
 resources:
-- Level0/Module4/src/_02_boolean/_6_wheres_waldo/.web/waldo.jpg
+- levels/Level0/Module4/src/_02_boolean/_6_wheres_waldo/.web/waldo.jpg
 text: '
 
 

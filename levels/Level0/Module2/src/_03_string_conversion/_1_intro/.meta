@@ -1,14 +1,14 @@
 assignment: 03_string_conversion_1_intro
-dir: Level0/Module2/src/_03_string_conversion/_1_intro
+dir: levels/Level0/Module2/src/_03_string_conversion/_1_intro
 lesson: 03_string_conversion
 level: Level0
 module: Module2
 oassignment: 1_intro
-opath: Level0/Module2/src/_03_string_conversion/_1_intro
+opath: levels/Level0/Module2/src/_03_string_conversion/_1_intro
 resources:
-- Level0/Module2/src/_03_string_conversion/_1_intro/.web/parseInt3.png
-- Level0/Module2/src/_03_string_conversion/_1_intro/.web/parseInt2.png
-- Level0/Module2/src/_03_string_conversion/_1_intro/.web/paresInt1.png
+- levels/Level0/Module2/src/_03_string_conversion/_1_intro/.web/parseInt3.png
+- levels/Level0/Module2/src/_03_string_conversion/_1_intro/.web/parseInt2.png
+- levels/Level0/Module2/src/_03_string_conversion/_1_intro/.web/paresInt1.png
 text: '
 
 

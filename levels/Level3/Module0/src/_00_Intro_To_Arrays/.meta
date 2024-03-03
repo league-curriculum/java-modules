@@ -1,10 +1,10 @@
 assignment: 00_Intro_To_Arrays
-dir: Level3/Module0/src/_00_Intro_To_Arrays
+dir: levels/Level3/Module0/src/_00_Intro_To_Arrays
 lesson: 00_Intro_To_Arrays
 level: Level3
 module: Module0
 oassignment: 00_Intro_To_Arrays
-opath: Level3/Module0/src/_00_Intro_To_Arrays
+opath: levels/Level3/Module0/src/_00_Intro_To_Arrays
 resources: []
 text: '# 00 Intro To Arrays
 

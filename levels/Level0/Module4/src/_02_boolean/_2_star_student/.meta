@@ -1,10 +1,10 @@
 assignment: 02_boolean_2_star_student
-dir: Level0/Module4/src/_02_boolean/_2_star_student
+dir: levels/Level0/Module4/src/_02_boolean/_2_star_student
 lesson: 02_boolean
 level: Level0
 module: Module4
 oassignment: 2_star_student
-opath: Level0/Module4/src/_02_boolean/_2_star_student
+opath: levels/Level0/Module4/src/_02_boolean/_2_star_student
 resources: []
 text: '# 02 Boolean 2 Star Student
 

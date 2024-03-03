@@ -1,10 +1,10 @@
 assignment: 08_California_Weather
-dir: Level3/Module1/src/_08_California_Weather
+dir: levels/Level3/Module1/src/_08_California_Weather
 lesson: 08_California_Weather
 level: Level3
 module: Module1
 oassignment: 08_California_Weather
-opath: Level3/Module1/src/_08_California_Weather
+opath: levels/Level3/Module1/src/_08_California_Weather
 resources: []
 text: '# 08 California Weather
 

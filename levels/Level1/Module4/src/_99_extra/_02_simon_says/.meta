@@ -1,10 +1,10 @@
 assignment: 99_extra_02_simon_says
-dir: Level1/Module4/src/_99_extra/_02_simon_says
+dir: levels/Level1/Module4/src/_99_extra/_02_simon_says
 lesson: 99_extra
 level: Level1
 module: Module4
 oassignment: 02_simon_says
-opath: Level1/Module4/src/_99_extra/_02_simon_says
+opath: levels/Level1/Module4/src/_99_extra/_02_simon_says
 resources: []
 text: '# 99 Extra 02 Simon Says
 

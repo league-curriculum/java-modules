@@ -1,12 +1,12 @@
 assignment: 02_methods_6_slippery_dot
-dir: Level0/Module2/src/_02_methods/_6_slippery_dot/slippery_dot
+dir: levels/Level0/Module2/src/_02_methods/_6_slippery_dot/slippery_dot
 lesson: 02_methods
 level: Level0
 module: Module2
 oassignment: 6_slippery_dot
-opath: Level0/Module2/src/_02_methods/_6_slippery_dot/slippery_dot
+opath: levels/Level0/Module2/src/_02_methods/_6_slippery_dot/slippery_dot
 resources:
-- Level0/Module2/src/_02_methods/_6_slippery_dot/slippery_dot/.web/slipperyDot.png
+- levels/Level0/Module2/src/_02_methods/_6_slippery_dot/slippery_dot/.web/slipperyDot.png
 text: '
 
 

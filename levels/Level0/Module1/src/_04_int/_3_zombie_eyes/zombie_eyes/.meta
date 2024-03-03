@@ -1,10 +1,10 @@
 assignment: 04_int_3_zombie_eyes
-dir: Level0/Module1/src/_04_int/_3_zombie_eyes/zombie_eyes
+dir: levels/Level0/Module1/src/_04_int/_3_zombie_eyes/zombie_eyes
 lesson: 04_int
 level: Level0
 module: Module1
 oassignment: 3_zombie_eyes
-opath: Level0/Module1/src/_04_int/_3_zombie_eyes/zombie_eyes
+opath: levels/Level0/Module1/src/_04_int/_3_zombie_eyes/zombie_eyes
 resources: []
 text: '
 

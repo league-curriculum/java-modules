@@ -1,14 +1,14 @@
 assignment: 04_Maze_Maker
-dir: Level4/Module0/src/_04_Maze_Maker
+dir: levels/Level4/Module0/src/_04_Maze_Maker
 lesson: 04_Maze_Maker
 level: Level4
 module: Module0
 oassignment: 04_Maze_Maker
-opath: Level4/Module0/src/_04_Maze_Maker
+opath: levels/Level4/Module0/src/_04_Maze_Maker
 resources:
-- Level4/Module0/src/_04_Maze_Maker/.web/maze_incomplete.png
-- Level4/Module0/src/_04_Maze_Maker/.web/maze_complete.png
-- Level4/Module0/src/_04_Maze_Maker/.web/maze_with_exit.png
+- levels/Level4/Module0/src/_04_Maze_Maker/.web/maze_incomplete.png
+- levels/Level4/Module0/src/_04_Maze_Maker/.web/maze_complete.png
+- levels/Level4/Module0/src/_04_Maze_Maker/.web/maze_with_exit.png
 text: '<html>
 
 

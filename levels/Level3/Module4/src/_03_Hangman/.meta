@@ -1,10 +1,10 @@
 assignment: 03_Hangman
-dir: Level3/Module4/src/_03_Hangman
+dir: levels/Level3/Module4/src/_03_Hangman
 lesson: 03_Hangman
 level: Level3
 module: Module4
 oassignment: 03_Hangman
-opath: Level3/Module4/src/_03_Hangman
+opath: levels/Level3/Module4/src/_03_Hangman
 resources: []
 text: "<html>\n<font color=\"orange\">\n\n## You're going to create a program that\
   \ plays Hang Man!\n\n</font>\n<center>\nRun hangman.jar to play the finished product.\n\

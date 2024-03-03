@@ -1,12 +1,12 @@
 assignment: 01_random_4_validation
-dir: Level0/Module2/src/_01_random/_4_validation
+dir: levels/Level0/Module2/src/_01_random/_4_validation
 lesson: 01_random
 level: Level0
 module: Module2
 oassignment: 4_validation
-opath: Level0/Module2/src/_01_random/_4_validation
+opath: levels/Level0/Module2/src/_01_random/_4_validation
 resources:
-- Level0/Module2/src/_01_random/_4_validation/.web/validation.png
+- levels/Level0/Module2/src/_01_random/_4_validation/.web/validation.png
 text: '
 
 

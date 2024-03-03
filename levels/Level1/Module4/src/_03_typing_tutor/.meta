@@ -1,13 +1,13 @@
 assignment: 03_typing_tutor
-dir: Level1/Module4/src/_03_typing_tutor
+dir: levels/Level1/Module4/src/_03_typing_tutor
 lesson: 03_typing_tutor
 level: Level1
 module: Module4
 oassignment: 03_typing_tutor
-opath: Level1/Module4/src/_03_typing_tutor
+opath: levels/Level1/Module4/src/_03_typing_tutor
 resources:
-- Level1/Module4/src/_03_typing_tutor/.web/typing.jpg
-- Level1/Module4/src/_03_typing_tutor/.web/typingTutor1.png
+- levels/Level1/Module4/src/_03_typing_tutor/.web/typing.jpg
+- levels/Level1/Module4/src/_03_typing_tutor/.web/typingTutor1.png
 text: "\n\n# Typing Tutor\n\nWe are going to make a Typing Tutor.\n<img alt=\"\" src=\"\
   ./images/typing.jpg\" style=\"width: 444.00px; height: 163.00px; margin-left: 100.00px;\
   \ margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform:\

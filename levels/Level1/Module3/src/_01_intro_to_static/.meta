@@ -1,10 +1,10 @@
 assignment: 01_intro_to_static
-dir: Level1/Module3/src/_01_intro_to_static
+dir: levels/Level1/Module3/src/_01_intro_to_static
 lesson: 01_intro_to_static
 level: Level1
 module: Module3
 oassignment: 01_intro_to_static
-opath: Level1/Module3/src/_01_intro_to_static
+opath: levels/Level1/Module3/src/_01_intro_to_static
 resources: []
 text: "\n\n# Running Race - Explaining Static\n\nThe static keyword is a reserved\
   \ word in Java like int, for, if, and else.\nIt can be placed before the type when\

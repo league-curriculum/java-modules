@@ -1,12 +1,12 @@
 assignment: 11_binary_converter
-dir: Level1/Module1/src/_11_binary_converter
+dir: levels/Level1/Module1/src/_11_binary_converter
 lesson: 11_binary_converter
 level: Level1
 module: Module1
 oassignment: 11_binary_converter
-opath: Level1/Module1/src/_11_binary_converter
+opath: levels/Level1/Module1/src/_11_binary_converter
 resources:
-- Level1/Module1/src/_11_binary_converter/.web/FlappyBirdScreenShot.png
+- levels/Level1/Module1/src/_11_binary_converter/.web/FlappyBirdScreenShot.png
 text: "\n\n# Flappy Bird\n\n1. Start a new sketch with draw and setup methods.\n\n\
   2. Set your canvas size in the setup method\nsize(width, height)\n3. In your draw\
   \ method, set a background, and draw a ball (bird) on the screen.\n```\nbackground(red,\

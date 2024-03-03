@@ -1,10 +1,10 @@
 assignment: 03_remainder_4_fizz_buzz
-dir: Level0/Module3/src/_03_remainder/_4_fizz_buzz
+dir: levels/Level0/Module3/src/_03_remainder/_4_fizz_buzz
 lesson: 03_remainder
 level: Level0
 module: Module3
 oassignment: 4_fizz_buzz
-opath: Level0/Module3/src/_03_remainder/_4_fizz_buzz
+opath: levels/Level0/Module3/src/_03_remainder/_4_fizz_buzz
 resources: []
 text: '
 

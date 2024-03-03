@@ -1,10 +1,10 @@
 assignment: 04_Light_Switches
-dir: Level5/Module4/src/_04_Light_Switches
+dir: levels/Level5/Module4/src/_04_Light_Switches
 lesson: 04_Light_Switches
 level: Level5
 module: Module4
 oassignment: 04_Light_Switches
-opath: Level5/Module4/src/_04_Light_Switches
+opath: levels/Level5/Module4/src/_04_Light_Switches
 resources: []
 text: '# 04 Light Switches
 

@@ -1,10 +1,10 @@
 assignment: 05_self_tests_4_missing_mustaches
-dir: Level0/Module5/src/_05_self_tests/_4_missing_mustaches
+dir: levels/Level0/Module5/src/_05_self_tests/_4_missing_mustaches
 lesson: 05_self_tests
 level: Level0
 module: Module5
 oassignment: 4_missing_mustaches
-opath: Level0/Module5/src/_05_self_tests/_4_missing_mustaches
+opath: levels/Level0/Module5/src/_05_self_tests/_4_missing_mustaches
 resources: []
 text: "\n\n# The League of Amazing Programmers\n\n\n## Moustaches\n\n\n### Put the\
   \ moustaches where they belong\n\n```\n\n  \npublic class Moustache2\n\n      public\

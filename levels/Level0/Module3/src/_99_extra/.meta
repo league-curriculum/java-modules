@@ -1,10 +1,10 @@
 assignment: 99_extra
-dir: Level0/Module3/src/_99_extra
+dir: levels/Level0/Module3/src/_99_extra
 lesson: 99_extra
 level: Level0
 module: Module3
 oassignment: 99_extra
-opath: Level0/Module3/src/_99_extra
+opath: levels/Level0/Module3/src/_99_extra
 resources: []
 text: '# 99 Extra
 

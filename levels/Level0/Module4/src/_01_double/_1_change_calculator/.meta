@@ -1,12 +1,12 @@
 assignment: 01_double_1_change_calculator
-dir: Level0/Module4/src/_01_double/_1_change_calculator
+dir: levels/Level0/Module4/src/_01_double/_1_change_calculator
 lesson: 01_double
 level: Level0
 module: Module4
 oassignment: 1_change_calculator
-opath: Level0/Module4/src/_01_double/_1_change_calculator
+opath: levels/Level0/Module4/src/_01_double/_1_change_calculator
 resources:
-- Level0/Module4/src/_01_double/_1_change_calculator/.web/changeCalculator.jpg
+- levels/Level0/Module4/src/_01_double/_1_change_calculator/.web/changeCalculator.jpg
 text: '
 
 

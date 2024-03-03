@@ -1,12 +1,12 @@
 assignment: 07_duck
-dir: Level1/Module1/src/_07_duck
+dir: levels/Level1/Module1/src/_07_duck
 lesson: 07_duck
 level: Level1
 module: Module1
 oassignment: 07_duck
-opath: Level1/Module1/src/_07_duck
+opath: levels/Level1/Module1/src/_07_duck
 resources:
-- Level1/Module1/src/_07_duck/.web/duck.png
+- levels/Level1/Module1/src/_07_duck/.web/duck.png
 text: '
 
 

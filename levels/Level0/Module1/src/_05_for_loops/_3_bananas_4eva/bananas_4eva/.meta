@@ -1,12 +1,12 @@
 assignment: 05_for_loops_3_bananas_4eva
-dir: Level0/Module1/src/_05_for_loops/_3_bananas_4eva/bananas_4eva
+dir: levels/Level0/Module1/src/_05_for_loops/_3_bananas_4eva/bananas_4eva
 lesson: 05_for_loops
 level: Level0
 module: Module1
 oassignment: 3_bananas_4eva
-opath: Level0/Module1/src/_05_for_loops/_3_bananas_4eva/bananas_4eva
+opath: levels/Level0/Module1/src/_05_for_loops/_3_bananas_4eva/bananas_4eva
 resources:
-- Level0/Module1/src/_05_for_loops/_3_bananas_4eva/bananas_4eva/.web/bananas.jpg
+- levels/Level0/Module1/src/_05_for_loops/_3_bananas_4eva/bananas_4eva/.web/bananas.jpg
 text: '
 
 
