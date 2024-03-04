@@ -5,7 +5,8 @@ level: Level0
 module: Module3
 oassignment: 5_own_adventure
 opath: levels/Level0/Module3/src/_01_else_if/_5_own_adventure
-resources: []
+resources:
+- levels/Level0/Module3/src/_01_else_if/_5_own_adventure/.web/leagueOversized.jpeg
 text: '
 
 

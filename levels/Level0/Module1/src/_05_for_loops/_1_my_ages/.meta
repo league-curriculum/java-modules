@@ -5,7 +5,8 @@ level: Level0
 module: Module1
 oassignment: 1_my_ages
 opath: levels/Level0/Module1/src/_05_for_loops/_1_my_ages
-resources: []
+resources:
+- levels/Level0/Module1/src/_05_for_loops/_1_my_ages/.web/ages.jpeg
 text: '
 
 

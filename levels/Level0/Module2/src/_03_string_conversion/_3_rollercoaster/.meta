@@ -5,7 +5,8 @@ level: Level0
 module: Module2
 oassignment: 3_rollercoaster
 opath: levels/Level0/Module2/src/_03_string_conversion/_3_rollercoaster
-resources: []
+resources:
+- levels/Level0/Module2/src/_03_string_conversion/_3_rollercoaster/.web/rollercoaster.jpeg
 text: '
 
 

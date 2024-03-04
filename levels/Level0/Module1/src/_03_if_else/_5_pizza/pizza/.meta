@@ -5,7 +5,8 @@ level: Level0
 module: Module1
 oassignment: 5_pizza
 opath: levels/Level0/Module1/src/_03_if_else/_5_pizza/pizza
-resources: []
+resources:
+- levels/Level0/Module1/src/_03_if_else/_5_pizza/pizza/.web/pizza.jpeg
 text: "\n\n# Pizza\n\n<hr/>\n<img src=\"./images/pizza.jpeg\"/>\n\n## Goal:\n\nMake\
   \ a pizza with whatever toppings you can imagine!\n\n## Steps:\n\n1. Find the Pizza\
   \ recipe program ( pizza.pde ) and open it using Processing.\n2. Set your canvas\

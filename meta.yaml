@@ -534,7 +534,7 @@ Level0:
 
         '
       title: 99 Extra
-    _text: "# LEVEL 0 MODULE 0 In-progress recipes go here!\n#\n# Also some extra\
+    _readme: "# LEVEL 0 MODULE 0 In-progress recipes go here!\n#\n# Also some extra\
       \ recipes for practice from workshop \n"
   Module1:
     01_variables:
@@ -938,7 +938,8 @@ Level0:
       module: Module1
       oassignment: 5_pizza
       opath: levels/Level0/Module1/src/_03_if_else/_5_pizza/pizza
-      resources: []
+      resources:
+      - levels/Level0/Module1/src/_03_if_else/_5_pizza/pizza/.web/pizza.jpeg
       text: "\n\n# Pizza\n\n<hr/>\n<img src=\"./images/pizza.jpeg\"/>\n\n## Goal:\n\
         \nMake a pizza with whatever toppings you can imagine!\n\n## Steps:\n\n1.\
         \ Find the Pizza recipe program ( pizza.pde ) and open it using Processing.\n\
@@ -1218,7 +1219,8 @@ Level0:
       module: Module1
       oassignment: 1_my_ages
       opath: levels/Level0/Module1/src/_05_for_loops/_1_my_ages
-      resources: []
+      resources:
+      - levels/Level0/Module1/src/_05_for_loops/_1_my_ages/.web/ages.jpeg
       text: '
 
 
@@ -1361,9 +1363,9 @@ Level0:
 
         '
       title: 06 Spot The Error
-    _text: "# Level 0 - Module 1\n\nRecipes for Level 0 - Module 1 students.\n\nContains:\
-      \ RobotInSpace.java, SecretMessageBox.java, TheRiddler.java, XGeeks.java\n\n\
-      At the end of this module, students will be able to:\n  * Use an if/else statement\
+    _readme: "# Level 0 - Module 1\n\nRecipes for Level 0 - Module 1 students.\n\n\
+      Contains: RobotInSpace.java, SecretMessageBox.java, TheRiddler.java, XGeeks.java\n\
+      \nAt the end of this module, students will be able to:\n  * Use an if/else statement\
       \ to control program flow\n  * Create and initialize int variables\n  * Use\
       \ a for loop to repeat blocks of code\n  * Use int variables in simple math\
       \ statements\n  * Know where curly brackets {} are required in a simple program\n\
@@ -1421,7 +1423,9 @@ Level0:
       oassignment: 2_rock_paper_scissors
       opath: levels/Level0/Module2/src/_01_random/_2_rock_paper_scissors
       resources:
+      - levels/Level0/Module2/src/_01_random/_2_rock_paper_scissors/.web/paper.jpeg
       - levels/Level0/Module2/src/_01_random/_2_rock_paper_scissors/.web/rock.png
+      - levels/Level0/Module2/src/_01_random/_2_rock_paper_scissors/.web/scissors.jpeg
       text: '
 
 
@@ -1554,7 +1558,8 @@ Level0:
       module: Module2
       oassignment: 5_magic_8_ball
       opath: levels/Level0/Module2/src/_01_random/_5_magic_8_ball
-      resources: []
+      resources:
+      - levels/Level0/Module2/src/_01_random/_5_magic_8_ball/.web/magic8ball.jpeg
       text: '
 
 
@@ -1979,7 +1984,8 @@ Level0:
       module: Module2
       oassignment: 3_rollercoaster
       opath: levels/Level0/Module2/src/_03_string_conversion/_3_rollercoaster
-      resources: []
+      resources:
+      - levels/Level0/Module2/src/_03_string_conversion/_3_rollercoaster/.web/rollercoaster.jpeg
       text: '
 
 
@@ -2288,7 +2294,8 @@ Level0:
       module: Module3
       oassignment: 5_own_adventure
       opath: levels/Level0/Module3/src/_01_else_if/_5_own_adventure
-      resources: []
+      resources:
+      - levels/Level0/Module3/src/_01_else_if/_5_own_adventure/.web/leagueOversized.jpeg
       text: '
 
 
@@ -2326,7 +2333,8 @@ Level0:
       module: Module3
       oassignment: 1_years_alive
       opath: levels/Level0/Module3/src/_02_loop_variables/_1_years_alive
-      resources: []
+      resources:
+      - levels/Level0/Module3/src/_02_loop_variables/_1_years_alive/.web/leagueOversized.jpeg
       text: "\n\n# Years Alive\n\n<hr/>\n<img src=\"https://league-central.github.io/curriculum/img/leagueOversized.jpeg\"\
         />\n\n## Goal:\n\nPrint out all the years you have been alive (e.g. 2005,\
         \ 2006, etc).\tUse a for loop and the for loop variable should be the year\n\
@@ -4215,10 +4223,10 @@ Level0:
 
         '
       title: 99 Extra
-    _text: '
+    _readme: '
 
       '
-  _text: '# Java Level 0
+  _readme: '# Java Level 0
 
 
 
@@ -4297,13 +4305,12 @@ Level1:
         \ after it (see picture).\n\n3. Extract the piece of code that draws the house\
         \ into a method. Draw 10 houses.\n\n4. Change the method to take (int height)\
         \ as a parameter. Draw 9 houses of different heights\n\n5. Make the method\
-        \ take a String instead of an int.\n\n\u201Csmall\u201D                 60\n\
-        \n\u201Cmedium\u201D\n120\n\n\u201Clarge\u201D\n250\n\n6. Make the method\
-        \ take a color as well as a height. The houses are drawn in that color.\n\n\
-        [optional] Set the scene to night by setting the background to black\n\n7.\
-        \ Give the houses peaked roofs\n\n8. Extract that roof code into a method\
-        \ \u201CdrawPointyRoof\u201D and create a new method: \u201CdrawFlatRoof\u201D\
-        .\n\n9. Make large houses have flat roofs\n\n\n"
+        \ take a String instead of an int.\n\n6. Make the method take a color as well\
+        \ as a height. The houses are drawn in that color.\n\n[optional] Set the scene\
+        \ to night by setting the background to black\n\n7. Give the houses peaked\
+        \ roofs\n\n8. Extract that roof code into a method \u201CdrawPointyRoof\u201D\
+        \ and create a new method: \u201CdrawFlatRoof\u201D.\n\n9. Make large houses\
+        \ have flat roofs\n\n\n"
       title: 01 Methods 1 Houses
     - assignment: 01_methods_2_spinning_record
       dir: levels/Level1/Module0/src/_01_methods/_2_spinning_record
@@ -5029,7 +5036,7 @@ Level1:
 
         '
       title: 04 Gui From Scratch 4 Cuteness Tv
-    _text: '# LEVEL 1 MODULE 0 In-progress recipes go here!'
+    _readme: '# LEVEL 1 MODULE 0 In-progress recipes go here!'
   Module1:
     01_asteroids:
     - assignment: 01_asteroids
@@ -5312,7 +5319,7 @@ Level1:
         image (pipeBottom,250,375);\nimage (pipeTop,250,-130);\nimage (bird, 250,\
         \ 300);\n}\n\n\n"
       title: 11 Binary Converter
-    _text: '
+    _readme: '
 
 
       # Level 1 Module 1
@@ -5650,7 +5657,7 @@ Level1:
 
         '
       title: 99 Extra 05 Minion
-    _text: '# Level1-Module2'
+    _readme: '# Level1-Module2'
   Module3:
     01_intro_to_static:
     - assignment: 01_intro_to_static
@@ -5866,7 +5873,7 @@ Level1:
         \ Color the flowers in rows like the American flag (red & white)\n\n9.  [Optional]\
         \ Use a new class to make an X out of bugs.\n\n\n"
       title: 99 Extra 04 Gridworld
-    _text: '# LEVEL 1 MODULE 3 In-progress recipes go here!'
+    _readme: '# LEVEL 1 MODULE 3 In-progress recipes go here!'
   Module4:
     01_chuckle_clicker:
     - assignment: 01_chuckle_clicker
@@ -6333,8 +6340,8 @@ Level1:
 
         '
       title: 99 Extra 02 Simon Says
-    _text: '# Level1-Module4'
-  _text: '# Java Level 1
+    _readme: '# Level1-Module4'
+  _readme: '# Java Level 1
 
 
 
@@ -6604,7 +6611,7 @@ Level2:
 
         '
       title: 08 Leaguesnake
-    _text: '# Level2-Module2
+    _readme: '# Level2-Module2
 
       LeagueSnake
 
@@ -6760,7 +6767,7 @@ Level3:
 
         '
       title: 07 The Wrong Way Cow
-    _text: 'Arrays
+    _readme: 'Arrays
 
       '
   Module1:
@@ -7273,7 +7280,7 @@ Level3:
 
         '
       title: 04 Maze Maker
-    _text: '# Level3-Module4
+    _readme: '# Level3-Module4
 
       '
   Module5:
@@ -7319,7 +7326,7 @@ Level3:
 
         '
       title: 02 Recursionmath
-    _text: '# Level3-Module5
+    _readme: '# Level3-Module5
 
       '
 Level4:
@@ -7589,7 +7596,7 @@ Level4:
 
         '
       title: Stringmethods
-    _text: '# Level4-Module2
+    _readme: '# Level4-Module2
 
       '
   Module3:
