@@ -1,4 +1,4 @@
-assignment: 01_methods_1_houses
+assignment: 01_methods
 dir: levels/Level1/Module0/src/_01_methods/_1_houses
 lesson: 01_methods
 level: Level1
@@ -17,4 +17,4 @@ text: "\n\n# Houses\n\n1. Have a robot start on the left side of the window near
   \ to black\n\n7. Give the houses peaked roofs\n\n8. Extract that roof code into\
   \ a method \u201CdrawPointyRoof\u201D and create a new method: \u201CdrawFlatRoof\u201D\
   .\n\n9. Make large houses have flat roofs\n\n\n"
-title: 01 Methods 1 Houses
+title: 01 Methods

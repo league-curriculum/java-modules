@@ -1,4 +1,4 @@
-assignment: 02_code_flow_1_robot_square
+assignment: 02_code_flow
 dir: levels/Level0/Module0/src/_02_code_flow/_1_robot_square
 lesson: 02_code_flow
 level: Level0
@@ -21,7 +21,7 @@ text: '
   ## Goal:
 
 
-  Use a loop to draw a square using a Robot
+  Use a loop to draw a square using a Robot.
 
 
   ## Steps:
@@ -32,7 +32,5 @@ text: '
   2. Follow the instructions in the program to help you make a Robot draw a square.
 
 
-
-
   '
-title: 02 Code Flow 1 Robot Square
+title: 02 Code Flow

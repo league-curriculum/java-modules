@@ -1,4 +1,4 @@
-assignment: 99_extra_04_tea_party
+assignment: 99_extra
 dir: levels/Level1/Module2/src/_99_extra/_04_tea_party
 lesson: 99_extra
 level: Level1
@@ -30,4 +30,4 @@ text: "\n\n# Tea Party\n\nYou are hosting a formal Tea Party. Your task is to we
   Isaac Newton\", false, true));\n\t}\n\t\n\t@Test\n\tpublic void testIsWomanKnighted()\
   \ {\n\t\tTeaParty teaParty = new TeaParty();\n\t\tassertEquals(\"Hello Lady Laura\"\
   , teaParty.welcome(\"Laura\", true, true));\n\t}\n\n}\n```\n\n\n"
-title: 99 Extra 04 Tea Party
+title: 99 Extra

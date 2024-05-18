@@ -1,4 +1,4 @@
-assignment: 05_self_tests_1_which_data_type_1
+assignment: 05_self_tests
 dir: levels/Level0/Module5/src/_05_self_tests/_1_which_data_type_1
 lesson: 05_self_tests
 level: Level0
@@ -13,4 +13,4 @@ text: "\n\n# The League of Amazing Programmers\n\n\n## Which Data Type?\n\n\n###
   \ some data\");\n\n  \n   input = JOptionPane.showInputDialog(\"Enter your age\"\
   ); \n\n   inputAsInteger = Integer.parseInt(input); \n\n  \n\nSUBMIT YOUR ANSWERS\n\
   ```\n<hr size=\"3\"/>\n\n"
-title: 05 Self Tests 1 Which Data Type 1
+title: 05 Self Tests

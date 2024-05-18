@@ -1,4 +1,4 @@
-assignment: 99_extra_01_nasty_surprise
+assignment: 99_extra
 dir: levels/Level1/Module4/src/_99_extra/_01_nasty_surprise
 lesson: 99_extra
 level: Level1
@@ -16,4 +16,4 @@ text: "\n\n# Nasty Surprise\n\n1. Make a user interface that has 2 buttons. One 
   \        frame.add(imageLabel);\n        frame.setVisible(true);\n        frame.pack();\n\
   \    } catch (MalformedURLException e) {\n        e.printStackTrace();\n    }\n\
   }\n```\n\n\n"
-title: 99 Extra 01 Nasty Surprise
+title: 99 Extra

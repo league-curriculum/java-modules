@@ -1,4 +1,4 @@
-assignment: 05_self_tests_3_whats_the_output
+assignment: 05_self_tests
 dir: levels/Level0/Module5/src/_05_self_tests/_3_whats_the_output
 lesson: 05_self_tests
 level: Level0
@@ -57,4 +57,4 @@ text: "\n\n# The League of Amazing Programmers\n\n\n## What's the Output?\n\n\n#
   \tpublic static void main(String[] args){\n\t\tint x = 7;\n\n\t\tfor(int i = 0;\
   \ i < 22; i++){\n\t\t\tif(i % x == 0){\n\t\t\t\tSystem.out.print(i + \", \");\n\t\
   \t\t}\n\t\t}\n\t}\n}\n\nSUBMIT YOUR ANSWERS\n```\n<hr size=\"3\"/>\n\n"
-title: 05 Self Tests 3 Whats The Output
+title: 05 Self Tests

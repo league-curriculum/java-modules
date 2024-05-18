@@ -1,4 +1,4 @@
-assignment: 01_Intro_To_Sockets_server
+assignment: 01_Intro_To_Sockets
 dir: levels/Level5/Module3/src/_01_Intro_To_Sockets/server
 lesson: 01_Intro_To_Sockets
 level: Level5
@@ -10,4 +10,4 @@ text: '# 01 Intro To Sockets Server
 
 
   '
-title: 01 Intro To Sockets Server
+title: 01 Intro To Sockets

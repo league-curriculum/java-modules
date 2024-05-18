@@ -1,4 +1,4 @@
-assignment: 03_if_else_5_pizza
+assignment: 03_if_else
 dir: levels/Level0/Module1/src/_03_if_else/_5_pizza/pizza
 lesson: 03_if_else
 level: Level0
@@ -60,4 +60,4 @@ text: "\n\n# Pizza\n\n<hr/>\n<img src=\"./images/pizza.jpeg\"/>\n\n## Goal:\n\nM
   \ method\nsound = minim.loadFile(\"ding.wav\");      //in the setup method\n\n//\
   \ Put next 2 lines where you want the sound to play\nsound.play();\nsound.rewind();\n\
   ```\n\n\n\n"
-title: 03 If Else 5 Pizza
+title: 03 If Else

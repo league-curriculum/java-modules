@@ -1,4 +1,4 @@
-assignment: 02_nested_loops_3_for_loop_gauntlet
+assignment: 02_nested_loops
 dir: levels/Level0/Module5/src/_02_nested_loops/_3_for_loop_gauntlet
 lesson: 02_nested_loops
 level: Level0
@@ -26,4 +26,4 @@ text: "\n\n# For Loop Gauntlet\n\nThe goal of this assignment is to make you a m
   \  *  *\n*  *  *  *  *\n*  *  *  *  *  *\n\n### **Bonus**\n\nWrite a for loop that\
   \ counts down from 100 to 0. However, the for loop must start with for(int i = 0;\
   \  and you may NOT have any code ABOVE your for loop.\n\n"
-title: 02 Nested Loops 3 For Loop Gauntlet
+title: 02 Nested Loops

@@ -42,6 +42,11 @@ so it should be updated after making changes to modules.
 jtl java meta
 ```
 
+The metadata collected is actually nearly alll of the text context of the
+module so **you must run ``jtl java meta`` if you change any ``README.md`` 
+files.** You can also use the `-m` option to `jtl java build`
+
+
 ### Editing Content
 
 There are two levels of content you can edit: The level website content, and the content for a module. 
@@ -55,6 +60,9 @@ The code and content for this lesson is in:
 `levels/Level0/Module1/src/_04_int/_1_riddler`
 
 
+You can edit ``README.md`` files in these directories to change website content, but then you must rebuild the metadata with either `jtl java meta` or  `jtl java build -m ... `
+
+
 However, if you want to edit the Introduction for the Level, 
 
 https://league-java.github.io/Level0/
@@ -62,7 +70,6 @@ https://league-java.github.io/Level0/
 Then you will edit files in the `_build/Levels/Level0/` directory. This
 directory was cloned by `jtl web`, and if you change anything in it, you must
 commit and push. 
-
 
 
 ### Pushing modules
@@ -119,7 +126,7 @@ will clone or pull it if it does. The repo will be in ``_build/<level>``
 Then, to update the website from the modules: 
 
 ```bash 
-jtl  -v java build -l l<level>
+jtl  -v java build -m -l l<level>
 ```
 
 To run the development server:

@@ -1,4 +1,4 @@
-assignment: 05_self_tests_2_which_data_type_2
+assignment: 05_self_tests
 dir: levels/Level0/Module5/src/_05_self_tests/_2_which_data_type_2
 lesson: 05_self_tests
 level: Level0
@@ -13,4 +13,4 @@ text: "\n\n# The League of Amazing Programmers\n\n\n## Which Data Type? Part 2\n
   \  JOptionPane.showInputDialog(\"Enter some data\");\n\n  \n   myObject = new Object();\
   \ \n\n  \n   randValue = random.nextInt(); \n\n  \n\nSUBMIT YOUR ANSWERS\n```\n\
   <hr size=\"3\"/>\n\n"
-title: 05 Self Tests 2 Which Data Type 2
+title: 05 Self Tests

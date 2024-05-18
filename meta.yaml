@@ -12,10 +12,10 @@ Level0:
       text: '# 01 Demo
 
 
-        '
+        Jusat getting Started!'
       title: 01 Demo
     02_code_flow:
-    - assignment: 02_code_flow_1_robot_square
+    - assignment: 02_code_flow
       dir: levels/Level0/Module0/src/_02_code_flow/_1_robot_square
       lesson: 02_code_flow
       level: Level0
@@ -38,7 +38,7 @@ Level0:
         ## Goal:
 
 
-        Use a loop to draw a square using a Robot
+        Use a loop to draw a square using a Robot.
 
 
         ## Steps:
@@ -51,11 +51,9 @@ Level0:
         square.
 
 
-
-
         '
-      title: 02 Code Flow 1 Robot Square
-    - assignment: 02_code_flow_2_robot_spiral
+      title: 02 Code Flow
+    - assignment: 02_code_flow
       dir: levels/Level0/Module0/src/_02_code_flow/_2_robot_spiral
       lesson: 02_code_flow
       level: Level0
@@ -94,8 +92,8 @@ Level0:
 
 
         '
-      title: 02 Code Flow 2 Robot Spiral
-    - assignment: 02_code_flow_3_pentagon_crazy
+      title: 02 Code Flow
+    - assignment: 02_code_flow
       dir: levels/Level0/Module0/src/_02_code_flow/_3_pentagon_crazy
       lesson: 02_code_flow
       level: Level0
@@ -134,8 +132,8 @@ Level0:
 
 
         '
-      title: 02 Code Flow 3 Pentagon Crazy
-    - assignment: 02_code_flow_4_flaming_ninja_star
+      title: 02 Code Flow
+    - assignment: 02_code_flow
       dir: levels/Level0/Module0/src/_02_code_flow/_4_flaming_ninja_star
       lesson: 02_code_flow
       level: Level0
@@ -181,9 +179,9 @@ Level0:
 
 
         '
-      title: 02 Code Flow 4 Flaming Ninja Star
+      title: 02 Code Flow
     03_print_and_popups:
-    - assignment: 03_print_and_popups_1_greeter
+    - assignment: 03_print_and_popups
       dir: levels/Level0/Module0/src/_03_print_and_popups/_1_greeter
       lesson: 03_print_and_popups
       level: Level0
@@ -242,8 +240,8 @@ Level0:
 
 
         '
-      title: 03 Print And Popups 1 Greeter
-    - assignment: 03_print_and_popups_2_madlibs
+      title: 03 Print And Popups
+    - assignment: 03_print_and_popups
       dir: levels/Level0/Module0/src/_03_print_and_popups/_2_madlibs
       lesson: 03_print_and_popups
       level: Level0
@@ -285,8 +283,8 @@ Level0:
 
 
         '
-      title: 03 Print And Popups 2 Madlibs
-    - assignment: 03_print_and_popups_3_world_domination
+      title: 03 Print And Popups
+    - assignment: 03_print_and_popups
       dir: levels/Level0/Module0/src/_03_print_and_popups/_3_world_domination
       lesson: 03_print_and_popups
       level: Level0
@@ -326,8 +324,8 @@ Level0:
 
 
         '
-      title: 03 Print And Popups 3 World Domination
-    - assignment: 03_print_and_popups_4_quiz_game
+      title: 03 Print And Popups
+    - assignment: 03_print_and_popups
       dir: levels/Level0/Module0/src/_03_print_and_popups/_4_quiz_game
       lesson: 03_print_and_popups
       level: Level0
@@ -365,8 +363,8 @@ Level0:
 
 
         '
-      title: 03 Print And Popups 4 Quiz Game
-    - assignment: 03_print_and_popups_5_awesome_or_not
+      title: 03 Print And Popups
+    - assignment: 03_print_and_popups
       dir: levels/Level0/Module0/src/_03_print_and_popups/_5_awesome_or_not
       lesson: 03_print_and_popups
       level: Level0
@@ -404,9 +402,9 @@ Level0:
 
 
         '
-      title: 03 Print And Popups 5 Awesome Or Not
+      title: 03 Print And Popups
     04_amazing_games:
-    - assignment: 04_amazing_games_1_scary_maze
+    - assignment: 04_amazing_games
       dir: levels/Level0/Module0/src/_04_amazing_games/_1_scary_maze
       lesson: 04_amazing_games
       level: Level0
@@ -445,8 +443,8 @@ Level0:
 
 
         '
-      title: 04 Amazing Games 1 Scary Maze
-    - assignment: 04_amazing_games_2_dragon_fight
+      title: 04 Amazing Games
+    - assignment: 04_amazing_games
       dir: levels/Level0/Module0/src/_04_amazing_games/_2_dragon_fight
       lesson: 04_amazing_games
       level: Level0
@@ -484,7 +482,7 @@ Level0:
 
 
         '
-      title: 04 Amazing Games 2 Dragon Fight
+      title: 04 Amazing Games
     99_extra:
     - assignment: 99_extra
       dir: levels/Level0/Module0/src/_99_extra
@@ -534,8 +532,11 @@ Level0:
 
         '
       title: 99 Extra
-    _readme: "# LEVEL 0 MODULE 0 In-progress recipes go here!\n#\n# Also some extra\
-      \ recipes for practice from workshop \n"
+    _readme: "# Level0-Module0\nRecipes for students who have just started Level 0.\
+      \ \nThis module is in place of the introductory workshop.\nStudents will learn\
+      \ how to:\n\n1. Draw shapes and images using Processing\n2. Control the flow\
+      \ of code using if statements and loops \n3. Print Strings and use dialogs to\
+      \ interact with a user \n4. Build simple games using skills learned\n\n."
   Module1:
     01_variables:
     - assignment: 01_variables
@@ -564,7 +565,7 @@ Level0:
         '
       title: 01 Variables
     02_colors:
-    - assignment: 02_colors_VennDiagram
+    - assignment: 02_colors
       dir: levels/Level0/Module1/src/_02_colors/VennDiagram
       lesson: 02_colors
       level: Level0
@@ -749,9 +750,9 @@ Level0:
 
 
         '
-      title: 02 Colors Venndiagram
+      title: 02 Colors
     03_if_else:
-    - assignment: 03_if_else_1_unbirthday
+    - assignment: 03_if_else
       dir: levels/Level0/Module1/src/_03_if_else/_1_unbirthday
       lesson: 03_if_else
       level: Level0
@@ -794,8 +795,8 @@ Level0:
 
 
         '
-      title: 03 If Else 1 Unbirthday
-    - assignment: 03_if_else_2_remarkable
+      title: 03 If Else
+    - assignment: 03_if_else
       dir: levels/Level0/Module1/src/_03_if_else/_2_remarkable
       lesson: 03_if_else
       level: Level0
@@ -837,8 +838,8 @@ Level0:
 
 
         '
-      title: 03 If Else 2 Remarkable
-    - assignment: 03_if_else_3_secret_message_box
+      title: 03 If Else
+    - assignment: 03_if_else
       dir: levels/Level0/Module1/src/_03_if_else/_3_secret_message_box
       lesson: 03_if_else
       level: Level0
@@ -883,8 +884,8 @@ Level0:
 
 
         '
-      title: 03 If Else 3 Secret Message Box
-    - assignment: 03_if_else_4_tasty_tomato
+      title: 03 If Else
+    - assignment: 03_if_else
       dir: levels/Level0/Module1/src/_03_if_else/_4_tasty_tomato/tasty_tomato
       lesson: 03_if_else
       level: Level0
@@ -930,8 +931,8 @@ Level0:
 
 
         '
-      title: 03 If Else 4 Tasty Tomato
-    - assignment: 03_if_else_5_pizza
+      title: 03 If Else
+    - assignment: 03_if_else
       dir: levels/Level0/Module1/src/_03_if_else/_5_pizza/pizza
       lesson: 03_if_else
       level: Level0
@@ -997,9 +998,9 @@ Level0:
         \ the setup method\nsound = minim.loadFile(\"ding.wav\");      //in the setup\
         \ method\n\n// Put next 2 lines where you want the sound to play\nsound.play();\n\
         sound.rewind();\n```\n\n\n\n"
-      title: 03 If Else 5 Pizza
+      title: 03 If Else
     04_int:
-    - assignment: 04_int_1_riddler
+    - assignment: 04_int
       dir: levels/Level0/Module1/src/_04_int/_1_riddler
       lesson: 04_int
       level: Level0
@@ -1058,8 +1059,8 @@ Level0:
 
 
         '
-      title: 04 Int 1 Riddler
-    - assignment: 04_int_2_robot_in_space
+      title: 04 Int
+    - assignment: 04_int
       dir: levels/Level0/Module1/src/_04_int/_2_robot_in_space
       lesson: 04_int
       level: Level0
@@ -1071,8 +1072,8 @@ Level0:
 
 
         '
-      title: 04 Int 2 Robot In Space
-    - assignment: 04_int_3_zombie_eyes
+      title: 04 Int
+    - assignment: 04_int
       dir: levels/Level0/Module1/src/_04_int/_3_zombie_eyes/zombie_eyes
       lesson: 04_int
       level: Level0
@@ -1166,8 +1167,8 @@ Level0:
 
 
         '
-      title: 04 Int 3 Zombie Eyes
-    - assignment: 04_int_4_rocket_ship
+      title: 04 Int
+    - assignment: 04_int
       dir: levels/Level0/Module1/src/_04_int/_4_rocket_ship/rocket_ship
       lesson: 04_int
       level: Level0
@@ -1210,9 +1211,9 @@ Level0:
 
 
         '
-      title: 04 Int 4 Rocket Ship
+      title: 04 Int
     05_for_loops:
-    - assignment: 05_for_loops_1_my_ages
+    - assignment: 05_for_loops
       dir: levels/Level0/Module1/src/_05_for_loops/_1_my_ages
       lesson: 05_for_loops
       level: Level0
@@ -1248,8 +1249,8 @@ Level0:
 
 
         '
-      title: 05 For Loops 1 My Ages
-    - assignment: 05_for_loops_2_badgers
+      title: 05 For Loops
+    - assignment: 05_for_loops
       dir: levels/Level0/Module1/src/_05_for_loops/_2_badgers
       lesson: 05_for_loops
       level: Level0
@@ -1267,8 +1268,8 @@ Level0:
         \ Badger,Badger, Badger, Badger\n\nMushroom, Mushroom\n\nBadger, Badger, Badger,Badger,\
         \ Badger, Badger, Badger,Badger, Badger, Badger, Badger, Badger\n\nMushroom,\
         \ Mushroom\n\nA Snake!!!\n\n\n\n"
-      title: 05 For Loops 2 Badgers
-    - assignment: 05_for_loops_3_bananas_4eva
+      title: 05 For Loops
+    - assignment: 05_for_loops
       dir: levels/Level0/Module1/src/_05_for_loops/_3_bananas_4eva/bananas_4eva
       lesson: 05_for_loops
       level: Level0
@@ -1308,8 +1309,8 @@ Level0:
 
 
         '
-      title: 05 For Loops 3 Bananas 4Eva
-    - assignment: 05_for_loops_4_banana_split
+      title: 05 For Loops
+    - assignment: 05_for_loops
       dir: levels/Level0/Module1/src/_05_for_loops/_4_banana_split/banana_split
       lesson: 05_for_loops
       level: Level0
@@ -1326,7 +1327,7 @@ Level0:
         \ the words \"ice cream\" once in your code so you'll need a loop.\n```\n\n\
         text(\"word\", xPos, yPos);\n```\n3. Make sure you SAVE YOUR CODE when you\
         \ are done.\n\n\n\n"
-      title: 05 For Loops 4 Banana Split
+      title: 05 For Loops
     06_spot_the_error:
     - assignment: 06_spot_the_error
       dir: levels/Level0/Module1/src/_06_spot_the_error
@@ -1372,7 +1373,7 @@ Level0:
       \  * Draw simple graphics using Processing\n  \n"
   Module2:
     01_random:
-    - assignment: 01_random_1_intro_to_random
+    - assignment: 01_random
       dir: levels/Level0/Module2/src/_01_random/_1_intro_to_random
       lesson: 01_random
       level: Level0
@@ -1414,8 +1415,8 @@ Level0:
 
 
         '
-      title: 01 Random 1 Intro To Random
-    - assignment: 01_random_2_rock_paper_scissors
+      title: 01 Random
+    - assignment: 01_random
       dir: levels/Level0/Module2/src/_01_random/_2_rock_paper_scissors
       lesson: 01_random
       level: Level0
@@ -1461,8 +1462,8 @@ Level0:
 
 
         '
-      title: 01 Random 2 Rock Paper Scissors
-    - assignment: 01_random_3_dice_roll
+      title: 01 Random
+    - assignment: 01_random
       dir: levels/Level0/Module2/src/_01_random/_3_dice_roll
       lesson: 01_random
       level: Level0
@@ -1505,8 +1506,8 @@ Level0:
 
 
         '
-      title: 01 Random 3 Dice Roll
-    - assignment: 01_random_4_validation
+      title: 01 Random
+    - assignment: 01_random
       dir: levels/Level0/Module2/src/_01_random/_4_validation
       lesson: 01_random
       level: Level0
@@ -1550,8 +1551,8 @@ Level0:
 
 
         '
-      title: 01 Random 4 Validation
-    - assignment: 01_random_5_magic_8_ball
+      title: 01 Random
+    - assignment: 01_random
       dir: levels/Level0/Module2/src/_01_random/_5_magic_8_ball
       lesson: 01_random
       level: Level0
@@ -1593,8 +1594,8 @@ Level0:
 
 
         '
-      title: 01 Random 5 Magic 8 Ball
-    - assignment: 01_random_6_lottery_numbers
+      title: 01 Random
+    - assignment: 01_random
       dir: levels/Level0/Module2/src/_01_random/_6_lottery_numbers
       lesson: 01_random
       level: Level0
@@ -1640,9 +1641,9 @@ Level0:
 
 
         '
-      title: 01 Random 6 Lottery Numbers
+      title: 01 Random
     02_methods:
-    - assignment: 02_methods_1_animal_farm
+    - assignment: 02_methods
       dir: levels/Level0/Module2/src/_02_methods/_1_animal_farm
       lesson: 02_methods
       level: Level0
@@ -1686,8 +1687,8 @@ Level0:
 
 
         '
-      title: 02 Methods 1 Animal Farm
-    - assignment: 02_methods_2_safe_cracker
+      title: 02 Methods
+    - assignment: 02_methods
       dir: levels/Level0/Module2/src/_02_methods/_2_safe_cracker
       lesson: 02_methods
       level: Level0
@@ -1732,8 +1733,8 @@ Level0:
 
 
         '
-      title: 02 Methods 2 Safe Cracker
-    - assignment: 02_methods_3_dot_race
+      title: 02 Methods
+    - assignment: 02_methods
       dir: levels/Level0/Module2/src/_02_methods/_3_dot_race/dot_race
       lesson: 02_methods
       level: Level0
@@ -1772,8 +1773,8 @@ Level0:
 
 
         '
-      title: 02 Methods 3 Dot Race
-    - assignment: 02_methods_4_moles_in_holes
+      title: 02 Methods
+    - assignment: 02_methods
       dir: levels/Level0/Module2/src/_02_methods/_4_moles_in_holes/moles_in_holes
       lesson: 02_methods
       level: Level0
@@ -1813,8 +1814,8 @@ Level0:
 
 
         '
-      title: 02 Methods 4 Moles In Holes
-    - assignment: 02_methods_5_ice_cream_shop
+      title: 02 Methods
+    - assignment: 02_methods
       dir: levels/Level0/Module2/src/_02_methods/_5_ice_cream_shop/ice_cream_shop
       lesson: 02_methods
       level: Level0
@@ -1855,8 +1856,8 @@ Level0:
 
 
         '
-      title: 02 Methods 5 Ice Cream Shop
-    - assignment: 02_methods_6_slippery_dot
+      title: 02 Methods
+    - assignment: 02_methods
       dir: levels/Level0/Module2/src/_02_methods/_6_slippery_dot/slippery_dot
       lesson: 02_methods
       level: Level0
@@ -1897,9 +1898,9 @@ Level0:
 
 
         '
-      title: 02 Methods 6 Slippery Dot
+      title: 02 Methods
     03_string_conversion:
-    - assignment: 03_string_conversion_1_intro
+    - assignment: 03_string_conversion
       dir: levels/Level0/Module2/src/_03_string_conversion/_1_intro
       lesson: 03_string_conversion
       level: Level0
@@ -1933,8 +1934,8 @@ Level0:
 
 
         '
-      title: 03 String Conversion 1 Intro
-    - assignment: 03_string_conversion_2_strings_cannot_add
+      title: 03 String Conversion
+    - assignment: 03_string_conversion
       dir: levels/Level0/Module2/src/_03_string_conversion/_2_strings_cannot_add
       lesson: 03_string_conversion
       level: Level0
@@ -1976,8 +1977,8 @@ Level0:
 
 
         '
-      title: 03 String Conversion 2 Strings Cannot Add
-    - assignment: 03_string_conversion_3_rollercoaster
+      title: 03 String Conversion
+    - assignment: 03_string_conversion
       dir: levels/Level0/Module2/src/_03_string_conversion/_3_rollercoaster
       lesson: 03_string_conversion
       level: Level0
@@ -2019,8 +2020,8 @@ Level0:
 
 
         '
-      title: 03 String Conversion 3 Rollercoaster
-    - assignment: 03_string_conversion_4_voting_booth
+      title: 03 String Conversion
+    - assignment: 03_string_conversion
       dir: levels/Level0/Module2/src/_03_string_conversion/_4_voting_booth
       lesson: 03_string_conversion
       level: Level0
@@ -2059,7 +2060,7 @@ Level0:
 
 
         '
-      title: 03 String Conversion 4 Voting Booth
+      title: 03 String Conversion
     04_spot_the_error:
     - assignment: 04_spot_the_error
       dir: levels/Level0/Module2/src/_04_spot_the_error
@@ -2112,7 +2113,7 @@ Level0:
       title: 99 Extra
   Module3:
     01_else_if:
-    - assignment: 01_else_if_1_robot_color_chooser
+    - assignment: 01_else_if
       dir: levels/Level0/Module3/src/_01_else_if/_1_robot_color_chooser
       lesson: 01_else_if
       level: Level0
@@ -2157,8 +2158,8 @@ Level0:
 
 
         '
-      title: 01 Else If 1 Robot Color Chooser
-    - assignment: 01_else_if_2_crazy_cat_lady
+      title: 01 Else If
+    - assignment: 01_else_if
       dir: levels/Level0/Module3/src/_01_else_if/_2_crazy_cat_lady
       lesson: 01_else_if
       level: Level0
@@ -2202,8 +2203,8 @@ Level0:
 
 
         '
-      title: 01 Else If 2 Crazy Cat Lady
-    - assignment: 01_else_if_3_high_low
+      title: 01 Else If
+    - assignment: 01_else_if
       dir: levels/Level0/Module3/src/_01_else_if/_3_high_low
       lesson: 01_else_if
       level: Level0
@@ -2250,8 +2251,8 @@ Level0:
 
 
         '
-      title: 01 Else If 3 High Low
-    - assignment: 01_else_if_4_are_you_happy
+      title: 01 Else If
+    - assignment: 01_else_if
       dir: levels/Level0/Module3/src/_01_else_if/_4_are_you_happy
       lesson: 01_else_if
       level: Level0
@@ -2286,8 +2287,8 @@ Level0:
 
 
         '
-      title: 01 Else If 4 Are You Happy
-    - assignment: 01_else_if_5_own_adventure
+      title: 01 Else If
+    - assignment: 01_else_if
       dir: levels/Level0/Module3/src/_01_else_if/_5_own_adventure
       lesson: 01_else_if
       level: Level0
@@ -2324,9 +2325,9 @@ Level0:
 
 
         '
-      title: 01 Else If 5 Own Adventure
+      title: 01 Else If
     02_loop_variables:
-    - assignment: 02_loop_variables_1_years_alive
+    - assignment: 02_loop_variables
       dir: levels/Level0/Module3/src/_02_loop_variables/_1_years_alive
       lesson: 02_loop_variables
       level: Level0
@@ -2340,8 +2341,8 @@ Level0:
         \ 2006, etc).\tUse a for loop and the for loop variable should be the year\n\
         \n## Steps:\n\n1. Use a for loop to print out all of the years you have been\
         \ alive. Use the for loop variable in your print statement.\n\n\n\n"
-      title: 02 Loop Variables 1 Years Alive
-    - assignment: 02_loop_variables_2_shiny_objects
+      title: 02 Loop Variables
+    - assignment: 02_loop_variables
       dir: levels/Level0/Module3/src/_02_loop_variables/_2_shiny_objects
       lesson: 02_loop_variables
       level: Level0
@@ -2381,8 +2382,8 @@ Level0:
 
 
         '
-      title: 02 Loop Variables 2 Shiny Objects
-    - assignment: 02_loop_variables_3_robot_walk_of_fame
+      title: 02 Loop Variables
+    - assignment: 02_loop_variables
       dir: levels/Level0/Module3/src/_02_loop_variables/_3_robot_walk_of_fame
       lesson: 02_loop_variables
       level: Level0
@@ -2423,8 +2424,8 @@ Level0:
 
 
         '
-      title: 02 Loop Variables 3 Robot Walk Of Fame
-    - assignment: 02_loop_variables_4_99_bottles
+      title: 02 Loop Variables
+    - assignment: 02_loop_variables
       dir: levels/Level0/Module3/src/_02_loop_variables/_4_99_bottles/bottles
       lesson: 02_loop_variables
       level: Level0
@@ -2487,9 +2488,9 @@ Level0:
 
 
         '
-      title: 02 Loop Variables 4 99 Bottles
+      title: 02 Loop Variables
     03_remainder:
-    - assignment: 03_remainder_1_intro_to_remainder
+    - assignment: 03_remainder
       dir: levels/Level0/Module3/src/_03_remainder/_1_intro_to_remainder
       lesson: 03_remainder
       level: Level0
@@ -2510,8 +2511,8 @@ Level0:
         \ do some code\n    if (i % 20 == 0){\n        System.out.println(\"20 more\
         \ repeats completed\");\n    }\n}\n```\n\n## Eclipse Recipes\n\nFizzBuzz\n\
         \n## Processing Recipes\n\nBullseye\nBumble Bee\n\n\n"
-      title: 03 Remainder 1 Intro To Remainder
-    - assignment: 03_remainder_2_bullseye
+      title: 03 Remainder
+    - assignment: 03_remainder
       dir: levels/Level0/Module3/src/_03_remainder/_2_bullseye/bullseye
       lesson: 03_remainder
       level: Level0
@@ -2553,8 +2554,8 @@ Level0:
 
 
         '
-      title: 03 Remainder 2 Bullseye
-    - assignment: 03_remainder_3_bumble_bee
+      title: 03 Remainder
+    - assignment: 03_remainder
       dir: levels/Level0/Module3/src/_03_remainder/_3_bumble_bee/bumble_bee
       lesson: 03_remainder
       level: Level0
@@ -2597,8 +2598,8 @@ Level0:
 
 
         '
-      title: 03 Remainder 3 Bumble Bee
-    - assignment: 03_remainder_4_fizz_buzz
+      title: 03 Remainder
+    - assignment: 03_remainder
       dir: levels/Level0/Module3/src/_03_remainder/_4_fizz_buzz
       lesson: 03_remainder
       level: Level0
@@ -2644,7 +2645,7 @@ Level0:
 
 
         '
-      title: 03 Remainder 4 Fizz Buzz
+      title: 03 Remainder
     99_extra:
     - assignment: 99_extra
       dir: levels/Level0/Module3/src/_99_extra
@@ -2661,7 +2662,7 @@ Level0:
       title: 99 Extra
   Module4:
     01_double:
-    - assignment: 01_double_1_change_calculator
+    - assignment: 01_double
       dir: levels/Level0/Module4/src/_01_double/_1_change_calculator
       lesson: 01_double
       level: Level0
@@ -2706,8 +2707,8 @@ Level0:
 
 
         '
-      title: 01 Double 1 Change Calculator
-    - assignment: 01_double_2_test_scores
+      title: 01 Double
+    - assignment: 01_double
       dir: levels/Level0/Module4/src/_01_double/_2_test_scores
       lesson: 01_double
       level: Level0
@@ -2756,9 +2757,9 @@ Level0:
 
 
         '
-      title: 01 Double 2 Test Scores
+      title: 01 Double
     02_boolean:
-    - assignment: 02_boolean_1_sleepy_head
+    - assignment: 02_boolean
       dir: levels/Level0/Module4/src/_02_boolean/_1_sleepy_head
       lesson: 02_boolean
       level: Level0
@@ -2770,8 +2771,8 @@ Level0:
 
 
         '
-      title: 02 Boolean 1 Sleepy Head
-    - assignment: 02_boolean_2_star_student
+      title: 02 Boolean
+    - assignment: 02_boolean
       dir: levels/Level0/Module4/src/_02_boolean/_2_star_student
       lesson: 02_boolean
       level: Level0
@@ -2783,8 +2784,8 @@ Level0:
 
 
         '
-      title: 02 Boolean 2 Star Student
-    - assignment: 02_boolean_3_game_over
+      title: 02 Boolean
+    - assignment: 02_boolean
       dir: levels/Level0/Module4/src/_02_boolean/_3_game_over
       lesson: 02_boolean
       level: Level0
@@ -2796,8 +2797,8 @@ Level0:
 
 
         '
-      title: 02 Boolean 3 Game Over
-    - assignment: 02_boolean_4_red_square
+      title: 02 Boolean
+    - assignment: 02_boolean
       dir: levels/Level0/Module4/src/_02_boolean/_4_red_square
       lesson: 02_boolean
       level: Level0
@@ -2809,8 +2810,8 @@ Level0:
 
 
         '
-      title: 02 Boolean 4 Red Square
-    - assignment: 02_boolean_5_googly_eyes
+      title: 02 Boolean
+    - assignment: 02_boolean
       dir: levels/Level0/Module4/src/_02_boolean/_5_googly_eyes
       lesson: 02_boolean
       level: Level0
@@ -2843,8 +2844,8 @@ Level0:
         \ within.  When mouseX and mouseY goes outside of these bounds, set it back\
         \ to the boundary.  Put this code before you draw the pupils.\n13. Make sure\
         \ you SAVE YOUR CODE when you are done.\n\n\n\n"
-      title: 02 Boolean 5 Googly Eyes
-    - assignment: 02_boolean_6_wheres_waldo
+      title: 02 Boolean
+    - assignment: 02_boolean
       dir: levels/Level0/Module4/src/_02_boolean/_6_wheres_waldo
       lesson: 02_boolean
       level: Level0
@@ -2886,9 +2887,9 @@ Level0:
 
 
         '
-      title: 02 Boolean 6 Wheres Waldo
+      title: 02 Boolean
     03_char:
-    - assignment: 03_char_2_string_methods
+    - assignment: 03_char
       dir: levels/Level0/Module4/src/_03_char/_2_string_methods
       lesson: 03_char
       level: Level0
@@ -2931,8 +2932,8 @@ Level0:
 
 
         '
-      title: 03 Char 2 String Methods
-    - assignment: 03_char_3_pi_aloud
+      title: 03 Char
+    - assignment: 03_char
       dir: levels/Level0/Module4/src/_03_char/_3_pi_aloud
       lesson: 03_char
       level: Level0
@@ -2986,7 +2987,7 @@ Level0:
 
 
         '
-      title: 03 Char 3 Pi Aloud
+      title: 03 Char
     04_variables_check:
     - assignment: 04_variables_check
       dir: levels/Level0/Module4/src/_04_variables_check
@@ -3118,7 +3119,7 @@ Level0:
         \ user know that they found the creeper.\n18. Option: Add more creepers, or\
         \ move the creeper after they find it.\n\n\n\n"
       title: 99 Extra
-    - assignment: 99_extra_hide_the_creeper
+    - assignment: 99_extra
       dir: levels/Level0/Module4/src/_99_extra/hide_the_creeper
       lesson: 99_extra
       level: Level0
@@ -3159,8 +3160,8 @@ Level0:
         \ b) < 10)\n     return true;\nelse\n     return false;\n}\n```\n17. Let the\
         \ user know that they found the creeper.\n18. Option: Add more creepers, or\
         \ move the creeper after they find it.\n\n\n\n"
-      title: 99 Extra Hide The Creeper
-    - assignment: 99_extra_pin_the_tail
+      title: 99 Extra
+    - assignment: 99_extra
       dir: levels/Level0/Module4/src/_99_extra/pin_the_tail
       lesson: 99_extra
       level: Level0
@@ -3234,8 +3235,8 @@ Level0:
         \ on the donkey.\n20. Make sure you SAVE YOUR CODE when you are done.\n21.\
         \ OPTION: Add some text to give the user instructions on how to play the game.\n\
         ```\n\ntextSize(24);\ntext(\"Message\",100,20);\n```\n\n\n\n"
-      title: 99 Extra Pin The Tail
-    - assignment: 99_extra_pong
+      title: 99 Extra
+    - assignment: 99_extra
       dir: levels/Level0/Module4/src/_99_extra/pong
       lesson: 99_extra
       level: Level0
@@ -3268,10 +3269,10 @@ Level0:
         \ > paddleY && ballX > paddleX && ballX < paddleX + paddleLength)\n      \
         \  return true;\n    else\n        return false;\n}\n```\n12. Make sure you\
         \ SAVE YOUR CODE when you are done.\n\n\n\n"
-      title: 99 Extra Pong
+      title: 99 Extra
   Module5:
     01_algorithms:
-    - assignment: 01_algorithms_1_prime_or_not
+    - assignment: 01_algorithms
       dir: levels/Level0/Module5/src/_01_algorithms/_1_prime_or_not
       lesson: 01_algorithms
       level: Level0
@@ -3313,8 +3314,8 @@ Level0:
 
 
         '
-      title: 01 Algorithms 1 Prime Or Not
-    - assignment: 01_algorithms_2_fibonacci
+      title: 01 Algorithms
+    - assignment: 01_algorithms
       dir: levels/Level0/Module5/src/_01_algorithms/_2_fibonacci
       lesson: 01_algorithms
       level: Level0
@@ -3361,8 +3362,8 @@ Level0:
 
 
         '
-      title: 01 Algorithms 2 Fibonacci
-    - assignment: 01_algorithms_3_goofy_names
+      title: 01 Algorithms
+    - assignment: 01_algorithms
       dir: levels/Level0/Module5/src/_01_algorithms/_3_goofy_names
       lesson: 01_algorithms
       level: Level0
@@ -3408,9 +3409,9 @@ Level0:
 
 
         '
-      title: 01 Algorithms 3 Goofy Names
+      title: 01 Algorithms
     02_nested_loops:
-    - assignment: 02_nested_loops_1_snowflake
+    - assignment: 02_nested_loops
       dir: levels/Level0/Module5/src/_02_nested_loops/_1_snowflake
       lesson: 02_nested_loops
       level: Level0
@@ -3450,8 +3451,8 @@ Level0:
 
 
         '
-      title: 02 Nested Loops 1 Snowflake
-    - assignment: 02_nested_loops_2_amazing_rings
+      title: 02 Nested Loops
+    - assignment: 02_nested_loops
       dir: levels/Level0/Module5/src/_02_nested_loops/_2_amazing_rings
       lesson: 02_nested_loops
       level: Level0
@@ -3493,8 +3494,8 @@ Level0:
 
 
         '
-      title: 02 Nested Loops 2 Amazing Rings
-    - assignment: 02_nested_loops_3_for_loop_gauntlet
+      title: 02 Nested Loops
+    - assignment: 02_nested_loops
       dir: levels/Level0/Module5/src/_02_nested_loops/_3_for_loop_gauntlet
       lesson: 02_nested_loops
       level: Level0
@@ -3524,9 +3525,9 @@ Level0:
         \n### **Bonus**\n\nWrite a for loop that counts down from 100 to 0. However,\
         \ the for loop must start with for(int i = 0;  and you may NOT have any code\
         \ ABOVE your for loop.\n\n"
-      title: 02 Nested Loops 3 For Loop Gauntlet
+      title: 02 Nested Loops
     03_method_writing:
-    - assignment: 03_method_writing_1_intro_to_methods
+    - assignment: 03_method_writing
       dir: levels/Level0/Module5/src/_03_method_writing/_1_intro_to_methods
       lesson: 03_method_writing
       level: Level0
@@ -3538,8 +3539,8 @@ Level0:
 
 
         '
-      title: 03 Method Writing 1 Intro To Methods
-    - assignment: 03_method_writing_1_obedient_robot
+      title: 03 Method Writing
+    - assignment: 03_method_writing
       dir: levels/Level0/Module5/src/_03_method_writing/_1_obedient_robot
       lesson: 03_method_writing
       level: Level0
@@ -3595,8 +3596,8 @@ Level0:
 
 
         '
-      title: 03 Method Writing 1 Obedient Robot
-    - assignment: 03_method_writing_2_happy_pet
+      title: 03 Method Writing
+    - assignment: 03_method_writing
       dir: levels/Level0/Module5/src/_03_method_writing/_2_happy_pet
       lesson: 03_method_writing
       level: Level0
@@ -3639,8 +3640,8 @@ Level0:
 
 
         '
-      title: 03 Method Writing 2 Happy Pet
-    - assignment: 03_method_writing_4_calculator
+      title: 03 Method Writing
+    - assignment: 03_method_writing
       dir: levels/Level0/Module5/src/_03_method_writing/_4_calculator
       lesson: 03_method_writing
       level: Level0
@@ -3652,9 +3653,9 @@ Level0:
 
 
         '
-      title: 03 Method Writing 4 Calculator
+      title: 03 Method Writing
     04_practice:
-    - assignment: 04_practice_1_skill_practice
+    - assignment: 04_practice
       dir: levels/Level0/Module5/src/_04_practice/_1_skill_practice
       lesson: 04_practice
       level: Level0
@@ -3777,8 +3778,8 @@ Level0:
 
 
         '
-      title: 04 Practice 1 Skill Practice
-    - assignment: 04_practice_2_code_4_life
+      title: 04 Practice
+    - assignment: 04_practice
       dir: levels/Level0/Module5/src/_04_practice/_2_code_4_life
       lesson: 04_practice
       level: Level0
@@ -3790,9 +3791,9 @@ Level0:
 
 
         '
-      title: 04 Practice 2 Code 4 Life
+      title: 04 Practice
     05_self_tests:
-    - assignment: 05_self_tests_1_which_data_type_1
+    - assignment: 05_self_tests
       dir: levels/Level0/Module5/src/_05_self_tests/_1_which_data_type_1
       lesson: 05_self_tests
       level: Level0
@@ -3807,8 +3808,8 @@ Level0:
         Enter some data\");\n\n  \n   input = JOptionPane.showInputDialog(\"Enter\
         \ your age\"); \n\n   inputAsInteger = Integer.parseInt(input); \n\n  \n\n\
         SUBMIT YOUR ANSWERS\n```\n<hr size=\"3\"/>\n\n"
-      title: 05 Self Tests 1 Which Data Type 1
-    - assignment: 05_self_tests_2_which_data_type_2
+      title: 05 Self Tests
+    - assignment: 05_self_tests
       dir: levels/Level0/Module5/src/_05_self_tests/_2_which_data_type_2
       lesson: 05_self_tests
       level: Level0
@@ -3823,8 +3824,8 @@ Level0:
         \ \n\n  \n   value =  JOptionPane.showInputDialog(\"Enter some data\");\n\n\
         \  \n   myObject = new Object(); \n\n  \n   randValue = random.nextInt();\
         \ \n\n  \n\nSUBMIT YOUR ANSWERS\n```\n<hr size=\"3\"/>\n\n"
-      title: 05 Self Tests 2 Which Data Type 2
-    - assignment: 05_self_tests_3_whats_the_output
+      title: 05 Self Tests
+    - assignment: 05_self_tests
       dir: levels/Level0/Module5/src/_05_self_tests/_3_whats_the_output
       lesson: 05_self_tests
       level: Level0
@@ -3886,8 +3887,8 @@ Level0:
         \t\tint x = 7;\n\n\t\tfor(int i = 0; i < 22; i++){\n\t\t\tif(i % x == 0){\n\
         \t\t\t\tSystem.out.print(i + \", \");\n\t\t\t}\n\t\t}\n\t}\n}\n\nSUBMIT YOUR\
         \ ANSWERS\n```\n<hr size=\"3\"/>\n\n"
-      title: 05 Self Tests 3 Whats The Output
-    - assignment: 05_self_tests_4_missing_mustaches
+      title: 05 Self Tests
+    - assignment: 05_self_tests
       dir: levels/Level0/Module5/src/_05_self_tests/_4_missing_mustaches
       lesson: 05_self_tests
       level: Level0
@@ -3904,8 +3905,8 @@ Level0:
         \                      System.out.println(\"you don't like moustaches... no\
         \ soup for you\");\n\n \n\n  \n  \n\nSUBMIT YOUR ANSWER\n```\n<hr size=\"\
         3\"/>\n\n"
-      title: 05 Self Tests 4 Missing Mustaches
-    - assignment: 05_self_tests_5_for_loop_onslaught
+      title: 05 Self Tests
+    - assignment: 05_self_tests
       dir: levels/Level0/Module5/src/_05_self_tests/_5_for_loop_onslaught
       lesson: 05_self_tests
       level: Level0
@@ -3961,8 +3962,8 @@ Level0:
         </html>
 
         '
-      title: 05 Self Tests 5 For Loop Onslaught
-    - assignment: 05_self_tests_6_level0_summary
+      title: 05 Self Tests
+    - assignment: 05_self_tests
       dir: levels/Level0/Module5/src/_05_self_tests/_6_level0_summary
       lesson: 05_self_tests
       level: Level0
@@ -4108,8 +4109,8 @@ Level0:
 
 
         '
-      title: 05 Self Tests 6 Level0 Summary
-    - assignment: 05_self_tests_7_study_guide
+      title: 05 Self Tests
+    - assignment: 05_self_tests
       dir: levels/Level0/Module5/src/_05_self_tests/_7_study_guide
       lesson: 05_self_tests
       level: Level0
@@ -4174,8 +4175,8 @@ Level0:
         fill(0,255,0);\n}\nelse if (i%3==2){\nfill(0,0,255);\n}\nellipse(i,i,10,10);\n\
         }\n\nThis code will draw a line of circles alternating in red, green and blue.\n\
         \n"
-      title: 05 Self Tests 7 Study Guide
-    - assignment: 05_self_tests_8_online_practice_test1
+      title: 05 Self Tests
+    - assignment: 05_self_tests
       dir: levels/Level0/Module5/src/_05_self_tests/_8_online_practice_test1
       lesson: 05_self_tests
       level: Level0
@@ -4191,8 +4192,8 @@ Level0:
 
 
         '
-      title: 05 Self Tests 8 Online Practice Test1
-    - assignment: 05_self_tests_9_online_practice_test2
+      title: 05 Self Tests
+    - assignment: 05_self_tests
       dir: levels/Level0/Module5/src/_05_self_tests/_9_online_practice_test2
       lesson: 05_self_tests
       level: Level0
@@ -4208,7 +4209,7 @@ Level0:
 
 
         '
-      title: 05 Self Tests 9 Online Practice Test2
+      title: 05 Self Tests
     99_extra:
     - assignment: 99_extra
       dir: levels/Level0/Module5/src/_99_extra
@@ -4223,7 +4224,17 @@ Level0:
 
         '
       title: 99 Extra
-    _readme: '
+    _readme: '# Module 5
+
+
+      In module 5 we will learn:
+
+
+      * Algorithms
+
+      * Nested loops
+
+      * Class methods
 
       '
   _readme: '# Java Level 0
@@ -4246,7 +4257,7 @@ Level0:
 Level0PDE:
   Module0:
     99_extra:
-    - assignment: 99_extra_z_UnicornsOnARainbow
+    - assignment: 99_extra
       dir: levels/Level0PDE/Module0/src/_99_extra/z_UnicornsOnARainbow
       lesson: 99_extra
       level: Level0PDE
@@ -4287,11 +4298,15 @@ Level0PDE:
 
 
         '
-      title: 99 Extra Z Unicornsonarainbow
+      title: 99 Extra
+  _readme: '# Level0PDE
+
+
+    '
 Level1:
   Module0:
     01_methods:
-    - assignment: 01_methods_1_houses
+    - assignment: 01_methods
       dir: levels/Level1/Module0/src/_01_methods/_1_houses
       lesson: 01_methods
       level: Level1
@@ -4311,8 +4326,8 @@ Level1:
         \ roofs\n\n8. Extract that roof code into a method \u201CdrawPointyRoof\u201D\
         \ and create a new method: \u201CdrawFlatRoof\u201D.\n\n9. Make large houses\
         \ have flat roofs\n\n\n"
-      title: 01 Methods 1 Houses
-    - assignment: 01_methods_2_spinning_record
+      title: 01 Methods
+    - assignment: 01_methods
       dir: levels/Level1/Module0/src/_01_methods/_2_spinning_record
       lesson: 01_methods
       level: Level1
@@ -4346,8 +4361,8 @@ Level1:
         \ one.\n8. Only play the song when the mouse is pressed. Hint: use the method\
         \ below.\n```\n\n    song.play()\n```\n9. Make the record spin as fast as\
         \ possible\n\n\n"
-      title: 01 Methods 2 Spinning Record
-    - assignment: 01_methods_3_rain_game
+      title: 01 Methods
+    - assignment: 01_methods
       dir: levels/Level1/Module0/src/_01_methods/_3_rain_game
       lesson: 01_methods
       level: Level1
@@ -4376,8 +4391,8 @@ Level1:
         \ if (score > 0)\nscore--;\nprintln(\"Your score is now: \" + score);\n}\n\
         \n10. Print the score on the screen.\n\nfill(0, 0, 0);\ntextSize(16);\ntext(\"\
         Score: \" + score, 20, 20);\n\n\n"
-      title: 01 Methods 3 Rain Game
-    - assignment: 01_methods_4_magic_worms
+      title: 01 Methods
+    - assignment: 01_methods
       dir: levels/Level1/Module0/src/_01_methods/_4_magic_worms
       lesson: 01_methods
       level: Level1
@@ -4412,8 +4427,8 @@ Level1:
         \ to your liking. Also play with the number and size of particles (ellipses)\
         \ until it looks amazing.\n11. [Optional] Add another worm every time the\
         \ user clicks the mouse.\n\n\n"
-      title: 01 Methods 4 Magic Worms
-    - assignment: 01_methods_5_FlappyBird
+      title: 01 Methods
+    - assignment: 01_methods
       dir: levels/Level1/Module0/src/_01_methods/_5_FlappyBird
       lesson: 01_methods
       level: Level1
@@ -4470,9 +4485,9 @@ Level1:
         bird = loadImage(\"bird.png\");\nbird.resize(50,50);\n}\nvoid draw() {\nbackground(back);\n\
         image (pipeBottom,250,375);\nimage (pipeTop,250,-130);\nimage (bird, 250,\
         \ 300);\n}\n\n\n"
-      title: 01 Methods 5 Flappybird
+      title: 01 Methods
     02_return_types:
-    - assignment: 02_return_types_1_finish_line
+    - assignment: 02_return_types
       dir: levels/Level1/Module0/src/_02_return_types/_1_finish_line
       lesson: 02_return_types
       level: Level1
@@ -4484,8 +4499,8 @@ Level1:
 
 
         '
-      title: 02 Return Types 1 Finish Line
-    - assignment: 02_return_types_2_list_of_goals
+      title: 02 Return Types
+    - assignment: 02_return_types
       dir: levels/Level1/Module0/src/_02_return_types/_2_list_of_goals
       lesson: 02_return_types
       level: Level1
@@ -4497,8 +4512,8 @@ Level1:
 
 
         '
-      title: 02 Return Types 2 List Of Goals
-    - assignment: 02_return_types_3_too_many_shapes
+      title: 02 Return Types
+    - assignment: 02_return_types
       dir: levels/Level1/Module0/src/_02_return_types/_3_too_many_shapes
       lesson: 02_return_types
       level: Level1
@@ -4510,9 +4525,9 @@ Level1:
 
 
         '
-      title: 02 Return Types 3 Too Many Shapes
+      title: 02 Return Types
     03_gui_with_help:
-    - assignment: 03_gui_with_help_1_my_first_swing_gui
+    - assignment: 03_gui_with_help
       dir: levels/Level1/Module0/src/_03_gui_with_help/_1_my_first_swing_gui
       lesson: 03_gui_with_help
       level: Level1
@@ -4565,8 +4580,8 @@ Level1:
 
 
         '
-      title: 03 Gui With Help 1 My First Swing Gui
-    - assignment: 03_gui_with_help_2_photo_quiz
+      title: 03 Gui With Help
+    - assignment: 03_gui_with_help
       dir: levels/Level1/Module0/src/_03_gui_with_help/_2_photo_quiz
       lesson: 03_gui_with_help
       level: Level1
@@ -4619,8 +4634,8 @@ Level1:
 
 
         '
-      title: 03 Gui With Help 2 Photo Quiz
-    - assignment: 03_gui_with_help_3_drum_kit
+      title: 03 Gui With Help
+    - assignment: 03_gui_with_help
       dir: levels/Level1/Module0/src/_03_gui_with_help/_3_drum_kit
       lesson: 03_gui_with_help
       level: Level1
@@ -4688,8 +4703,8 @@ Level1:
 
 
         '
-      title: 03 Gui With Help 3 Drum Kit
-    - assignment: 03_gui_with_help_4_body_part_quiz
+      title: 03 Gui With Help
+    - assignment: 03_gui_with_help
       dir: levels/Level1/Module0/src/_03_gui_with_help/_4_body_part_quiz
       lesson: 03_gui_with_help
       level: Level1
@@ -4739,8 +4754,8 @@ Level1:
 
 
         '
-      title: 03 Gui With Help 4 Body Part Quiz
-    - assignment: 03_gui_with_help_5_duelling_buttons
+      title: 03 Gui With Help
+    - assignment: 03_gui_with_help
       dir: levels/Level1/Module0/src/_03_gui_with_help/_5_duelling_buttons
       lesson: 03_gui_with_help
       level: Level1
@@ -4784,9 +4799,9 @@ Level1:
 
 
         '
-      title: 03 Gui With Help 5 Duelling Buttons
+      title: 03 Gui With Help
     04_gui_from_scratch:
-    - assignment: 04_gui_from_scratch_1_fortune_cookie
+    - assignment: 04_gui_from_scratch
       dir: levels/Level1/Module0/src/_04_gui_from_scratch/_1_fortune_cookie
       lesson: 04_gui_from_scratch
       level: Level1
@@ -4813,8 +4828,8 @@ Level1:
         \ a random number between 0 and 4:\nint rand = new Random().nextInt(5);\n\
         7. Depending on which random number, show one of the five fortunes.\n\n[optional]\
         \ 8. Run other student's programs to receive fortunes from them.\n\n\n"
-      title: 04 Gui From Scratch 1 Fortune Cookie
-    - assignment: 04_gui_from_scratch_2_jack_in_the_box
+      title: 04 Gui From Scratch
+    - assignment: 04_gui_from_scratch
       dir: levels/Level1/Module0/src/_04_gui_from_scratch/_2_jack_in_the_box
       lesson: 04_gui_from_scratch
       level: Level1
@@ -4918,8 +4933,8 @@ Level1:
 
 
         '
-      title: 04 Gui From Scratch 2 Jack In The Box
-    - assignment: 04_gui_from_scratch_3_sound_effects_machine
+      title: 04 Gui From Scratch
+    - assignment: 04_gui_from_scratch
       dir: levels/Level1/Module0/src/_04_gui_from_scratch/_3_sound_effects_machine
       lesson: 04_gui_from_scratch
       level: Level1
@@ -4945,8 +4960,8 @@ Level1:
         \t\tcatch (Exception e) {\n\t\t\t\t\tSystem.out.println(\"Could not play this\
         \ sound\");\n\t\t\t\t}}).start();\n\t \t\t}\n\t\t\telse {\n\t\t\t\tSystem.out.println(\"\
         File does not exist\");\n\t\t\t}\n\t\t\n\t}\n```\n\n\n"
-      title: 04 Gui From Scratch 3 Sound Effects Machine
-    - assignment: 04_gui_from_scratch_4_cuteness_tv
+      title: 04 Gui From Scratch
+    - assignment: 04_gui_from_scratch
       dir: levels/Level1/Module0/src/_04_gui_from_scratch/_4_cuteness_tv
       lesson: 04_gui_from_scratch
       level: Level1
@@ -5035,8 +5050,7 @@ Level1:
 
 
         '
-      title: 04 Gui From Scratch 4 Cuteness Tv
-    _readme: '# LEVEL 1 MODULE 0 In-progress recipes go here!'
+      title: 04 Gui From Scratch
   Module1:
     01_asteroids:
     - assignment: 01_asteroids
@@ -5580,7 +5594,7 @@ Level1:
 
         '
       title: 99 Extra
-    - assignment: 99_extra_04_tea_party
+    - assignment: 99_extra
       dir: levels/Level1/Module2/src/_99_extra/_04_tea_party
       lesson: 99_extra
       level: Level1
@@ -5614,8 +5628,8 @@ Level1:
         public void testIsWomanKnighted() {\n\t\tTeaParty teaParty = new TeaParty();\n\
         \t\tassertEquals(\"Hello Lady Laura\", teaParty.welcome(\"Laura\", true, true));\n\
         \t}\n\n}\n```\n\n\n"
-      title: 99 Extra 04 Tea Party
-    - assignment: 99_extra_04_unit_tests
+      title: 99 Extra
+    - assignment: 99_extra
       dir: levels/Level1/Module2/src/_99_extra/_04_unit_tests
       lesson: 99_extra
       level: Level1
@@ -5643,8 +5657,8 @@ Level1:
         \ will be green\nNow for some real code. Will the results bar be green or\
         \ red for these asserts?\nassertEquals(4, add(2,2));\n\nassertEquals(\u201C\
         brains\u201D, getZombieFood());\n\nassertEquals(2, getLargest(3,2));\n\n\n"
-      title: 99 Extra 04 Unit Tests
-    - assignment: 99_extra_05_minion
+      title: 99 Extra
+    - assignment: 99_extra
       dir: levels/Level1/Module2/src/_99_extra/_05_minion
       lesson: 99_extra
       level: Level1
@@ -5656,7 +5670,7 @@ Level1:
 
 
         '
-      title: 99 Extra 05 Minion
+      title: 99 Extra
     _readme: '# Level1-Module2'
   Module3:
     01_intro_to_static:
@@ -5848,7 +5862,7 @@ Level1:
         \ }\n```\n\n\n"
       title: 06 Frogger
     99_extra:
-    - assignment: 99_extra_04_gridworld
+    - assignment: 99_extra
       dir: levels/Level1/Module3/src/_99_extra/_04_gridworld
       lesson: 99_extra
       level: Level1
@@ -5872,8 +5886,7 @@ Level1:
         \ of the bug.\n\n7.  Fill the whole world with flowers!\n\n8.  [Optional]\
         \ Color the flowers in rows like the American flag (red & white)\n\n9.  [Optional]\
         \ Use a new class to make an X out of bugs.\n\n\n"
-      title: 99 Extra 04 Gridworld
-    _readme: '# LEVEL 1 MODULE 3 In-progress recipes go here!'
+      title: 99 Extra
   Module4:
     01_chuckle_clicker:
     - assignment: 01_chuckle_clicker
@@ -6308,7 +6321,7 @@ Level1:
 
         '
       title: 99 Extra
-    - assignment: 99_extra_01_nasty_surprise
+    - assignment: 99_extra
       dir: levels/Level1/Module4/src/_99_extra/_01_nasty_surprise
       lesson: 99_extra
       level: Level1
@@ -6326,8 +6339,8 @@ Level1:
         \        JFrame frame = new JFrame();\n        frame.add(imageLabel);\n  \
         \      frame.setVisible(true);\n        frame.pack();\n    } catch (MalformedURLException\
         \ e) {\n        e.printStackTrace();\n    }\n}\n```\n\n\n"
-      title: 99 Extra 01 Nasty Surprise
-    - assignment: 99_extra_02_simon_says
+      title: 99 Extra
+    - assignment: 99_extra
       dir: levels/Level1/Module4/src/_99_extra/_02_simon_says
       lesson: 99_extra
       level: Level1
@@ -6339,7 +6352,7 @@ Level1:
 
 
         '
-      title: 99 Extra 02 Simon Says
+      title: 99 Extra
     _readme: '# Level1-Module4'
   _readme: '# Java Level 1
 
@@ -6413,7 +6426,7 @@ Level2:
 
         '
       title: 01 Array List Visualizer
-    - assignment: 01_array_list_visualizer_data
+    - assignment: 01_array_list_visualizer
       dir: levels/Level2/Module1/src/_01_array_list_visualizer/data
       lesson: 01_array_list_visualizer
       level: Level2
@@ -6425,7 +6438,7 @@ Level2:
 
 
         '
-      title: 01 Array List Visualizer Data
+      title: 01 Array List Visualizer
     02_array_list_guestbook:
     - assignment: 02_array_list_guestbook
       dir: levels/Level2/Module1/src/_02_array_list_guestbook
@@ -6616,6 +6629,10 @@ Level2:
       LeagueSnake
 
       '
+  _readme: '# Level2
+
+
+    '
 Level3:
   Module0:
     00_Intro_To_Arrays:
@@ -7329,6 +7346,10 @@ Level3:
     _readme: '# Level3-Module5
 
       '
+  _readme: '# Level3
+
+
+    '
 Level4:
   Module0:
     00_Intro_To_2D_Arrays:
@@ -7469,7 +7490,7 @@ Level4:
         '
       title: 04 Maze Maker
     extras:
-    - assignment: extras_the_wrong_way_cow
+    - assignment: extras
       dir: levels/Level4/Module0/src/extras/the_wrong_way_cow
       lesson: extras
       level: Level4
@@ -7481,7 +7502,7 @@ Level4:
 
 
         '
-      title: Extras The Wrong Way Cow
+      title: Extras
   Module1:
     00_Intro_To_Generics:
     - assignment: 00_Intro_To_Generics
@@ -7714,6 +7735,10 @@ Level4:
 
         '
       title: 01 Intro To Binary Trees Empty
+  _readme: '# Level4
+
+
+    '
 Level5:
   Module0:
     00_JButtons_with_Lambdas:
@@ -7730,7 +7755,7 @@ Level5:
 
         '
       title: 00 Jbuttons With Lambdas
-    - assignment: 00_JButtons_with_Lambdas_interfaces
+    - assignment: 00_JButtons_with_Lambdas
       dir: levels/Level5/Module0/src/_00_JButtons_with_Lambdas/interfaces
       lesson: 00_JButtons_with_Lambdas
       level: Level5
@@ -7742,7 +7767,7 @@ Level5:
 
 
         '
-      title: 00 Jbuttons With Lambdas Interfaces
+      title: 00 Jbuttons With Lambdas
     01_Lambda_Methods:
     - assignment: 01_Lambda_Methods
       dir: levels/Level5/Module0/src/_01_Lambda_Methods
@@ -7885,7 +7910,7 @@ Level5:
         '
       title: 04 Directory Iteration
     99_extras:
-    - assignment: 99_extras_Pixel_Art_Save_State
+    - assignment: 99_extras
       dir: levels/Level5/Module1/src/_99_extras/Pixel_Art_Save_State
       lesson: 99_extras
       level: Level5
@@ -7913,8 +7938,8 @@ Level5:
         </html>
 
         '
-      title: 99 Extras Pixel Art Save State
-    - assignment: 99_extras_Serialization
+      title: 99 Extras
+    - assignment: 99_extras
       dir: levels/Level5/Module1/src/_99_extras/Serialization
       lesson: 99_extras
       level: Level5
@@ -7926,7 +7951,7 @@ Level5:
 
 
         '
-      title: 99 Extras Serialization
+      title: 99 Extras
   Module2:
     00_Thread_Demo:
     - assignment: 00_Thread_Demo
@@ -8013,7 +8038,7 @@ Level5:
         '
       title: 05 Synchronized Swimming
     06_Wait_and_Notify:
-    - assignment: 06_Wait_and_Notify_Example
+    - assignment: 06_Wait_and_Notify
       dir: levels/Level5/Module2/src/_06_Wait_and_Notify/Example
       lesson: 06_Wait_and_Notify
       level: Level5
@@ -8025,8 +8050,8 @@ Level5:
 
 
         '
-      title: 06 Wait And Notify Example
-    - assignment: 06_Wait_and_Notify_Practice
+      title: 06 Wait And Notify
+    - assignment: 06_Wait_and_Notify
       dir: levels/Level5/Module2/src/_06_Wait_and_Notify/Practice
       lesson: 06_Wait_and_Notify
       level: Level5
@@ -8038,10 +8063,10 @@ Level5:
 
 
         '
-      title: 06 Wait And Notify Practice
+      title: 06 Wait And Notify
   Module3:
     00_Click_Chat:
-    - assignment: 00_Click_Chat_gui
+    - assignment: 00_Click_Chat
       dir: levels/Level5/Module3/src/_00_Click_Chat/gui
       lesson: 00_Click_Chat
       level: Level5
@@ -8053,8 +8078,8 @@ Level5:
 
 
         '
-      title: 00 Click Chat Gui
-    - assignment: 00_Click_Chat_networking
+      title: 00 Click Chat
+    - assignment: 00_Click_Chat
       dir: levels/Level5/Module3/src/_00_Click_Chat/networking
       lesson: 00_Click_Chat
       level: Level5
@@ -8066,9 +8091,9 @@ Level5:
 
 
         '
-      title: 00 Click Chat Networking
+      title: 00 Click Chat
     01_Intro_To_Sockets:
-    - assignment: 01_Intro_To_Sockets_client
+    - assignment: 01_Intro_To_Sockets
       dir: levels/Level5/Module3/src/_01_Intro_To_Sockets/client
       lesson: 01_Intro_To_Sockets
       level: Level5
@@ -8080,8 +8105,8 @@ Level5:
 
 
         '
-      title: 01 Intro To Sockets Client
-    - assignment: 01_Intro_To_Sockets_server
+      title: 01 Intro To Sockets
+    - assignment: 01_Intro_To_Sockets
       dir: levels/Level5/Module3/src/_01_Intro_To_Sockets/server
       lesson: 01_Intro_To_Sockets
       level: Level5
@@ -8093,7 +8118,7 @@ Level5:
 
 
         '
-      title: 01 Intro To Sockets Server
+      title: 01 Intro To Sockets
     02_Chat_Application:
     - assignment: 02_Chat_Application
       dir: levels/Level5/Module3/src/_02_Chat_Application
@@ -8193,3 +8218,7 @@ Level5:
 
         '
       title: 05 Base64 Decoder
+  _readme: '# Level5
+
+
+    '

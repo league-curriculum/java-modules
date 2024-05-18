@@ -1,4 +1,4 @@
-assignment: 01_else_if_1_robot_color_chooser
+assignment: 01_else_if
 dir: levels/Level0/Module3/src/_01_else_if/_1_robot_color_chooser
 lesson: 01_else_if
 level: Level0
@@ -43,4 +43,4 @@ text: '
 
 
   '
-title: 01 Else If 1 Robot Color Chooser
+title: 01 Else If

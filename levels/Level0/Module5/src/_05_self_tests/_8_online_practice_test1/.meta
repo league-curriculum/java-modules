@@ -1,4 +1,4 @@
-assignment: 05_self_tests_8_online_practice_test1
+assignment: 05_self_tests
 dir: levels/Level0/Module5/src/_05_self_tests/_8_online_practice_test1
 lesson: 05_self_tests
 level: Level0
@@ -14,4 +14,4 @@ text: '<body onload="startup()" style="background-color:lightblue">
 
 
   '
-title: 05 Self Tests 8 Online Practice Test1
+title: 05 Self Tests

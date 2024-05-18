@@ -1,4 +1,4 @@
-assignment: 05_for_loops_4_banana_split
+assignment: 05_for_loops
 dir: levels/Level0/Module1/src/_05_for_loops/_4_banana_split/banana_split
 lesson: 05_for_loops
 level: Level0
@@ -14,4 +14,4 @@ text: "\n\n# Banana Split\n\n<hr/>\n<img alt=\"Banana Split image\" src=\"http:/
   \ on the sketch.  However, you can only use the words \"ice cream\" once in your\
   \ code so you'll need a loop.\n```\n\ntext(\"word\", xPos, yPos);\n```\n3. Make\
   \ sure you SAVE YOUR CODE when you are done.\n\n\n\n"
-title: 05 For Loops 4 Banana Split
+title: 05 For Loops

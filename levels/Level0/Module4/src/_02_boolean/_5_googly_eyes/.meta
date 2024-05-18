@@ -1,4 +1,4 @@
-assignment: 02_boolean_5_googly_eyes
+assignment: 02_boolean
 dir: levels/Level0/Module4/src/_02_boolean/_5_googly_eyes
 lesson: 02_boolean
 level: Level0
@@ -29,4 +29,4 @@ text: "\n\n# Googly Eyes\n\n<hr/>\n<img alt=\"Googly image\" src=\"./images/goog
   \ a rectangle that the pupil should stay within.  When mouseX and mouseY goes outside\
   \ of these bounds, set it back to the boundary.  Put this code before you draw the\
   \ pupils.\n13. Make sure you SAVE YOUR CODE when you are done.\n\n\n\n"
-title: 02 Boolean 5 Googly Eyes
+title: 02 Boolean

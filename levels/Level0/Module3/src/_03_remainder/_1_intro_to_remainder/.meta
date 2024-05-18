@@ -1,4 +1,4 @@
-assignment: 03_remainder_1_intro_to_remainder
+assignment: 03_remainder
 dir: levels/Level0/Module3/src/_03_remainder/_1_intro_to_remainder
 lesson: 03_remainder
 level: Level0
@@ -18,4 +18,4 @@ text: "\n\n# Introduction to Remainder\n\nThe remainder operator is represented 
   \ i=1; i<=1000; i++) {\n    // do some code\n    if (i % 20 == 0){\n        System.out.println(\"\
   20 more repeats completed\");\n    }\n}\n```\n\n## Eclipse Recipes\n\nFizzBuzz\n\
   \n## Processing Recipes\n\nBullseye\nBumble Bee\n\n\n"
-title: 03 Remainder 1 Intro To Remainder
+title: 03 Remainder

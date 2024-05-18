@@ -1,4 +1,4 @@
-assignment: 01_methods_5_FlappyBird
+assignment: 01_methods
 dir: levels/Level1/Module0/src/_01_methods/_5_FlappyBird
 lesson: 01_methods
 level: Level1
@@ -52,4 +52,4 @@ text: "\n\n# Flappy Bird\n\n1. Start a new sketch with draw and setup methods.\n
   \ = loadImage(\"bird.png\");\nbird.resize(50,50);\n}\nvoid draw() {\nbackground(back);\n\
   image (pipeBottom,250,375);\nimage (pipeTop,250,-130);\nimage (bird, 250, 300);\n\
   }\n\n\n"
-title: 01 Methods 5 Flappybird
+title: 01 Methods

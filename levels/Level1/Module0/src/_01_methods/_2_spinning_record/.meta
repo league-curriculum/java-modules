@@ -1,4 +1,4 @@
-assignment: 01_methods_2_spinning_record
+assignment: 01_methods
 dir: levels/Level1/Module0/src/_01_methods/_2_spinning_record
 lesson: 01_methods
 level: Level1
@@ -29,4 +29,4 @@ text: "\n\n# Spinning Record\n\n<img align=\"left\" alt=\"\" src=\"./images/spin
   \  Use the sound file already in the project, awesomeTrack.mp3, or add a different\
   \ one.\n8. Only play the song when the mouse is pressed. Hint: use the method below.\n\
   ```\n\n    song.play()\n```\n9. Make the record spin as fast as possible\n\n\n"
-title: 01 Methods 2 Spinning Record
+title: 01 Methods

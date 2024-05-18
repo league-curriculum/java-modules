@@ -1,4 +1,4 @@
-assignment: 99_extra_04_gridworld
+assignment: 99_extra
 dir: levels/Level1/Module3/src/_99_extra/_04_gridworld
 lesson: 99_extra
 level: Level1
@@ -21,4 +21,4 @@ text: "\n\n# Gridworld\n\nIn this exercise we\u2019ll use OBJECTS and METHODS to
   \ right of the bug.\n\n7.  Fill the whole world with flowers!\n\n8.  [Optional]\
   \ Color the flowers in rows like the American flag (red & white)\n\n9.  [Optional]\
   \ Use a new class to make an X out of bugs.\n\n\n"
-title: 99 Extra 04 Gridworld
+title: 99 Extra

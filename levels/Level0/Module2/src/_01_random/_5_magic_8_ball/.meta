@@ -1,4 +1,4 @@
-assignment: 01_random_5_magic_8_ball
+assignment: 01_random
 dir: levels/Level0/Module2/src/_01_random/_5_magic_8_ball
 lesson: 01_random
 level: Level0
@@ -40,4 +40,4 @@ text: '
 
 
   '
-title: 01 Random 5 Magic 8 Ball
+title: 01 Random

@@ -1,4 +1,4 @@
-assignment: 01_random_3_dice_roll
+assignment: 01_random
 dir: levels/Level0/Module2/src/_01_random/_3_dice_roll
 lesson: 01_random
 level: Level0
@@ -41,4 +41,4 @@ text: '
 
 
   '
-title: 01 Random 3 Dice Roll
+title: 01 Random

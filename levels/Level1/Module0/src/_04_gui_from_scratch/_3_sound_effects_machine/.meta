@@ -1,4 +1,4 @@
-assignment: 04_gui_from_scratch_3_sound_effects_machine
+assignment: 04_gui_from_scratch
 dir: levels/Level1/Module0/src/_04_gui_from_scratch/_3_sound_effects_machine
 lesson: 04_gui_from_scratch
 level: Level1
@@ -23,4 +23,4 @@ text: "\n\n# Sound Effects Machine\n\n1.  Create a GUI for a sound effects machi
   \ (Exception e) {\n\t\t\t\t\tSystem.out.println(\"Could not play this sound\");\n\
   \t\t\t\t}}).start();\n\t \t\t}\n\t\t\telse {\n\t\t\t\tSystem.out.println(\"File\
   \ does not exist\");\n\t\t\t}\n\t\t\n\t}\n```\n\n\n"
-title: 04 Gui From Scratch 3 Sound Effects Machine
+title: 04 Gui From Scratch

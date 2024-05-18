@@ -1,4 +1,4 @@
-assignment: 01_methods_4_magic_worms
+assignment: 01_methods
 dir: levels/Level1/Module0/src/_01_methods/_4_magic_worms
 lesson: 01_methods
 level: Level1
@@ -31,4 +31,4 @@ text: "\n\n# Magic Worms\n\n1. Start a new sketch with draw, setup, and settings
   \ You can adjust the frequency and noiseInterval variables to your liking. Also\
   \ play with the number and size of particles (ellipses) until it looks amazing.\n\
   11. [Optional] Add another worm every time the user clicks the mouse.\n\n\n"
-title: 01 Methods 4 Magic Worms
+title: 01 Methods

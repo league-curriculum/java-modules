@@ -1,4 +1,4 @@
-assignment: 05_for_loops_2_badgers
+assignment: 05_for_loops
 dir: levels/Level0/Module1/src/_05_for_loops/_2_badgers
 lesson: 05_for_loops
 level: Level0
@@ -16,4 +16,4 @@ text: "\n\n# Badgers\n\n<hr/>\n<img src=\"./images/badgers.png\"/>\n\n## Goal:\n
   \ Badger\n\nMushroom, Mushroom\n\nBadger, Badger, Badger,Badger, Badger, Badger,\
   \ Badger,Badger, Badger, Badger, Badger, Badger\n\nMushroom, Mushroom\n\nA Snake!!!\n\
   \n\n\n"
-title: 05 For Loops 2 Badgers
+title: 05 For Loops

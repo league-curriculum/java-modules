@@ -1,4 +1,4 @@
-assignment: 05_self_tests_4_missing_mustaches
+assignment: 05_self_tests
 dir: levels/Level0/Module5/src/_05_self_tests/_4_missing_mustaches
 lesson: 05_self_tests
 level: Level0
@@ -14,4 +14,4 @@ text: "\n\n# The League of Amazing Programmers\n\n\n## Moustaches\n\n\n### Put t
   {}\");\n\n                  else \n\n                        System.out.println(\"\
   you don't like moustaches... no soup for you\");\n\n \n\n  \n  \n\nSUBMIT YOUR ANSWER\n\
   ```\n<hr size=\"3\"/>\n\n"
-title: 05 Self Tests 4 Missing Mustaches
+title: 05 Self Tests

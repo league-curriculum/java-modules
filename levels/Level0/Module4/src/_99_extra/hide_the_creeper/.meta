@@ -1,4 +1,4 @@
-assignment: 99_extra_hide_the_creeper
+assignment: 99_extra
 dir: levels/Level0/Module4/src/_99_extra/hide_the_creeper
 lesson: 99_extra
 level: Level0
@@ -37,4 +37,4 @@ text: "\n\n# Hide The Creeper\n\n<hr/>\n<img src=\"./images/creeper.jpg\"/>\n\n#
   \     return true;\nelse\n     return false;\n}\n```\n17. Let the user know that\
   \ they found the creeper.\n18. Option: Add more creepers, or move the creeper after\
   \ they find it.\n\n\n\n"
-title: 99 Extra Hide The Creeper
+title: 99 Extra

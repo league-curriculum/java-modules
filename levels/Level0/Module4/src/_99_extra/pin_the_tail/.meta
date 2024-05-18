@@ -1,4 +1,4 @@
-assignment: 99_extra_pin_the_tail
+assignment: 99_extra
 dir: levels/Level0/Module4/src/_99_extra/pin_the_tail
 lesson: 99_extra
 level: Level0
@@ -68,4 +68,4 @@ text: "\n\n# Pin the Tail on the Donkey\n\n<hr/>\n<img src=\"./images/PinTheTail
   \ SAVE YOUR CODE when you are done.\n21. OPTION: Add some text to give the user\
   \ instructions on how to play the game.\n```\n\ntextSize(24);\ntext(\"Message\"\
   ,100,20);\n```\n\n\n\n"
-title: 99 Extra Pin The Tail
+title: 99 Extra

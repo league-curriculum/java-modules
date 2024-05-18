@@ -1,4 +1,4 @@
-assignment: 99_extra_pong
+assignment: 99_extra
 dir: levels/Level0/Module4/src/_99_extra/pong
 lesson: 99_extra
 level: Level0
@@ -29,4 +29,4 @@ text: "\n\n# Pong\n\n<hr/>\n<img src=\"./images/pong.png\"/>\n\n## Goal:\n\nMake
   \ int paddleY,\nint paddleLength) {\n    if (ballY > paddleY && ballX > paddleX\
   \ && ballX < paddleX + paddleLength)\n        return true;\n    else\n        return\
   \ false;\n}\n```\n12. Make sure you SAVE YOUR CODE when you are done.\n\n\n\n"
-title: 99 Extra Pong
+title: 99 Extra

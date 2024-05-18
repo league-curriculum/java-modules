@@ -1,4 +1,4 @@
-assignment: 02_loop_variables_1_years_alive
+assignment: 02_loop_variables
 dir: levels/Level0/Module3/src/_02_loop_variables/_1_years_alive
 lesson: 02_loop_variables
 level: Level0
@@ -12,4 +12,4 @@ text: "\n\n# Years Alive\n\n<hr/>\n<img src=\"https://league-central.github.io/c
   \ etc).\tUse a for loop and the for loop variable should be the year\n\n## Steps:\n\
   \n1. Use a for loop to print out all of the years you have been alive. Use the for\
   \ loop variable in your print statement.\n\n\n\n"
-title: 02 Loop Variables 1 Years Alive
+title: 02 Loop Variables

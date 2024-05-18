@@ -1,4 +1,4 @@
-assignment: 01_array_list_visualizer_data
+assignment: 01_array_list_visualizer
 dir: levels/Level2/Module1/src/_01_array_list_visualizer/data
 lesson: 01_array_list_visualizer
 level: Level2
@@ -10,4 +10,4 @@ text: '# 01 Array List Visualizer Data
 
 
   '
-title: 01 Array List Visualizer Data
+title: 01 Array List Visualizer
