@@ -13,7 +13,7 @@ With these recipes, students will learn how to:
 
 In the LEAGUE's online Java curriculum, the lessons are organized
 into _levels_, _modules_, _lessons_ and _assignments_.  Every level has a
-whole website, like this one.  Inside the level are modules, modules are
+whole website, like this one.  Inside the level are modules.Modules are
 named with a number at the end, like "Module 0", and they will have links
 with a large bold title on the left side of the page, which you can see on
 the left side menu in this page. 
@@ -34,3 +34,9 @@ If you visit one of the assignment pages, like [this one](http://localhost:8080/
 you will see a  <img style="vertical-align:middle" src="https://github.com/league-curriculum/league-curriculum/blob/master/docs/src/java/source_link.png?raw=true" height="25px">
  link. This link will take you into the Module repositopry, to the specific
 directory that has the assignment you are working on. 
+
+Remember these two buttons; you're going to be using them in the first lesson!
+
+## Start the First Assigment
+
+To Start the first assignment, click on the first lesson in the left sidemenu. The lesson is named '01 Demo', just  under 'Module0'

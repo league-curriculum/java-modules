@@ -10,170 +10,53 @@ resources:
 - levels/Level0/Module1/src/_02_colors/VennDiagram/.web/colorfulCircles.png
 - levels/Level0/Module1/src/_02_colors/VennDiagram/.web/redCircles.png
 - levels/Level0/Module1/src/_02_colors/VennDiagram/.web/vennDiagram.png
-text: '
-
-
-  # Venn Diagram of Me
-
-
-  <hr/>
-
-  <img alt="Venn Diagram of me image" src="./images/vennDiagram.png"/>
-
-
-  ## Goal:
-
-
-  Use the RGB color model to create a Venn Diagram that showcases your personality.
-
-
-  ## Steps:
-
-
-  1. Find the Venn Diagram recipe program ( VennDiagram.pde ) and open it using Processing.
-
-  2. Run the program and you should see an empty gray window.
-
-  3. After the size() command, add code to draw 3 circles to form a Venn Diagram (see
-  picture).
-
-  The command to draw a circle in Processing is:
-
-  ```
-
-  ellipse (centerX, centerY, circleWidth, circleHeight);
-
-  ```
-
-  Change the x and y of each ellipse until they overlap as in the picture.
-
-
-  Run the program. It should look a bit like this
-
-  Now to add the colors. Processing uses the following command to draw in color:
-
-  ```
-
-  fill(red, green, blue, opacity);
-
-  ```
-
-
-  where red, green, blue, and opacity are all numbers between 0 and 255. So to make
-  see-through red circles, we add the following line of code BEFORE we draw the circles.
-
-  ```
-
-  fill(255, 0, 0, 100);
-
-  ```
-
-
-  Run the program. It should look a bit like this We can now see the edges of all
-  the circles because we made them "see-through" by setting the opacity to 100 (which
-  is < 255)
-
-  Add more fill commands (you will have to figure out where to put them) so that each
-  ellipse has its own unique color.
-
-  Label each of the circles with an aspect of your personality. Processing uses the
-  following command to draw text. You will need to put numbers in place of xLocation,
-  and yLocation. Play around with the x and y until it works with your diagram.
-
-  ```
-
-  text("TEXT", xLocation, yLocation);
-
-  ```
-
-
-  You can also make the text larger by changing the sizeOfLetters (you will have to
-  figure out where to put this)
-
-  ```
-
-  textSize(sizeOfLetters);
-
-  ```
-
-  4. Change the x and y of each ellipse until they overlap as in the picture.
-
-  5. Run the program. It should look a bit like this
-
-  6. Now to add the colors. Processing uses the following command to draw in color:
-
-  ```
-
-  fill(red, green, blue, opacity);
-
-  ```
-
-
-  where red, green, blue, and opacity are all numbers between 0 and 255. So to make
-  see-through red circles, we add the following line of code BEFORE we draw the circles.
-
-  ```
-
-  fill(255, 0, 0, 100);
-
-  ```
-
-
-  Run the program. It should look a bit like this We can now see the edges of all
-  the circles because we made them "see-through" by setting the opacity to 100 (which
-  is < 255)
-
-  Add more fill commands (you will have to figure out where to put them) so that each
-  ellipse has its own unique color.
-
-  Label each of the circles with an aspect of your personality. Processing uses the
-  following command to draw text. You will need to put numbers in place of xLocation,
-  and yLocation. Play around with the x and y until it works with your diagram.
-
-  ```
-
-  text("TEXT", xLocation, yLocation);
-
-  ```
-
-
-  You can also make the text larger by changing the sizeOfLetters (you will have to
-  figure out where to put this)
-
-  ```
-
-  textSize(sizeOfLetters);
-
-  ```
-
-  7. Run the program. It should look a bit like this We can now see the edges of all
-  the circles because we made them "see-through" by setting the opacity to 100 (which
-  is < 255)
-
-  8. Add more fill commands (you will have to figure out where to put them) so that
-  each ellipse has its own unique color.
-
-  9. Label each of the circles with an aspect of your personality. Processing uses
-  the following command to draw text. You will need to put numbers in place of xLocation,
-  and yLocation. Play around with the x and y until it works with your diagram.
-
-  ```
-
-  text("TEXT", xLocation, yLocation);
-
-  ```
-
-  10. You can also make the text larger by changing the sizeOfLetters (you will have
-  to figure out where to put this)
-
-  ```
-
-  textSize(sizeOfLetters);
-
-  ```
-
-
-
-
-  '
+text: "\n\n# Venn Diagram of Me\n\n## Goal:\n\nUse the RGB color model to create a\
+  \ Venn Diagram that showcases your personality.\n\n## Steps:\n\n1. Find the Venn\
+  \ Diagram recipe program ( VennDiagram.pde ) and open it using Processing.\n2. Run\
+  \ the program and you should see an empty gray window.\n3. After the size() command,\
+  \ add code to draw 3 circles to form a Venn Diagram (see picture).\nThe command\
+  \ to draw a circle in Processing is:\n```\nellipse (centerX, centerY, circleWidth,\
+  \ circleHeight);\n```\nChange the x and y of each ellipse until they overlap as\
+  \ in the picture.\n\nRun the program. It should look a bit like this.\n\n<center><img\
+  \ src=\"./whiteCircles.png\" width=\"400px\"></center> \n\n\nNow to add the colors.\
+  \ Processing uses the following command to draw in color:\n```\nfill(red, green,\
+  \ blue, opacity);\n```\n\nwhere red, green, blue, and opacity are all numbers between\
+  \ 0 and 255. So to make see-through red circles, we add the following line of code\
+  \ BEFORE we draw the circles.\n```\nfill(255, 0, 0, 100);\n```\n\nRun the program.\
+  \ It should look a bit like this.\n\n\n We can now see the edges of all the circles\
+  \ because we made\n them \"see-through\" by setting the opacity to 100 (which is\
+  \ < 255) Add more\n fill commands (you will have to figure out where to put them)\
+  \ so that each\n ellipse has its own unique color. Label each of the circles with\
+  \ an aspect\n of your personality. Processing uses the following command to draw\
+  \ text. You\n will need to put numbers in place of xLocation, and yLocation. Play\
+  \ around\n with the x and y until it works with your diagram.\n\n  ``` text\n (\"\
+  TEXT\", xLocation, yLocation); \n ```\n\nYou can also make the text larger by changing\
+  \ the sizeOfLetters (you will have to figure out where to put this)\n```\ntextSize(sizeOfLetters);\n\
+  ```\n4. Change the x and y of each ellipse until they overlap as in the picture.\n\
+  5. Run the program. It should look a bit like this\n6. Now to add the colors. Processing\
+  \ uses the following command to draw in color:\n```\nfill(red, green, blue, opacity);\n\
+  ```\n\nwhere red, green, blue, and opacity are all numbers between 0 and 255. So\
+  \ to make see-through red circles, we add the following line of code BEFORE we draw\
+  \ the circles.\n```\nfill(255, 0, 0, 100);\n```\n\nRun the program. It should look\
+  \ a bit like this We can now see the edges of\nall the circles because we made them\
+  \ \"see-through\" by setting the opacity to\n100 (which is < 255) Add more fill\
+  \ commands (you will have to figure out\nwhere to put them) so that each ellipse\
+  \ has its own unique color.\n\nLabel each of the circles with an aspect of your\
+  \ personality. Processing uses\nthe following command to draw text. You will need\
+  \ to put numbers in place of\nxLocation, and yLocation. Play around with the x and\
+  \ y until it works with\nyour diagram.\n\n```\ntext(\"TEXT\", xLocation, yLocation);\n\
+  ```\n\nYou can also make the text larger by changing the sizeOfLetters (you will\
+  \ have\nto figure out where to put this)\n\n```\ntextSize(sizeOfLetters);\n```\n\
+  Run the program. It should look a bit like this:\n\n\n<center><img src=\"./redCircles.png\"\
+  \ width=\"400px\"></center> \n\n We can now see the edges of all the circles because\
+  \ we made\n them \"see-through\" by setting the opacity to 100 (which is < 255)\n\
+  \nAdd more fill commands (you will have to figure out where to put them) so that\n\
+  each ellipse has its own unique color.\n\n<center><img src=\"./colorfulCircles.png\"\
+  \ width=\"400px\"></center> \n\nLabel each of the circles with an aspect of your\
+  \ personality. Processing uses\nthe following command to draw text. You will need\
+  \ to put numbers in place of\nxLocation, and yLocation. Play around with the x and\
+  \ y until it works with\nyour diagram.\n\n```\ntext(\"TEXT\", xLocation, yLocation);\n\
+  \n```\n\nYou can also make the text larger by changing the sizeOfLetters (you will\
+  \ have\nto figure out where to put this)\n\n```\ntextSize(sizeOfLetters);\n```\n\
+  \n\n\n"
 title: 02 Colors

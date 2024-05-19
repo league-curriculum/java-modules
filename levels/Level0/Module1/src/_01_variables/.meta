@@ -8,16 +8,23 @@ opath: levels/Level0/Module1/src/_01_variables
 resources:
 - levels/Level0/Module1/src/_01_variables/.web/Variables1.png
 - levels/Level0/Module1/src/_01_variables/.web/Variables2.png
-text: '
-
-  <img alt="images/Variables1.png" src="./images/Variables1.png" style="width: 960.00px;
-  height: 540.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad)
-  translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""/>
-
-  <img alt="images/Variables2.png" src="./images/Variables2.png" style="width: 960.00px;
-  height: 540.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad)
-  translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""/>
-
-
-  '
+text: "\n# What is a Variable?\n\n- Variables are used to hold values in your Java\
+  \ program\n- Before you can put a value into a variable you must declare, or create\
+  \ it. How?\n  - First describe the \"type\" of information it will hold, for example:\n\
+  \    - String or int\n  - Next give it a \"meaningful\" name or identifier, for\
+  \ example:\n    - nameOfSchool or numberOfStudents\n    \n    ```java\n    String\
+  \ nameOfSchool;\n    Int numberOfStudents;\n    ```\n\n- Rules for naming variables\n\
+  \  - Start with a lowercase letter\n  - Use camel case\n  - Can include numbers\
+  \ and underscores, but not spaces or special characters\n  - Should be meaningful,\
+  \ i.e. self-documenting\n  - You declare a variable once, but you can use it many\
+  \ times in the code\n\n## Using a Variable\n\nAfter you have declared a variable,\
+  \ you need to give it a value before it can be useful to your program. The first\
+  \ time you put a value in a variable, is called \"variable initialization\". See\
+  \ example below:\n\n```java\nnameOfSchool = \"Queen Mary\";\nnumberOfStudents =\
+  \ 1000;\n```\n\n**Note:** The type of information you put into the variable must\
+  \ match the type you gave the variable when you declared it.\n\nYou can also initialize\
+  \ a variable in the same line of code that you declared it as follows:\n\n```java\n\
+  String nameOfSchool = \"Queen Mary\";\nInt numberOfStudents = 1000;\n```\n\nIf you\
+  \ try to use a variable that has no value, you might get an error like this:\n\n\
+  ```\nException in thread \"main\" java.lang.NullPointerException\n```\n"
 title: 01 Variables

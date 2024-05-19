@@ -10,4 +10,7 @@ In Java Level 0, you will learn:
 * Module 4        double, boolean, charAt, option dialog
 * Module 5        algorithms, nested loops, practice
 
+## Before you start
 
+
+All of these lessons will require that you have a  <img :src="$withBase('/assets/github-mark.png')" alt="github logo" style="width:20px; vertical-align: middle;"> [Github account](https://github.com). If you don't have one, visit [Github.com](https://github.com) and create an account. 
