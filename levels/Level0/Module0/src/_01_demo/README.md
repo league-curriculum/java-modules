@@ -1,3 +1,3 @@
 # 01 Demo
 
-Jusat getting Started!
+Just getting Started!

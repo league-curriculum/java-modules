@@ -2,15 +2,12 @@
 
 # Spot the Errors
 
-<hr/>
 
-### Fix the Print
+Fix the errors in the programs:
 
-
-### Hello Bob
-
-
-### Make It Count
+* Fix the Print
+* Hello Bob
+* Make It Count
 
 <hr/>
 
