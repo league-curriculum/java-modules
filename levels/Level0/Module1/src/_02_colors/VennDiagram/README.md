@@ -15,10 +15,13 @@ Use the RGB color model to create a Venn Diagram that showcases your personality
 2. Run the program and you should see an empty gray window.
 3. After the size() command, add code to draw 3 circles to form a Venn Diagram (see picture).
 The command to draw a circle in Processing is:
+
 ```
 ellipse (centerX, centerY, circleWidth, circleHeight);
 ```
-Change the x and y of each ellipse until they overlap as in the picture.
+
+Change the values of `centerX`, `centerY`, `circleWidth` and `circleHeight` of each
+ellipse until they overlap as in the picture.
 
 Run the program. It should look a bit like this.
 

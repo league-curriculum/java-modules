@@ -3,7 +3,7 @@
 # Tasty Tomato
 
 <hr/>
-<img alt="Tasty Tomato image.." src="http://level0.jointheleague.org/modules/Mod1Recipes/images/tomato.png"/>
+<img alt="Tasty Tomato image.." src="./images/tomato.png"/>
 
 ## Goal:
 
