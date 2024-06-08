@@ -4,7 +4,7 @@ For our first Java program, we're going to run a program that creates a
 rectangle on the screen, but to do that, you will have to first learn how to
 work with code files in the LEAGUE's development environment. 
 
-Visit this [Guide to Using Module Repositories](http://localhost:8081/java/module_repos.html) and follow the instructions to fork this module and run the demo program, or watch the video below. For convience, here is the green button you'll have to press to fork the module:
+Visit this [Guide to Using Module Repositories](https://curriculum.jointheleague.org/java/module_repos.html) and follow the instructions to fork this module and run the demo program, or watch the video below. For convience, here is the green button you'll have to press to fork the module:
 
 <center>{{ forkrepo(fm_level, fm_module) }}</center><br/>
 

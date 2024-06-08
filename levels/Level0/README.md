@@ -13,4 +13,11 @@ In Java Level 0, you will learn:
 ## Before you start
 
 
-All of these lessons will require that you have a  <img :src="$withBase('/assets/github-mark.png')" alt="github logo" style="width:20px; vertical-align: middle;"> [Github account](https://github.com). If you don't have one, visit [Github.com](https://github.com) and create an account. 
+All of these lessons will require that you have a  <img :src="$withBase('/assets/github-mark.png')" alt="github logo" style="width:20px;
+vertical-align: middle;"> [Github account](https://github.com). If you don't
+have one, visit [Github.com](https://github.com) and create an account?
+
+---
+
+This version of The LEAGUE's curriculum is generously funded by the Itzkowitch Foundation.
+

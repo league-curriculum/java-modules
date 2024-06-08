@@ -4,7 +4,7 @@ Level0:
       _readme: "# 01 Demo\n\nFor our first Java program, we're going to run a program\
         \ that creates a\nrectangle on the screen, but to do that, you will have to\
         \ first learn how to\nwork with code files in the LEAGUE's development environment.\
-        \ \n\nVisit this [Guide to Using Module Repositories](http://localhost:8081/java/module_repos.html)\
+        \ \n\nVisit this [Guide to Using Module Repositories](https://curriculum.jointheleague.org/java/module_repos.html)\
         \ and follow the instructions to fork this module and run the demo program,\
         \ or watch the video below. For convience, here is the green button you'll\
         \ have to press to fork the module:\n\n<center>{{ forkrepo(fm_level, fm_module)\
@@ -33,7 +33,7 @@ Level0:
         text: "# 01 Demo\n\nFor our first Java program, we're going to run a program\
           \ that creates a\nrectangle on the screen, but to do that, you will have\
           \ to first learn how to\nwork with code files in the LEAGUE's development\
-          \ environment. \n\nVisit this [Guide to Using Module Repositories](http://localhost:8081/java/module_repos.html)\
+          \ environment. \n\nVisit this [Guide to Using Module Repositories](https://curriculum.jointheleague.org/java/module_repos.html)\
           \ and follow the instructions to fork this module and run the demo program,\
           \ or watch the video below. For convience, here is the green button you'll\
           \ have to press to fork the module:\n\n<center>{{ forkrepo(fm_level, fm_module)\
@@ -628,23 +628,16 @@ Level0:
       \ are\nnamed with a number at the end, like \"Module 0\", and they will have\
       \ links\nwith a large bold title on the left side of the page, which you can\
       \ see on\nthe left side menu in this page. \n\nAt the top of this page you will\
-      \ see two important links.\n\nThe <img style=\"vertical-align:middle\" src=\"\
-      http://localhost:8081/assets/img/fork_button.288c2b74.png\" height=\"25px\"\
-      \ >\nlink will let you *fork* the module repository. Forking a repository will\n\
-      make a copy of it in your Github account so you can work on it. \n\nThe <img\
-      \ style=\"vertical-align:middle\" src=\"http://localhost:8081/assets/img/view_button.2bc131f4.png\"\
-      \ height=\"25px\" >\nlink will take you to the module repository, so you can\
-      \ see all of the code\nat once. This repository will be the *LEAGUE'S* repository,\
-      \ not yours, so you\ncan't change it, and won't see any of your changes. Visit\
-      \ your account to see\nyour version of the repository. \n\nIf you visit one\
-      \ of the assignment pages, like [this one](http://localhost:8080/Level0/lessons/Module0/02_code_flow/)\n\
+      \ see three colored buttons. These buttons are\nhow you will get access to the\
+      \ codes for your lessons and create web based\neditors for completing your lessons.\
+      \ \n\n\n\nIf you visit one of the assignment pages, like [this one](http://localhost:8080/Level0/lessons/Module0/02_code_flow/)\n\
       you will see a  <img style=\"vertical-align:middle\" src=\"https://github.com/league-curriculum/league-curriculum/blob/master/docs/src/java/source_link.png?raw=true\"\
       \ height=\"25px\">\n link. This link will take you into the Module repositopry,\
       \ to the specific\ndirectory that has the assignment you are working on. \n\n\
       Remember these two buttons; you're going to be using them in the first lesson!\n\
       \n## Start the First Assigment\n\nTo Start the first assignment, click on the\
       \ first lesson in the left sidemenu. The lesson is named '01 Demo', just  under\
-      \ 'Module0'"
+      \ 'Module0'\n\n"
   Module1:
     01_variables:
       _readme: "\n# What is a Variable?\n\n- Variables are used to hold values in\
@@ -1427,7 +1420,8 @@ Level0:
       \ to control program flow\n  * Create and initialize int variables\n  * Use\
       \ a for loop to repeat blocks of code\n  * Use int variables in simple math\
       \ statements\n  * Know where curly brackets {} are required in a simple program\n\
-      \  * Draw simple graphics using Processing\n  \n"
+      \  * Draw simple graphics using Processing\n  \n---\n\nThis version of The LEAGUE's\
+      \ curriculum is generously funded by the Itzkowitch Foundation."
   Module2:
     01_random:
       _readme: ''
@@ -4495,16 +4489,46 @@ Level0:
       * Class methods
 
       '
-  _readme: "# Java Level 0\n\n\nIn Java Level 0, you will learn:\n\n* Module 0   \
-    \     drawing, code flow, Strings, games\n* Module 1        int variables, if/else,\
-    \ for loops, ++, --\n* Module 2        Random, methods, String-to-int\n* Module\
-    \ 3        else if, loop variables, modulo\n* Module 4        double, boolean,\
-    \ charAt, option dialog\n* Module 5        algorithms, nested loops, practice\n\
-    \n## Before you start\n\n\nAll of these lessons will require that you have a \
-    \ <img :src=\"$withBase('/assets/github-mark.png')\" alt=\"github logo\" style=\"\
-    width:20px; vertical-align: middle;\"> [Github account](https://github.com). If\
-    \ you don't have one, visit [Github.com](https://github.com) and create an account.\
-    \ \n"
+  _readme: '# Java Level 0
+
+
+
+    In Java Level 0, you will learn:
+
+
+    * Module 0        drawing, code flow, Strings, games
+
+    * Module 1        int variables, if/else, for loops, ++, --
+
+    * Module 2        Random, methods, String-to-int
+
+    * Module 3        else if, loop variables, modulo
+
+    * Module 4        double, boolean, charAt, option dialog
+
+    * Module 5        algorithms, nested loops, practice
+
+
+    ## Before you start
+
+
+
+    All of these lessons will require that you have a  <img :src="$withBase(''/assets/github-mark.png'')"
+    alt="github logo" style="width:20px;
+
+    vertical-align: middle;"> [Github account](https://github.com). If you don''t
+
+    have one, visit [Github.com](https://github.com) and create an account?
+
+
+    ---
+
+
+    This version of The LEAGUE''s curriculum is generously funded by the Itzkowitch
+    Foundation.
+
+
+    '
 Level0PDE:
   Module0:
     99_extra:
