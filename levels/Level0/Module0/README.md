@@ -18,14 +18,17 @@ named with a number at the end, like "Module 0", and they will have links
 with a large bold title on the left side of the page, which you can see on
 the left side menu in this page. 
 
-At the top of this page you will see three colored buttons. These buttons are
-how you will get access to the codes for your lessons and create web based
+At the top of this page you will see three colored buttons. 
+
+<center><img src="https://images.jointheleague.org/module-navigation/three_buttons.png" width="400px"></center> 
+
+These buttons are how you will get access to the code for your lessons and create web based
 editors for completing your lessons. In your first lesson, `01 Demo` you will 
 learn how to use these buttons to get source code and start up a web based editor. 
 
 There is one more important link. If you visit one of the assignment pages, like 
 [this one](http://localhost:8080/Level0/lessons/Module0/02_code_flow/)
-you will see a  <img style="vertical-align:middle" src="./images/source_link.png" height="25px">
+you will see a  <img style="vertical-align:middle" src="https://images.jointheleague.org/module-navigation/source_link.png" height="25px">
  link. This link will take you into the Module repositopry, to the specific
 directory that has the assignment you are working on. 
 

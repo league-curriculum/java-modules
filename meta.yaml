@@ -535,39 +535,7 @@ Level0:
           '
         title: 04 Amazing Games
     99_extra:
-      _readme: '
-
-
-        # Triangle Shell
-
-
-        <hr/>
-
-        <img alt="Star Show image" src="./images/triangleShell.png"/>
-
-
-        ## Goal:
-
-
-        Use int variables and a loop to draw a pattern with triangles.
-
-
-        ## Steps:
-
-
-        1. Find the Triangle Shell recipe program ( TriangleShell.java ) and open
-        it using Eclipse.
-
-        2. Follow the instructions in the program to draw the pattern.
-
-        3. The first time you run the program, it should look like this
-
-        4. After you add all the triangles, it should look something like this
-
-
-
-
-        '
+      _readme: ''
       assignments:
       - assignment: 99_extra
         dir: levels/Level0/Module0/src/_99_extra
@@ -624,18 +592,21 @@ Level0:
       \ dialogs to interact with a user \n4. Build simple games using skills learned\n\
       \n## Navigating the Lessons\n\nIn the LEAGUE's online Java curriculum, the lessons\
       \ are organized\ninto _levels_, _modules_, _lessons_ and _assignments_.  Every\
-      \ level has a\nwhole website, like this one.  Inside the level are modules.Modules\
-      \ are\nnamed with a number at the end, like \"Module 0\", and they will have\
-      \ links\nwith a large bold title on the left side of the page, which you can\
-      \ see on\nthe left side menu in this page. \n\nAt the top of this page you will\
-      \ see three colored buttons. These buttons are\nhow you will get access to the\
-      \ codes for your lessons and create web based\neditors for completing your lessons.\
-      \ \n\n\n\nIf you visit one of the assignment pages, like [this one](http://localhost:8080/Level0/lessons/Module0/02_code_flow/)\n\
-      you will see a  <img style=\"vertical-align:middle\" src=\"https://github.com/league-curriculum/league-curriculum/blob/master/docs/src/java/source_link.png?raw=true\"\
+      \ level has a\nwhole website, like this one.  Inside the level are modules.\
+      \ Modules are\nnamed with a number at the end, like \"Module 0\", and they will\
+      \ have links\nwith a large bold title on the left side of the page, which you\
+      \ can see on\nthe left side menu in this page. \n\nAt the top of this page you\
+      \ will see three colored buttons. \n\n<center><img src=\"http://images.jointheleague.org/module-navigation/three_buttons.png\"\
+      \ width=\"400px\"></center> \n\nThese buttons are how you will get access to\
+      \ the code for your lessons and create web based\neditors for completing your\
+      \ lessons. In your first lesson, `01 Demo` you will \nlearn how to use these\
+      \ buttons to get source code and start up a web based editor. \n\nThere is one\
+      \ more important link. If you visit one of the assignment pages, like \n[this\
+      \ one](http://localhost:8080/Level0/lessons/Module0/02_code_flow/)\nyou will\
+      \ see a  <img style=\"vertical-align:middle\" src=\"http://images.jointheleague.org/module-navigation/source_link.png\"\
       \ height=\"25px\">\n link. This link will take you into the Module repositopry,\
       \ to the specific\ndirectory that has the assignment you are working on. \n\n\
-      Remember these two buttons; you're going to be using them in the first lesson!\n\
-      \n## Start the First Assigment\n\nTo Start the first assignment, click on the\
+      ## Start the First Assigment\n\nTo Start the first assignment, click on the\
       \ first lesson in the left sidemenu. The lesson is named '01 Demo', just  under\
       \ 'Module0'\n\n"
   Module1:
@@ -1414,14 +1385,6 @@ Level0:
 
           '
         title: 06 Spot The Error
-    _readme: "# Level 0 - Module 1\n\nRecipes for Level 0 - Module 1 students.\n\n\
-      Contains: RobotInSpace.java, SecretMessageBox.java, TheRiddler.java, XGeeks.java\n\
-      \nAt the end of this module, students will be able to:\n  * Use an if/else statement\
-      \ to control program flow\n  * Create and initialize int variables\n  * Use\
-      \ a for loop to repeat blocks of code\n  * Use int variables in simple math\
-      \ statements\n  * Know where curly brackets {} are required in a simple program\n\
-      \  * Draw simple graphics using Processing\n  \n---\n\nThis version of The LEAGUE's\
-      \ curriculum is generously funded by the Itzkowitch Foundation."
   Module2:
     01_random:
       _readme: ''
@@ -2183,10 +2146,7 @@ Level0:
           '
         title: 04 Spot The Error
     99_extra:
-      _readme: '# 99 Extra
-
-
-        '
+      _readme: ''
       assignments:
       - assignment: 99_extra
         dir: levels/Level0/Module2/src/_99_extra
@@ -2746,10 +2706,7 @@ Level0:
           '
         title: 03 Remainder
     99_extra:
-      _readme: '# 99 Extra
-
-
-        '
+      _readme: ''
       assignments:
       - assignment: 99_extra
         dir: levels/Level0/Module3/src/_99_extra
@@ -3267,38 +3224,7 @@ Level0:
           '
         title: 04 Variables Check
     99_extra:
-      _readme: "\n\n# Hide The Creeper\n\n<hr/>\n<img src=\"./images/creeper.jpg\"\
-        />\n\n## Goal:\n\nFind the Creeper!\n\n## Steps:\n\n1. Find the Hide the Creeper\
-        \ recipe program in Eclipse.\n2. Set your canvas size\n```\n\nsize(width,\
-        \ height) //in settings method\n```\n3. Download a background image. Something\
-        \ with green where creeper can hide.\n\nSave the image.\nDrop the file into\
-        \ the /images folder.\nLoad it as the background (it must be same size as\
-        \ your canvas)\n```\n\nPImage minecraft = loadImage(\"minecraft.png\");  \
-        \   //in setup method\nminecraft.resize(width, height);          //in setup\
-        \ method\nbackground(minecraft);          //in setup method\n```\n4. Save\
-        \ the image.\n5. Drop the file into the /images folder.\n6. Load it as the\
-        \ background (it must be same size as your canvas)\n7. Load the creeper image\
-        \ into your sketch\n\nDownload a Creeper image\nDrop the image onto your sketch\n\
-        Use the code below to draw the image (make sure you put the code in the right\
-        \ place)\n```\n\nPImage creeper;     //at the top of your program\ncreeper=loadImage(\"\
-        creeper.png\");     //in setup method\nimage(creeper, mouseX, mouseY);   \
-        \  //in draw method\n```\n8. Download a Creeper image\n9. Drop the image onto\
-        \ your sketch\n10. Use the code below to draw the image (make sure you put\
-        \ the code in the right place)\n11. Right after it\u2019s loaded, resize the\
-        \ creeper image so that it is small and can hide.\n```\n\ncreeper.resize(width,\
-        \ height);     //in setup method\n```\n12. Pick a place to hide your creeper.\n\
-        \nUse two variables to store the location (x and y) of the creeper, and initialize\
-        \ them (at the top of your sketch).\nChange your code so that the creeper\
-        \ image is drawn at this location.\n13. Use two variables to store the location\
-        \ (x and y) of the creeper, and initialize them (at the top of your sketch).\n\
-        14. Change your code so that the creeper image is drawn at this location.\n\
-        15. In the draw method, draw a small red ellipse where the mouse clicks.\n\
-        16. If mouseX and mouseY are near the location of your creeper, make the circle\
-        \ green.\nNote: you will need to check the x and y values separately if you\
-        \ use the code below.\n```\n\nboolean isNear(int a, int b) {\nif (abs(a -\
-        \ b) < 10)\n     return true;\nelse\n     return false;\n}\n```\n17. Let the\
-        \ user know that they found the creeper.\n18. Option: Add more creepers, or\
-        \ move the creeper after they find it.\n\n\n\n"
+      _readme: ''
       assignments:
       - assignment: 99_extra
         dir: levels/Level0/Module4/src/_99_extra
@@ -4458,10 +4384,7 @@ Level0:
           '
         title: 05 Self Tests
     99_extra:
-      _readme: '# 99 Extra
-
-
-        '
+      _readme: ''
       assignments:
       - assignment: 99_extra
         dir: levels/Level0/Module5/src/_99_extra
@@ -4476,19 +4399,6 @@ Level0:
 
           '
         title: 99 Extra
-    _readme: '# Module 5
-
-
-      In module 5 we will learn:
-
-
-      * Algorithms
-
-      * Nested loops
-
-      * Class methods
-
-      '
   _readme: '# Java Level 0
 
 
@@ -6074,10 +5984,7 @@ Level1:
           '
         title: 04 Backpack
     99_extra:
-      _readme: '# 99 Extra
-
-
-        '
+      _readme: ''
       assignments:
       - assignment: 99_extra
         dir: levels/Level1/Module2/src/_99_extra
@@ -6508,7 +6415,7 @@ Level1:
           \   }\n```\n\n\n"
         title: 06 Frogger
     99_extra:
-      _readme: '# LEVEL 1 MODULE 3 In-progress recipes go here!'
+      _readme: ''
       assignments:
       - assignment: 99_extra
         dir: levels/Level1/Module3/src/_99_extra/_04_gridworld
@@ -7261,10 +7168,7 @@ Level1:
           '
         title: 12 Online Practice Quiz
     99_extra:
-      _readme: '# 99 Extra
-
-
-        '
+      _readme: ''
       assignments:
       - assignment: 99_extra
         dir: levels/Level1/Module4/src/_99_extra
